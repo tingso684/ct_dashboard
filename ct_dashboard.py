@@ -54,6 +54,7 @@ else:
                          title='Treemap for Climate TRACE data')
 
         fig.update_layout(
+            width=700,
             height=300,
             margin=dict(t=0, l=0, b=0, r=0),  # Remove margins around the treemap
             paper_bgcolor='white',  # Background color of the paper
