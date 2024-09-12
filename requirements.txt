@@ -4,3 +4,5 @@ streamlit
 streamlit-plotly-events
 streamlit_folium
 folium
+shapely
+pyproj
