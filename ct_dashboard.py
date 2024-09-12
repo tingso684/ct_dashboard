@@ -111,7 +111,8 @@ else:
 
         with layout_col1:
             # Section 1: Treemap by Sector
-            st.header("Global Emissions " + st.session_state.year)
+            st.header("Global Emissions ")
+            # st.write(st.session_state.year)
             fig_all = generate_fig(df, ['sector','subsector'], 'co2e_100yr', None)
             st.plotly_chart(fig_all, use_container_width=True)
 
@@ -211,7 +212,39 @@ else:
 
     with st.container():
         df_tb = df[['continent_ct','iso3_country','sector','subsector','asset_type','co2e_100yr','activity','capacity']]
+        df_tb.sort_values(['continent_ct','iso3_country','sector','subsector','asset_type'], inplace=True)
+        df_tb.reset_index(drop=True, inplace=True)
 
-        st.header("Country / Sector " + st.session_state.year)
+        layout_col1, layout_col2 = st.columns([0.8, 0.2])
+        with layout_col1:
+            st.markdown(f"<h1 style='display: inline-block; vertical-align: middle;'>Country / Sector {st.session_state.year}</h1>", unsafe_allow_html=True)
 
-        st.dataframe(df_tb.reset_index(drop=True))
+            # st.header("Country / Sector " + st.session_state.year)
+
+        with layout_col2:
+            csv_tb = df_tb.to_csv(index=False)
+
+            st.markdown(
+                """
+                <style>
+                .download-button-container {
+                    display: flex;
+                    align-items: center;
+                    justify-content: flex-end;
+                    height: 100%;
+                }
+                </style>
+                """,
+                unsafe_allow_html=True
+            )
+
+            st.markdown('<div class="download-button-container">', unsafe_allow_html=True)
+            st.download_button(
+                label="Download CSV",
+                data=csv_tb,
+                file_name='table_data.csv',
+                mime='text/csv'
+            )
+            st.markdown('</div>', unsafe_allow_html=True)
+
+        st.dataframe(df_tb, use_container_width=True)
