@@ -111,13 +111,13 @@ else:
 
         with layout_col1:
             # Section 1: Treemap by Sector
-            st.header("Climate TRACE " + st.session_state.year)
+            st.header("Global Emissions " + st.session_state.year)
             fig_all = generate_fig(df, ['sector','subsector'], 'co2e_100yr', None)
             st.plotly_chart(fig_all, use_container_width=True)
 
         with layout_col2:
             # Set up the title of the Streamlit app
-            st.header("Climate TRACE Asset")
+            st.header("Country Hotspot")
 
             def calculate_bounds(geojson_data):
                 geom = shape(geojson_data['geometry'])
@@ -184,7 +184,7 @@ else:
 
         with layout_col1:
             # Section 2: Treemap by Sector/Country
-            st.header("Climate TRACE Sector " + st.session_state.year)
+            st.header("Sector " + st.session_state.year)
             sector_list = df['sector'].unique()
             selected_sector = st.selectbox("Select a Sector", options=sorted(sector_list))
 
@@ -197,7 +197,7 @@ else:
 
         with layout_col2:
             # Section 3: Treemap by Country/Sector
-            st.header("Climate TRACE Country " + st.session_state.year)
+            st.header("Country " + st.session_state.year)
             country_list = df['iso3_country'].unique()
             # selected_country = st.selectbox("Select a Country", options=country_list, index=0 if st.session_state.selected_country is None else country_list.tolist().index(st.session_state.selected_country))
             selected_country = st.selectbox("Select a Country", options=sorted(country_list))
@@ -207,4 +207,11 @@ else:
 
             filtered_df_country = df[df['iso3_country'] == selected_country]
             fig_country = generate_fig(filtered_df_country, ['sector','subsector'], 'co2e_100yr', None)
-            st.plotly_chart(fig_country, use_container_width=True)            
+            st.plotly_chart(fig_country, use_container_width=True) 
+
+    with st.container():
+        df_tb = df[['continent_ct','iso3_country','sector','subsector','asset_type','co2e_100yr','activity','capacity']]
+
+        st.header("Country / Sector " + st.session_state.year)
+
+        st.dataframe(df_tb.reset_index(drop=True))
