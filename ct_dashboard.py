@@ -64,6 +64,7 @@ else:
 
     # File selection dropdown
     with st.container():
+        st.header("Climate TRACE emissions quantity data (CO2e_100yr) - Sep 15, 2024")
         selected_file = st.selectbox("Select a CSV file", options=csv_files, index=csv_files.index(st.session_state.file))
         
     # If a new file is selected, update the session state and reset selections
