@@ -6,3 +6,7 @@ streamlit_folium
 folium
 shapely
 pyproj
+streamlit-aggrid
+matplotlib
+branca
+geopandas
