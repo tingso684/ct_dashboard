@@ -328,7 +328,7 @@ else:
             st.plotly_chart(fig_sec_cty_bar, use_container_width=True)
 
     #Group A1:  Bar Chart 
-    with st.expander("**Emissions by Country and Sector over time**", expanded=False):
+    with st.expander("**Expand to view Country and Sector emissions over time**", expanded=False):
         with st.container():
             layout_col1, layout_col2 = st.columns(2)  # Create two columns
                 
