@@ -430,6 +430,7 @@ else:
 
     with st.container():
         st.header(f"Top 10 Emitting Countries by Sector {st.session_state.year}")
+        st.write("Forestry sector: country percentage uses only positive emissions.")
 
         df_top10 = st.session_state.df_yr.groupby(['iso3_country','country','sector'])['emissions_quantity'].sum().reset_index()
 
@@ -454,28 +455,28 @@ else:
         df_top10 = df_top10.sort_values(by='sector', key=lambda x: x == 'all sectors', ascending=False)
 
         st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-50)
-        st.write("note:  forestry percentage uses positive emissions only")
 
-    with st.container():
-        st.header(f"Top 10 Emitting Countries by SubSector {st.session_state.year}")
+    with st.expander("**Expand to view SubSectors**", expanded=False):
+        with st.container():
+            st.header(f"Top 10 Emitting Countries by SubSector {st.session_state.year}")
 
-        df_top10 = st.session_state.df_yr.groupby(['iso3_country','country','sector','subsector'])['emissions_quantity'].sum().reset_index()
+            df_top10 = st.session_state.df_yr.groupby(['iso3_country','country','sector','subsector'])['emissions_quantity'].sum().reset_index()
 
-        # df_top10['rank'] = df_top10.groupby(['sector','subsector'])['emissions_quantity'].rank(method='min', ascending=False).astype(int)
-        df_top10['rank'] = df_top10.groupby(['sector','subsector'])['emissions_quantity'].transform(
-            lambda x: x.rank(method='min', ascending=False).astype(int) if x.notnull().any() else np.nan
-        )
+            # df_top10['rank'] = df_top10.groupby(['sector','subsector'])['emissions_quantity'].rank(method='min', ascending=False).astype(int)
+            df_top10['rank'] = df_top10.groupby(['sector','subsector'])['emissions_quantity'].transform(
+                lambda x: x.rank(method='min', ascending=False).astype(int) if x.notnull().any() else np.nan
+            )
 
-        group_total = df_top10.groupby(['sector','subsector'])['emissions_quantity'].transform(lambda x: x[x > 0].sum())
-        df_top10['emissions_pct'] = ((df_top10['emissions_quantity'] / group_total) * 100).round(2)
-        df_top10['emissions_total'] = df_top10.groupby(['sector','subsector'])['emissions_quantity'].transform('sum')
+            group_total = df_top10.groupby(['sector','subsector'])['emissions_quantity'].transform(lambda x: x[x > 0].sum())
+            df_top10['emissions_pct'] = ((df_top10['emissions_quantity'] / group_total) * 100).round(2)
+            df_top10['emissions_total'] = df_top10.groupby(['sector','subsector'])['emissions_quantity'].transform('sum')
 
-        df_top10 = df_top10.loc[df_top10['rank']<=10,:]
-        df_top10['contents'] = df_top10['country'] + df_top10['emissions_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
-        df_top10 = df_top10.pivot_table(index=['sector','subsector','emissions_total'], columns='rank',values='contents', aggfunc='first')
+            df_top10 = df_top10.loc[df_top10['rank']<=10,:]
+            df_top10['contents'] = df_top10['country'] + df_top10['emissions_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
+            df_top10 = df_top10.pivot_table(index=['sector','subsector','emissions_total'], columns='rank',values='contents', aggfunc='first')
 
-        st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-50)
-        st.write("note:  forestry percentage uses positive emissions only")
+            st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-50)
+            st.write("note:  forestry percentage uses positive emissions only")
 
     with st.container():
         # st.markdown(f"<h2 style='display: inline-block; vertical-align: middle;'>Climate TRACE Emissions Data Pivot Table {st.session_state.year}</h2>", unsafe_allow_html=True)
