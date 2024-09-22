@@ -666,7 +666,7 @@ else:
             gridOptions['suppressHorizontalScroll'] = True  # Suppress the horizontal scroll to fit columns to the grid width
             gridOptions['defaultColDef'] = {'flex': 1}  # Set flex grow for columns to auto-size
 
-            df_agGrid = AgGrid(df_tb[fds_reordered], gridOptions=gridOptions, update_mode=GridUpdateMode.NO_UPDATE, enable_enterprise_modules=True, allow_unsafe_jscode=True) #,  fit_columns_on_grid_load=True)
+            df_agGrid = AgGrid(df_tb[fds_reordered].copy(), gridOptions=gridOptions, enable_enterprise_modules=True, allow_unsafe_jscode=True) #,  fit_columns_on_grid_load=True, update_mode=GridUpdateMode.NO_UPDATE
 
             grid_data = pd.DataFrame(df_agGrid['data'])
 
