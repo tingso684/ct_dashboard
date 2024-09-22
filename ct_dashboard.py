@@ -201,7 +201,7 @@ else:
 
             with layout_col1:
                 st.header("Global Emissions")
-                st.write(f"year {st.session_state.year0} to {st.session_state.year}")
+                st.write(f"From {st.session_state.year0} to {st.session_state.year}")
 
                 fig_all_sec_bar = px.bar(st.session_state.df.loc[st.session_state.df['year']<=st.session_state.year,:].groupby(['year','sector']).emissions_quantity.sum().reset_index(), 
                             x='year', 
@@ -214,7 +214,7 @@ else:
             with layout_col2:
                 # Set up the title of the Streamlit app
                 st.header("Country Hotspot")
-                st.write(f"current year {st.session_state.year} - previous year {st.session_state.year1}")
+                st.write(f"current year [{st.session_state.year}] - previous year [{st.session_state.year1}]")
 
                 # Load internal GADM boundary CSV into a DataFrame
                 df_gadm = pd.read_csv(os.path.join(csv_directory, 'ct_gadm_cty_point_20240915.csv'))
@@ -284,8 +284,36 @@ else:
                         popup = f"{row['country']} ({row['iso3_country']}) <br><br>Emissions: {row[st.session_state.year]:,.0f}, Change: {row[f'{fds_diff}']:,.0f}"
                     ).add_to(folium_map)
 
+                #Adding legend for color
+                gradient_bar_html = """
+                <div style="
+                    position: fixed; 
+                    bottom: 50px; left: 50px; width: 200px; height: 20px; 
+                    background: linear-gradient(to right, red, white, green); 
+                    z-index:9999; font-size:10px; 
+                    border:1px solid grey; padding: 5px;
+                    # box-shadow: 2px 2px 6px rgba(0,0,0,0.5);
+                ">
+                    <div style="text-align:center; font-weight: bold;">Worse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Better</div>
+                </div>
+                """           
+                folium_map.get_root().html.add_child(folium.Element(gradient_bar_html))
+
                 folium.LayerControl().add_to(folium_map)
                 st_folium(folium_map, width=st_layout['width_col'], height=st_layout['height_row'])
+
+                gradient_bar_html = """
+                <div style="
+                    width: 200px; height: 20px;
+                    background: linear-gradient(to right, red, white, green);
+                    font-size:12px;
+                ">
+                    <div style="text-align:center;">
+                        Worse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Better
+                    </div>
+                </div>
+                """
+                st.markdown(gradient_bar_html, unsafe_allow_html=True) 
 
         with st.container():        
             layout_col1, layout_col2 = st.columns(2)  # Create two columns
