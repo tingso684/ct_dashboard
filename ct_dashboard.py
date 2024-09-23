@@ -20,7 +20,7 @@ import os
 import re
 from datetime import datetime
 import numpy as np
-# from climate_trace_tools.compare.aggregate_up.aggregate_up_plotting import CountryPlotting
+from climate_trace_tools.compare.aggregate_up.aggregate_up_plotting import CountryPlotting
 
 
 # Load the CSV files from the current directory
@@ -96,7 +96,7 @@ else:
 
         if 'chart_comp_loaded' not in st.session_state:
             st.session_state.chart_comp_loaded = False
-            # st.session_state.cp = CountryPlotting(st.session_state.chart_comp_loaded)
+            st.session_state.cp = None
 
         # File selection dropdown
         with st.container():
@@ -684,47 +684,47 @@ else:
     with layout_tab2:
         st.header("Climate TRACE Emissions Inventory Comparison")
 
-        # layout_col1, layout_col2, layout_col3 = st.columns(3)
-        # with layout_col1:
-        #     # country_list = ['global'] + sorted(st.session_state.df_yr['country'].unique().tolist())
-        #     country_list = sorted(st.session_state.df_yr['country'].unique().tolist())
-        #     cty_selected = st.session_state.df_yr.loc[st.session_state.df_yr['iso3_country']==st.session_state.country_comp,'country'].values[0] if st.session_state.country_comp != False else 'global'
+        layout_col1, layout_col2, layout_col3 = st.columns(3)
+        with layout_col1:
+            # country_list = ['global'] + sorted(st.session_state.df_yr['country'].unique().tolist())
+            country_list = sorted(st.session_state.df_yr['country'].unique().tolist())
+            cty_selected = st.session_state.df_yr.loc[st.session_state.df_yr['iso3_country']==st.session_state.country_comp,'country'].values[0] if st.session_state.country_comp != False else 'global'
 
-        #     selected_country_comp = st.selectbox("Select a Country", options=country_list, index=country_list.index(cty_selected), key='comp_box_country')
-        #     if selected_country_comp != 'global':
-        #         selected_country_comp = st.session_state.df_yr.loc[st.session_state.df_yr['country']==selected_country_comp,'iso3_country'].values[0]
-        #     else:
-        #         selected_country_comp = False
+            selected_country_comp = st.selectbox("Select a Country", options=country_list, index=country_list.index(cty_selected), key='comp_box_country')
+            if selected_country_comp != 'global':
+                selected_country_comp = st.session_state.df_yr.loc[st.session_state.df_yr['country']==selected_country_comp,'iso3_country'].values[0]
+            else:
+                selected_country_comp = False
 
-        #     if selected_country_comp != st.session_state.country_comp:
-        #         st.session_state.country_comp = selected_country_comp
-        #         st.session_state.chart_comp_loaded = False
+            if selected_country_comp != st.session_state.country_comp:
+                st.session_state.country_comp = selected_country_comp
+                st.session_state.chart_comp_loaded = False
 
-        # with layout_col2:
-        #     all_years = sorted(st.session_state.df.year.unique().tolist(), reverse=True)
-        #     selected_year_comp = st.selectbox("Select a Year", options=all_years, index=all_years.index(st.session_state.year_comp), key='comp_box_year')
+        with layout_col2:
+            all_years = sorted(st.session_state.df.year.unique().tolist(), reverse=True)
+            selected_year_comp = st.selectbox("Select a Year", options=all_years, index=all_years.index(st.session_state.year_comp), key='comp_box_year')
 
-        #     if selected_year_comp != st.session_state.year_comp:
-        #         st.session_state.year_comp = selected_year_comp
-        #         st.session_state.chart_comp_loaded = False
+            if selected_year_comp != st.session_state.year_comp:
+                st.session_state.year_comp = selected_year_comp
+                st.session_state.chart_comp_loaded = False
 
-        # with layout_col3:
-        #     selected_gas_comp = st.selectbox("Select a Gas", options=gas_type, index=gas_type.index(st.session_state.gas_comp), key='comp_box_gas')
+        with layout_col3:
+            selected_gas_comp = st.selectbox("Select a Gas", options=gas_type, index=gas_type.index(st.session_state.gas_comp), key='comp_box_gas')
 
-        #     if selected_gas_comp != st.session_state.gas_comp:
-        #         st.session_state.gas_comp = selected_gas_comp
-        #         st.session_state.chart_comp_loaded = False
+            if selected_gas_comp != st.session_state.gas_comp:
+                st.session_state.gas_comp = selected_gas_comp
+                st.session_state.chart_comp_loaded = False
 
-        # #UNFCCC=True, EDGAR=True, CAIT=True, PIK=True, GCP=True, CarbonMonitor=True
-        # if st.button("Load Chart"):
-        #     st.session_state.chart_comp_loaded = True
+        #UNFCCC=True, EDGAR=True, CAIT=True, PIK=True, GCP=True, CarbonMonitor=True
+        if st.button("Load Chart"):
+            st.session_state.chart_comp_loaded = True
 
-        # if st.session_state.chart_comp_loaded:
-        #     if st.session_state.country_comp != st.session_state.cp.country:
-        #         st.session_state.cp = CountryPlotting(st.session_state.country_comp)
+        if st.session_state.chart_comp_loaded:
+            # if st.session_state.country_comp != st.session_state.cp.country:
+            st.session_state.cp = CountryPlotting(st.session_state.country_comp)
+            fig_comp= st.session_state.cp.single_year_comparison_sectors(st.session_state.gas_comp, st.session_state.year_comp, EDGAR=True,lulucf=True)
+            st.session_state.cp = None
 
-        #     fig_comp, data_comp = st.session_state.cp.single_year_comparison_sectors(st.session_state.gas_comp, st.session_state.year_comp, EDGAR=True,lulucf=True)
-
-        #     st.plotly_chart(fig_comp, use_container_width=True)            
-        # else:
-        #     st.write("Click the button to load the chart.")
+            st.plotly_chart(fig_comp, use_container_width=True)            
+        else:
+            st.write("Click the button to load the chart.")

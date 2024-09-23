@@ -9,6 +9,7 @@ import pandas as pd
 import importlib.resources as pkg_resources
 from climate_trace_tools.compare.aggregate_up import files
 import streamlit as st
+import plotly.express as px
 
 fonts = {"family": "Foros, medium"}
 
@@ -455,8 +456,11 @@ class CountryPlotting:
         fig.update_xaxes(tickfont=dict(size=16))
 
         # fig.show()
+        comp_dict = None
+        df = None
 
-        return fig, df
+        return fig
+
 
     def single_year_comparison_subsectors(
         self,
