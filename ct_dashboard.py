@@ -559,7 +559,7 @@ else:
             st.header("Comprehensive Emissions Table " + str(st.session_state.year))
             
             df_tb = st.session_state.df_yr[['continent_ct','iso3_country','country','sector','subsector','asset_type','emissions_quantity','activity','capacity']]
-            df_tb.sort_values(['continent_ct','iso3_country','sector','subsector','asset_type'], inplace=True)
+            df_tb = df_tb.sort_values(['continent_ct','iso3_country','sector','subsector','asset_type'])
             df_tb.reset_index(drop=True, inplace=True)
             csv_tb = df_tb.to_csv(index=False)
 
