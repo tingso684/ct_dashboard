@@ -54,8 +54,8 @@ st.markdown("""
 if not csv_files:
     st.error("No CSV files found in the directory.")
 else:
-
     layout_tab1, layout_tab2 = st.tabs(["**Climate TRACE Summary**", "**Inventory Comparison**"])
+
     with layout_tab1:
 
         # Initialize session state variables if they don't exist
@@ -67,7 +67,7 @@ else:
             st.session_state.df = pd.read_csv(os.path.join(csv_directory, st.session_state.file))
 
         if 'choice' not in st.session_state:
-            st.session_state.choice = 'all sectors' # or 'ex-forestry'
+            st.session_state.choice = 'all sectors (include forestry)' # or 'ex-forestry'
 
         if 'year' not in st.session_state:
             all_years = sorted(st.session_state.df.year.unique().tolist(), reverse=True)
@@ -78,6 +78,7 @@ else:
 
         if 'country' not in st.session_state:
             st.session_state.country = "global"
+            st.session_state.country_full = "global"
 
         if 'sector' not in st.session_state:
             st.session_state.sector = "all sectors"
@@ -127,7 +128,7 @@ else:
             all_years = sorted(st.session_state.df.year.unique().tolist(), reverse=True)
                 
             with layout_col1:
-                selected_choice = st.selectbox("Select data type", options=['all sectors', 'ex-forestry'], index=0)
+                selected_choice = st.selectbox("Select data type", options=['all sectors (include forestry)', 'ex-forestry'], index=0)
 
             if selected_choice != st.session_state.choice:
                 st.session_state.choice = selected_choice
@@ -329,6 +330,7 @@ else:
 
                 if selected_country != st.session_state.country:
                     st.session_state.country = selected_country
+                    st.session_state.country_full = st.session_state.df_yr.loc[st.session_state.df_yr['iso3_country']==st.session_state.country,'country'].values[0] if st.session_state.country != 'global' else 'global'
 
                 filtered_df_country = st.session_state.df_yr[st.session_state.df_yr['iso3_country'] == st.session_state.country] if st.session_state.country != 'global' else st.session_state.df_yr
 
@@ -375,12 +377,18 @@ else:
                 if st.session_state.subsector == 'all subsectors':
                     filtered_df_sector = st.session_state.df_yr[st.session_state.df_yr['sector'] == st.session_state.sector] if st.session_state.sector != 'all sectors' else st.session_state.df_yr
                 else:
-                    filtered_df_sector = st.session_state.df_yr[st.session_state.df_yr['subsector'] == st.session_state.subsector] if st.session_state.sector != 'all sectors' else st.session_state.df_yr
+                    filtered_df_sector = st.session_state.df_yr[st.session_state.df_yr['subsector'] == st.session_state.subsector]
 
                 filtered_df_sector_country = filtered_df_sector.groupby(['iso3_country', 'country', 'asset_type']).emissions_quantity.sum().reset_index()
                 filtered_df_sector_country['emissions_total'] = filtered_df_sector_country.groupby(['iso3_country', 'country'])['emissions_quantity'].transform('sum')
                 filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
-                filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total')
+                filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total').reset_index(drop=True)
+
+                # filtered_df_sector_country['country'] = pd.Categorical(
+                #     filtered_df_sector_country['country'], 
+                #     categories=filtered_df_sector_country['country'].unique(),
+                #     ordered=True
+                # )
 
                 fig_sec_cty_bar = px.bar(
                     filtered_df_sector_country,
@@ -392,10 +400,10 @@ else:
                     height=st_layout['height_row'],
                     color='asset_type'
                 )
-        
+
                 # Set initial range to display only the first 20 countries
                 fig_sec_cty_bar.update_xaxes(range=[-0.5, 19.5], rangeslider=dict(visible=True, thickness=0.05), tickangle=-90)  # Adds a range slider for the x-axis
-                fig_sec_cty_bar.update_layout(xaxis=dict(tickmode='linear'), dragmode='pan')
+                fig_sec_cty_bar.update_layout(xaxis={'categoryorder': 'array', 'categoryarray': filtered_df_sector_country['country'].unique()}, dragmode='pan')
                 fig_sec_cty_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Country: %{x}<br>Emissions: %{y:.2s}')
 
                 st.plotly_chart(fig_sec_cty_bar, use_container_width=True)
@@ -469,6 +477,13 @@ else:
                     filtered_df_sector_country.reset_index(inplace=True)
 
                     filtered_df_sector_country['emissions_total'] = filtered_df_sector_country.groupby(['iso3_country', 'country'])['emissions_quantity'].transform('sum')
+
+                    filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
+                    filtered_df_sector_country_r0 = filtered_df_sector_country[:1]
+                    if 'non-assets' not in filtered_df_sector_country_r0.asset_type.unique():                        
+                        filtered_df_sector_country_r0['asset_type'] = 'non-assets'
+                        filtered_df_sector_country_r0['emissions_quantity'] = 0
+                        filtered_df_sector_country = pd.concat([filtered_df_sector_country, filtered_df_sector_country_r0], ignore_index=True)
                     filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
                     filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total')
 
@@ -487,7 +502,7 @@ else:
             
                     # Set initial range to display only the first 20 countries
                     fig_sec_cty_bar.update_xaxes(range=[-0.5, 19.5], rangeslider=dict(visible=True, thickness=0.05), tickangle=-90)  # Adds a range slider for the x-axis
-                    fig_sec_cty_bar.update_layout(xaxis=dict(tickmode='linear'), dragmode='pan')
+                    fig_sec_cty_bar.update_layout(xaxis={'categoryorder': 'array', 'categoryarray': filtered_df_sector_country['country'].unique()}, dragmode='pan')
                     fig_sec_cty_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Country: %{x}<br>Emissions: %{y:.2s}')
 
                     st.plotly_chart(fig_sec_cty_bar, use_container_width=True)
@@ -509,7 +524,7 @@ else:
                         x='year', 
                         y='emissions_quantity', 
                         labels={'emissions_quantity': 'Emissions'},
-                        title=f'{st.session_state.country} Sector Emissions',
+                        title=f"{st.session_state.country_full} Sector Emissions",
                         text='emissions_quantity',  # Add labels on top of the bars
                         height=st_layout['height_row'],
                         color='sector'
@@ -523,7 +538,7 @@ else:
                     if st.session_state.subsector == 'all subsectors':
                         filtered_df_sector_ts = st.session_state.df[st.session_state.df['sector'] == st.session_state.sector] if st.session_state.sector != 'all sectors' else st.session_state.df
                     else:
-                        filtered_df_sector_ts = st.session_state.df[st.session_state.df['subsector'] == st.session_state.subsector] if st.session_state.sector != 'all sectors' else st.session_state.df
+                        filtered_df_sector_ts = st.session_state.df[st.session_state.df['subsector'] == st.session_state.subsector] 
 
                     filtered_df_sector_ts = filtered_df_sector_ts.groupby(['year', 'iso3_country', 'country'])['emissions_quantity'].sum().reset_index()
                     filtered_df_sector_ts['rank'] = filtered_df_sector_ts.groupby(['year'])['emissions_quantity'].transform(
@@ -543,7 +558,7 @@ else:
                         x='year', 
                         y='emissions_quantity', 
                         labels={'emissions_quantity': 'Emissions'},
-                        title=f'Top Countries in {st.session_state.sector}',
+                        title=f'Top Countries in {st.session_state.sector} - {st.session_state.subsector}',
                         text='country',  # Add labels on top of the bars
                         height=st_layout['height_row'],
                         color='country',
@@ -915,3 +930,4 @@ else:
             st.plotly_chart(fig_comp, use_container_width=True)            
         else:
             st.write("Click the button to load the chart.")
+    
