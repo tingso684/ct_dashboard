@@ -148,7 +148,7 @@ else:
                 st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
                 # st.session_state.df_exf_yr = st.session_state.df_exf.loc[st.session_state.df_exf['year']==int(st.session_state.year),:]
 
-                st.rerun()
+                # st.rerun()
 
             with layout_col3:
                 selected_year_comp = st.selectbox("Select previous year", options=all_years, index=2)
@@ -234,7 +234,7 @@ else:
                 custom_percentiles = [0, 0.001, 0.02, 0.1, 0.15, 0.5, 0.85, 0.95, 0.99, 0.999, 1.0] 
 
                 # bins = pd.qcut(df_tb[fds_diff], q=10)
-                bins = pd.qcut(df_tb[fds_diff], q=custom_percentiles)
+                bins = pd.qcut(df_tb[fds_diff], q=custom_percentiles, duplicates='drop')
 
                 # Normalize for colormap to control darkness
                 scalar = 0.5
