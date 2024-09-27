@@ -598,8 +598,8 @@ else:
             layout_col1, layout_col2 = st.columns(2)  # Create two columns
 
             df_yr_treemap = st.session_state.df_yr 
-
-            if st.session_state.choice == 'all sectors':
+            
+            if st.session_state.choice == 'all sectors (include forestry)':
                 df_yr_treemap = df_yr_treemap.loc[df_yr_treemap['sector'].isin(['forestry-and-land-use'])==False,:]
 
             with layout_col1:
