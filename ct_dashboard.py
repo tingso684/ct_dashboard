@@ -157,13 +157,16 @@ else:
             st.session_state.df = pd.read_csv(os.path.join(csv_directory, st.session_state.file))
             st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
 
-            fname = file_prefix_asset + "['" + st.session_state.gas + "']" + "_" + st.session_state.snapshot + '.csv'
-            st.session_state.file_asset = fname 
-            st.session_state.df_asset = pd.read_csv(os.path.join(csv_directory, st.session_state.file_asset))
-
             if st.session_state.choice == 'ex-forestry':
                 st.session_state.df = st.session_state.df.loc[st.session_state.df['sector'].isin(['forestry-and-land-use'])==False,:]
                 st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
+
+        selected_file_asset = file_prefix_asset + "['" + st.session_state.gas + "']" + "_" + st.session_state.snapshot + '.csv'
+        if selected_file_asset != st.session_state.file_asset:
+            st.session_state.file_asset = selected_file_asset 
+            st.session_state.df_asset = pd.read_csv(os.path.join(csv_directory, st.session_state.file_asset))
+
+            if st.session_state.choice == 'ex-forestry':
                 st.session_state.df_asset = st.session_state.df_asset.loc[st.session_state.df_asset['sector'].isin(['forestry-and-land-use'])==False,:]
 
         # Year selection dropdown
