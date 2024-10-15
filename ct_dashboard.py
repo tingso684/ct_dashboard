@@ -28,9 +28,10 @@ csv_directory = './data'  # Current directory
 csv_files = [f for f in os.listdir(csv_directory) if f.endswith('.csv') and 'ct_assets_' in f]
 csv_files = sorted(csv_files, reverse=True)
 
+file_prefix_asset = 'asset/ct_assets_assets_trim_'
 file_prefix = 'ct_assets_slim_'
 list_files = [re.search(r"\['(.*?)'\]_(\d{8})", f) for f in csv_files]
-gas_type = [v.group(1) for v in list_files]
+gas_type = sorted(list(set([v.group(1) for v in list_files])), reverse=True)
 dt_str = list(set([v.group(2) for v in list_files]))
 
 all_years = []
@@ -50,11 +51,24 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+trigger_bar_total = True
+
+def short_scale_formatter(value):
+                    if value >= 1_000_000_000:
+                        return f"{value / 1_000_000_000:,.1f}G"
+                    if value >= 1_000_000:
+                        return f"{value / 1_000_000:,.0f}M"
+                    elif value >= 1_000:
+                        return f"{value / 1_000:,.0f}K"
+                    else:
+                        return f"{value:.0f}"
+
+
 # Ensure there's at least one CSV file
 if not csv_files:
     st.error("No CSV files found in the directory.")
 else:
-    layout_tab1, layout_tab2 = st.tabs(["**Climate TRACE Summary**", "**Inventory Comparison**"])
+    layout_tab1, layout_tab2 = st.tabs(["**Climate TRACE Dashboard**", "**Inventory Comparison**"])
 
     with layout_tab1:
 
@@ -62,9 +76,14 @@ else:
         if 'file' not in st.session_state:
             st.session_state.snapshot = dt_str[0]
             st.session_state.gas = gas_type[0]
+
             fname = file_prefix + "['" + st.session_state.gas + "']" + "_" + st.session_state.snapshot + '.csv'
-            st.session_state.file = fname #first one is the latest updated file; all years get lumped into one
+            st.session_state.file = fname 
             st.session_state.df = pd.read_csv(os.path.join(csv_directory, st.session_state.file))
+
+            fname = file_prefix_asset + "['" + st.session_state.gas + "']" + "_" + st.session_state.snapshot + '.csv'
+            st.session_state.file_asset = fname 
+            st.session_state.df_asset = pd.read_csv(os.path.join(csv_directory, st.session_state.file_asset))
 
         if 'choice' not in st.session_state:
             st.session_state.choice = 'all sectors (include forestry)' # or 'ex-forestry'
@@ -86,6 +105,21 @@ else:
         if 'subsector' not in st.session_state:
             st.session_state.subsector = "all subsectors"
 
+        if 'sector2' not in st.session_state:
+            st.session_state.sector2 = "all sectors"
+
+        if 'subsector2' not in st.session_state:
+            st.session_state.subsector2 = "all subsectors"
+
+        if 'topAsset' not in st.session_state:
+            st.session_state.topAsset = "global"
+
+        if 'topAssetField' not in st.session_state:
+            st.session_state.topAssetField = "emissions_quantity"
+
+        if 'topRank' not in st.session_state:
+            st.session_state.topRank = 5
+
         if 'country_comp' not in st.session_state:
             st.session_state.country_comp = "USA"
 
@@ -100,6 +134,8 @@ else:
             st.session_state.cp = None
 
         # File selection dropdown
+        # st.markdown("### Data Update:  v3_2023 (20240918),  v4_2024 (20241014)")
+        st.write("**Data Update:  v3_2023 (20240918),  v4_2024 (20241014)**")
         with st.container():
             layout_col1, layout_col2 = st.columns(2)
             with layout_col1:
@@ -121,6 +157,15 @@ else:
             st.session_state.df = pd.read_csv(os.path.join(csv_directory, st.session_state.file))
             st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
 
+            fname = file_prefix_asset + "['" + st.session_state.gas + "']" + "_" + st.session_state.snapshot + '.csv'
+            st.session_state.file_asset = fname 
+            st.session_state.df_asset = pd.read_csv(os.path.join(csv_directory, st.session_state.file_asset))
+
+            if st.session_state.choice == 'ex-forestry':
+                st.session_state.df = st.session_state.df.loc[st.session_state.df['sector'].isin(['forestry-and-land-use'])==False,:]
+                st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
+                st.session_state.df_asset = st.session_state.df_asset.loc[st.session_state.df_asset['sector'].isin(['forestry-and-land-use'])==False,:]
+
         # Year selection dropdown
         with st.container():
             layout_col1, layout_col2, layout_col3 = st.columns(3)  # Create two columns
@@ -128,7 +173,7 @@ else:
             all_years = sorted(st.session_state.df.year.unique().tolist(), reverse=True)
                 
             with layout_col1:
-                selected_choice = st.selectbox("Select data type", options=['all sectors (include forestry)', 'ex-forestry'], index=0)
+                selected_choice = st.selectbox("Select data type", options=['all sectors (include forestry)', 'ex-forestry'], index=1)
 
             if selected_choice != st.session_state.choice:
                 st.session_state.choice = selected_choice
@@ -136,9 +181,13 @@ else:
                 if st.session_state.choice == 'ex-forestry':
                     st.session_state.df = st.session_state.df.loc[st.session_state.df['sector'].isin(['forestry-and-land-use'])==False,:]
                     st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
+                    st.session_state.df_asset = st.session_state.df_asset.loc[st.session_state.df_asset['sector'].isin(['forestry-and-land-use'])==False,:]
+
                 else:
                     st.session_state.df = pd.read_csv(os.path.join(csv_directory, st.session_state.file))
                     st.session_state.df_yr = st.session_state.df.loc[st.session_state.df['year']==int(st.session_state.year),:]
+                    st.session_state.df_asset = pd.read_csv(os.path.join(csv_directory, st.session_state.file_asset))
+
 
             with layout_col2:
                 selected_year = st.selectbox("Select current year", options=all_years, index=1)
@@ -204,11 +253,30 @@ else:
                 st.header("Global Emissions")
                 st.write(f"From {st.session_state.year0} to {st.session_state.year}")
 
-                fig_all_sec_bar = px.bar(st.session_state.df.loc[st.session_state.df['year']<=st.session_state.year,:].groupby(['year','sector']).emissions_quantity.sum().reset_index(), 
+                filtered_df_sec = st.session_state.df.loc[st.session_state.df['year']<=st.session_state.year,:].groupby(['year','sector']).emissions_quantity.sum().reset_index()
+                fig_all_sec_bar = px.bar(
+                            filtered_df_sec, 
                             x='year', 
                             y='emissions_quantity', 
                             color='sector',  # This will create the stack
                             )
+
+                # Always trigger_bar_total = True
+                fig_all_sec_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                
+                for year, year_data in filtered_df_sec.groupby('year'):
+                    total_value = year_data['emissions_quantity'].sum()
+                    top_of_bar = year_data.loc[year_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
+
+                    fig_all_sec_bar.add_annotation(
+                        x=year,
+                        y=top_of_bar,
+                        text=short_scale_formatter(total_value),  # Total value on top of the bar
+                        showarrow=False,
+                        font=dict(size=10),
+                        yshift=10,  # Adjust the vertical position
+                        xanchor='center'
+                    )
 
                 st.plotly_chart(fig_all_sec_bar)
 
@@ -344,14 +412,30 @@ else:
                     x='sector', 
                     y='emissions_quantity', 
                     labels={'emissions_quantity': 'Emissions'},
-                    title=f'Top Sectors in {st.session_state.year} | {filtered_df_country_sector.emissions_quantity.sum():,.0f} tons',
+                    title=f'Top Sectors in {st.session_state.year} | {filtered_df_country_sector.emissions_quantity.sum():,.0f} metric tons',
                     text='emissions_quantity',  # Add labels on top of the bars
                     height=st_layout['height_row'],
                     color='asset_type'
                 )
-                fig_cty_sec_bar.update_xaxes(tickangle=-90)
-                fig_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
 
+                fig_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                if trigger_bar_total:
+                    fig_cty_sec_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                    for sector, sector_data in filtered_df_country_sector.groupby('sector'):
+                        total_value = sector_data['emissions_quantity'].sum()
+                        top_of_bar = sector_data.loc[sector_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
+
+                        fig_cty_sec_bar.add_annotation(
+                            x=sector,
+                            y=top_of_bar,
+                            text=short_scale_formatter(total_value),  # Total value on top of the bar
+                            showarrow=False,
+                            font=dict(size=10),
+                            yshift=10,  # Adjust the vertical position
+                            xanchor='center'
+                        )
+
+                fig_cty_sec_bar.update_xaxes(tickangle=-90)
                 st.plotly_chart(fig_cty_sec_bar, use_container_width=True) 
 
             with layout_col2:
@@ -384,17 +468,14 @@ else:
                 filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
                 filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total').reset_index(drop=True)
 
-                # filtered_df_sector_country['country'] = pd.Categorical(
-                #     filtered_df_sector_country['country'], 
-                #     categories=filtered_df_sector_country['country'].unique(),
-                #     ordered=True
-                # )
+                #Limited to showing top 50 countries only
+                filtered_df_sector_country = filtered_df_sector_country[:50]
 
                 fig_sec_cty_bar = px.bar(
                     filtered_df_sector_country,
                     x='country',
                     y='emissions_quantity',
-                    title=f'Top 20 Countries in {st.session_state.year} | {filtered_df_sector_country.emissions_quantity.sum():,.0f} tons',
+                    title=f'Top 20 Countries in {st.session_state.year} | {filtered_df_sector_country.emissions_quantity.sum():,.0f} metric tons',
                     labels={'emissions_quantity': 'Emissions'},
                     text='emissions_quantity',  # Add labels on top of the bars
                     height=st_layout['height_row'],
@@ -404,7 +485,23 @@ else:
                 # Set initial range to display only the first 20 countries
                 fig_sec_cty_bar.update_xaxes(range=[-0.5, 19.5], rangeslider=dict(visible=True, thickness=0.05), tickangle=-90)  # Adds a range slider for the x-axis
                 fig_sec_cty_bar.update_layout(xaxis={'categoryorder': 'array', 'categoryarray': filtered_df_sector_country['country'].unique()}, dragmode='pan')
-                fig_sec_cty_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Country: %{x}<br>Emissions: %{y:.2s}')
+
+                fig_sec_cty_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                if trigger_bar_total:
+                    fig_sec_cty_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                    for country, country_data in filtered_df_sector_country.groupby('country'):
+                        total_value = country_data['emissions_quantity'].sum()
+                        top_of_bar = country_data.loc[country_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
+
+                        fig_sec_cty_bar.add_annotation(
+                            x=country,
+                            y=top_of_bar,
+                            text=short_scale_formatter(total_value),  # Total value on top of the bar
+                            showarrow=False,
+                            font=dict(size=10),
+                            yshift=10,  # Adjust the vertical position
+                            xanchor='center'
+                        )
 
                 st.plotly_chart(fig_sec_cty_bar, use_container_width=True)
 
@@ -415,22 +512,26 @@ else:
                     
                 with layout_col1:
                     # Section 3: Treemap by Country/Sector
-                    # st.header("Country Emissions YoY")
+                    
+                    # fds_sec = ['sector','asset_type']
+                    fds_sec = ['sector']
 
                     filtered_df_country = st.session_state.df_yr[st.session_state.df_yr['iso3_country'] == st.session_state.country] if st.session_state.country != 'global' else st.session_state.df_yr
-                    filtered_df_country_sector = filtered_df_country.groupby(['sector','asset_type']).emissions_quantity.sum().reset_index()
+                    filtered_df_country_sector = filtered_df_country.groupby(fds_sec).emissions_quantity.sum().reset_index()
 
                     st.session_state.df_yr1 = st.session_state.df.loc[st.session_state.df['year']==st.session_state.year1,:]
                     filtered_df_country1 = st.session_state.df_yr1[st.session_state.df_yr1['iso3_country'] == st.session_state.country] if st.session_state.country != 'global' else st.session_state.df_yr1
-                    filtered_df_country_sector1 = filtered_df_country1.groupby(['sector','asset_type']).emissions_quantity.sum().reset_index()
+                    filtered_df_country_sector1 = filtered_df_country1.groupby(fds_sec).emissions_quantity.sum().reset_index()
 
-                    filtered_df_country_sector = filtered_df_country_sector.set_index(['sector','asset_type'])
-                    filtered_df_country_sector1 = filtered_df_country_sector1.set_index(['sector','asset_type'])
+                    filtered_df_country_sector = filtered_df_country_sector.set_index(fds_sec)
+                    filtered_df_country_sector1 = filtered_df_country_sector1.set_index(fds_sec)
                     filtered_df_country_sector['emissions_quantity'] = filtered_df_country_sector['emissions_quantity']-filtered_df_country_sector1['emissions_quantity']
                     filtered_df_country_sector.reset_index(inplace=True)
 
                     filtered_df_country_sector['emissions_total'] = filtered_df_country_sector.groupby(['sector'])['emissions_quantity'].transform('sum')
-                    filtered_df_country_sector = filtered_df_country_sector.sort_values(['emissions_total','asset_type'], ascending=False)
+                    filtered_df_country_sector = filtered_df_country_sector.sort_values(['emissions_total'], ascending=False)
+                    if 'asset_type' in fds_sec:
+                        filtered_df_country_sector = filtered_df_country_sector.sort_values(['emissions_total','asset_type'], ascending=False)
                     filtered_df_country_sector = filtered_df_country_sector.drop(columns='emissions_total')
 
                     filtered_df_country, filtered_df_country1, filtered_df_country_sector1 = None, None, None
@@ -440,10 +541,10 @@ else:
                         x='sector', 
                         y='emissions_quantity', 
                         labels={'emissions_quantity': 'Emissions'},
-                        title=f'Top Sectors Change {st.session_state.year} - {st.session_state.year1} | {filtered_df_country_sector.emissions_quantity.sum():,.0f} tons',
+                        title=f'Top Sectors | Change {st.session_state.year} - {st.session_state.year1} | {filtered_df_country_sector.emissions_quantity.sum():,.0f} metric tons',
                         text='emissions_quantity',  # Add labels on top of the bars
                         height=st_layout['height_row'],
-                        color='asset_type'
+                        color='asset_type' if 'asset_type' in fds_sec else None
                     )
                     fig_cty_sec_bar.update_xaxes(tickangle=-90)
                     fig_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
@@ -452,7 +553,9 @@ else:
 
                 with layout_col2:
                     # Section 2: Treemap by Sector/Country
-                    # st.header("Sector Emissions YoY")
+
+                    # fds_cty = ['iso3_country', 'country', 'asset_type']
+                    fds_cty = ['iso3_country', 'country']
 
                     layout_col2a, layout_col2b = st.columns(2)  # Create two columns
 
@@ -461,7 +564,7 @@ else:
                     else:
                         filtered_df_sector = st.session_state.df_yr[st.session_state.df_yr['subsector'] == st.session_state.subsector] if st.session_state.sector != 'all sectors' else st.session_state.df_yr
 
-                    filtered_df_sector_country = filtered_df_sector.groupby(['iso3_country', 'country', 'asset_type']).emissions_quantity.sum().reset_index()
+                    filtered_df_sector_country = filtered_df_sector.groupby(fds_cty).emissions_quantity.sum().reset_index()
 
                     st.session_state.df_yr1 = st.session_state.df.loc[st.session_state.df['year']==st.session_state.year1,:]
                     if st.session_state.subsector == 'all subsectors':
@@ -469,35 +572,40 @@ else:
                     else:
                         filtered_df_sector1 = st.session_state.df_yr1[st.session_state.df_yr1['subsector'] == st.session_state.subsector] if st.session_state.sector != 'all sectors' else st.session_state.df_yr1
 
-                    filtered_df_sector_country1 = filtered_df_sector1.groupby(['iso3_country', 'country', 'asset_type']).emissions_quantity.sum().reset_index()
+                    filtered_df_sector_country1 = filtered_df_sector1.groupby(fds_cty).emissions_quantity.sum().reset_index()
 
-                    filtered_df_sector_country = filtered_df_sector_country.set_index(['iso3_country', 'country','asset_type'])
-                    filtered_df_sector_country1 = filtered_df_sector_country1.set_index(['iso3_country', 'country','asset_type'])
+                    filtered_df_sector_country = filtered_df_sector_country.set_index(fds_cty)
+                    filtered_df_sector_country1 = filtered_df_sector_country1.set_index(fds_cty)
                     filtered_df_sector_country['emissions_quantity'] = filtered_df_sector_country['emissions_quantity']-filtered_df_sector_country1['emissions_quantity']
                     filtered_df_sector_country.reset_index(inplace=True)
 
                     filtered_df_sector_country['emissions_total'] = filtered_df_sector_country.groupby(['iso3_country', 'country'])['emissions_quantity'].transform('sum')
+                    filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total'], ascending=False)
 
-                    filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
-                    filtered_df_sector_country_r0 = filtered_df_sector_country[:1]
-                    if 'non-assets' not in filtered_df_sector_country_r0.asset_type.unique():                        
-                        filtered_df_sector_country_r0['asset_type'] = 'non-assets'
-                        filtered_df_sector_country_r0['emissions_quantity'] = 0
-                        filtered_df_sector_country = pd.concat([filtered_df_sector_country, filtered_df_sector_country_r0], ignore_index=True)
-                    filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
-                    filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total')
+                    if 'asset_type' in fds_cty:
+                        filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
+                        filtered_df_sector_country_r0 = filtered_df_sector_country[:1]
+                        if 'non-assets' not in filtered_df_sector_country_r0.asset_type.unique():                        
+                            filtered_df_sector_country_r0['asset_type'] = 'non-assets'
+                            filtered_df_sector_country_r0['emissions_quantity'] = 0
+                            filtered_df_sector_country = pd.concat([filtered_df_sector_country, filtered_df_sector_country_r0], ignore_index=True)
+                        filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
+                        filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total')
 
                     filtered_df_sector, filtered_df_sector1, filtered_df_sector_country1 = None, None, None
+
+                    #Limit to top 10 and bottom 10 only
+                    filtered_df_sector_country = pd.concat([filtered_df_sector_country[:10], filtered_df_sector_country[-10:]])
 
                     fig_sec_cty_bar = px.bar(
                         filtered_df_sector_country,
                         x='country',
                         y='emissions_quantity',
-                        title=f'Top 20 Countries Change {st.session_state.year} - {st.session_state.year1} | {filtered_df_sector_country.emissions_quantity.sum():,.0f} tons',
+                        title=f'Top 10 + Bottom 10 Countries | Change {st.session_state.year} - {st.session_state.year1} | {filtered_df_sector_country.emissions_quantity.sum():,.0f} tons',
                         labels={'emissions_quantity': 'Emissions'},
                         text='emissions_quantity',  # Add labels on top of the bars
                         height=st_layout['height_row'],
-                        color='asset_type'
+                        color='asset_type' if 'asset_type' in fds_cty else None
                     )
             
                     # Set initial range to display only the first 20 countries
@@ -514,27 +622,55 @@ else:
                 layout_col1, layout_col2 = st.columns(2)  # Create two columns
                     
                 with layout_col1:
-                    # st.header("Country Emissions over time")
+
+                    layout_col1a, layout_col1b = st.columns(2)  # Create two columns
+
+                    with layout_col1a:
+                        sector_list = ['all sectors'] + sorted(st.session_state.df_yr['sector'].unique().tolist())
+                        selected_sector2 = st.selectbox("Select a Sector", options=sector_list, index=0, key='country_sector2')
+
+                    if selected_sector2 != st.session_state.sector2:
+                        st.session_state.sector2 = selected_sector2
+
+                    with layout_col1b:
+                        subsector_list = ['all subsectors'] + sorted(st.session_state.df_yr.loc[st.session_state.df_yr['sector']==st.session_state.sector2,'subsector'].unique().tolist())
+                        selected_subsector2 = st.selectbox("Select a Subsector", options=subsector_list, index=0, key='country_subsector2')
+
+                    if selected_subsector2 != st.session_state.subsector2:
+                        st.session_state.subsector2 = selected_subsector2
+
                     filtered_df_country_ts = st.session_state.df[st.session_state.df['iso3_country'] == st.session_state.country] if st.session_state.country != 'global' else st.session_state.df
-                    filtered_df_country_ts = filtered_df_country_ts.groupby(['year','sector']).emissions_quantity.sum().reset_index()
-                    filtered_df_country_ts = filtered_df_country_ts.loc[filtered_df_country_ts['year']<=st.session_state.year,:]
+                    if st.session_state.subsector2 == 'all subsectors':
+                        filtered_df_country_ts = filtered_df_country_ts[filtered_df_country_ts['sector'] == st.session_state.sector2] if st.session_state.sector2 != 'all sectors' else filtered_df_country_ts
+                    else:
+                        filtered_df_country_ts = filtered_df_country_ts[filtered_df_country_ts['subsector'] == st.session_state.subsector2]
+
+                    filtered_df_country_ts1 = filtered_df_country_ts.groupby(['year','sector']).emissions_quantity.sum().reset_index()
+                    filtered_df_country_ts1 = filtered_df_country_ts1.loc[filtered_df_country_ts1['year']<=st.session_state.year,:]
+
+                    filtered_df_country_ts2 = filtered_df_country_ts.groupby(['year','sector','subsector']).emissions_quantity.sum().reset_index()
+                    filtered_df_country_ts2 = filtered_df_country_ts2.loc[filtered_df_country_ts2['year']<=st.session_state.year,:]
 
                     fig_ts_cty_sec_bar = px.bar(
-                        filtered_df_country_ts,
+                        filtered_df_country_ts1 if st.session_state.sector2 == 'all sectors' and st.session_state.subsector2 == 'all subsectors' else filtered_df_country_ts2,
                         x='year', 
                         y='emissions_quantity', 
                         labels={'emissions_quantity': 'Emissions'},
                         title=f"{st.session_state.country_full} Sector Emissions",
                         text='emissions_quantity',  # Add labels on top of the bars
                         height=st_layout['height_row'],
-                        color='sector'
+                        color='sector' if st.session_state.sector2 == 'all sectors' and st.session_state.subsector2 == 'all subsectors' else 'subsector'
                     )
                     fig_ts_cty_sec_bar.update_xaxes(tickangle=-90)
                     fig_ts_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
                     st.plotly_chart(fig_ts_cty_sec_bar, use_container_width=True) 
 
                 with layout_col2:
-                    # st.header("Sector Emissions over time")
+                    selected_topRank = st.selectbox("Select a number of countries", options=range(1,11), index=4)
+
+                    if selected_topRank != st.session_state.topRank:
+                        st.session_state.topRank = selected_topRank
+
                     if st.session_state.subsector == 'all subsectors':
                         filtered_df_sector_ts = st.session_state.df[st.session_state.df['sector'] == st.session_state.sector] if st.session_state.sector != 'all sectors' else st.session_state.df
                     else:
@@ -545,8 +681,8 @@ else:
                         lambda x: x.rank(method='min', ascending=False).where(x.notnull()).astype('Int64') if x.notnull().any() else np.nan
                     )
 
-                    filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>5,'iso3_country'] = 'NUL'
-                    filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>5,'country'] = 'Rest'
+                    filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>st.session_state.topRank,'iso3_country'] = 'NUL'
+                    filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>st.session_state.topRank,'country'] = 'Rest'
 
                     filtered_df_sector_ts = filtered_df_sector_ts.groupby(['year','country']).emissions_quantity.sum().reset_index()
                     filtered_df_sector_ts = filtered_df_sector_ts.loc[filtered_df_sector_ts['year']<=st.session_state.year,:]
@@ -638,7 +774,7 @@ else:
 
             df_top10 = df_top10.sort_values(by='sector', key=lambda x: x == 'all sectors', ascending=False)
 
-            st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-50)
+            st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
 
         with st.expander("**Expand to view SubSectors**", expanded=False):
             with st.container():
@@ -659,10 +795,10 @@ else:
                 df_top10['contents'] = df_top10['country'] + df_top10['emissions_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
                 df_top10 = df_top10.pivot_table(index=['sector','subsector','emissions_total'], columns='rank',values='contents', aggfunc='first')
 
-                st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-50)
+                st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
                 st.write("note:  forestry percentage uses positive emissions only")
 
-        # ****** Change YoY ********
+        # ****** Change YoY - START ********
         st.session_state.df_top10 = None
         with st.container():
             st.header(f"Top 10 Emitting Countries YoY {st.session_state.year} - {st.session_state.year1}")
@@ -720,41 +856,76 @@ else:
 
             st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
 
+        with st.expander("**Expand to view Top/Bottom10 YoY %**", expanded=False):
+            with st.container():
+                st.header(f"Top 10 Emitting Countries YoY % {st.session_state.year} - {st.session_state.year1}")
+
+                df_top10 = st.session_state.df_top10.copy()
+
+                df_top10['rank'] = df_top10.groupby('sector')['emissions_quantity_pct'].transform(
+                    lambda x: x.rank(method='min', ascending=False).astype(int) if x.notnull().any() else np.nan
+                )
+
+                df_top10 = df_top10.loc[df_top10['rank']<=10,:]
+                df_top10['contents'] = df_top10['country'] + df_top10['emissions_quantity_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
+                df_top10 = df_top10.pivot_table(index=['sector','emissions_total_pct'], columns='rank',values='contents', aggfunc='first')
+
+                df_top10 = df_top10.sort_values(by='sector', key=lambda x: x == 'all sectors', ascending=False)
+
+                st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
+
+            with st.container():
+                st.header(f"Bottom 10 Emitting Countries YoY % {st.session_state.year} - {st.session_state.year1}")
+
+                df_top10 = st.session_state.df_top10.copy()
+
+                df_top10['rank'] = df_top10.groupby('sector')['emissions_quantity_pct'].transform(
+                    lambda x: x.rank(method='min', ascending=True).astype(int) if x.notnull().any() else np.nan
+                )
+
+                df_top10 = df_top10.loc[df_top10['rank']<=10,:]
+                df_top10['contents'] = df_top10['country'] + df_top10['emissions_quantity_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
+                df_top10 = df_top10.pivot_table(index=['sector','emissions_total_pct'], columns='rank',values='contents', aggfunc='first')
+
+                df_top10 = df_top10.sort_values(by='sector', key=lambda x: x == 'all sectors', ascending=False)
+
+                st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
+                
+        # ****** Change YoY - END ********
+
+        # ****** Top Assets by Country - START ********
         with st.container():
-            st.header(f"Top 10 Emitting Countries YoY % {st.session_state.year} - {st.session_state.year1}")
+            st.header("Top Emitting Assets by Country")
 
-            df_top10 = st.session_state.df_top10.copy()
+            layout_col1a, layout_col1b = st.columns(2)  # Create two columns
 
-            df_top10['rank'] = df_top10.groupby('sector')['emissions_quantity_pct'].transform(
-                lambda x: x.rank(method='min', ascending=False).astype(int) if x.notnull().any() else np.nan
-            )
+            with layout_col1a:
+                country_list = ['g20'] + sorted(st.session_state.df_asset['country'].unique().tolist())
+                selected_topAsset = st.selectbox("Select a Country", options=country_list, key='country_asset')
 
-            df_top10 = df_top10.loc[df_top10['rank']<=10,:]
-            df_top10['contents'] = df_top10['country'] + df_top10['emissions_quantity_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
-            df_top10 = df_top10.pivot_table(index=['sector','emissions_total_pct'], columns='rank',values='contents', aggfunc='first')
+            if selected_topAsset != 'g20':
+                selected_topAsset = st.session_state.df_asset.loc[st.session_state.df_asset['country']==selected_topAsset,'iso3_country'].values[0]
 
-            df_top10 = df_top10.sort_values(by='sector', key=lambda x: x == 'all sectors', ascending=False)
+            if selected_topAsset != st.session_state.topAsset:
+                st.session_state.topAsset = selected_topAsset
 
-            st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
+            with layout_col1b:
+                selected_topAssetField = st.selectbox("Select data type", options=['emissions_quantity','emissions_quantity_diff'], index=0, key='country_asset_field')
 
-        with st.container():
-            st.header(f"Bottom 10 Emitting Countries YoY % {st.session_state.year} - {st.session_state.year1}")
+            if selected_topAssetField != st.session_state.topAssetField:
+                st.session_state.topAssetField = selected_topAssetField
 
-            df_top10 = st.session_state.df_top10.copy()
+            filtered_df_asset = st.session_state.df_asset[st.session_state.df_asset['iso3_country'] == st.session_state.topAsset] if st.session_state.topAsset != 'g20' else st.session_state.df_asset
+            filtered_df_asset = filtered_df_asset.loc[filtered_df_asset['year']<=st.session_state.year,:]
+            filtered_df_asset[st.session_state.topAssetField] = filtered_df_asset[st.session_state.topAssetField].replace([np.inf, -np.inf], np.nan).fillna(0).astype(int)
 
-            df_top10['rank'] = df_top10.groupby('sector')['emissions_quantity_pct'].transform(
-                lambda x: x.rank(method='min', ascending=True).astype(int) if x.notnull().any() else np.nan
-            )
+            filtered_df_asset_ts = filtered_df_asset.pivot_table(index=['iso3_country','sector','subsector','asset_type','asset_name','asset_id'], columns='year', values=[st.session_state.topAssetField])
+            if filtered_df_asset_ts.empty == False:
+                filtered_df_asset_ts = filtered_df_asset_ts.sort_values(by=(st.session_state.topAssetField, min(st.session_state.year, filtered_df_asset.year.max())), ascending=False)
 
-            df_top10 = df_top10.loc[df_top10['rank']<=10,:]
-            df_top10['contents'] = df_top10['country'] + df_top10['emissions_quantity_pct'].apply(lambda x: " ({:,.0f}%)".format(x))
-            df_top10 = df_top10.pivot_table(index=['sector','emissions_total_pct'], columns='rank',values='contents', aggfunc='first')
+            st.dataframe(filtered_df_asset_ts, use_container_width=True, height=st_layout['height_row']-80)
 
-            df_top10 = df_top10.sort_values(by='sector', key=lambda x: x == 'all sectors', ascending=False)
-
-            st.dataframe(df_top10, use_container_width=True, height=st_layout['height_row']-80)
-            
-        # ****** Change YoY ********
+        # ****** Top Assets by Country - END ********
 
         with st.container():
             # st.markdown(f"<h2 style='display: inline-block; vertical-align: middle;'>Climate TRACE Emissions Data Pivot Table {st.session_state.year}</h2>", unsafe_allow_html=True)
@@ -775,22 +946,19 @@ else:
             # # Build grid options for hierarchical row grouping
             fds_row = ['continent_ct','iso3_country','country','sector','subsector','asset_type']
             fds_col = ['year']
-            fds_val = ['emissions_quantity','count']
+            fds_val = ['emissions_quantity','count','activity']
             display_fds = fds_col + fds_row + fds_val
 
             df_tb = st.session_state.df[display_fds]
             df_tb = df_tb.loc[df_tb['year'].isin([st.session_state.year,st.session_state.year1]),:]
             df_tb.rename(columns={'emissions_quantity': 'emissions', 'count': '#assets'}, inplace=True)
 
-            # *** #assets ***
-            # fds_val1 = ['emissions','#assets']  
-            fds_val1 = ['emissions']                
+            fds_val1 = ['emissions','activity']  
             df_tb = df_tb.pivot_table(index=fds_row, columns=fds_col, values=fds_val1)
             
             df_tb.columns = ['_'.join([str(x) for x in col]).strip() for col in df_tb.columns]
             df_tb['emissions_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)])] = df_tb['_'.join(["emissions",str(st.session_state.year)])] - df_tb['_'.join(["emissions",str(st.session_state.year1)])]
-            # *** #assets ***
-            # df_tb['#assets_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)])] = df_tb['_'.join(["#assets",str(st.session_state.year)])] - df_tb['_'.join(["#assets",str(st.session_state.year1)])]
+            df_tb['activity_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)])] = df_tb['_'.join(["activity",str(st.session_state.year)])] - df_tb['_'.join(["activity",str(st.session_state.year1)])]
             df_tb.reset_index(inplace=True)
 
             dict_fds_agg = {'emissions': [
@@ -798,12 +966,11 @@ else:
                     '_'.join(["emissions",str(st.session_state.year1)]),
                     'emissions_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)])
                 ],
-                # *** #assets ***
-                # '#assets': [
-                #     '_'.join(["#assets",str(st.session_state.year)]),
-                #     '_'.join(["#assets",str(st.session_state.year1)]),
-                #     '#assets_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)]),
-                # ]   
+                'activity': [
+                    '_'.join(["activity",str(st.session_state.year)]),
+                    '_'.join(["activity",str(st.session_state.year1)]),
+                    'activity_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)]),
+                ]   
             }
 
             fds_reordered = fds_row 
@@ -854,14 +1021,25 @@ else:
                 {'headerName': 'emissions_%', 'field': 'emissions_change', 'valueGetter': js_tb(dict_fds_agg['emissions'][:2]), 'cellStyle': {'textAlign': 'right'}, 'headerClass': 'header-align-right'},
             ]
 
-            # *** #assets ***
+            # *** activity ***
+            # def custom_agg_func(params):
+            #     # Custom aggregation logic that restricts sum at specific group levels
+            #     if params.node.group and params.node.field in ['sector']:  # Stop at the sector level
+            #         return sum([x[params.column.getColId()] for x in params.values])
+            #     return None
+         
+            # gridOptions['columnDefs'] += [
+            #     {'headerName': x, 'field': x, 'suppressAggFuncInHeader': True, 'type': ["numericColumn", "customNumericFormat"], 'aggFunc': custom_agg_func, 'precision': 0, 'valueFormatter': "x.toLocaleString('en-US', {minimumFractionDigits: 0, maximumFractionDigits: 0})"}
+            #     for x in dict_fds_agg['activity']
+            # ]
+
             # gridOptions['columnDefs'] += [
             #     {'headerName': x, 'field': x, 'suppressAggFuncInHeader': True,  'type': ["numericColumn", "customNumericFormat"], 'aggFunc': 'sum', 'precision': 0, 'valueFormatter': "x.toLocaleString('en-US', {minimumFractionDigits: 0, maximumFractionDigits: 0})"}
-            #     for x in dict_fds_agg['#assets']
+            #     for x in dict_fds_agg['activity']
             # ]
 
             # gridOptions['columnDefs'] += [    
-            #     {'headerName': '#assets_%', 'field': '#assets_change', 'valueGetter': js_tb(dict_fds_agg['#assets'][:2]), 'cellStyle': {'textAlign': 'right'}, 'headerClass': 'header-align-right'},
+            #     {'headerName': 'activitys_%', 'field': 'activity_change', 'valueGetter': js_tb(dict_fds_agg['activity'][:2]), 'cellStyle': {'textAlign': 'right'}, 'headerClass': 'header-align-right'},
             # ]
 
             gridOptions['domLayout'] = 'autoHeight'  # Automatically adjust the grid height
@@ -916,6 +1094,8 @@ else:
             if selected_gas_comp != st.session_state.gas_comp:
                 st.session_state.gas_comp = selected_gas_comp
                 st.session_state.chart_comp_loaded = False
+
+                st.rerun()
 
         #UNFCCC=True, EDGAR=True, CAIT=True, PIK=True, GCP=True, CarbonMonitor=True
         if st.button("Load Chart"):
