@@ -134,8 +134,8 @@ else:
             st.session_state.cp = None
 
         # File selection dropdown
-        # st.markdown("### Data Update:  v3_2023 (20240918),  v4_2024 (20241014)")
-        st.write("**Data Update:  v3_2023 (20240918),  v4_2024 (20241014)**")
+        st.write("**Climate TRACE 2024 v4 release includes 68 sectors covering over 660 miliions assets globally**")
+        st.write("**Data:  v4_2024 (20241015),  v3_2023 (20240918)**")
         with st.container():
             layout_col1, layout_col2 = st.columns(2)
             with layout_col1:
