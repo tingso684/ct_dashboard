@@ -468,6 +468,13 @@ else:
 
                 filtered_df_sector_country = filtered_df_sector.groupby(['iso3_country', 'country', 'asset_type']).emissions_quantity.sum().reset_index()
                 filtered_df_sector_country['emissions_total'] = filtered_df_sector_country.groupby(['iso3_country', 'country'])['emissions_quantity'].transform('sum')
+
+                filtered_df_sector_country_r0 = filtered_df_sector_country[:1]
+                if 'non-assets' not in filtered_df_sector_country_r0.asset_type.unique():                        
+                    filtered_df_sector_country_r0['asset_type'] = 'non-assets'
+                    filtered_df_sector_country_r0['emissions_quantity'] = 0
+                    filtered_df_sector_country = pd.concat([filtered_df_sector_country, filtered_df_sector_country_r0], ignore_index=True)
+
                 filtered_df_sector_country = filtered_df_sector_country.sort_values(['emissions_total','asset_type'], ascending=False)
                 filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total').reset_index(drop=True)
 
