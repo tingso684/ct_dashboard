@@ -472,7 +472,7 @@ else:
                 filtered_df_sector_country = filtered_df_sector_country.drop(columns='emissions_total').reset_index(drop=True)
 
                 #Limited to showing top 50 countries only
-                list_cty_top20 = list(filtered_df_sector_country.groupby('iso3_country').groups.keys())[:20]
+                list_cty_top20 = filtered_df_sector_country.groupby('iso3_country')['emissions_quantity'].sum().sort_values(ascending=False).head(20).index
                 filtered_df_sector_country = filtered_df_sector_country.loc[filtered_df_sector_country['iso3_country'].isin(list_cty_top20),:]
 
                 fig_sec_cty_bar = px.bar(
