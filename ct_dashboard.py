@@ -629,93 +629,127 @@ else:
         # ****** YoY *******
 
         #Group A1:  Bar Chart 
-        with st.expander("**Expand to view Country and Sector emissions over time**", expanded=False):
-            with st.container():
-                layout_col1, layout_col2 = st.columns(2)  # Create two columns
-                    
-                with layout_col1:
+        # with st.expander("**Expand to view Country and Sector emissions over time**", expanded=False):
+        with st.container():
+            layout_col1, layout_col2 = st.columns(2)  # Create two columns
+                
+            with layout_col1:
 
-                    layout_col1a, layout_col1b = st.columns(2)  # Create two columns
+                layout_col1a, layout_col1b = st.columns(2)  # Create two columns
 
-                    with layout_col1a:
-                        sector_list = ['all sectors'] + sorted(st.session_state.df_yr['sector'].unique().tolist())
-                        selected_sector2 = st.selectbox("Select a Sector", options=sector_list, index=0, key='country_sector2')
+                with layout_col1a:
+                    sector_list = ['all sectors'] + sorted(st.session_state.df_yr['sector'].unique().tolist())
+                    selected_sector2 = st.selectbox("Select a Sector", options=sector_list, index=0, key='country_sector2')
 
-                    if selected_sector2 != st.session_state.sector2:
-                        st.session_state.sector2 = selected_sector2
+                if selected_sector2 != st.session_state.sector2:
+                    st.session_state.sector2 = selected_sector2
 
-                    with layout_col1b:
-                        subsector_list = ['all subsectors'] + sorted(st.session_state.df_yr.loc[st.session_state.df_yr['sector']==st.session_state.sector2,'subsector'].unique().tolist())
-                        selected_subsector2 = st.selectbox("Select a Subsector", options=subsector_list, index=0, key='country_subsector2')
+                with layout_col1b:
+                    subsector_list = ['all subsectors'] + sorted(st.session_state.df_yr.loc[st.session_state.df_yr['sector']==st.session_state.sector2,'subsector'].unique().tolist())
+                    selected_subsector2 = st.selectbox("Select a Subsector", options=subsector_list, index=0, key='country_subsector2')
 
-                    if selected_subsector2 != st.session_state.subsector2:
-                        st.session_state.subsector2 = selected_subsector2
+                if selected_subsector2 != st.session_state.subsector2:
+                    st.session_state.subsector2 = selected_subsector2
 
-                    filtered_df_country_ts = st.session_state.df[st.session_state.df['iso3_country'] == st.session_state.country] if st.session_state.country != 'global' else st.session_state.df
-                    if st.session_state.subsector2 == 'all subsectors':
-                        filtered_df_country_ts = filtered_df_country_ts[filtered_df_country_ts['sector'] == st.session_state.sector2] if st.session_state.sector2 != 'all sectors' else filtered_df_country_ts
-                    else:
-                        filtered_df_country_ts = filtered_df_country_ts[filtered_df_country_ts['subsector'] == st.session_state.subsector2]
+                filtered_df_country_ts = st.session_state.df[st.session_state.df['iso3_country'] == st.session_state.country] if st.session_state.country != 'global' else st.session_state.df
+                if st.session_state.subsector2 == 'all subsectors':
+                    filtered_df_country_ts = filtered_df_country_ts[filtered_df_country_ts['sector'] == st.session_state.sector2] if st.session_state.sector2 != 'all sectors' else filtered_df_country_ts
+                else:
+                    filtered_df_country_ts = filtered_df_country_ts[filtered_df_country_ts['subsector'] == st.session_state.subsector2]
 
-                    filtered_df_country_ts1 = filtered_df_country_ts.groupby(['year','sector']).emissions_quantity.sum().reset_index()
-                    filtered_df_country_ts1 = filtered_df_country_ts1.loc[filtered_df_country_ts1['year']<=st.session_state.year,:]
+                filtered_df_country_ts1 = filtered_df_country_ts.groupby(['year','sector']).emissions_quantity.sum().reset_index()
+                filtered_df_country_ts1 = filtered_df_country_ts1.loc[filtered_df_country_ts1['year']<=st.session_state.year,:]
 
-                    filtered_df_country_ts2 = filtered_df_country_ts.groupby(['year','sector','subsector']).emissions_quantity.sum().reset_index()
-                    filtered_df_country_ts2 = filtered_df_country_ts2.loc[filtered_df_country_ts2['year']<=st.session_state.year,:]
+                filtered_df_country_ts2 = filtered_df_country_ts.groupby(['year','sector','subsector']).emissions_quantity.sum().reset_index()
+                filtered_df_country_ts2 = filtered_df_country_ts2.loc[filtered_df_country_ts2['year']<=st.session_state.year,:]
 
-                    fig_ts_cty_sec_bar = px.bar(
-                        filtered_df_country_ts1 if st.session_state.sector2 == 'all sectors' and st.session_state.subsector2 == 'all subsectors' else filtered_df_country_ts2,
-                        x='year', 
-                        y='emissions_quantity', 
-                        labels={'emissions_quantity': 'Emissions'},
-                        title=f"{st.session_state.country_full} Sector Emissions",
-                        text='emissions_quantity',  # Add labels on top of the bars
-                        height=st_layout['height_row'],
-                        color='sector' if st.session_state.sector2 == 'all sectors' and st.session_state.subsector2 == 'all subsectors' else 'subsector'
-                    )
-                    fig_ts_cty_sec_bar.update_xaxes(tickangle=-90)
-                    fig_ts_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
-                    st.plotly_chart(fig_ts_cty_sec_bar, use_container_width=True) 
+                filtered_df_country_ts0 = filtered_df_country_ts1 if st.session_state.sector2 == 'all sectors' and st.session_state.subsector2 == 'all subsectors' else filtered_df_country_ts2
 
-                with layout_col2:
-                    selected_topRank = st.selectbox("Select a number of countries", options=range(1,11), index=4)
+                fig_ts_cty_sec_bar = px.bar(
+                    filtered_df_country_ts0,
+                    x='year', 
+                    y='emissions_quantity', 
+                    labels={'emissions_quantity': 'Emissions'},
+                    title=f"{st.session_state.country_full} Sector Emissions",
+                    text='emissions_quantity',  # Add labels on top of the bars
+                    height=st_layout['height_row'],
+                    color='sector' if st.session_state.sector2 == 'all sectors' and st.session_state.subsector2 == 'all subsectors' else 'subsector'
+                )
 
-                    if selected_topRank != st.session_state.topRank:
-                        st.session_state.topRank = selected_topRank
+                fig_ts_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                if trigger_bar_total:
+                    fig_ts_cty_sec_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                    for year, year_data in filtered_df_country_ts0.groupby('year'):
+                        total_value = year_data['emissions_quantity'].sum()
+                        top_of_bar = year_data.loc[year_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
 
-                    if st.session_state.subsector == 'all subsectors':
-                        filtered_df_sector_ts = st.session_state.df[st.session_state.df['sector'] == st.session_state.sector] if st.session_state.sector != 'all sectors' else st.session_state.df
-                    else:
-                        filtered_df_sector_ts = st.session_state.df[st.session_state.df['subsector'] == st.session_state.subsector] 
+                        fig_ts_cty_sec_bar.add_annotation(
+                            x=year,
+                            y=top_of_bar,
+                            text=short_scale_formatter(total_value),  # Total value on top of the bar
+                            showarrow=False,
+                            font=dict(size=10),
+                            yshift=10,  # Adjust the vertical position
+                            xanchor='center'
+                        )
 
-                    filtered_df_sector_ts = filtered_df_sector_ts.groupby(['year', 'iso3_country', 'country'])['emissions_quantity'].sum().reset_index()
-                    filtered_df_sector_ts['rank'] = filtered_df_sector_ts.groupby(['year'])['emissions_quantity'].transform(
-                        lambda x: x.rank(method='min', ascending=False).where(x.notnull()).astype('Int64') if x.notnull().any() else np.nan
-                    )
+                fig_ts_cty_sec_bar.update_xaxes(tickangle=-90)
+                st.plotly_chart(fig_ts_cty_sec_bar, use_container_width=True) 
 
-                    filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>st.session_state.topRank,'iso3_country'] = 'NUL'
-                    filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>st.session_state.topRank,'country'] = 'Rest'
+            with layout_col2:
+                selected_topRank = st.selectbox("Select a number of countries", options=range(1,11), index=4)
 
-                    filtered_df_sector_ts = filtered_df_sector_ts.groupby(['year','country']).emissions_quantity.sum().reset_index()
-                    filtered_df_sector_ts = filtered_df_sector_ts.loc[filtered_df_sector_ts['year']<=st.session_state.year,:]
-                    
-                    category_order = ['Rest'] + [country for country in filtered_df_sector_ts['country'].unique() if country != 'Rest']
+                if selected_topRank != st.session_state.topRank:
+                    st.session_state.topRank = selected_topRank
 
-                    fig_ts_cty_bar = px.bar(
-                        filtered_df_sector_ts,
-                        x='year', 
-                        y='emissions_quantity', 
-                        labels={'emissions_quantity': 'Emissions'},
-                        title=f'Top Countries in {st.session_state.sector} - {st.session_state.subsector}',
-                        text='country',  # Add labels on top of the bars
-                        height=st_layout['height_row'],
-                        color='country',
-                        category_orders={'country': category_order}  # Set the order of categories
-                    )
-                    fig_ts_cty_bar.update_layout(showlegend=False)
-                    fig_ts_cty_bar.update_xaxes(tickangle=-90)
-                    fig_ts_cty_bar.update_traces(textposition='inside', textfont_size=10, hovertemplate='Country: %{text}<br>Emissions: %{y:.2s}')
-                    st.plotly_chart(fig_ts_cty_bar, use_container_width=True) 
+                if st.session_state.subsector == 'all subsectors':
+                    filtered_df_sector_ts = st.session_state.df[st.session_state.df['sector'] == st.session_state.sector] if st.session_state.sector != 'all sectors' else st.session_state.df
+                else:
+                    filtered_df_sector_ts = st.session_state.df[st.session_state.df['subsector'] == st.session_state.subsector] 
+
+                filtered_df_sector_ts = filtered_df_sector_ts.groupby(['year', 'iso3_country', 'country'])['emissions_quantity'].sum().reset_index()
+                filtered_df_sector_ts['rank'] = filtered_df_sector_ts.groupby(['year'])['emissions_quantity'].transform(
+                    lambda x: x.rank(method='min', ascending=False).where(x.notnull()).astype('Int64') if x.notnull().any() else np.nan
+                )
+
+                filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>st.session_state.topRank,'iso3_country'] = 'NUL'
+                filtered_df_sector_ts.loc[filtered_df_sector_ts['rank']>st.session_state.topRank,'country'] = 'Rest'
+
+                filtered_df_sector_ts = filtered_df_sector_ts.groupby(['year','country']).emissions_quantity.sum().reset_index()
+                filtered_df_sector_ts = filtered_df_sector_ts.loc[filtered_df_sector_ts['year']<=st.session_state.year,:]
+                
+                category_order = ['Rest'] + [country for country in filtered_df_sector_ts['country'].unique() if country != 'Rest']
+
+                fig_ts_cty_bar = px.bar(
+                    filtered_df_sector_ts,
+                    x='year', 
+                    y='emissions_quantity', 
+                    labels={'emissions_quantity': 'Emissions'},
+                    title=f'Top Countries in {st.session_state.sector} - {st.session_state.subsector}',
+                    text='country',  # Add labels on top of the bars
+                    height=st_layout['height_row'],
+                    color='country',
+                    category_orders={'country': category_order}  # Set the order of categories
+                )
+
+                fig_ts_cty_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                if trigger_bar_total:
+                    fig_ts_cty_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                    for year, year_data in filtered_df_sector_ts.groupby('year'):
+                        total_value = year_data['emissions_quantity'].sum()
+                        top_of_bar = year_data.loc[year_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
+
+                        fig_ts_cty_bar.add_annotation(
+                            x=year,
+                            y=top_of_bar,
+                            text=short_scale_formatter(total_value),  # Total value on top of the bar
+                            showarrow=False,
+                            font=dict(size=10),
+                            yshift=10,  # Adjust the vertical position
+                            xanchor='center'
+                        )
+                fig_ts_cty_bar.update_xaxes(tickangle=-90)
+                st.plotly_chart(fig_ts_cty_bar, use_container_width=True) 
 
 
         #Group A2:  Line Chart (maybe)
