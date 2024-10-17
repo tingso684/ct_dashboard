@@ -135,7 +135,7 @@ else:
 
         # File selection dropdown
         st.write("**Climate TRACE 2024 v4 release includes 68 sectors covering over 660 miliions assets globally**")
-        st.write("**Data:  v4_2024 (20241016),  v3_2023 (20240918)**")
+        st.write("**Data:  v4_2024 (20241017),  v3_2023 (20240918)**")
         with st.container():
             layout_col1, layout_col2 = st.columns(2)
             with layout_col1:
