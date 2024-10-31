@@ -1,0 +1,13 @@
+pandas
+plotly==5.23.0
+streamlit
+streamlit-plotly-events
+streamlit_folium
+folium
+shapely
+pyproj
+streamlit-aggrid
+matplotlib
+branca
+geopandas
+psycopg2-binary

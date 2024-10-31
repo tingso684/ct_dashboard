@@ -1,0 +1,771 @@
+iso3_country,sector,subsector,asset_type,asset_id,asset_name,2021,2022,2023,2024
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588448,Russian Federation_West Siberia (Central)_Conventional onshore,421853674.15036404,410140142.94248,384892558.7173937,384892558.7173938
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588658,Iran_Rub al Khali_Conventional shelf,257345817.32403478,252015543.521999,256784936.59773648,256784936.59773642
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588734,Russian Federation_West Siberia (Central)_Conventional onshore,256232783.37195492,258121432.36546808,256210855.22435322,256210855.22435322
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588450,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,280234010.5521898,232200133.95344713,189455958.67805275,189455958.67805278
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588660,Iran_Zagros Foldbelt_Conventional onshore,129160345.88650823,135078260.00484857,153795116.51677287,153795116.51677284
+CAN,forestry-and-land-use,forest-land-fires,,8182365,Nord-du-Québec,1525646.3999999992,457834.9299999999,150138579.99999,150138579.99999002
+CAN,fossil-fuel-operations,oil-and-gas-production,Oil sands,3588592,Canada_West Canadian - Alberta_Oil sands,141561579.16543773,140739522.36933663,145319087.93241587,145319087.9324159
+AUS,forestry-and-land-use,forest-land-fires,,8161376,Cook,22285386.99999999,77757989.99999999,119727135.00000001,119727135.0
+SAU,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588738,Saudi Arabia_Widyan - North Arabian Gulf_Conventional onshore,105002859.92032613,110873919.1087265,110874177.40039894,110874177.40039895
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588784,United States_Appalachian_Shale gas,104235421.15672664,109848032.11912028,108546965.27134322,108546965.27134322
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588795,United States_Delaware_Tight oil,71651578.53803645,92267749.46496494,96906763.83789551,96906763.83789551
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588663,Iraq_Widyan - North Arabian Gulf_Conventional onshore,78564957.03151259,87379341.25630404,90347475.03461735,90347475.03461733
+CAN,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588594,Canada_West Canadian - Alberta_Tight gas,72328544.38213398,82589989.98041384,88358953.89374727,88358953.89374727
+AUS,forestry-and-land-use,removals,,8735098,Unincorporated South Australia,6933328.91,18059702.93,83993913.11800002,83993913.11800002
+CHN,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588603,China_Ordos_Tight gas,78337925.14626846,80845142.38570654,83230614.9889251,83230614.98892508
+AUS,forestry-and-land-use,net-shrubgrass,,4571361,Unincorporated South Australia,8504429.999999957,15147500.000000035,80574100.00000006,80574100.00000006
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588803,United States_Midland_Tight oil,53327422.93831558,63640128.850313686,78865566.77713145,78865566.77713144
+CAN,forestry-and-land-use,forest-land-fires,,8182196,Fort Smith,3515586.9999999977,11994074.999999998,76049575.99998,76049575.99998
+AUS,forestry-and-land-use,shrubgrass-fires,,8155532,Barkly,1955092.6999999993,4114160.9999999995,67803280.00002,67803280.00002
+CAN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588589,Canada_West Canadian - Alberta_Conventional onshore,65475739.81057155,68334699.37047935,65544817.60417382,65544817.60417382
+VEN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588822,Venezuela_Maturin_Heavy oil,42454459.76297545,49956225.7361593,59772539.530567646,59772539.53056765
+BWA,forestry-and-land-use,shrubgrass-fires,,8159554,Ghanzi,20288318.999999996,45300899.99999999,59498641.99998,59498641.999979995
+RUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588445,Russian Federation_OtherBasins_OtherResources,53666139.06755219,58037525.117812574,56934856.49803263,56934856.49803263
+QAT,fossil-fuel-operations,oil-and-gas-production,LNG,3588726,Qatar_Rub al Khali_LNG,56871052.43659764,56668501.742200896,56317017.08561406,56317017.08561407
+CAN,forestry-and-land-use,forest-land-clearing,,5021601,Fort Smith,3903411.399999999,94297.22000000002,54890053.00002,54890053.00002
+BRA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588581,Brazil_Santos_Deepwater,48661673.352266476,50964624.04577529,54402763.4229126,54402763.42291259
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588801,United States_Gulf Coast_Tight oil,45625870.38555463,50204397.92390894,54296984.818222284,54296984.818222284
+QAT,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588725,Qatar_Rub al Khali_Conventional shelf,43594912.34353952,52751731.07350543,54123576.70529952,54123576.70529952
+AUS,forestry-and-land-use,shrubgrass-fires,,8155537,Central Desert,2570468.6999999993,5108710.3,53478169.99998,53478169.99998001
+RUS,forestry-and-land-use,removals,,8692209,Ilimpiyskiy rayon,126032945.86999996,-164588127.27199998,53281801.26000002,53281801.26000002
+AUS,forestry-and-land-use,shrubgrass-fires,,8156388,Derby-West Kimberley,12001997.999999998,16539019.999999993,52822487.00001,52822487.00001
+CAN,forestry-and-land-use,forest-land-fires,,8182007,Division No. 17,282732.0699999999,928823.4999999994,50654770.00001999,50654770.00001999
+RUS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588731,Russian Federation_OtherBasins_OtherResources,43936521.30452959,47686615.914860144,50074557.170624055,50074557.17062405
+IDN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588655,Indonesia_OtherBasins_OtherResources,51641080.29999364,48079594.246603906,49854395.505616024,49854395.50561603
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588498,United States_Appalachian_Shale gas,47817528.0747105,50392288.01309022,49795429.47091511,49795429.4709151
+AUS,forestry-and-land-use,forest-land-fires,,8161311,Victoria-Daly,39860541.999999985,75539819.99999999,49248566.00004001,49248566.00004001
+COD,forestry-and-land-use,forest-land-fires,,8183605,Manono,53239943.99999999,56867909.99999999,49045239.99999001,49045239.99999001
+AUS,forestry-and-land-use,forest-land-fires,,8161305,Roper Gulf,37600969.99999998,42531405.999999985,48954469.99998001,48954469.99998001
+KWT,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588678,Kuwait_Widyan - North Arabian Gulf_Conventional onshore,43861442.47824077,49057073.75989648,48195915.305773385,48195915.305773385
+SGP,transportation,international-shipping,,2801126,Singapore,44952171.226799555,46673950.629001126,47650758.41646918,50803506.006430976
+CAN,forestry-and-land-use,forest-land-clearing,,5021787,Division No. 18,14949162.499999994,1941267.0999999999,47533150.000020005,47533150.000020005
+MMR,forestry-and-land-use,forest-land-fires,,8214936,Mindat,5677646.600000001,11533993.999999994,47362594.999979995,47362594.999979995
+BOL,forestry-and-land-use,forest-land-fires,,8164862,General José Ballivián,778337.6999999998,3075303.7999999984,47056502.99999999,47056503.00000001
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588787,United States_ArkLaTex_Shale gas,39331197.78885513,42725992.98849894,46926015.58845582,46926015.58845581
+RUS,forestry-and-land-use,net-forest-land,,8370488,Ilimpiyskiy rayon,115577900.00000024,-147350600.0000002,45224600.0,45224600.0
+CAN,forestry-and-land-use,removals,,8550822,Kitikmeot,-11975715.219999999,3211280.0520000006,45195924.105,45195924.105
+CAN,forestry-and-land-use,forest-land-clearing,,5021762,Nord-du-Québec,8037132.0,7633272.599999999,44994502.99998,44994502.99998
+CAN,forestry-and-land-use,net-shrubgrass,,4621705,Kitikmeot,-11799049.999999968,3292640.000000004,44698359.99999997,44698359.99999997
+RUS,forestry-and-land-use,forest-land-clearing,,5051634,Ayano-Mayskiy rayon,2334054.6999999997,157255.83,44507620.000020005,44507620.000020005
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588509,United States_Delaware_Tight oil,32869837.387577206,42327412.71946987,44455539.61816649,44455539.61816649
+DZA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588549,Algeria_Oued Mya_Conventional onshore,45043036.594133556,41744358.166106656,44342874.48377479,44342874.48377479
+CAN,forestry-and-land-use,shrubgrass-fires,,8159713,Nord-du-Québec,193834.74999999988,733571.5999999997,43341434.00001,43341434.000010006
+USA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588807,United States_OtherBasins_OtherResources,45762905.72507604,45053657.04602457,43318339.15752109,43318339.15752109
+CHN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588604,China_OtherBasins_OtherResources,41160367.83061275,42923899.697396964,43242168.49701728,43242168.497017264
+KOR,manufacturing,iron-and-steel,BF/BOF,1566956,POSCO Gwangyang steel plant,42055733.45795995,39086735.83219942,41613436.20814142,37452997.2269894
+AUS,forestry-and-land-use,forest-land-fires,,8161317,West Arnhem,20706309.99999999,36009109.99999998,40940753.99997,40940753.99997
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588733,Russian Federation_Volga - Urals_Conventional onshore,46249155.867694594,42791668.26645444,40533353.77033276,40533353.77033276
+SAU,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588739,Saudi Arabia_Widyan - North Arabian Gulf_Conventional shelf,35263594.5200323,47076050.05715851,40424710.27480782,40424710.27480781
+AUS,forestry-and-land-use,shrubgrass-fires,,8155564,Victoria-Daly,11168340.999999996,25481496.99999999,40235499.99999001,40235499.99999
+CAN,forestry-and-land-use,forest-land-fires,,8182005,Division No. 16,1320756.0999999996,3954105.599999998,40152576.0,40152576.0
+CAN,forestry-and-land-use,forest-land-fires,,8182381,Division No. 18,21557441.999999996,7066096.299999998,39759956.000009984,39759956.00001
+VEN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588821,Venezuela_Maturin_Conventional onshore,38856578.24058435,39146103.884413466,39429379.47353255,39429379.47353256
+CAN,forestry-and-land-use,forest-land-fires,,8182071,Northern Rockies,35568.58699999999,121677.52999999993,39322439.99999999,39322440.00000001
+CHN,manufacturing,iron-and-steel,BF/BOF,1566610,Angang Steel Co Ltd,43008897.75973031,38463446.94486655,38927644.86738189,36266058.337605104
+SAU,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588452,Saudi Arabia_Widyan - North Arabian Gulf_Conventional onshore,36717305.158136226,38820951.586970195,38818132.281805,38818132.281805
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588710,Norway_Northern North Sea_Conventional shelf,40115761.49881792,40210000.27121246,38513965.191375054,38513965.191375054
+AUS,forestry-and-land-use,shrubgrass-fires,,8156396,East Pilbara,3719999.2999999975,4499262.999999997,38405616.99999,38405616.99999001
+ARE,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588771,United Arab Emirates_OtherBasins_OtherResources,32577440.762070734,37086675.38417239,37973005.6734626,37973005.6734626
+ARE,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588773,United Arab Emirates_Rub al Khali_Conventional shelf,31181689.439792864,37640991.469772875,37876088.0591653,37876088.0591653
+IRN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588657,Iran_OtherBasins_OtherResources,36080690.063592024,36311912.1891103,37760466.07283446,37760466.07283446
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588736,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,48248317.67972201,41932439.127858974,37628942.83787035,37628942.83787035
+BOL,forestry-and-land-use,forest-land-fires,,8164866,Moxos,196776.2699999999,9888912.999999996,37278435.0,37278435.0
+ZAF,forestry-and-land-use,net-shrubgrass,,4963599,Siyanda,7154840.000000005,-3448520.0000000023,36966879.99999999,36966879.99999999
+BOL,forestry-and-land-use,forest-land-fires,,8164916,Ñuflo De Chávez,4101128.9999999995,12977702.999999998,36598030.00002,36598030.00002
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588813,United States_Williston_Tight oil,35318012.47568853,34198596.311429165,36553315.1916883,36553315.19168831
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588517,United States_Midland_Tight oil,24463713.73872257,29194621.01457276,36179221.92151661,36179221.92151661
+AUS,forestry-and-land-use,shrubgrass-fires,,8156418,Halls Creek,8471977.999999994,8900649.999999996,36134322.99999,36134322.99999001
+DZA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588547,Algeria_Illizi - Ghadames_Conventional onshore,28148010.06832871,32587354.538058646,36028030.41606269,36028030.41606268
+CAN,forestry-and-land-use,forest-land-fires,,8182076,Peace River,2770246.3000000003,4775748.699999998,35861280.0,35861279.99999999
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588729,Russian Federation_Nepa - Botuoba_Conventional onshore,30150492.87220674,33885506.56479547,35781651.71567806,35781651.71567805
+AUS,forestry-and-land-use,removals,,8508515,Upper Hunter,-1938787.4444999995,4640021.051926,34821981.51889999,34821981.51889999
+ZAF,forestry-and-land-use,removals,,8731793,Siyanda,4201508.759,-10200857.4578,34768750.691999994,34768750.691999994
+RUS,power,electricity-generation,gas,449560,<unknown plant name>,33867000.0,34624000.0,34763000.0,34867000.0
+COD,forestry-and-land-use,forest-land-fires,,8183547,Lodja,2665005.6999999993,35209689.999999985,34570126.00002,34570126.00002
+COD,forestry-and-land-use,forest-land-fires,,8183243,Kamina,34638649.99999998,37647971.99999999,34443546.0,34443546.0
+CAN,forestry-and-land-use,forest-land-clearing,,5021513,Division No. 17,9254462.0,8748473.000000002,34259335.00002,34259335.00002
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440567,Baoshan Iron and Steel Co Ltd Headquarters,30984092.23696422,32610234.412463047,34007585.676369816,32984516.902990308
+MMR,forestry-and-land-use,forest-land-fires,,8215011,Mongsat,1596924.7999999996,5028451.399999997,33670338.0,33670337.99999999
+AUS,forestry-and-land-use,net-shrubgrass,,4571087,MacDonnell,-43202730.00000003,39199130.00000002,33032729.99999999,33032729.99999999
+CAF,forestry-and-land-use,forest-land-fires,,8181902,Yalinga,47533317.99999997,36219611.99999999,32499629.999999996,32499630.000000007
+SAU,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588737,Saudi Arabia_OtherBasins_OtherResources,30417688.02498778,31302829.35183604,32431239.351452623,32431239.351452623
+KOR,power,electricity-generation,"coal, other_fossil",448452,Taean,34938000.0,33423000.0,32078000.0,32171000.0
+AUS,forestry-and-land-use,forest-land-fires,,8163503,Wyndham-East Kimberley,16921519.999999993,35503119.999999985,32019066.000000007,32019066.00000001
+USA,forestry-and-land-use,net-forest-land,,8387291,Yukon-Koyukuk,-1386700.0000000189,-33535400.000000197,31878600.000000004,31878600.000000004
+AGO,forestry-and-land-use,forest-land-fires,,8160262,Luchazes,21696221.999999996,18552972.99999999,31669094.000009995,31669094.000009995
+CHN,manufacturing,chemicals,soda_ash,32267423,China,30976050.0,30828000.0,31561950.0,31561950.0
+COD,forestry-and-land-use,forest-land-fires,,8183221,Kasenga,27215434.99999998,34285602.999999985,31521035.999970004,31521035.999970004
+TWN,power,electricity-generation,"coal, oil",449443,Taizhong Taichung,33867000.0,31856000.0,31354000.0,31435000.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566560,Wuhan Iron and Steel Co Ltd,30203491.32527749,33927594.57124355,31335252.605397083,34458239.18388711
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588692,Mexico_Salinas - Sureste_Conventional onshore,21548266.891062267,28021876.583467014,31294838.616711542,31294838.61671155
+RUS,forestry-and-land-use,removals,,8690324,Bilibinskiy rayon,9978831.97,-18567260.46,30791289.679999992,30791289.679999992
+CHN,power,electricity-generation,coal,25451405,Togtoh power station,29975000.0,29588000.0,30767000.0,30571000.0
+RUS,forestry-and-land-use,net-forest-land,,8372278,Srednekolymskiy rayon,12083600.000000052,2957599.999999957,30474360.000000045,30474360.000000045
+BRA,forestry-and-land-use,forest-land-fires,,8172357,Altamira,5303412.999999997,42590651.99999999,30261728.000010006,30261728.000010006
+RUS,forestry-and-land-use,forest-land-clearing,,5051663,Berezovskiy rayon,2232564.0,390339.43,29979198.0,29979198.0
+CHN,manufacturing,chemicals,methanol,33998936,CHN-Yulin_methanol,29742917.715,29798584.62,29798584.619999997,29798584.619999997
+CAN,forestry-and-land-use,forest-land-fires,,8182036,Bulkley-Nechako,3684916.4999999995,41387.499999999985,29677974.999989998,29677974.999989994
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588664,Iraq_Zagros Foldbelt_Conventional onshore,27795050.375619072,31235861.44905994,29608184.057445087,29608184.05744509
+ZMB,forestry-and-land-use,forest-land-fires,,8255168,Kasempa,15288793.999999994,33056167.99999998,28952726.000010002,28952726.000009995
+OMN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588714,Oman_Rub al Khali_Conventional onshore,27650695.570984192,28690669.594930924,28573420.18011422,28573420.180114225
+DZA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588263,Algeria_Oued Mya_Conventional onshore,28271488.495634828,26161562.3806812,28078427.88025797,28078427.88025798
+AUS,forestry-and-land-use,forest-land-fires,,8161307,Tiwi Islands,14743278.499999994,10003443.999999996,27999073.000019997,27999073.00002
+CHN,manufacturing,iron-and-steel,BF/BOF,1566628,Rizhao Steel Holding Group Co Ltd,19440864.547609486,20631215.134461474,27859406.283241026,28352190.91442548
+RUS,forestry-and-land-use,net-forest-land,,8370643,Srednekanskiy rayon,4714870.000000019,2397459.9999999674,27418920.00000001,27418920.00000001
+KOR,manufacturing,iron-and-steel,BF/BOF,1566957,POSCO Pohang steel plant,29700963.323167942,27645423.44151162,27387790.978873804,27567474.804171577
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440512,Zhangjiagang Hongchang Steel Co Ltd,29366229.124430202,30108385.213331703,27287160.817683846,27854958.192569517
+MMR,forestry-and-land-use,forest-land-fires,,8215008,Loilen,14125662.99999999,21419684.999999996,27229290.0,27229290.0
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588782,United States_Anadarko_Shale gas,24941734.922363706,27026446.67994886,27218112.493154626,27218112.493154623
+CHN,manufacturing,iron-and-steel,BF/BOF,1566515,Shougang Jingtang United Iron & Steel Co Ltd,25387164.49704364,28129654.50390365,26932299.032935712,26636678.28824081
+RUS,forestry-and-land-use,removals,,8692216,Khatangskiy rayon,54638080.00000001,-17028571.000000004,26549388.19999999,26549388.19999999
+USA,forestry-and-land-use,removals,,8716066,Yukon-Koyukuk,-8220288.239999996,-81775862.04,26495797.939999994,26495797.939999994
+JPN,manufacturing,iron-and-steel,BF/BOF,1566917,JFE West Japan Works (Fukuyama) steel plant,21123736.468029972,26680620.50188204,26250130.160407253,26743022.4299306
+BOL,forestry-and-land-use,forest-land-fires,,8164868,Yacuma,893407.4999999999,7884517.999999995,26242604.999969997,26242604.99997
+RUS,forestry-and-land-use,removals,,8695004,Olenekskiy rayon,30451433.829999987,-15925737.059999995,26180237.019999996,26180237.019999996
+AUS,fossil-fuel-operations,oil-and-gas-production,LNG,3588566,Australia_North Carnarvon_LNG,23871756.417698268,26637622.119373217,26098204.17770435,26098204.177704357
+AUS,forestry-and-land-use,forest-land-fires,,8161287,East Arnhem,13106326.999999994,20015807.999999996,26075752.00002,26075752.00002
+AUS,fossil-fuel-operations,oil-and-gas-transport,LNG,3588280,Australia_North Carnarvon_LNG,23712838.639088318,26161581.878153183,25997010.158802852,25997010.15880285
+CHN,manufacturing,iron-and-steel,BF/BOF,1566499,Baosteel Zhanjiang Iron & Steel Co Ltd,23355893.26156687,24067177.742237728,25995774.88848068,19892473.42866549
+IND,power,electricity-generation,coal,25451489,Vindhyachal power station,22782000.0,24463000.0,25988000.0,26053000.0
+AGO,forestry-and-land-use,forest-land-fires,,8160225,Muconda,30379401.99999999,29361293.999999996,25849206.99999,25849206.99999
+AUS,forestry-and-land-use,net-shrubgrass,,4573559,East Pilbara,-61661560.00000002,37971519.99999999,25678659.99999998,25678659.99999998
+DZA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588261,Algeria_Illizi - Ghadames_Conventional onshore,19930371.708814614,23165666.487476904,25361928.000682846,25361928.000682842
+CHN,power,electricity-generation,coal,452326,<unknown plant name>,24765000.0,24598000.0,25311000.0,25385000.0
+IND,power,electricity-generation,coal,25453453,Mundra Thermal Power Project (Adani),22113000.0,23742000.0,25224000.0,25287000.0
+AGO,forestry-and-land-use,forest-land-fires,,8160089,Mavinga,15453624.99999999,19566695.999999996,25212987.99999,25212987.99999
+CAN,forestry-and-land-use,net-shrubgrass,,4621647,Inuvik,-9894999.999999981,2178300.000000036,25113100.00000003,25113100.00000003
+AUS,forestry-and-land-use,shrubgrass-fires,,8150436,Wyndham-East Kimberley,6016142.3999999985,28774871.999999996,25099849.99998,25099849.99998
+NOR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588424,Norway_Northern North Sea_Conventional shelf,26771089.738258075,25696149.81989965,25062615.372229807,25062615.372229807
+RUS,power,electricity-generation,coal,25452218,Reftinskaya GRES power station,21591000.0,23175000.0,25047000.0,25122000.0
+CHN,power,electricity-generation,coal,25453357,Changshu-2 power station,24442000.0,24276000.0,24980000.0,25053000.0
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588515,United States_Gulf Coast_Tight oil,20930661.27721397,23031040.113643326,24908495.87361319,24908495.87361319
+RUS,forestry-and-land-use,net-forest-land,,8372285,Verkhnekolymskiy rayon,4332969.99999999,155550.0000000051,24893190.000000004,24893190.000000004
+AUS,forestry-and-land-use,net-forest-land,,8301093,Upper Hunter,-1151769.999999999,3513919.999999984,24847240.00000002,24847240.000000022
+DEU,manufacturing,iron-and-steel,BF/BOF,1566771,ThyssenKrupp Steel Duisburg steel plant,24545515.13310841,20448836.833109442,24718798.569244597,26474722.514035396
+RUS,forestry-and-land-use,forest-land-fires,,8234291,Ust'-Mayskiy rayon,3792938.6999999997,7927742.999999999,24698277.99999,24698277.99999
+RUS,forestry-and-land-use,removals,,8694992,Kobyayskiy rayon,-22989580.759999987,12504426.090000002,24617825.119999994,24617825.119999994
+IRN,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588372,Iran_Rub al Khali_Conventional shelf,24527646.99517798,24040732.148045387,24491397.901757542,24491397.90175754
+CHN,manufacturing,iron-and-steel,BF/BOF,1566507,Guangxi Shenglong Metallurgical Co Ltd,11637499.014951285,19129732.27677846,24282652.7555497,20896312.18248607
+AUS,forestry-and-land-use,removals,,8508514,Unincorporated New South Wales,11712833.877999999,-1068502.3158,24253275.000000004,24253275.000000004
+RUS,forestry-and-land-use,net-forest-land,,8372276,Olenekskiy rayon,27750400.000000123,-12925200.000000132,24243900.000000175,24243900.000000175
+COD,forestry-and-land-use,shrubgrass-fires,,8160439,Kamina,33079307.99999999,27787221.99999999,24235373.999999996,24235374.000000004
+CHN,manufacturing,iron-and-steel,BF/BOF,1566505,Liuzhou Iron & Steel Co Ltd(Liuzhou Base),18623973.142009977,19660741.440731023,24229418.661293004,25604043.78764062
+AUS,forestry-and-land-use,forest-land-fires,,8161963,Derby-West Kimberley,6664144.499999999,8547414.999999996,24118607.999969997,24118607.999969997
+AUS,forestry-and-land-use,removals,,8736467,Laverton,-14745649.503070004,9951786.919679997,24109931.770900007,24109931.770900007
+RUS,forestry-and-land-use,removals,,8695009,Tomponskiy rayon,-9002526.700000001,-4258966.6,23980536.109999996,23980536.109999996
+AUS,forestry-and-land-use,shrubgrass-fires,,8155556,Roper Gulf,17557633.999999993,13745806.999999994,23969676.999989998,23969676.999989998
+KOR,manufacturing,iron-and-steel,"BF/BOF,EAF",32440882,Hyundai Steel Dangjin steel plant,17825288.7124016,21984452.809285548,23920678.789638244,24161042.362778284
+ARE,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588772,United Arab Emirates_Rub al Khali_Acid/sour gas,25421328.912939966,25778596.918749087,23898538.38440088,23898538.384400886
+CHN,power,electricity-generation,coal,25452549,Jiaxing power station,23328000.0,23170000.0,23842000.0,23911000.0
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588447,Russian Federation_Volga - Urals_Conventional onshore,27622387.31294634,25096352.217128843,23781677.04231927,23781677.04231927
+AUS,forestry-and-land-use,removals,,8508545,MacDonnell,-47541608.57869998,33653050.5295,23746740.948400002,23746740.948400002
+OMN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588428,Oman_Rub al Khali_Conventional onshore,23044613.18368001,24030688.66978239,23744961.47112686,23744961.47112686
+IND,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588650,India_OtherBasins_OtherResources,21181339.69081551,21323607.98158753,23706509.46867588,23706509.468675874
+MMR,forestry-and-land-use,forest-land-fires,,8214938,Palam,6055115.999999999,9016554.999999996,23599792.00002,23599792.00002
+KOR,power,electricity-generation,coal,25451254,Dangjin power station,24402000.0,24022000.0,23389000.0,23467000.0
+CHN,power,electricity-generation,coal,447565,Ganneng Fengcheng power station,8055900.0,11334700.0,23331000.0,22596000.0
+RUS,forestry-and-land-use,net-shrubgrass,,4865425,Khatangskiy rayon,25308629.999999996,532539.9999999831,23287830.00000004,23287830.00000004
+AGO,forestry-and-land-use,forest-land-fires,,8160249,Alto Zambeze,34478171.99999999,25168174.999999985,23103340.00002,23103340.000020005
+CHN,power,electricity-generation,coal,25450976,Taishan power station,21568000.0,22090000.0,22892000.0,22958000.0
+IRQ,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588377,Iraq_Widyan - North Arabian Gulf_Conventional onshore,20002448.684120335,22101810.818666838,22834816.95114599,22834816.951145988
+CHN,power,electricity-generation,coal,25452546,Beilun power station,22123000.0,23152000.0,22730000.0,21970000.0
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588443,Russian Federation_Nepa - Botuoba_Conventional onshore,15504938.352190033,19983525.291914724,22631771.549442448,22631771.549442444
+POL,power,electricity-generation,coal,25450764,Belchatow power station,26550000.0,27346000.0,22589000.0,22743000.0
+AUS,forestry-and-land-use,net-shrubgrass,,4571029,Unincorporated New South Wales,11119020.000000002,-768450.0000000014,22580540.000000015,22580540.000000015
+CAN,fossil-fuel-operations,oil-and-gas-transport,Oil sands,3588306,Canada_West Canadian - Alberta_Oil sands,21828157.176911313,22068995.909133468,22561359.23488714,22561359.234887138
+ZAF,forestry-and-land-use,net-shrubgrass,,4963597,Pixley ka Seme,11233459.999999978,-6693260.000000011,22483060.000000026,22483060.000000026
+ZMB,forestry-and-land-use,forest-land-fires,,8255183,Mufumbwe,14026431.99999999,26459006.999999996,22445072.00001,22445072.000010002
+USA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588798,United States_East Gulf Coast Tertiary_Deepwater,18811055.550387666,19756479.83764473,22364005.566086687,22364005.566086687
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440544,Bengang Steel Plates Co Ltd,21727409.686960645,20605165.014345124,22235876.82994833,20369550.85670962
+AUS,forestry-and-land-use,removals,,8508561,Bulloo,607909.8299999998,9462921.759999998,22229529.479999993,22229529.479999993
+MEX,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588690,Mexico_OtherBasins_OtherResources,23387130.05681797,22118906.392929766,22135226.724226974,22135226.724226978
+ZAF,forestry-and-land-use,removals,,8731790,Pixley ka Seme,10111543.6293,-7623119.617400002,22124480.647699997,22124480.647699997
+MYS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588685,Malaysia_OtherBasins_OtherResources,25856894.225548435,27979094.05273006,22119803.699488044,22119803.699488044
+IDN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588656,Indonesia_South Sumatra_Conventional onshore,23510655.122700926,23057984.025683183,22111961.429775793,22111961.42977579
+COD,forestry-and-land-use,forest-land-fires,,8183444,Mutshatsha,35686879.99999998,24451343.999999996,21999089.999999996,21999090.0
+AUS,forestry-and-land-use,net-shrubgrass,,4573747,Laverton,-12516760.000000006,8086759.999999996,21866889.999999985,21866889.999999985
+IND,power,electricity-generation,coal,25453692,Tata Mundra Ultra Mega Power Project,19144000.0,20556000.0,21838000.0,21893000.0
+RUS,manufacturing,iron-and-steel,BF/BOF,1567021,NLMK Lipetsk steel plant,21456597.56422291,27811682.06677039,21797973.44058287,21733803.063563675
+QAT,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588724,Qatar_OtherBasins_OtherResources,17152954.891220074,20204717.796543054,21742125.875726894,21742125.875726894
+MOZ,forestry-and-land-use,forest-land-fires,,8215402,Pebane,7100003.199999999,24380673.99999999,21659040.0,21659040.0
+CHN,power,electricity-generation,coal,25454598,Yangxi Zhujiang power station,21906000.0,20912000.0,21622000.0,21028000.0
+IND,power,electricity-generation,coal,25453691,Sasan Ultra Mega Power Project,18954000.0,20350000.0,21621000.0,21675000.0
+CAF,forestry-and-land-use,forest-land-fires,,8181900,Ouadda,28332204.99999999,26511559.99999998,21583126.00002,21583126.00002
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588501,United States_ArkLaTex_Shale gas,18043008.64356579,19600355.61409571,21527097.018963456,21527097.018963456
+AGO,forestry-and-land-use,forest-land-fires,,8160131,Mussende,20048310.99999999,21500720.999999996,21525783.99999,21525783.99999
+RUS,forestry-and-land-use,removals,,8694038,Srednekanskiy rayon,2036201.0349999992,77154.43999999993,21525371.42,21525371.42
+VEN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588823,Venezuela_OtherBasins_OtherResources,18331170.34146994,19895243.40482669,21444406.522257514,21444406.52225751
+CAN,forestry-and-land-use,forest-land-fires,,8182370,Vallée-de-l'Or,183.07448999999988,0.0,21432830.00001,21432830.00001
+RUS,forestry-and-land-use,net-forest-land,,8369160,Bilibinskiy rayon,10258849.999999994,-4779299.999999978,21411960.000000022,21411960.000000022
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1567260,Inner Mongolia BaoTou Steel Union Co Ltd,24688681.56508199,31750199.30878592,21393870.243900627,20362376.667913027
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588659,Iran_Widyan - North Arabian Gulf_Conventional onshore,18954525.612206098,20486037.785169527,21345920.232077055,21345920.232077055
+LBY,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588681,Libya_Sirte_Conventional onshore,18880972.641141362,18814139.11674527,21168368.52328701,21168368.523287006
+AUS,forestry-and-land-use,net-shrubgrass,,4571115,Bulloo,963600.0000000139,9045919.999999994,21162649.999999985,21162649.999999985
+SAU,power,electricity-generation,"gas, other_fossil",449168,<unknown plant name>,20381000.0,19979000.0,21136000.0,21183000.0
+IND,power,electricity-generation,coal,25452419,Anpara power station,18330000.0,19682000.0,20910000.0,20962000.0
+AUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588281,Australia_OtherBasins_OtherResources,21962686.37531631,20335860.884540386,20870631.73025693,20870631.730256926
+AGO,forestry-and-land-use,forest-land-fires,,8160264,Lumbala-Nguimbo,17318896.999999993,17235909.99999999,20831940.000000007,20831940.000000004
+COD,forestry-and-land-use,forest-land-fires,,8183240,Sakania,18099935.999999996,25931291.999999996,20829627.999989998,20829627.999989998
+CHN,power,electricity-generation,coal,25453234,Ninghai power station,21090000.0,20809000.0,20802000.0,20027000.0
+ZAF,power,electricity-generation,coal,25450906,Majuba power station,21483000.0,20969000.0,20740000.0,20368000.0
+TWN,manufacturing,iron-and-steel,BF/BOF,1567087,China Steel Corporation Xiaogang plant,18255835.91858575,18568174.269980095,20643088.160044406,20631642.183887675
+IDN,fossil-fuel-operations,oil-and-gas-production,LNG,3588654,Indonesia_Kutei_LNG,20515059.228132956,20530814.86010955,20624493.8929874,20624493.8929874
+CHN,power,electricity-generation,coal,25450220,Pingwei power station,20307000.0,20468000.0,20569000.0,20477000.0
+COD,forestry-and-land-use,forest-land-fires,,8183378,Kahemba,29476417.99999998,21606387.99999999,20567843.999999996,20567844.0
+CHN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588318,China_OtherBasins_OtherResources,19526502.87327784,20303662.10533298,20518953.49937932,20518953.49937932
+CHN,forestry-and-land-use,removals,,8559504,Chengde,1579273.3769999996,4667754.304,20472275.851000004,20472275.851000004
+ZAF,power,electricity-generation,coal,25450905,Lethabo power station,21024000.0,20768000.0,20466000.0,19612000.0
+ZAF,power,electricity-generation,coal,25453872,Medupi power station,22222000.0,21416000.0,20274000.0,20330000.0
+IND,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143912,RPL (Reliance Petroleum Limited) Jamnagar Refinery,18777300.37227476,19754326.775304556,20242544.094975516,20242544.094975516
+MOZ,forestry-and-land-use,forest-land-fires,,8215395,Morrumbala,17529279.99999999,25698295.999999985,20207705.000010002,20207705.000010002
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588796,United States_Denver-Julesburg_Tight oil,19301098.624165762,19858431.645579975,20142850.599259485,20142850.599259492
+RUS,forestry-and-land-use,removals,,8694982,Abyyskiy rayon,480937.36000000004,5052971.53,20139388.5,20139388.5
+AGO,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588551,Angola_Lower Congo_Deepwater,19417103.07565069,20337881.448619436,20095371.292324632,20095371.292324636
+RUS,forestry-and-land-use,net-forest-land,,8372283,Ust'-Mayskiy rayon,9810429.999999996,-11596270.000000006,20084899.999999948,20084899.999999948
+MOZ,forestry-and-land-use,forest-land-fires,,8215380,Gile,8853643.999999994,22430642.999999996,20083126.000019997,20083126.00002
+CHN,power,electricity-generation,coal,25452033,Waigaoqiao power station,18990000.0,19288000.0,20055000.0,20293000.0
+BOL,forestry-and-land-use,forest-land-fires,,8164920,Velasco,12146086.999999994,38690566.99999998,20054649.999959994,20054649.999959998
+COD,forestry-and-land-use,forest-land-fires,,8183442,Lubudi,25060775.999999996,19109971.999999993,19941037.999980003,19941037.999980003
+MMR,forestry-and-land-use,forest-land-fires,,8215002,Kyaukme,4148573.9999999995,19964265.99999999,19920260.00001,19920260.000010002
+CHN,power,electricity-generation,coal,25453086,Houshi power station,19479000.0,19348000.0,19911000.0,19969000.0
+IND,manufacturing,iron-and-steel,"EAF,BF/BOF",32440777,JSW Steel Vijayanagar steel plant,17436230.422985934,14506751.529796822,19842610.16001391,19800242.62691598
+USA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588521,United States_OtherBasins_OtherResources,20967254.148696188,20635111.356504984,19838214.38186487,19838214.38186487
+CHN,manufacturing,iron-and-steel,"BF/BOF,BOF,EAF",38089178,Ma'anshan Iron & Steel Co Ltd,29273833.229881674,28126303.25682732,19810914.595065434,22834318.57799036
+RUS,forestry-and-land-use,removals,,8692199,Diksonskiy rayon,22676017.625,20123482.305399995,19735862.051,19735862.051
+KOR,power,electricity-generation,coal,25451260,Yeongheung power station,20382000.0,20169000.0,19712000.0,19555000.0
+AUS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588567,Australia_OtherBasins_OtherResources,21456970.69809248,19861112.451596774,19644122.100344773,19644122.10034477
+AUS,forestry-and-land-use,shrubgrass-fires,,8156318,Broome,6865201.499999999,4900227.999999997,19639834.999980006,19639834.999980003
+RUS,manufacturing,iron-and-steel,"BF/BOF,EAF",32440950,Magnitogorsk Iron & Steel Works,20590641.562650315,20305766.079783868,19629648.08821225,22801322.65307928
+RUS,forestry-and-land-use,removals,,8695013,Verkhnekolymskiy rayon,-1474809.4300000004,789043.3199999998,19617180.429999996,19617180.429999996
+RUS,forestry-and-land-use,removals,,8695015,Verkhoyanskiy rayon,-25235142.790000003,27829472.48,19615283.32,19615283.32
+CHN,power,electricity-generation,coal,25454545,Jurong power station,19176000.0,18474000.0,19537000.0,19053000.0
+LBY,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588680,Libya_OtherBasins_OtherResources,21986928.573869318,17645951.41987934,19490436.055600118,19490436.055600118
+USA,transportation,road-transportation,,3645972,Los Angeles,19353573.03485402,19479337.03845469,19466131.7406458,19395764.68798844
+ARE,transportation,international-aviation,international,3166444,Dubai International Airport,8943641.270232217,15095300.99957764,19455154.588748913,20367734.194787618
+IDN,power,electricity-generation,coal,25451725,PLN Paiton power station,21550000.0,20368000.0,19401000.0,19453000.0
+RUS,forestry-and-land-use,net-shrubgrass,,4865312,Diksonskiy rayon,22328180.00000001,19936949.999999996,19395370.000000022,19395370.000000022
+RUS,manufacturing,iron-and-steel,"BF/BOF,EAF",32440961,Severstal Cherepovets steel plant,16446754.566560976,16665553.45943572,19390208.80481966,18415679.1406276
+CHN,power,electricity-generation,coal,25454092,Huadian Laizhou power station,18941000.0,18812000.0,19359000.0,19415000.0
+AUS,forestry-and-land-use,removals,,8734905,South Burnett,2681205.7898999997,-1518125.7759999998,19342827.864499997,19342827.864499997
+AGO,forestry-and-land-use,forest-land-fires,,8160086,Cuito Cuanavale,11143960.999999994,7232113.999999995,19289695.99998,19289695.99998
+RUS,forestry-and-land-use,forest-land-fires,,8230417,Zeyskiy rayon,122286.43999999999,606568.4599999997,19233003.999989998,19233003.999989998
+JPN,manufacturing,iron-and-steel,BF/BOF,1566925,"Nippon Kyushu Works (Oita Area, Oita) steel plant",19746458.88489255,19939867.47786539,19178985.39711101,19063694.70323185
+CHN,power,electricity-generation,"coal, gas",447793,Shidongkou power station,18903000.0,18901000.0,19141000.0,19197000.0
+CAN,forestry-and-land-use,forest-land-clearing,,5021545,Peace River,6786189.599999999,4806397.999999999,19135790.00001,19135790.00001
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588693,Mexico_Salinas - Sureste_Conventional shelf,21258840.95432387,21812554.00709708,19117138.13358829,19117138.133588295
+RUS,forestry-and-land-use,net-forest-land,,8372265,Kobyayskiy rayon,3364620.0000000014,10280550.000000002,19099820.00000002,19099820.00000002
+KWT,power,electricity-generation,"gas, other_fossil",448480,Az Zour South CCGT,17699000.0,18544000.0,19086000.0,19135000.0
+AZE,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588573,Azerbaijan_South Caspian_Conventional shelf,21200204.008366197,20307677.309658434,19043123.69434358,19043123.694343578
+CHN,manufacturing,iron-and-steel,BF/BOF,1566584,Nanjing Iron & Steel Co Ltd,19195485.111467928,18082291.839157302,19036970.460209444,20188773.67971993
+CHN,forestry-and-land-use,net-forest-land,,8310263,Chengde,2938400.000000002,2283759.999999973,18941490.000000045,18941490.000000045
+CHN,forestry-and-land-use,removals,,8560133,Hulunbuir,7347741.500000003,-8848067.900000002,18927398.069999997,18927398.069999997
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440450,Hebei Yanshan Iron and Steel Group Co Ltd,17862409.710141826,18495335.1105982,18900000.54323464,17120860.25362259
+CHN,power,electricity-generation,coal,25454834,Guazhou Changle power station,9340900.0,9395700.0,18842000.0,18211000.0
+NGA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588705,Nigeria_Niger Delta_Conventional onshore,19829938.7540058,17316181.104762606,18830617.394363455,18830617.394363455
+CHN,power,electricity-generation,coal,25457222,Weiqiao Zouping-1 power station,18367000.0,18241000.0,18772000.0,18827000.0
+IND,manufacturing,iron-and-steel,BF/BOF,1566853,Tata Steel Jamshedpur steel plant,19769152.171150893,16645440.328829912,18756055.59627874,18555070.540888704
+GBR,transportation,international-aviation,international,3167702,London Heathrow Airport,6559754.1157003185,14517152.718351712,18695125.6048074,19235501.72554439
+IDN,power,electricity-generation,"coal, oil",448927,PLTU Suralaya,20737000.0,19602000.0,18668000.0,18718000.0
+BRA,forestry-and-land-use,forest-land-fires,,8172485,Mojuí dos Campos,55710.08499999997,842454.4999999997,18635043.99999,18635043.99999
+JPN,manufacturing,iron-and-steel,BF/BOF,1566923,Nippon East Japan Works (Kimitsu) steel plant,18248033.52012999,16575548.00339851,18621715.272046316,17871361.008756123
+IDN,power,electricity-generation,coal,25453105,Tanjung Jati B power station,11768000.0,19546000.0,18618000.0,18668000.0
+MOZ,forestry-and-land-use,forest-land-fires,,8215391,Mocuba,12367049.999999998,21503013.99999999,18578923.999979995,18578923.999979995
+IND,power,electricity-generation,coal,25453047,Tamnar power station,16275000.0,17474000.0,18561000.0,18608000.0
+COD,forestry-and-land-use,forest-land-fires,,8183219,Kambove,32675269.999999974,23491553.999999996,18534093.999990005,18534093.99999
+TZA,forestry-and-land-use,forest-land-fires,,8241312,Mlele,17092025.999999996,18906581.999999996,18513936.99999,18513936.99999
+RUS,forestry-and-land-use,removals,,8694997,Momskiy rayon,7998941.403500002,-5430934.660999999,18505268.358,18505268.358
+KAZ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588674,Kazakhstan_Precaspian_Conventional onshore,18684799.123668298,19596237.7671579,18474390.867320385,18474390.867320385
+BWA,forestry-and-land-use,shrubgrass-fires,,8159564,Ngamiland West,11292710.999999998,9746740.999999994,18404423.000009995,18404423.00001
+AUS,forestry-and-land-use,removals,,8734928,Western Downs,-4677703.058,-25693851.579000007,18395189.522,18395189.522
+BOL,forestry-and-land-use,forest-land-clearing,,5015641,Velasco,24891770.0,20163070.0,18321375.0,18321375.0
+MYS,power,electricity-generation,coal,25452317,Manjung power station,17980000.0,17944000.0,18296000.0,18528000.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566485,Chongqing Iron & Steel Co Ltd,16611096.486286003,18013742.54908487,18242532.826285083,18117283.04755601
+BRA,forestry-and-land-use,forest-land-fires,,8172639,Uruará,160274.38999999993,3803661.7999999975,18241577.000010002,18241577.000010002
+BOL,forestry-and-land-use,forest-land-fires,,8164914,Ichilo,604019.6999999998,2983626.799999999,18227661.0,18227661.0
+COD,forestry-and-land-use,forest-land-fires,,8183434,Dilolo,31515130.99999998,19794131.999999996,18218937.000000004,18218937.0
+CHN,power,electricity-generation,coal,25452028,Zouxian power station,18272000.0,18710000.0,18196000.0,18821000.0
+ZAF,power,electricity-generation,coal,25450908,Matla power station,20081000.0,19005000.0,18186000.0,18820000.0
+BRA,forestry-and-land-use,forest-land-clearing,,5018071,Altamira,25338854.000000004,25787033.000000004,18184669.99998,18184669.99998
+CHN,power,electricity-generation,coal,25453164,Yuhuan power station,17360000.0,17398000.0,18166000.0,18109000.0
+CAN,forestry-and-land-use,shrubgrass-fires,,8159684,Fort Smith,123225.62999999993,15140330.999999998,18161667.0,18161667.0
+AUS,forestry-and-land-use,removals,,8734841,Gympie,-2173027.0809,-4305596.97532,18134631.506499995,18134631.506499995
+CHN,manufacturing,iron-and-steel,BF/BOF,1566527,Hebei Donghai Special Steel Co Ltd,16911020.030653317,15891577.635031164,18089742.40148654,17963463.03536951
+VNM,power,electricity-generation,coal,25454003,Duyen Hai Power Generation Complex,19179000.0,14897000.0,18077000.0,18124000.0
+IDN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588651,Indonesia_Central Sumatra_Conventional onshore,6523201.525326628,16650523.83934326,18075727.937631592,18075727.937631592
+TKM,fossil-fuel-operations,oil-and-gas-transport,Acid/sour gas,3588478,Turkmenistan_Amu-Darya_Acid/sour gas,15965199.495426878,17477883.66858904,18042351.567924835,18042351.56792484
+AUS,forestry-and-land-use,net-forest-land,,8398023,Western Downs,11903899.999999965,-16287749.99999996,18032350.000000007,18032350.000000007
+IND,power,electricity-generation,coal,25454050,Tiroda Thermal Power Project,15796000.0,16961000.0,18016000.0,18061000.0
+CHN,power,electricity-generation,coal,25451063,Hubei Ezhou power station,18497000.0,17209000.0,18012000.0,17651000.0
+BRA,forestry-and-land-use,forest-land-fires,,8165071,Lábrea,9268773.999999996,25799388.99999999,17946925.999980003,17946925.99998
+CHN,power,electricity-generation,coal,25451015,Qinbei power station,17826000.0,18012000.0,17944000.0,18341000.0
+CHN,power,electricity-generation,coal,25453828,Tianjin Beijiang power station,18022000.0,17064000.0,17870000.0,17922000.0
+CHN,power,electricity-generation,coal,25450166,Suizhong power station,17439000.0,17319000.0,17823000.0,17875000.0
+KWT,power,electricity-generation,"gas, other_fossil",448484,Sabiya,16339000.0,17168000.0,17725000.0,17769000.0
+CHN,power,electricity-generation,coal,25453911,Taizhou power station,18148000.0,17938000.0,17694000.0,17543000.0
+AGO,forestry-and-land-use,net-forest-land,,8300015,Muconda,-5433439.999999961,-10788680.0,17648359.999999966,17648359.999999966
+ETH,forestry-and-land-use,forest-land-fires,,8192169,Metekel,25124930.999999996,18581819.999999996,17615213.00001,17615213.00001
+VNM,power,electricity-generation,coal,25453850,Vinh Tan power station,18595000.0,14441000.0,17522000.0,17568000.0
+ZAF,power,electricity-generation,coal,25450902,Kendal power station,19180000.0,18487000.0,17499000.0,17546000.0
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440568,Shanxi Taigang Stainless Steel Co Ltd,14280927.43339848,16196104.108607944,17472604.599126987,17813932.525957283
+CHN,power,electricity-generation,coal,25453295,Shangdu power station,16963000.0,17383000.0,17447000.0,17268000.0
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440535,Xinyu Iron and Steel Group Co Ltd,20417119.62353002,18555565.410076223,17390619.223304037,19199053.547034033
+SSD,forestry-and-land-use,shrubgrass-fires,,8194040,Raja,14278135.000000002,20229898.0,17361065.00001,17361065.00001
+BOL,forestry-and-land-use,forest-land-fires,,8164863,Iténez,1372825.6999999995,8231761.999999995,17339836.00002,17339836.000019997
+AGO,forestry-and-land-use,forest-land-fires,,8160094,Rivungo,12517978.999999994,17337148.999999993,17305479.99999,17305479.99999
+CHN,power,electricity-generation,coal,25454807,Wujiaqu power station,17707000.0,16897000.0,17258000.0,17209000.0
+AUS,forestry-and-land-use,net-forest-land,,8398015,South Burnett,4140519.999999981,-875669.9999999853,17182709.999999985,17182709.999999985
+AGO,forestry-and-land-use,forest-land-fires,,8160213,Lubalo,18936364.999999993,22391631.99999999,17072505.99999,17072505.99999
+AGO,forestry-and-land-use,forest-land-fires,,8160226,Saurimo,18896497.999999993,18179159.999999996,17032585.00002,17032585.00002
+KOR,power,electricity-generation,"coal, gas, other_fossil",448447,<unknown plant name>,18655000.0,17833000.0,17011000.0,17060000.0
+ZAF,power,electricity-generation,coal,25454015,Kusile power station,14911000.0,17964000.0,17006000.0,19038000.0
+BOL,forestry-and-land-use,shrubgrass-fires,,8150913,Yacuma,5468908.999999998,12651592.999999994,16993122.00003,16993122.00003
+SAU,power,electricity-generation,"oil, other_fossil",449190,RABIGH,17477000.0,17106000.0,16982000.0,17020000.0
+CAF,forestry-and-land-use,forest-land-fires,,8181149,Ndélé,20478770.999999996,19628499.99999999,16973734.000019997,16973734.000019997
+ZAF,power,electricity-generation,coal,25450907,Matimba power station,18592000.0,17920000.0,16964000.0,17010000.0
+AUS,forestry-and-land-use,net-shrubgrass,,4573906,Ngaanyatjarraku,-28854219.99999999,21837390.0,16958406.000000007,16958406.000000007
+BRA,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588295,Brazil_Santos_Deepwater,13942487.527204057,15376405.03443993,16895388.132276163,16895388.132276166
+BOL,forestry-and-land-use,forest-land-clearing,,5015570,General José Ballivián,3707561.5000000005,4405038.0,16874260.000019997,16874260.000019997
+RUS,forestry-and-land-use,net-forest-land,,8372281,Tomponskiy rayon,6168800.0000000335,-2601300.0000000373,16853240.000000034,16853240.000000034
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440428,SGIS Songshan Co Ltd,15183135.432096237,14296109.828122009,16828039.57764822,15872214.320537418
+PNG,forestry-and-land-use,forest-land-fires,,8224057,South Fly,105942.01999999996,29204.222999999987,16815699.0,16815699.0
+CAN,forestry-and-land-use,removals,,8550818,Keewatin,-40157399.67,16317941.150000004,16772454.119999997,16772454.119999997
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588527,United States_Williston_Tight oil,16201978.000453396,15688450.889199538,16768667.544096988,16768667.54409699
+IRN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588374,Iran_Zagros Foldbelt_Conventional onshore,13890962.553748084,14695379.200525004,16752090.786723077,16752090.786723077
+AGO,forestry-and-land-use,forest-land-fires,,8160205,Caungula,20666766.99999999,16053451.999999993,16679914.000019997,16679914.00002
+KAZ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588673,Kazakhstan_OtherBasins_OtherResources,15432477.376740664,13414620.243321687,16662008.309801549,16662008.30980155
+AGO,forestry-and-land-use,forest-land-fires,,8160266,Moxico,22161494.999999996,12897565.999999994,16660590.99999,16660590.999989998
+AUS,forestry-and-land-use,forest-land-fires,,8161501,Tablelands,12730598.999999998,19532912.999999996,16623137.000010002,16623137.000010002
+SAU,power,electricity-generation,gas,25451979,Ghazlan power plant,15795200.0,15488100.0,16610000.0,16647000.0
+AGO,forestry-and-land-use,forest-land-fires,,8160239,Luquembo,14234233.999999994,17747231.999999996,16607895.0,16607895.0
+COD,forestry-and-land-use,net-forest-land,,8310637,Kamina,-12839380.000000006,-5667620.0,16558620.00000002,16558620.00000002
+AUS,forestry-and-land-use,net-forest-land,,8398004,North Burnett,17612979.99999999,-12836760.000000026,16540889.999999987,16540889.999999989
+CHN,forestry-and-land-use,removals,,8560146,Xilin Gol,-1443595.5249999994,6967515.292999999,16534107.713999996,16534107.713999996
+RUS,forestry-and-land-use,net-forest-land,,8372255,Abyyskiy rayon,1868390.0000000047,3854199.999999991,16531949.999999998,16531949.999999998
+CHN,forestry-and-land-use,net-shrubgrass,,4624338,Xilin Gol,-947419.999999994,6614350.000000004,16531549.999999994,16531549.999999994
+CHN,forestry-and-land-use,forest-land-clearing,,5022069,Baise,13803613.999999994,18224157.0,16451628.0,16451628.0
+AGO,forestry-and-land-use,shrubgrass-fires,,8208680,Alto Zambeze,23151729.99999999,17069219.999999996,16450755.99999,16450755.99999
+COD,forestry-and-land-use,forest-land-fires,,8183234,Pweto,23972373.99999999,17181523.999999993,16413070.00002,16413070.00002
+IND,power,electricity-generation,"coal, oil",448682,RIHAND,14361000.0,15417000.0,16380000.0,16421000.0
+IND,power,electricity-generation,coal,25453799,Talcher Kaniha Super Thermal Power Station,14360000.0,15417000.0,16378000.0,16419000.0
+CHN,power,electricity-generation,coal,25454362,Yuanyang Lake power station,16074000.0,16279000.0,16346000.0,16172000.0
+IND,power,electricity-generation,coal,25452937,Sipat power station,14264000.0,15316000.0,16269000.0,16310000.0
+AUS,forestry-and-land-use,net-forest-land,,8397985,Gympie,-176320.000000004,-2606200.000000001,16192139.999999994,16192139.999999994
+AGO,forestry-and-land-use,forest-land-fires,,8160064,Chitembo,19011531.99999999,7309609.999999995,16191336.0,16191336.000000002
+RUS,forestry-and-land-use,removals,,8694987,Bulunskiy rayon,6535442.999999999,1496316.3999999992,16160030.200000001,16160030.200000001
+TWN,power,electricity-generation,coal,25451349,Mailiao power station,17244000.0,16792000.0,16143000.0,16437000.0
+TWN,power,electricity-generation,"coal, gas, other_fossil",449439,Hsinta (gas),17136000.0,16384000.0,16133000.0,16175000.0
+CHN,power,electricity-generation,coal,25455866,Guoneng Shanghaimiao power station,3405800.0,6273100.0,16118000.0,17595000.0
+ARE,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588485,United Arab Emirates_OtherBasins_OtherResources,13874569.855211,15803158.02661942,16115491.87324003,16115491.87324003
+CHN,power,electricity-generation,coal,25451058,Yimin power station,15822000.0,16001000.0,16049000.0,16112000.0
+COD,forestry-and-land-use,forest-land-fires,,8183594,Kabalo,14060991.99999999,18364799.999999996,16040949.99999,16040949.99999
+TUR,power,electricity-generation,coal,25453969,ZETES power stations,15103000.0,15399000.0,15990000.0,16034000.0
+IND,power,electricity-generation,coal,25451342,Chandrapur Thermal Power Station,14611000.0,15001000.0,15983000.0,15544000.0
+AUS,forestry-and-land-use,removals,,8736491,Ngaanyatjarraku,-30418884.038299993,22548365.1814,15961832.403419994,15961832.403419994
+CAN,forestry-and-land-use,net-shrubgrass,,4621703,Keewatin,-39190800.00000008,16347300.00000002,15956149.999999976,15956149.999999976
+RUS,power,electricity-generation,coal,25452661,Berezovskaya power station,13751000.0,14759000.0,15953000.0,16001000.0
+COD,forestry-and-land-use,forest-land-fires,,8183231,Mitwaba,24036445.999999985,15002354.999999998,15948639.0,15948639.0
+KOR,power,electricity-generation,coal,25451242,Hadong power station,16998000.0,16355000.0,15895000.0,15963000.0
+SAU,power,electricity-generation,"oil, other_fossil",449864,SHAIBA (SEC),16350000.0,16001900.0,15885700.0,15921000.0
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1566528,Jingye Iron and Steel Co Ltd,22261453.748793907,20751007.457923435,15884331.418715583,14222235.784588305
+AUS,forestry-and-land-use,removals,,8508525,Warrumbungle,-6156288.6286,6823726.803499998,15872641.4513,15872641.4513
+AGO,forestry-and-land-use,shrubgrass-fires,,8208642,Saurimo,18800796.99999999,17255610.99999999,15872294.000009999,15872294.000009999
+AUS,forestry-and-land-use,forest-land-fires,,8161320,Aurukun,4351300.199999997,16763579.999999998,15791594.00001,15791594.00001
+BRA,forestry-and-land-use,forest-land-fires,,8172593,São Félix do Xingu,2317764.299999999,37347571.99999998,15765336.000000002,15765336.0
+RUS,forestry-and-land-use,net-forest-land,,8372287,Verkhoyanskiy rayon,-13163209.999999993,23389979.999999985,15761259.999999987,15761259.999999987
+CHN,power,electricity-generation,coal,25453196,Ningxia Lingwu power station,15398000.0,15292000.0,15737000.0,15783000.0
+CHN,power,electricity-generation,coal,25454094,Jiangsu Sheyanggang power station,6122100.0,6080400.0,15737000.0,15783000.0
+AUS,forestry-and-land-use,removals,,8734892,Quilpie,-1622450.78,12213740.36,15711162.373499999,15711162.373499999
+SRB,power,electricity-generation,coal,25450762,Nikola Tesla power station,15963000.0,15768000.0,15710000.0,15760000.0
+COD,forestry-and-land-use,forest-land-fires,,8183380,Kasongo-Lunda,34032802.99999998,20824262.999999996,15654186.999990003,15654186.999990001
+CHN,power,electricity-generation,coal,25450361,Hanchuan power station,15266000.0,15492500.0,15654000.0,14768000.0
+AUS,forestry-and-land-use,net-shrubgrass,,4571075,Central Desert,-43798240.00000002,32613709.99999997,15651610.000000006,15651610.000000006
+MEX,power,electricity-generation,coal,25450513,Petacalco power station,7434900.0,11996900.0,15635000.0,15678000.0
+SAU,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588453,Saudi Arabia_Widyan - North Arabian Gulf_Conventional shelf,13820992.971004928,18310313.647160467,15633588.344737908,15633588.344737908
+ITA,manufacturing,iron-and-steel,BF/BOF,1566891,Acciaierie d'Italia Taranto steel plant,16136519.635521673,15413131.646465836,15619209.101200461,15962982.28477422
+CHN,power,electricity-generation,coal,25453720,Jinjie power station,15757000.0,15673000.0,15615000.0,15619000.0
+MOZ,forestry-and-land-use,forest-land-fires,,8215265,Mecula,16694629.999999993,19608855.99999999,15601161.999989998,15601161.999989998
+BOL,forestry-and-land-use,forest-land-fires,,8164913,Guarayos,1334784.7,18617476.999999993,15590731.99998,15590731.999979999
+AUS,forestry-and-land-use,forest-land-fires,,8161309,Unincorporated Norther Territori,10053477.999999996,15719152.999999993,15473408.999970002,15473408.999970002
+CHN,power,electricity-generation,coal,25454155,Zhangjiagang Shazhou power station,15119000.0,15017000.0,15452000.0,15497000.0
+COD,forestry-and-land-use,net-forest-land,,8310737,Dilolo,1637240.0000000203,-11789220.0,15445709.99999996,15445709.99999996
+AUS,power,electricity-generation,"coal, oil",447843,Eraring,15362000.0,14867000.0,15441000.0,15483000.0
+QAT,fossil-fuel-operations,oil-and-gas-transport,LNG,3588440,Qatar_Rub al Khali_LNG,15579924.48546989,15524435.36613091,15428145.52563812,15428145.52563812
+CHN,power,electricity-generation,coal,25453816,Haimen power station,15287000.0,15425000.0,15378000.0,15440000.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566683,Hebei Zongheng Group Fengnan Iron & Steel Co Ltd,14548891.24495341,15272981.076883977,15352039.351159537,15571874.662324911
+RUS,power,electricity-generation,"gas, coal",449138,<unknown plant name>,14125000.0,14766000.0,15346000.0,15392000.0
+CHN,power,electricity-generation,coal,25453372,Chaozhou Sanbaimen power station,15652000.0,15445000.0,15345000.0,15035000.0
+JPN,power,electricity-generation,coal,25450446,Hekinan power station,17203000.0,16858000.0,15344000.0,15639000.0
+AUS,forestry-and-land-use,removals,,8508415,Bourke,1885836.9260000002,-6913533.305999998,15316493.949999997,15316493.949999997
+CHN,power,electricity-generation,coal,25455924,Shandong Xinfa Xinyuan power station,16570000.0,15652000.0,15305000.0,15415000.0
+MYS,fossil-fuel-operations,oil-and-gas-production,LNG,3588688,Malaysia_Sarawak - Luconia-East Natuna_LNG,14916650.668585442,15650378.950989267,15294129.649057265,15294129.649057265
+COD,forestry-and-land-use,shrubgrass-fires,,8162205,Lubao,17661015.99999999,15254693.999999998,15256083.000029998,15256083.00003
+IND,power,electricity-generation,coal,25451483,Ramagundam power station,12443700.0,13362700.0,15217000.0,20458000.0
+NAM,forestry-and-land-use,removals,,8670222,Mariental Rural,3308141.396173999,2464106.1967969993,15187482.510721004,15187482.510721004
+NAM,forestry-and-land-use,net-shrubgrass,,4760044,Mariental Rural,3775260.000000002,2742530.0000000033,15174480.000000002,15174480.000000002
+ZAF,power,electricity-generation,coal,25450899,Duvha power station,13840200.0,13865200.0,15174000.0,14638000.0
+CHN,manufacturing,chemicals,methanol,33998977,CHN-Xilin Gol_methanol,15170169.700000001,15170169.700000001,15170169.700000001,15170169.700000001
+CHN,power,electricity-generation,coal,25453439,Heyuan power station,14916000.0,14618000.0,15109000.0,14426000.0
+BRA,forestry-and-land-use,forest-land-fires,,8169608,Poconé,722646.6499999994,512026.79999999964,15063457.499999998,15063457.5
+CHN,power,electricity-generation,coal,25454308,Zheneng Yueqing power station,8289800.0,8194300.0,15047000.0,15094000.0
+RUS,power,electricity-generation,gas,25452872,Kostromskaya GRES power station,14656000.0,14985000.0,15046000.0,15091000.0
+RUS,forestry-and-land-use,forest-land-clearing,,5054530,Ust'-Mayskiy rayon,16889083.999999996,315994.8300000001,15009316.99998,15009316.999979999
+BRA,forestry-and-land-use,forest-land-clearing,,5018150,Pacajá,10472615.0,11186917.999999998,15001475.999999998,15001476.0
+JPN,power,electricity-generation,coal,25453132,Kobe power station,9194400.0,12644600.0,14990000.0,15035000.0
+CAF,forestry-and-land-use,shrubgrass-fires,,8159619,Birao,8379957.999999996,11217337.999999994,14989376.999999996,14989376.999999998
+USA,forestry-and-land-use,forest-land-clearing,,5069951,Lane,8991228.0,4418871.0,14951075.00001,14951075.00001
+BRA,forestry-and-land-use,forest-land-clearing,,5018183,São Félix do Xingu,20364374.0,20635159.0,14934767.00001,14934767.000009999
+CHN,power,electricity-generation,coal,25454218,Xuzhou Pengcheng power station,14740000.0,14264900.0,14927000.0,14687000.0
+CHN,power,electricity-generation,coal,25451402,Dalate power station,14675000.0,14865000.0,14920000.0,14842000.0
+RUS,power,electricity-generation,coal,25451931,Novocherkasskaya GRES power station,12830500.0,13772000.0,14884000.0,14928000.0
+IND,power,electricity-generation,coal,25451764,Suratgarh Super Thermal Power Station,11130100.0,11807100.0,14805000.0,14539300.0
+AGO,forestry-and-land-use,shrubgrass-fires,,8208630,Lucapa,18436671.99999999,15873815.999999998,14794859.00001,14794859.00001
+CHN,power,electricity-generation,coal,25452688,Xishan Gujiao power station,14469000.0,14370000.0,14789000.0,14832000.0
+IND,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588364,India_OtherBasins_OtherResources,13156558.011671647,13150930.939072238,14778601.465549754,14778601.465549752
+CHN,power,electricity-generation,coal,25452505,Ligang power station,14384000.0,14484100.0,14760000.0,15419000.0
+NGA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588419,Nigeria_Niger Delta_Conventional onshore,16074074.806547241,13646895.415868202,14741581.057562478,14741581.057562478
+ZAF,power,electricity-generation,coal,25450910,Tutuka power station,16731000.0,16185000.0,14724000.0,13629000.0
+AZE,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588287,Azerbaijan_South Caspian_Conventional shelf,14445288.477146775,14841938.86110961,14721192.460694287,14721192.46069429
+CHN,manufacturing,chemicals,methanol,33998925,CHN-Ordos_methanol,14689616.116071433,14689616.116071431,14689616.116071431,14689616.11607143
+CHN,manufacturing,iron-and-steel,BF/BOF,1566684,Shandong IRON&STEEL Group Rizhao Co Ltd,16179301.923959445,14773737.668366462,14650139.030327136,16370462.626298774
+USA,manufacturing,iron-and-steel,BF/BOF,1567144,U.S. Steel Gary Works,15331343.547011811,15687602.96444095,14642558.546505054,15479645.470068183
+TZA,forestry-and-land-use,net-forest-land,,8385117,Liwale,29642780.000000015,5276799.999999981,14631500.000000015,14631500.000000015
+CHN,manufacturing,aluminum,Smelting,3672990,"Zouping, Shandong aluminium plant",13622536.446344404,14181300.010961305,14614841.609119806,14794679.056791987
+BWA,forestry-and-land-use,net-shrubgrass,,4621469,Ghanzi,1925260.0000000363,-2699830.000000019,14530730.000000007,14530730.000000007
+CAN,fossil-fuel-operations,oil-and-gas-transport,Tight gas,3588308,Canada_West Canadian - Alberta_Tight gas,11871503.58851833,13555745.848455943,14502623.432694174,14502623.432694174
+ZAF,power,electricity-generation,coal,25450904,Kriel power station,16441000.0,15702000.0,14477000.0,14499000.0
+MOZ,forestry-and-land-use,forest-land-fires,,8215386,Lugela,6849880.999999995,15788382.99999999,14458203.0,14458203.0
+BRA,forestry-and-land-use,forest-land-clearing,,5018159,Portel,13837846.999999994,11808943.999999998,14447000.000009997,14447000.000009997
+CAN,fossil-fuel-operations,oil-and-gas-production,LNG,3588591,Canada_West Canadian - Alberta_LNG,11391167.649920192,12860686.444373982,14435616.922443863,14435616.922443865
+IND,power,electricity-generation,coal,25452938,Barh I power station,9476900.0,10175900.0,14414000.0,14450000.0
+AUS,forestry-and-land-use,net-forest-land,,8397997,Maranoa,23394840.000000045,-14520820.000000015,14346049.999999993,14346049.999999993
+QAT,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588439,Qatar_Rub al Khali_Conventional shelf,11472204.87585175,13977926.357315863,14344672.087789236,14344672.087789237
+JPN,power,electricity-generation,coal,25452336,Hitachinaka power station,16520000.0,15768000.0,14313000.0,14355000.0
+AUS,forestry-and-land-use,net-forest-land,,8398336,Wyndham-East Kimberley,24618300.00000009,-34999040.00000004,14286989.999999944,14286989.999999944
+CHN,power,electricity-generation,coal,25451041,Qinzhou power station,13324000.0,13821000.0,14282000.0,14409000.0
+CHN,power,electricity-generation,coal,25454596,Fujian Hongshan power station,14250000.0,14008000.0,14251000.0,14172000.0
+CAN,forestry-and-land-use,removals,,8550755,Inuvik,-29718401.200000003,-1947143.8099999998,14220775.999999994,14220775.999999994
+IND,power,electricity-generation,coal,25451481,Korba Super Thermal Power Station (NTPC),12443700.0,13362700.0,14195000.0,14231000.0
+BRA,manufacturing,iron-and-steel,BF/BOF,1566447,ArcelorMittal Tubarão steel plant,14456895.617044259,13985284.540118447,14176883.203094874,14506016.631051071
+THA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588751,Thailand_OtherBasins_OtherResources,14557139.029927565,14269834.971951306,14162623.913813716,14162623.913813718
+CHN,manufacturing,iron-and-steel,BF/BOF,1566573,Hunan Valin Lianyuan Iron and Steel Co Ltd,16894359.40986219,14927104.772390224,14154189.917642463,12694769.367383938
+CHN,manufacturing,iron-and-steel,BF/BOF,1566601,Shanghai Meishan Iron and Steel Co Ltd,13344542.645018077,14656843.981528549,14147924.743472517,14372230.26948203
+CHN,manufacturing,chemicals,ammonia,33998958,CHN-Fuyang_ammonia,14145205.697999999,14145205.697999997,14145205.698,14145205.698
+COD,forestry-and-land-use,net-forest-land,,8310743,Sandoa,-3014880.000000005,-14011540.000000024,14139040.000000028,14139040.000000028
+USA,forestry-and-land-use,removals,,8716063,Valdez-Cordova,-11045088.322999999,-15005827.660000002,14134953.799999999,14134953.799999999
+RUS,forestry-and-land-use,removals,,8694029,Severo-Evenskiy rayon,-3405727.7530000005,-6006536.960000001,14075003.382,14075003.382
+IDN,forestry-and-land-use,forest-land-clearing,,5028496,Ketapang,6880248.500000001,10842429.0,14069736.49998,14069736.499979999
+CHN,power,electricity-generation,coal,25451574,Daba power station,14251000.0,13816000.0,14054200.0,13901700.0
+CHN,power,electricity-generation,coal,25452514,Yangcheng power station,13708100.0,13766100.0,14005000.0,13549000.0
+MMR,forestry-and-land-use,forest-land-fires,,8215017,Taunggye,5645170.999999996,21838809.99999999,13986054.0,13986054.0
+JPN,manufacturing,iron-and-steel,BF/BOF,1566916,JFE West Japan Works (Kurashiki) steel plant,17161675.237234425,15850194.530933915,13978784.711085051,16142024.070088988
+TWN,power,electricity-generation,"coal, gas",449444,Talin,14598000.0,14118000.0,13965000.0,14001000.0
+SSD,forestry-and-land-use,forest-land-fires,,8236915,Raja,13906032.0,18436990.0,13937219.999999998,13937219.999999996
+CHN,forestry-and-land-use,removals,,8560384,Nagchu,4989588.967300001,-1156642.3396000003,13936016.881999994,13936016.881999994
+AGO,forestry-and-land-use,shrubgrass-fires,,8208640,Muconda,16923448.999999993,15817847.999999998,13922126.000010002,13922126.000009999
+CHN,manufacturing,iron-and-steel,BF/BOF,1566514,Chengde Iron and Steel Group Co Ltd,14008290.812006015,15081603.658998232,13905871.119891144,14669309.966494506
+COL,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588609,Colombia_Llanos_Heavy oil,13505736.65960434,13560513.739250466,13896292.930079043,13896292.930079043
+JPN,power,electricity-generation,coal,25450684,Matsuura Kyushu power station,15826000.0,15269000.0,13889000.0,13850000.0
+POL,power,electricity-generation,coal,25450770,Opole power station,16304000.0,15393000.0,13872000.0,13577000.0
+BRA,forestry-and-land-use,forest-land-clearing,,5018192,Senador José Porfírio,5391167.600000001,5365779.399999999,13859454.999990003,13859454.99999
+COD,forestry-and-land-use,shrubgrass-fires,,8162217,Sandoa,24666221.999999996,16955884.999999993,13844536.000020001,13844536.000020001
+CHN,buildings,residential-onsite-fuel-usage,,1281165,Chongqing,13842908.747280004,13467834.88191,13832847.309600003,13832847.309600001
+BRA,forestry-and-land-use,forest-land-clearing,,5015792,Apuí,15271207.999999994,30170586.0,13799151.999990001,13799151.99999
+ZAF,forestry-and-land-use,net-shrubgrass,,4963595,Namakwa,-571200.0000000044,8764440.00000001,13761809.999999998,13761809.999999998
+BWA,forestry-and-land-use,shrubgrass-fires,,8159560,Kweneng South,2455207.9999999986,7751305.999999995,13730656.999980003,13730656.99998
+ZMB,forestry-and-land-use,forest-land-fires,,8254971,Mumbwa,13065746.999999998,16370078.999999998,13726428.0,13726427.999999996
+AUS,forestry-and-land-use,removals,,8508478,Mid-Western Regional,-5537169.6366759995,5767094.488000002,13719919.986,13719919.986
+CHN,forestry-and-land-use,net-shrubgrass,,4624715,Nagchu,4950779.999999951,-740849.9999999664,13701519.999999987,13701519.999999987
+ZAF,forestry-and-land-use,removals,,8731788,Namakwa,-566606.4567000001,8752937.238300001,13700615.737700002,13700615.737700002
+AUS,power,electricity-generation,coal,25450642,Bayswater power station,13814000.0,13310000.0,13682000.0,14009000.0
+DEU,power,electricity-generation,coal,25451939,Neurath power station,20928000.0,19666000.0,13663200.0,9991100.0
+CAN,forestry-and-land-use,forest-land-clearing,,5021525,Bulkley-Nechako,16129781.999999998,12481812.499999998,13648831.99998,13648831.999979999
+TWN,power,electricity-generation,coal,451113,Linkou,14714000.0,13848000.0,13638100.0,13673000.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566516,Shougang Qian'an Iron and Steel Co Ltd,14821938.45800647,15235850.829479191,13632644.735086434,14388157.781358821
+CAN,forestry-and-land-use,forest-land-clearing,,5021642,Kenora,16002277.000000002,8108244.999999997,13588194.0,13588194.0
+BRA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588577,Brazil_Campos_Deepwater,14997269.727830883,13021190.551870603,13586248.63792165,13586248.63792165
+AUS,forestry-and-land-use,net-shrubgrass,,4571184,Quilpie,-1902209.999999997,10581480.0,13557720.00000002,13557720.00000002
+DEU,power,electricity-generation,coal,25452445,Janschwalde power station,14331000.0,15288000.0,13556300.0,11681200.0
+VNM,manufacturing,iron-and-steel,BF/BOF,1567170,Formosa Ha Tinh Steel plant,11343255.331037346,16105294.90996164,13536708.32862736,15401128.76677055
+AGO,forestry-and-land-use,forest-land-fires,,8160087,Dirico,7959514.999999995,13866561.99999999,13491523.00002,13491523.000020001
+COD,forestry-and-land-use,forest-land-fires,,8183446,Sandoa,25840898.999999996,16036584.999999987,13448015.00001,13448015.00001
+RUS,forestry-and-land-use,forest-land-clearing,,5051673,Sovetskiy rayon,10418832.0,1604536.3,13446455.00004,13446455.00004
+AGO,forestry-and-land-use,forest-land-fires,,8160091,Menongue,12002496.999999993,5595632.599999998,13421196.0,13421196.0
+MYS,power,electricity-generation,coal,25452980,Tanjung Bin power station,13503700.0,13975400.0,13403000.0,13275300.0
+ZMB,forestry-and-land-use,forest-land-fires,,8255077,Kawambwa,10418571.999999996,12806553.999999993,13387280.999969998,13387280.99997
+BWA,forestry-and-land-use,shrubgrass-fires,,8159556,Hukunsti,13784704.999999994,12094609.999999994,13374855.000030003,13374855.00003
+RUS,manufacturing,iron-and-steel,"BF/BOF,EAF",32440965,Evraz ZSMK steel plant,14406862.798020972,13512211.907323483,13371146.679890683,12742347.077779096
+CHN,manufacturing,iron-and-steel,BF/BOF,1566756,Hebei Anfeng Iron & Steel Co Ltd,14425719.02636673,13800696.494491432,13341198.00707172,13860640.058953047
+KWT,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588392,Kuwait_Widyan - North Arabian Gulf_Conventional onshore,12136147.082653591,13648582.698263949,13340898.037075104,13340898.037075106
+CHN,manufacturing,iron-and-steel,BF/BOF,1566572,Hunan Valin Xiangtan Iron and Steel Co Ltd,12868926.624321725,14149313.72843369,13336979.446425578,12557413.393988883
+BRA,forestry-and-land-use,forest-land-fires,,8177924,Porto Velho,6799907.699999996,18589829.999999996,13319392.999979999,13319392.999979999
+TZA,forestry-and-land-use,forest-land-fires,,8241388,Liwale,13679179.999999994,14749667.999999998,13309963.000020003,13309963.000020003
+CHN,power,electricity-generation,coal,25452916,Anqing power station,13273600.0,13188300.0,13304500.0,13696800.0
+NLD,manufacturing,iron-and-steel,BF/BOF,1566991,Tata Steel IJmuiden steel plant,15537153.120058434,13600022.59095747,13301230.660038257,14916814.513952699
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440516,Lianfeng Steel (Zhangjiagang) Co Ltd,14309030.937151786,14908878.39904858,13281956.5229096,12042791.332530174
+CHN,manufacturing,iron-and-steel,BF/BOF,1566687,Hbis Laoting Steel Co Ltd,14647303.712561022,13816341.43629929,13274270.682081303,13092117.301554337
+CHN,power,electricity-generation,coal,25451326,Meizhou Wan power station,12921600.0,12834100.0,13205800.0,13244800.0
+MAR,power,electricity-generation,coal,25450475,Jorf Lasfar power station,13555000.0,13900000.0,13120100.0,13155000.0
+CHN,manufacturing,chemicals,methanol,33999052,CHN-Yinchuan_methanol,25618600.086999997,25618600.086999997,13117416.874000002,13117416.874
+CHN,transportation,road-transportation,,3621257,Chongqing,10301191.146694414,11874353.786200494,13049938.114293635,13860355.69499577
+COD,forestry-and-land-use,forest-land-fires,,8183436,Kapanga,25283372.999999996,14071823.999999998,12906859.000020001,12906859.000020001
+USA,power,electricity-generation,"coal, oil",25448961,Monroe (MI),14791000.0,14375000.0,12859500.0,12987700.0
+KOR,transportation,international-aviation,international,3167058,Incheon International Airport,6628687.975106116,8568206.882192528,12829151.6378586,13644817.851013761
+JPN,manufacturing,iron-and-steel,BF/BOF,1566927,Nippon East Japan Works (Kashima) steel plant,13093976.962012697,13603197.683016306,12813870.515179604,13433806.631381158
+CHN,forestry-and-land-use,net-shrubgrass,,4624385,Gyêgu Tibetan,16068800.000000013,-1901540.0000000114,12813780.000000006,12813780.000000006
+CHN,forestry-and-land-use,removals,,8560171,Gyêgu Tibetan,15970896.130000003,-1826639.6153999998,12781813.882000001,12781813.882000001
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32441253,Shandong Iron and Steel Co Ltd Laiwu Branch Xinxing Road,11612884.866371041,12761273.842850516,12761273.842850516,12761273.842850516
+AGO,forestry-and-land-use,forest-land-fires,,8160204,Capenda,15634100.999999998,16659991.999999993,12693858.999989998,12693858.999989998
+CHN,power,electricity-generation,coal,450553,CPI Fenyi power station,13903900.0,12250000.0,12683100.0,12370600.0
+MOZ,forestry-and-land-use,forest-land-fires,,8215108,Montepuez,17083165.999999993,10921084.999999994,12675621.99999,12675621.999989998
+NGA,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588706,Nigeria_Niger Delta_Conventional shelf,12711847.190709276,12750082.256602392,12659224.928542979,12659224.928542983
+CHN,manufacturing,iron-and-steel,BF/BOF,1566526,Tangshan Ganglu Iron and Steel Co Ltd,13208112.68739597,13733285.263102325,12603711.485675445,11596789.734001081
+CHN,manufacturing,lime,,31715549,,12190226.604902385,12591625.792156486,12591331.743609885,12591392.669825593
+USA,power,electricity-generation,coal,25449166,Gibson,13501800.0,13456000.0,12394500.0,12304200.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566611,Angang Steel Co Ltd Bayuquan branch,12747312.264012082,13814192.88462743,12393263.792022763,12834501.554607494
+USA,power,electricity-generation,coal,25448871,James H Miller Jr,13740000.0,13373000.0,12382000.0,12360900.0
+RUS,forestry-and-land-use,removals,,8692201,Dudinka gorsovet,41018504.9,-31093061.2,12369272.399999999,12369272.399999999
+COD,forestry-and-land-use,forest-land-fires,,8183543,Katako-Kombe,5290645.599999998,16792937.999999996,12332448.999990001,12332448.999990001
+LAO,power,electricity-generation,coal,25452312,Hongsa power station,12187200.0,12536100.0,12306800.0,12109000.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566539,Hebei Xinda Iron and Steel Group Co Ltd,14828740.71903218,14456251.15866216,12304227.491259538,8349292.740517223
+DEU,power,electricity-generation,coal,25452444,Boxberg power station,12902000.0,14351000.0,12301700.0,12106600.0
+COD,forestry-and-land-use,shrubgrass-fires,,8160492,Kamonia,20819029.999999993,14946794.999999998,12193916.000010002,12193916.000010002
+RUS,forestry-and-land-use,forest-land-fires,,8230887,Ayano-Mayskiy rayon,523220.8399999997,30560420.999999996,12189380.00001,12189380.00001
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440593,Baosteel Group Xinjiang Bayi Iron & Steel Co Ltd,13384798.317632843,13229185.77735547,12186991.430171322,12326298.169957476
+POL,power,electricity-generation,coal,25450767,Kozienice power station,13996000.0,13521000.0,12118900.0,12041700.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566523,Wu'an Yuhua Iron and Steel Co Ltd,13514428.816485394,12466350.906281225,12105350.812959164,11866714.333895957
+COD,forestry-and-land-use,forest-land-fires,,8183182,Ango,33871512.999999985,11340131.999999998,12087906.000000002,12087906.0
+ZMB,forestry-and-land-use,forest-land-fires,,8254959,Itezhi-tezhi,9874564.999999994,14906629.999999994,12079586.00004,12079586.000040002
+IND,manufacturing,iron-and-steel,BF/BOF,1566849,SAIL Bhilai steel plant,10724165.564758573,13781671.589677805,12053656.499668479,13810051.53866165
+IND,manufacturing,iron-and-steel,BF/BOF,1566855,Vizag Steel plant,13610450.818228178,13488099.906964272,12019810.332882643,11805730.261461336
+CAF,forestry-and-land-use,forest-land-fires,,8181893,Djemah,27803151.99999999,14951157.99999999,11924911.5,11924911.5
+PAK,power,electricity-generation,coal,25455585,Hubco power station,17910000.0,15492000.0,11808100.0,11835700.0
+MOZ,forestry-and-land-use,forest-land-fires,,8215251,Marrupa,12410192.499999993,18906672.99999999,11545331.000009999,11545331.000009999
+COD,forestry-and-land-use,forest-land-fires,,8183249,Malemba-Nkulu,13982707.999999994,11716140.999999993,11523140.999999998,11523141.000000002
+KHM,forestry-and-land-use,forest-land-fires,,8202443,Kaoh Nheaek,3349743.7999999984,13176554.999999998,11523006.0,11523006.0
+COD,forestry-and-land-use,shrubgrass-fires,,8162182,Feshi,17999408.999999996,13862710.999999994,11480988.00003,11480988.00003
+ARE,power,electricity-generation,"gas, other_fossil, oil",447784,"Jebel Ali ""M""",13681700.0,12498900.0,11428700.0,11454900.0
+DEU,power,electricity-generation,coal,25451940,Niederaussem power station,13561000.0,13223000.0,11096700.0,9551200.0
+CAF,forestry-and-land-use,forest-land-fires,,8181962,Bouca,25836646.999999985,13921041.499999994,11031600.0,11031600.0
+RUS,forestry-and-land-use,net-forest-land,,8370483,Eniseyskiy rayon,35436799.999999955,1532700.0000002042,10944099.99999971,10944099.99999971
+COD,forestry-and-land-use,shrubgrass-fires,,8162212,Kapanga,20133218.999999996,11968503.999999993,10850622.999990001,10850622.999990001
+THA,power,electricity-generation,coal,447853,<unknown plant name>,12853900.0,12668600.0,10842200.0,10870700.0
+BRA,forestry-and-land-use,forest-land-clearing,,5018121,Itaituba,17175376.999999996,17969727.0,10797173.000009999,10797173.00001
+AGO,forestry-and-land-use,shrubgrass-fires,,8208632,Xá Muteba,17743184.999999996,12794260.999999994,10745916.000000002,10745916.0
+UKR,manufacturing,iron-and-steel,BF/BOF,1567096,ArcelorMittal Kryvyi Rih steel plant,12589034.915771201,13273139.426100519,10721927.941849338,10775436.563972326
+BRA,forestry-and-land-use,forest-land-clearing,,5020014,Porto Velho,24713949.999999996,23389044.0,10716262.99998,10716262.999979999
+BOL,forestry-and-land-use,shrubgrass-fires,,8150909,Mamoré,3458573.7999999993,13789765.999999994,10655996.000009997,10655996.000009999
+AGO,forestry-and-land-use,forest-land-fires,,8160215,Lucapa,16539571.999999993,11007400.999999994,10640197.00002,10640197.00002
+COD,forestry-and-land-use,forest-land-fires,,8183609,Moba,19824419.999999996,12761214.999999993,10625511.99996,10625511.99996
+AGO,forestry-and-land-use,forest-land-fires,,8160135,Quibala,14399539.999999994,10065102.999999996,10558944.0,10558944.0
+SSD,forestry-and-land-use,shrubgrass-fires,,8194014,Pibor,20036797.0,9438989.0,10495845.00003,10495845.000030002
+BOL,forestry-and-land-use,forest-land-clearing,,5015637,Ñuflo De Chávez,22330914.0,13856224.999999994,10448907.99999,10448907.99999
+AUS,forestry-and-land-use,net-shrubgrass,,4574032,Wiluna,-29877290.000000015,25567640.00000001,10427009.999999998,10427009.999999998
+USA,power,electricity-generation,"coal, gas",25449020,W A Parish,12756200.0,12735700.0,10387100.0,10852400.0
+COD,forestry-and-land-use,forest-land-fires,,8183242,Kabongo,15732646.999999993,10950389.999999998,10379616.999990001,10379616.999989998
+COD,forestry-and-land-use,shrubgrass-fires,,8160437,Kabongo,16417302.99999999,10785893.999999998,10358022.999990003,10358022.999990001
+CAN,forestry-and-land-use,net-shrubgrass,,4622440,Nord-du-Québec,-54821100.0000001,36386399.999999866,10278999.999999996,10278999.999999996
+CHN,manufacturing,aluminum,Refinery,3673046,CHN-Baise,17559955.079990022,14620051.16229654,10264268.753112698,10566521.733369537
+CAF,forestry-and-land-use,forest-land-fires,,8181148,Bamingui,19906705.999999993,17778510.99999999,10245160.00002,10245160.00002
+AGO,forestry-and-land-use,shrubgrass-fires,,8208620,Chitato,13464204.99999999,10795526.499999996,10183301.00001,10183301.00001
+AUS,forestry-and-land-use,removals,,8736528,Wiluna,-32288135.819199994,27765646.881899994,10137566.9993,10137566.9993
+CHN,manufacturing,iron-and-steel,BF/BOF,1566679,Guangxi Iron and Steel Group Co Ltd,12291489.71686241,12818922.685905505,10103739.232708551,11574080.475233147
+AUS,forestry-and-land-use,net-forest-land,,8397958,Banana,16826080.00000005,-4986090.000000046,9940650.000000004,9940650.000000004
+AGO,forestry-and-land-use,shrubgrass-fires,,8208695,Lucano,14124668.999999998,11143014.999999996,9884492.99997,9884492.99997
+BRA,forestry-and-land-use,forest-land-clearing,,5015832,Novo Aripuanã,9903809.0,13325764.999999994,9881660.00001,9881660.00001
+CMR,forestry-and-land-use,forest-land-fires,,8183085,Mbam et Kim,28403380.99999998,21286107.99999999,9860640.0,9860640.0
+ZMB,forestry-and-land-use,forest-land-fires,,8255164,Kalumbila,13675696.999999994,14010215.999999998,9664415.00001,9664415.000010002
+BRA,forestry-and-land-use,forest-land-fires,,8165041,Apuí,4005645.2999999984,14150018.999999998,9623445.50001,9623445.500009999
+MOZ,forestry-and-land-use,forest-land-fires,,8215178,Macossa,14850249.99999999,11149878.499999994,9569512.00002,9569512.000019997
+RUS,forestry-and-land-use,removals,,8698509,Tazovskiy rayon,48726569.5,-35230387.34000001,9451981.260000002,9451981.260000002
+RUS,forestry-and-land-use,net-forest-land,,8372268,Mirninskiy rayon,24973339.999999892,-46518840.00000008,9411700.00000011,9411700.00000011
+ZMB,forestry-and-land-use,forest-land-fires,,8255137,Mpika,5971971.999999997,12971822.999999998,9312032.999999998,9312032.999999998
+BOL,forestry-and-land-use,forest-land-clearing,,5015634,Guarayos,15047554.999999994,33105587.000000004,9278849.00001,9278849.00001
+RUS,forestry-and-land-use,removals,,8695018,Zhiganskiy rayon,-24553490.399999995,17354290.039999995,9089475.919999998,9089475.919999998
+AUS,forestry-and-land-use,removals,,8736471,Meekatharra,-15992686.755499996,17375666.856999997,9048427.778499998,9048427.778499998
+RUS,forestry-and-land-use,forest-land-clearing,,5054525,Srednekolymskiy rayon,32615424.999999996,3376.5110000000004,9015971.00001,9015971.00001
+PAK,power,electricity-generation,coal,25455252,Sahiwal power station,16920000.0,13769100.0,9006500.0,9369100.0
+ZMB,forestry-and-land-use,forest-land-fires,,8255189,Mwinilunga,17688050.999999996,10641733.999999994,8954548.000020001,8954548.000020001
+COD,forestry-and-land-use,forest-land-fires,,8183477,Kabambare,13482142.999999994,6766798.499999999,8850032.000010002,8850032.000009999
+MLI,forestry-and-land-use,shrubgrass-fires,,8178224,Kita,3932463.599999998,12518075.999999998,8839650.999990001,8839650.99999
+RUS,forestry-and-land-use,net-shrubgrass,,4865322,Dudinka gorsovet,23656340.0,-20444619.99999998,8767339.99999999,8767339.99999999
+AUS,forestry-and-land-use,net-shrubgrass,,4573771,Meekatharra,-14051139.999999987,15066479.99999998,8754826.00000001,8754826.00000001
+PAK,power,electricity-generation,coal,25455303,Port Qasim EPC power station,13456600.0,12094000.0,8698600.0,8474100.0
+AUS,forestry-and-land-use,net-shrubgrass,,4573236,Ashburton,-16613449.999999994,14402350.00000001,8671199.999999998,8671199.999999998
+CAN,forestry-and-land-use,net-forest-land,,8309916,Nord-du-Québec,-108760000.00000018,52831700.00000017,8652599.999999892,8652599.999999892
+CAN,forestry-and-land-use,forest-land-fires,,8182273,Kenora,32276129.999999996,26843.79599999999,8614703.00001,8614703.000009999
+BRA,forestry-and-land-use,net-forest-land,,8305504,Altamira,28492000.000000194,-22913999.99999884,8595999.99999955,8595999.99999955
+CAF,forestry-and-land-use,forest-land-fires,,8181925,Kaga-Bandoro,28680335.999999996,15991789.999999993,8558529.999990001,8558529.999990001
+SSD,forestry-and-land-use,forest-land-fires,,8236919,Tombura,17549784.0,12841501.999999994,8427556.999979999,8427556.99998
+SSD,forestry-and-land-use,shrubgrass-fires,,8194044,Tombura,16440994.000000002,12269941.0,8319618.0,8319618.0
+RUS,forestry-and-land-use,net-forest-land,,8372290,Zhiganskiy rayon,-11718869.999999925,15000239.99999996,7900260.000000001,7900260.000000001
+AUS,forestry-and-land-use,net-forest-land,,8397950,Roper Gulf,58923599.99999984,36165900.000000186,7854199.999999991,7854199.999999991
+ZMB,forestry-and-land-use,forest-land-fires,,8255192,Solwezi,14533551.99999999,10327844.999999998,7797690.0,7797690.0
+COD,forestry-and-land-use,shrubgrass-fires,,8162185,Kasongo-Lunda,13937685.99999999,9988508.999999998,7761551.399970001,7761551.399970001
+COD,forestry-and-land-use,forest-land-fires,,8183186,Bondo,17939717.999999996,13268735.999999998,7700598.0,7700598.000000001
+CAN,forestry-and-land-use,forest-land-fires,,8182092,Thompson-Nicola,19596551.999999996,985341.7999999997,7652388.00003,7652388.00003
+COD,forestry-and-land-use,forest-land-fires,,8183596,Kalemie,18564483.99999999,5945334.399999998,7622352.600000001,7622352.6
+CHN,forestry-and-land-use,net-forest-land,,8310385,Hulunbuir,14454600.000000024,-4268000.000000028,7466499.999999996,7466499.999999996
+CAN,forestry-and-land-use,removals,,8550724,Division No. 11,28453341.404,-41486804.51000001,7362459.6615,7362459.6615
+BRA,forestry-and-land-use,forest-land-clearing,,5015822,Lábrea,23780516.0,34187559.99999999,7310383.000020001,7310383.000020001
+COD,forestry-and-land-use,shrubgrass-fires,,8160443,Kaniama,13845494.999999998,7797083.999999999,7224542.60001,7224542.600009999
+RUS,forestry-and-land-use,removals,,8692204,Eniseyskiy rayon,29597181.94999999,-3520727.7199999993,7122385.036000001,7122385.036000001
+RUS,forestry-and-land-use,removals,,8692241,Ust'-Yeniseyskiy rayon,27291189.33413999,-26546293.9465,7098040.398500002,7098040.398500002
+CAN,forestry-and-land-use,removals,,8550850,Cochrane,-35388154.6,13789321.5,7082720.32,7082720.32
+MOZ,forestry-and-land-use,forest-land-fires,,8215244,Majune,7379042.599999999,19855099.999999993,6954788.00001,6954788.00001
+BRA,forestry-and-land-use,net-forest-land,,8305632,Jacareacanga,16349400.000000061,-17668200.00000007,6588400.000000093,6588400.000000093
+RUS,forestry-and-land-use,net-shrubgrass,,4865573,Ust'-Yeniseyskiy rayon,25840244.999999985,-24527365.0,6574260.00000001,6574260.00000001
+AUS,forestry-and-land-use,shrubgrass-fires,,8155646,Carpentaria,15102052.999999994,16238574.99999999,6526803.50001,6526803.50001
+CAF,forestry-and-land-use,forest-land-fires,,8181953,Ippy,24150340.999999985,7095535.799999996,6512197.499999999,6512197.5
+BRA,forestry-and-land-use,forest-land-clearing,,5015656,Feijó,10626263.0,14715351.0,6483274.499999999,6483274.5
+ETH,forestry-and-land-use,forest-land-fires,,8192168,Kemashi,13747202.999999998,6324666.499999996,6437138.999999998,6437138.999999999
+BOL,forestry-and-land-use,net-forest-land,,8396986,Velasco,12843200.00000002,23161699.99999988,6298500.0000001015,6298500.0000001015
+BRA,forestry-and-land-use,forest-land-clearing,,5017024,Colniza,10204304.0,14143485.0,6285564.39999,6285564.39999
+COD,forestry-and-land-use,forest-land-fires,,8183253,Dungu,26677499.999999996,4782263.799999999,6247425.999959999,6247425.999959999
+TZA,forestry-and-land-use,net-forest-land,,8385212,Rufiji,6699450.000000012,14087500.000000006,6217659.999999995,6217659.999999995
+AUS,forestry-and-land-use,net-forest-land,,8397981,Fraser Coast,17261460.0,-19486860.000000007,6207230.00000001,6207230.00000001
+CAF,forestry-and-land-use,forest-land-fires,,8181898,Bria,21087874.999999993,5184514.999999998,5947055.0000100015,5947055.0000100015
+BRA,forestry-and-land-use,forest-land-fires,,8169385,Colniza,2247465.399999999,13627578.99999999,5851709.4,5851709.4
+COD,forestry-and-land-use,forest-land-fires,,8183611,Nyunzu,13803267.499999994,6273980.599999998,5783035.000019999,5783035.000019999
+SSD,forestry-and-land-use,forest-land-fires,,8236917,Meridi,15719227.999999994,7126248.999999997,5778513.0,5778513.0
+MOZ,forestry-and-land-use,net-forest-land,,8347037,Pebane,20256500.00000002,-19690720.0,5755919.999999977,5755919.999999977
+RUS,forestry-and-land-use,forest-land-clearing,,5051470,Katangskiy rayon,31925657.000000004,6396537.300000002,5725863.500040001,5725863.500040001
+BRA,forestry-and-land-use,forest-land-fires,,8172499,Novo Progresso,4391905.3,28234086.99999999,5706555.999989999,5706555.99999
+RUS,forestry-and-land-use,net-shrubgrass,,4880267,Tazovskiy rayon,36613120.000000015,-27881730.0,5647089.999999993,5647089.999999993
+CHN,manufacturing,iron-and-steel,BF/BOF,1566631,Shiheng Special Steel Group Co Ltd,13955045.571745118,7050191.15545659,5324096.622984949,5739192.2034062315
+CAF,forestry-and-land-use,forest-land-fires,,8181924,Rafaï,24488267.999999996,5183178.3999999985,5143045.400010002,5143045.400010002
+TZA,forestry-and-land-use,net-forest-land,,8385107,Kilwa,10161339.999999996,15033220.000000002,4580819.999999989,4580819.999999989
+CAN,forestry-and-land-use,removals,,8550815,Baffin,-13537066.070000002,20526864.180000003,4552818.399999999,4552818.399999999
+COD,forestry-and-land-use,forest-land-fires,,8183321,Luiza,18397056.99999999,5460493.999999998,4479838.400009999,4479838.400009999
+BRA,forestry-and-land-use,net-forest-land,,8397168,Lábrea,28131599.9999997,-9035399.999999754,4386300.000000118,4386300.000000118
+MOZ,forestry-and-land-use,net-forest-land,,8347031,Mocuba,14957760.000000002,-15824950.000000002,4350429.99999999,4350429.99999999
+CAN,forestry-and-land-use,net-shrubgrass,,4621768,Kenora,-67387960.00000001,44241199.99999994,4250499.999999987,4250499.999999987
+COD,forestry-and-land-use,forest-land-fires,,8183532,Bosobolo,14660925.99999999,9297791.499999996,4045687.7000100003,4045687.7000100007
+RUS,forestry-and-land-use,net-forest-land,,8369568,Kirenskiy rayon,17834100.000000037,1226499.9999999874,3971299.999999927,3971299.999999927
+CAF,forestry-and-land-use,forest-land-fires,,8181960,Bossangoa,21961970.999999996,12327875.999999998,3848960.4000000004,3848960.4000000004
+CAF,forestry-and-land-use,forest-land-fires,,8181914,Carnot,9794967.999999996,12963733.999999994,3735987.3999899994,3735987.3999899994
+CAF,forestry-and-land-use,forest-land-fires,,8181958,Batangafo,18877505.999999996,6635266.299999998,3566561.00001,3566561.00001
+BRA,forestry-and-land-use,forest-land-clearing,,5018143,Novo Progresso,14811487.000000002,12497446.0,3306369.50001,3306369.50001
+CAF,forestry-and-land-use,forest-land-fires,,8181946,Bakala,14145204.99999999,5735892.299999997,3221736.3999899994,3221736.3999899994
+CAN,forestry-and-land-use,net-forest-land,,8309745,Division No. 11,21518080.0,-31483350.000000034,3128570.0000000256,3128570.0000000256
+RUS,forestry-and-land-use,net-forest-land,,8370480,Dudinka gorsovet,13645010.000000013,-8592390.000000022,3111590.0000000056,3111590.0000000056
+RUS,forestry-and-land-use,removals,,8691017,Elizovskiy rayon,-7491365.959999997,14117233.260000004,3105063.0000000005,3105063.0000000005
+BOL,forestry-and-land-use,net-forest-land,,8396979,Guarayos,246099.99999984202,15804100.000000054,3094800.0000000778,3094800.0000000778
+SSD,forestry-and-land-use,net-shrubgrass,,4893112,Pibor,-12848534.999999998,15561191.999999998,3059472.9999999967,3059472.9999999967
+RUS,forestry-and-land-use,forest-land-clearing,,5052856,Tungussko-Chunskiy rayon,17085205.000000004,4567308.399999999,3046819.39998,3046819.39998
+BOL,forestry-and-land-use,net-forest-land,,8396982,Ñuflo De Chávez,-5574200.000000019,21302500.000000007,3026599.999999916,3026599.999999916
+RUS,manufacturing,chemicals,ammonia,33998929,RUS-Stavropol'skiy rayon_ammonia,13735350.341000002,13735350.341,2873802.0170000005,2873802.0170000005
+BRA,forestry-and-land-use,net-forest-land,,8305630,Itaituba,15429300.000000244,-11699800.000000322,2827200.000000175,2827200.000000175
+RUS,forestry-and-land-use,removals,,8698503,Purovskiy rayon,21428091.600000005,-17564697.4,2729552.1200000006,2729552.1200000006
+RUS,forestry-and-land-use,net-forest-land,,8372274,Nyurbinskiy rayon,13771700.000000013,-21750850.000000026,2664850.0000000014,2664850.0000000014
+RUS,forestry-and-land-use,net-forest-land,,8370495,Khatangskiy rayon,27171500.00000001,-15781509.999999993,2662409.999999994,2662409.999999994
+TZA,forestry-and-land-use,net-forest-land,,8385184,Ulanga,18506200.000000034,4314849.999999979,2485080.000000039,2485080.000000039
+RUS,forestry-and-land-use,removals,,8692239,Turukhanskiy rayon,26685756.049999997,-42790249.79999999,2410964.56,2410964.56
+RUS,forestry-and-land-use,forest-land-clearing,,5054522,Olekminskiy rayon,18360376.0,340761.9000000001,2345230.8,2345230.8
+CAN,forestry-and-land-use,net-wetland,,4592408,Kenora,-31005310.000000015,22587839.999999966,2273820.0000000005,2273820.0000000005
+RUS,forestry-and-land-use,removals,,8691070,Ust'-Kamchatskiy rayon,-146103.27000000022,15000045.799999999,2272145.52,2272145.52
+RUS,forestry-and-land-use,net-forest-land,,8370518,Turukhanskiy rayon,22066099.999999788,-37280199.99999993,2202400.0000001253,2202400.0000001253
+BOL,forestry-and-land-use,net-forest-land,,8396911,Iténez,-18692600.000000086,19987900.00000008,2134749.99999994,2134749.99999994
+TZA,forestry-and-land-use,net-forest-land,,8385181,Morogoro Rural,16096069.999999994,-2068999.999999988,2092129.999999998,2092129.999999998
+CAF,forestry-and-land-use,forest-land-fires,,8181917,Bakouma,16864554.99999999,4068547.699999999,2088618.2999999998,2088618.2999999996
+CAN,forestry-and-land-use,removals,,8550736,Division No. 5,522264.52269999986,13561911.35,2080956.7949999992,2080956.7949999992
+RUS,forestry-and-land-use,net-forest-land,,8370494,Kezhemskiy rayon,19371740.00000004,-10657140.000000024,2047490.0000000382,2047490.0000000382
+USA,forestry-and-land-use,forest-land-clearing,,5064867,Trinity,15683319.0,940050.0,2007468.70002,2007468.7000199999
+CHN,forestry-and-land-use,net-forest-land,,8310235,Baise,-23308850.00000001,22362849.99999998,1926640.0000000207,1926640.0000000207
+BOL,forestry-and-land-use,forest-land-fires,,8164908,Angel Sandoval,24712184.999999996,3648706.699999999,1666933.5,1666933.4999999998
+RUS,forestry-and-land-use,net-forest-land,,8369642,Ust'-Ilimskiy rayon,22791849.999999944,-11292149.999999993,1616070.000000036,1616070.000000036
+AUS,forestry-and-land-use,net-forest-land,,8397953,Victoria-Daly,37734370.000000015,-23004819.999999996,1587949.9999999779,1587949.9999999779
+AUS,forestry-and-land-use,removals,,8736371,Ashburton,-19727065.719,13608487.119499998,1511874.4016000002,1511874.4016000002
+RUS,forestry-and-land-use,shrubgrass-fires,,8188988,Ayano-Mayskiy rayon,111090.35999999997,33935059.99999998,1181211.50001,1181211.50001
+RUS,forestry-and-land-use,net-forest-land,,8370511,Severo-Eniseyskiy rayon,17592899.99999987,-12884599.99999986,1159899.9999998794,1159899.9999998794
+CAN,forestry-and-land-use,net-forest-land,,8309904,Manicouagan,13821779.999999993,-8371639.999999958,967299.9999999093,967299.9999999093
+RUS,forestry-and-land-use,forest-land-fires,,8234254,Nyurbinskiy rayon,23200572.99999999,1147309.2999999996,849254.90001,849254.90001
+CAN,forestry-and-land-use,forest-land-fires,,8182124,Division No. 19,22447484.999999996,0.0,670120.70001,670120.7000099998
+USA,forestry-and-land-use,net-forest-land,,8387413,Plumas,15755370.0,16285209.99999998,639949.9999999991,639949.9999999991
+USA,forestry-and-land-use,forest-land-fires,,8243527,Yukon-Koyukuk,1620206.699999999,17814784.999999993,596356.40001,596356.40001
+RUS,forestry-and-land-use,forest-land-clearing,,5054515,Mirninskiy rayon,23990247.999999996,172684.0,446510.50002,446510.50002
+RUS,forestry-and-land-use,forest-land-clearing,,5054528,Tomponskiy rayon,13707763.000000002,81992.52000000002,349829.52,349829.52
+RUS,forestry-and-land-use,forest-land-clearing,,5054510,Gornyy rayon,16691569.999999994,205802.17000000004,289596.94998000003,289596.94998
+BRA,forestry-and-land-use,net-forest-land,,8308154,Porto Velho,32697199.999999836,-8637899.999999946,269600.00000008225,269600.00000008225
+RUS,forestry-and-land-use,forest-land-fires,,8234225,Kobyayskiy rayon,22122764.999999996,431809.6999999999,255400.05998999998,255400.05998999998
+RUS,forestry-and-land-use,forest-land-clearing,,5054526,Suntarskiy rayon,15232170.0,140241.31,234140.90003999998,234140.90003999998
+AUS,forestry-and-land-use,forest-land-clearing,,5014398,Tenterfield,17141068.000000004,444964.10000000003,135347.93000999998,135347.93000999998
+RUS,forestry-and-land-use,forest-land-clearing,,5054527,Tattinskiy rayon,18504742.0,55368.34499999998,128639.85,128639.85000000003
+USA,forestry-and-land-use,shrubgrass-fires,,8199475,Yukon-Koyukuk,138347.39999999997,22557385.999999985,78047.484,78047.484
+RUS,forestry-and-land-use,forest-land-fires,,8234235,Mirninskiy rayon,13982853.99999999,980993.7999999995,72284.58,72284.58
+AUS,forestry-and-land-use,forest-land-clearing,,5014336,Glen Innes Severn,16273453.000000002,80047.43000000004,55581.755999999994,55581.755999999994
+USA,forestry-and-land-use,forest-land-fires,,8243644,Plumas,18843806.999999996,0.0,48638.888009999995,48638.888009999995
+RUS,forestry-and-land-use,forest-land-fires,,8234218,Gornyy rayon,41364089.99999999,5576.209599999997,24357.255989999998,24357.255989999998
+RUS,forestry-and-land-use,forest-land-fires,,8234277,Suntarskiy rayon,22946366.999999996,124988.62999999995,16388.99601,16388.99601
+RUS,forestry-and-land-use,shrubgrass-fires,,8189048,Berezovskiy rayon,2173.322999999999,14190269.999999998,2853.636,2853.636
+ETH,forestry-and-land-use,net-forest-land,,8319337,Debub Omo,14773409.999999998,-1081974.0000000026,-9596.0000000019,-9596.0000000019
+RUS,forestry-and-land-use,removals,,8698482,Krasnosel'kupskiy rayon,13790634.300000003,-21219631.67,-43395.079999999936,-43395.079999999936
+RUS,forestry-and-land-use,net-shrubgrass,,4862160,Anadyrskiy rayon,26431389.999999955,-32709569.99999999,-321599.99999998946,-321599.99999998946
+USA,forestry-and-land-use,net-forest-land,,8387434,Trinity,18637420.000000022,7119319.999999959,-397549.9999999669,-397549.9999999669
+RUS,forestry-and-land-use,removals,,8698511,Yamal'skiy rayon,49019177.26799998,-17240414.023,-417851.7639999998,-417851.7639999998
+ETH,forestry-and-land-use,removals,,8605126,Afder,15461658.835200004,-1220200.7410000002,-454915.06899999996,-454915.06899999996
+RUS,forestry-and-land-use,removals,,8692232,Severo-Eniseyskiy rayon,14983579.548499996,-14387260.294999996,-567961.35306,-567961.35306
+RUS,forestry-and-land-use,net-forest-land,,8370517,Tungussko-Chunskiy rayon,46901599.99999991,-21288199.999999966,-1023100.0000001133,-1023100.0000001133
+CIV,forestry-and-land-use,net-forest-land,,8310530,Agnéby-Tiassa,-19050369.999999985,16622829.999999987,-1113830.000000007,-1113830.000000007
+AUS,forestry-and-land-use,net-forest-land,,8397975,Cook,-28681900.00000004,68190900.00000006,-1116300.0000001376,-1116300.0000001376
+RUS,forestry-and-land-use,removals,,8698501,Priural' rayon,23203414.0,-13333124.399999997,-1334566.5599999996,-1334566.5599999996
+USA,forestry-and-land-use,removals,,8716188,Plumas,-9814045.2717,14466072.937930001,-1357096.0432399998,-1357096.0432399998
+RUS,forestry-and-land-use,removals,,8694518,Nenetskiy AOk,-16213167.600000001,21519850.200000003,-1405679.7399999995,-1405679.7399999995
+TZA,forestry-and-land-use,net-forest-land,,8385252,Sikonge,6943510.000000005,21721430.0,-1422049.9999999844,-1422049.9999999844
+RUS,forestry-and-land-use,removals,,8690322,Anadyrskiy rayon,27375727.680000003,-34268369.500000015,-1494412.46,-1494412.46
+CAN,forestry-and-land-use,removals,,8550748,Division No. 9,9147903.295,23881870.799999997,-1518894.2800000003,-1518894.2800000003
+MOZ,forestry-and-land-use,net-forest-land,,8345926,Chicualacuala,-19546329.999999985,16847129.999999996,-1575060.0000000081,-1575060.0000000081
+RUS,forestry-and-land-use,net-shrubgrass,,4880275,Yamal'skiy rayon,37283180.0,-14467460.000000007,-1604890.000000012,-1604890.000000012
+VEN,forestry-and-land-use,net-forest-land,,8395177,Sucre,-37541600.000000015,32407800.000000406,-1658900.0000003583,-1658900.0000003583
+CAN,forestry-and-land-use,net-forest-land,,8309753,Division No. 9,8524699.999999994,15460880.000000007,-1772480.0000000012,-1772480.0000000012
+ETH,forestry-and-land-use,removals,,8605229,Debub Omo,16713385.072999993,-999542.6399999998,-1869176.2099999993,-1869176.2099999993
+ETH,forestry-and-land-use,net-forest-land,,8319306,Borena,14836179.999999983,5908320.000000003,-2784030.0000000005,-2784030.0000000005
+ETH,forestry-and-land-use,removals,,8605059,Borena,15400364.432500003,10358468.6607,-2823203.140500001,-2823203.140500001
+AUS,forestry-and-land-use,net-forest-land,,8397971,Central Highlands,22161470.000000007,-7187000.000000012,-3022299.999999973,-3022299.999999973
+USA,forestry-and-land-use,net-forest-land,,8393149,Douglas,13959969.999999993,-8918220.00000002,-3126890.0000000033,-3126890.0000000033
+RUS,forestry-and-land-use,net-forest-land,,8369582,Mamsko-Chuyskiy rayon,16121650.000000047,4876949.999999966,-3127500.0000000554,-3127500.0000000554
+RUS,forestry-and-land-use,removals,,8690524,Mamsko-Chuyskiy rayon,17462804.658,3136361.0669999984,-3152555.0675000004,-3152555.0675000004
+MMR,forestry-and-land-use,net-forest-land,,8345616,Mindat,-23947000.0,22299939.99999999,-3518340.0000000787,-3518340.0000000787
+RUS,forestry-and-land-use,net-forest-land,,8369649,Ust'-Kutskiy rayon,19539600.000000063,-8552300.00000006,-3539299.9999999125,-3539299.9999999125
+RUS,forestry-and-land-use,net-wetland,,4775879,Nadymskiy rayon,16975399.999999993,-9876630.000000004,-3650269.999999992,-3650269.999999992
+RUS,forestry-and-land-use,net-forest-land,,8370469,Baykitskiy rayon,73123200.0,-56767799.999999635,-3670200.0000000224,-3670200.0000000224
+RUS,forestry-and-land-use,net-forest-land,,8370270,im. Poliny Osipenko rayon,-1579560.0000000142,15089329.999999963,-3690229.9999999865,-3690229.9999999865
+RUS,forestry-and-land-use,net-forest-land,,8370278,Okhotskiy rayon,-14383099.999999901,21230959.999999985,-3870610.0000000563,-3870610.0000000563
+RUS,forestry-and-land-use,net-forest-land,,8370474,Boguchanskiy rayon,25315900.000000045,-953200.0000001515,-4078999.9999999497,-4078999.9999999497
+VEN,forestry-and-land-use,removals,,8728019,Sucre,-41588359.31,32224791.344000008,-4154780.4849400003,-4154780.4849400003
+CIV,forestry-and-land-use,removals,,8560439,Agnéby-Tiassa,-22777228.754000004,15681835.361999996,-4253929.483999999,-4253929.483999999
+RUS,forestry-and-land-use,removals,,8692238,Tungussko-Chunskiy rayon,29720413.224999998,-25821523.329999987,-4316556.475000001,-4316556.475000001
+RUS,forestry-and-land-use,removals,,8692190,Baykitskiy rayon,70546812.46,-58173276.57999999,-4390404.424999999,-4390404.424999999
+RUS,forestry-and-land-use,removals,,8698491,Nadymskiy rayon,32296515.99999999,-19350434.999999996,-4452984.47,-4452984.47
+AUS,forestry-and-land-use,net-forest-land,,8397945,East Arnhem,14685560.00000001,1259639.9999999902,-5800530.000000094,-5800530.000000094
+TZA,forestry-and-land-use,net-forest-land,,8385035,Mlele,13723420.000000032,-281130.00000001874,-6209429.999999999,-6209429.999999999
+RUS,forestry-and-land-use,net-forest-land,,8369561,Katangskiy rayon,52887199.99999989,-21825499.99999992,-6378699.999999981,-6378699.999999981
+CAN,forestry-and-land-use,net-forest-land,,8309911,Minganie--Basse-Côte-Nord,82046299.99999997,-5538000.000000011,-6731899.9999999935,-6731899.9999999935
+RUS,forestry-and-land-use,removals,,8691648,Okhotskiy rayon,-19699594.124999996,21511723.360000003,-6972107.760000002,-6972107.760000002
+CAN,forestry-and-land-use,removals,,8555814,Minganie--Basse-Côte-Nord,84845488.49000001,3516493.9000000004,-7342722.074,-7342722.074
+RUS,forestry-and-land-use,removals,,8690588,Ust'-Kutskiy rayon,13818723.662360003,-13135478.551669994,-7361039.8105,-7361039.8105
+RUS,forestry-and-land-use,removals,,8690582,Ust'-Ilimskiy rayon,13601504.493,-19627011.992,-7574251.003000001,-7574251.003000001
+RUS,forestry-and-land-use,removals,,8691592,im. Poliny Osipenko rayon,-2608379.7300000004,14930261.309999995,-7918109.760000002,-7918109.760000002
+CAN,forestry-and-land-use,removals,,8550721,Division No. 10,163098497.29999998,-140109291.44,-8021962.399999998,-8021962.399999998
+CAN,forestry-and-land-use,net-forest-land,,8309796,Kenora,-138961000.00000027,88823699.99999991,-8414499.999999862,-8414499.999999862
+RUS,forestry-and-land-use,removals,,8694027,Ol'skiy rayon,-18922348.76,13710051.799999999,-8729231.299999999,-8729231.299999999
+CAN,forestry-and-land-use,net-forest-land,,8309715,Division No. 19,529599.9999999594,25731150.000000075,-8751350.000000002,-8751350.000000002
+CAN,forestry-and-land-use,net-forest-land,,8309744,Division No. 10,152582499.99999997,-130202400.00000013,-10034200.000000054,-10034200.000000054
+TZA,forestry-and-land-use,removals,,8712825,Sikonge,-7231377.146299998,16170083.515800001,-10133900.795900002,-10133900.795900002
+RUS,forestry-and-land-use,removals,,8692195,Boguchanskiy rayon,14338691.126,-11136032.167000001,-11053361.689,-11053361.689
+AUS,forestry-and-land-use,removals,,8734802,Croydon,-678930.6429999999,12933455.259500002,-11134128.5539,-11134128.5539
+PNG,forestry-and-land-use,net-forest-land,,8357520,Middle Fly,-10535800.000000108,13891100.000000281,-11289800.000000013,-11289800.000000013
+CAN,forestry-and-land-use,removals,,8550629,Division No. 19,-34396847.02,30241655.63999999,-11338964.292999996,-11338964.292999996
+BOL,forestry-and-land-use,net-forest-land,,8396975,Chiquitos,18485050.0,3350099.999999998,-11709110.000000013,-11709110.000000013
+AUS,forestry-and-land-use,removals,,8736442,East Pilbara,-66310495.59600001,34200966.91270001,-12208821.190700002,-12208821.190700002
+RUS,forestry-and-land-use,removals,,8690506,Katangskiy rayon,13635605.32,-32296923.33449999,-12548287.183,-12548287.183
+PNG,forestry-and-land-use,removals,,8678231,Middle Fly,-12186233.629999997,14178216.880000003,-13149595.124000004,-13149595.124000004
+BOL,forestry-and-land-use,net-forest-land,,8396978,Germán Busch,17597599.999999944,1027000.0000000437,-21013940.000000056,-21013940.000000056
+CAN,forestry-and-land-use,removals,,8555604,Kenora,-286106895.0,147493641.99999997,-24506297.499999996,-24506297.499999996
+AUS,forestry-and-land-use,net-shrubgrass,,4571071,Barkly,-29442760.000000026,32475130.000000034,-29959600.000000026,-29959600.000000026
+AUS,forestry-and-land-use,removals,,8508539,Central Desert,-50475054.40099999,30640830.165999994,-39803973.31,-39803973.31
+CAN,forestry-and-land-use,net-forest-land,,8309754,Fort Smith,-63277099.99999979,13690399.99999995,-45947500.000000216,-45947500.000000216
+CAN,forestry-and-land-use,net-forest-land,,8309941,Division No. 18,-76229499.99999993,26136399.999999855,-77641599.99999993,-77641599.99999993
+AUS,forestry-and-land-use,removals,,8508537,Barkly,-29346839.200000003,30592348.134000007,-116899619.29999997,-116899619.29999997
+CAN,forestry-and-land-use,removals,,8555844,Division No. 18,-132897481.06000005,13585507.499999998,-189023871.19999993,-189023871.19999993
+CAN,forestry-and-land-use,removals,,8555819,Nord-du-Québec,-175853832.5,82299749.99999999,-220238244.2299999,-220238244.2299999

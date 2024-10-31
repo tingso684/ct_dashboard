@@ -1,0 +1,563 @@
+iso3_country,sector,subsector,asset_type,asset_id,asset_name,2021,2022,2023,2024
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588734,Russian Federation_West Siberia (Central)_Conventional onshore,4894659.51779371,4922342.505683255,4892494.28978668,4892494.289786681
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588658,Iran_Rub al Khali_Conventional shelf,4623338.573733757,4527204.022280196,4612957.529908879,4612957.529908879
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588448,Russian Federation_West Siberia (Central)_Conventional onshore,4918343.530707548,4706589.035682953,4481338.961059032,4481338.961059032
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588660,Iran_Zagros Foldbelt_Conventional onshore,2122527.7244119304,2192618.522072076,2467233.2935112556,2467233.2935112556
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588450,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,3752421.0311376886,3087298.734661263,2457807.1972140768,2457807.1972140768
+SAU,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588738,Saudi Arabia_Widyan - North Arabian Gulf_Conventional onshore,1705437.968687275,1801327.5781325025,1794245.7825958156,1794245.7825958151
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588663,Iraq_Widyan - North Arabian Gulf_Conventional onshore,1367378.0231045617,1525130.8625998453,1579575.3579163724,1579575.3579163717
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588784,United States_Appalachian_Shale gas,1453582.8165401604,1531851.7474915315,1513708.1220106103,1513708.1220106103
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588795,United States_Delaware_Tight oil,999194.9130954903,1286691.3509517985,1351383.2916671184,1351383.2916671187
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588803,United States_Midland_Tight oil,743661.0663730939,887473.7183377948,1099795.355768775,1099795.3557687753
+RUS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588731,Russian Federation_OtherBasins_OtherResources,883182.5934300079,958911.7008720987,1005051.1754992538,1005051.1754992539
+VEN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588822,Venezuela_Maturin_Heavy oil,672204.077547837,790983.5391625409,946410.4708621926,946410.4708621925
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588736,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,1110338.6179118415,955516.4413068654,840154.2556476943,840154.2556476942
+CHN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588604,China_OtherBasins_OtherResources,752896.4454968441,784878.2731367128,790998.7951129279,790998.7951129279
+CAN,fossil-fuel-operations,oil-and-gas-production,Oil sands,3588592,Canada_West Canadian - Alberta_Oil sands,750873.376337649,760722.2080854416,777130.0753860365,777130.0753860367
+DZA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588549,Algeria_Oued Mya_Conventional onshore,773434.0144026405,716414.7660959099,763625.9775904608,763625.9775904608
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588801,United States_Gulf Coast_Tight oil,636261.4463015598,700109.886565728,757181.7918144199,757181.7918144198
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588733,Russian Federation_Volga - Urals_Conventional onshore,859588.3291579349,784699.6823702338,747402.2189571067,747402.2189571067
+RUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588445,Russian Federation_OtherBasins_OtherResources,676888.4229811631,733734.3995779183,732045.1971223247,732045.1971223248
+SAU,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588739,Saudi Arabia_Widyan - North Arabian Gulf_Conventional shelf,611939.8116200338,829030.2579110037,712806.9374745227,712806.9374745229
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588710,Norway_Northern North Sea_Conventional shelf,743785.3885472507,743758.7327629222,711151.4678494546,711151.4678494545
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588692,Mexico_Salinas - Sureste_Conventional onshore,468385.8063127713,620542.8286779791,704374.8793879909,704374.8793879909
+BRA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588581,Brazil_Santos_Deepwater,546419.3099101925,616897.6442035384,685949.2258528209,685949.2258528209
+IRN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588657,Iran_OtherBasins_OtherResources,647212.3044740047,651359.9471977288,677343.9829481312,677343.982948131
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588729,Russian Federation_Nepa - Botuoba_Conventional onshore,556762.3006314135,629534.496559072,665277.4542997226,665277.4542997227
+VEN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588821,Venezuela_Maturin_Conventional onshore,647716.9695288464,653484.0679981263,658558.5233095452,658558.523309545
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588787,United States_ArkLaTex_Shale gas,548481.0356987824,595822.102602456,654392.2192688048,654392.2192688048
+DZA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588547,Algeria_Illizi - Ghadames_Conventional onshore,510742.88426295284,590440.8864014734,653283.7005028921,653283.7005028923
+KWT,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588678,Kuwait_Widyan - North Arabian Gulf_Conventional onshore,583092.3079843551,654562.6776081853,641064.3347954911,641064.334795491
+QAT,fossil-fuel-operations,oil-and-gas-production,LNG,3588726,Qatar_Rub al Khali_LNG,640563.5353417097,638282.1182212401,634323.1927013458,634323.1927013459
+USA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588807,United States_OtherBasins_OtherResources,646067.1207306407,635742.8398676398,611388.6228171366,611388.6228171365
+QAT,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588725,Qatar_Rub al Khali_Conventional shelf,474563.1851144479,577810.1898741269,593970.7271873626,593970.7271873626
+ARE,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588771,United Arab Emirates_OtherBasins_OtherResources,499243.36954229797,568433.4923782066,581319.6207972525,581319.6207972525
+CAN,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588594,Canada_West Canadian - Alberta_Tight gas,434508.84273221466,496153.78516006086,530810.4468262668,530810.4468262668
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588664,Iraq_Zagros Foldbelt_Conventional onshore,492685.1783413781,550067.9522082185,518007.81413755997,518007.81413755997
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588813,United States_Williston_Tight oil,492516.4006517569,476905.9286177396,509742.93276496686,509742.9327649668
+ARE,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588773,United Arab Emirates_Rub al Khali_Conventional shelf,407642.54212088307,492957.65079145326,496899.2120271923,496899.2120271923
+IND,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588650,India_OtherBasins_OtherResources,413756.2745567274,416350.73384034686,463990.5539973167,463990.55399731675
+CHN,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588603,China_Ordos_Tight gas,421142.0495785488,437328.4068970047,451309.43227375153,451309.4322737515
+OMN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588714,Oman_Rub al Khali_Conventional onshore,431140.4327882076,448024.9959705173,445240.55987124884,445240.5598712489
+MEX,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588690,Mexico_OtherBasins_OtherResources,457151.92599884584,436497.95108127367,435305.69408668607,435305.69408668607
+AUS,fossil-fuel-operations,oil-and-gas-production,LNG,3588566,Australia_North Carnarvon_LNG,393994.75104935316,425257.5501340225,418981.86537151196,418981.86537151196
+SAU,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588737,Saudi Arabia_OtherBasins_OtherResources,381454.31184525334,395887.03458976315,416157.0808765207,416157.0808765207
+NGA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588705,Nigeria_Niger Delta_Conventional onshore,423606.3760347333,369391.0665875229,404913.06484215957,404913.06484215957
+CAN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588589,Canada_West Canadian - Alberta_Conventional onshore,393341.08140294725,410516.0881586815,393756.0615895954,393756.0615895954
+AGO,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588551,Angola_Lower Congo_Deepwater,378953.50160988217,396908.82717737206,392341.59517345455,392341.5951734545
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588659,Iran_Widyan - North Arabian Gulf_Conventional onshore,340004.6304122098,367476.7648640863,382901.2626978465,382901.2626978465
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588693,Mexico_Salinas - Sureste_Conventional shelf,417588.3766861753,434743.3807201873,381310.1663942288,381310.1663942288
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588782,United States_Anadarko_Shale gas,347817.2300170819,376888.9333118987,379561.7496535363,379561.74965353636
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588447,Russian Federation_Volga - Urals_Conventional onshore,439154.47464045556,387042.7365653576,372511.16622873617,372511.166228736
+VEN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588823,Venezuela_OtherBasins_OtherResources,299771.4485169197,325270.7822237082,349799.50808633235,349799.5080863324
+AZE,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588573,Azerbaijan_South Caspian_Conventional shelf,376506.2826720293,364922.192937031,345298.04976472066,345298.04976472066
+LBY,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588681,Libya_Sirte_Conventional onshore,291685.0456372552,293631.1942937074,329544.99027181277,329544.99027181277
+USA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588798,United States_East Gulf Coast Tertiary_Deepwater,276563.348123525,291304.96966342797,329529.7090179354,329529.7090179353
+LBY,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588680,Libya_OtherBasins_OtherResources,366821.9756955103,296380.60092429054,326682.51827496174,326682.51827496174
+ARE,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588772,United Arab Emirates_Rub al Khali_Acid/sour gas,341157.32545554114,346028.5860008778,321272.9716705286,321272.9716705285
+KAZ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588674,Kazakhstan_Precaspian_Conventional onshore,302752.81656577357,315966.25000429933,296243.7121886391,296243.7121886391
+CHN,fossil-fuel-operations,coal-mining,Surface,15157,Haerwusu Surface Mine,295601.7095315296,297188.5285244135,295148.3326764199,295148.3326764199
+CHN,fossil-fuel-operations,coal-mining,Surface,16585,Zhundong South Surface Mine,253324.3177925493,297188.52852441353,295148.3326764198,295148.3326764198
+AUS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588567,Australia_OtherBasins_OtherResources,313664.96737208054,284700.526735804,288847.1492707691,288847.1492707691
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588796,United States_Denver-Julesburg_Tight oil,269157.4804097136,276929.5957518011,280895.87233786064,280895.87233786064
+CHN,fossil-fuel-operations,coal-mining,Underground,16707,Shaanxi Caojiatan Coal Mine,166867.37151901712,167762.90302985263,277614.76835900877,277614.76835900877
+CHN,fossil-fuel-operations,coal-mining,Underground,15582,Tashan Coal Mine,417914.7050565724,376571.0003063329,277614.76835900877,277614.76835900877
+AUS,fossil-fuel-operations,coal-mining,Surface,14912,Mt Thorley Warkworth Coal Mine,255529.47997113463,192034.2758570951,266370.12457597064,266370.12457597064
+CHN,fossil-fuel-operations,coal-mining,Surface,16615,Hongshaquan No. 1 Surface Mine,87785.65468058638,264770.961164131,263003.4647611662,263003.4647611662
+QAT,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588724,Qatar_OtherBasins_OtherResources,208289.09550036665,242877.55123313647,260338.7792943104,260338.77929431037
+NGA,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588706,Nigeria_Niger Delta_Conventional shelf,259471.72682148224,260210.32184106193,257251.65079684844,257251.65079684847
+TKM,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588764,Turkmenistan_Amu-Darya_Acid/sour gas,225863.96216678974,247264.31115430262,255249.9900239257,255249.9900239257
+MYS,fossil-fuel-operations,oil-and-gas-production,LNG,3588688,Malaysia_Sarawak - Luconia-East Natuna_LNG,248789.19070821872,261026.76937209876,255085.02096073554,255085.02096073556
+TKM,fossil-fuel-operations,oil-and-gas-transport,Acid/sour gas,3588478,Turkmenistan_Amu-Darya_Acid/sour gas,224135.9600770367,245372.5828666333,253297.1662447825,253297.1662447825
+CHN,agriculture,rice-cultivation,,21459970,Aksu,241726.950736084,241726.950805508,241726.9506,241726.9506
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588732,Russian Federation_Timan - Pechora_Conventional onshore,212159.6780099965,218868.4136861525,237585.44389049156,237585.44389049156
+KAZ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588673,Kazakhstan_OtherBasins_OtherResources,218830.64424690467,188251.30687222138,237007.37967035896,237007.37967035896
+BRA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588577,Brazil_Campos_Deepwater,260828.69710436143,224128.32042983337,235135.26003854955,235135.26003854958
+TUR,waste,solid-waste-disposal,Sanitary Landfills,25772406,Odayeri,224205.70294669096,226064.36825347904,227938.44186630045,229828.051549372
+CHN,fossil-fuel-operations,coal-mining,Surface,16542,Zhundong Surface Mine,175571.30936117278,229421.0331048345,227889.20288893164,227889.20288893164
+CHN,fossil-fuel-operations,coal-mining,Underground,14987,Buertai Coal Mine,222390.3251908189,223584.36720526626,222091.81468720705,222091.814687207
+CHN,fossil-fuel-operations,coal-mining,Underground,15420,Ningtiaota Coal Mine,200151.29267173694,223584.36720526623,222091.81468720702,222091.81468720705
+CHN,fossil-fuel-operations,coal-mining,Underground,16711,Xiaobaodang No.1 Coal Mine,166867.37151901712,167762.90302985266,222091.81468720702,222091.81468720705
+CHN,fossil-fuel-operations,coal-mining,Underground,15557,Suancigou Coal Mine,200151.29267173697,223584.3672052662,222091.81468720702,222091.81468720702
+ECU,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588625,Ecuador_Oriente_Conventional onshore,213071.59904080164,204615.3309852719,221326.5596226443,221326.55962264427
+ZAF,fossil-fuel-operations,coal-mining,Surface,16311,Grootegeluk Coal Mine,202280.14389458505,221997.54821207665,220151.49641342706,220151.496413427
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588443,Russian Federation_Nepa - Botuoba_Conventional onshore,140077.53624427135,190638.34127709767,219535.5241958377,219535.52419583767
+CHN,fossil-fuel-operations,coal-mining,Underground,15623,Tongxin Coal Mine,253733.9280700618,211942.45756440453,217166.39137761173,217166.39137761173
+IDN,fossil-fuel-operations,coal-mining,Surface,16057,KPC Operation Coal Mine,221526.2191389512,196388.49214446024,210528.46357886135,210528.46357886135
+DZA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588548,Algeria_OtherBasins_OtherResources,201895.88936599798,205309.63427463485,209320.4752607132,209320.47526071317
+PRK,agriculture,rice-cultivation,,21465805,Pukch'ŏng,190968.06591449404,210511.5706541458,207850.73290392538,207850.73290392538
+CHN,fossil-fuel-operations,coal-mining,Surface,708851,Changtan Surface Coal Mine,202325.03269239914,203411.341592761,202053.45546730864,202053.4554673086
+CHN,fossil-fuel-operations,coal-mining,Underground,15287,Jinjie Coal Mine,200151.29267173697,201196.07943437842,199852.78216812518,199852.78216812515
+CHN,fossil-fuel-operations,coal-mining,Underground,15827,Yushuwan Coal Mine,185225.76749114512,179852.57842613204,199852.78216812515,199852.78216812515
+CHN,fossil-fuel-operations,coal-mining,Underground,14988,Buliangou Coal Mine,166867.37151901712,201196.07943437845,199852.78216812515,199852.78216812515
+CHN,fossil-fuel-operations,coal-mining,Underground,15033,Daliuta Coal Mine,200151.29267173694,201196.07943437845,199852.78216812515,199852.78216812515
+CHN,fossil-fuel-operations,coal-mining,Underground,15192,Hongliulin Coal Mine,341794.52663555386,374481.4267810501,199852.78216812512,199852.78216812512
+AUS,fossil-fuel-operations,coal-mining,Surface,14882,Curragh Coal Mine,253593.6505774139,188317.48342115135,197144.86545651781,197144.86545651781
+CHN,fossil-fuel-operations,coal-mining,Underground,16616,Jinjitan Coal Mine,166867.37151901712,190001.93554893447,188807.89353448717,188807.89353448717
+IDN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588655,Indonesia_OtherBasins_OtherResources,198149.1311967309,184745.18863232763,188267.42473598605,188267.42473598602
+IRN,waste,solid-waste-disposal,Sanitary Landfills,25772952,Tehran Landfill,170682.33572324784,179195.9707158322,188134.26573513786,197518.4029100065
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588446,Russian Federation_Timan - Pechora_Conventional onshore,178937.87293421698,178899.34580549586,186939.0677556502,186939.06775565023
+BRA,agriculture,enteric-fermentation-cattle-pasture,,21114621,Corumbá,189264.84350999995,183103.31421999994,186183.98523999992,186183.98523999992
+BHR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588574,Bahrain_OtherBasins_OtherResources,188199.9551131283,188199.95511312824,185592.17481434433,185592.17481434433
+VEN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588820,Venezuela_Maracaibo_Conventional shelf,142235.94743357858,165488.3960789969,185430.08511378,185430.08511378
+KOR,waste,solid-waste-disposal,Sanitary Landfills,25772948,Sudokwon,178080.56254485005,181312.72464518214,184603.55059749223,187954.1050408366
+CHN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588602,China_North China_Heavy oil,175347.31113267445,178563.88673487754,179106.7369771672,179106.73697716722
+IND,fossil-fuel-operations,coal-mining,Surface,15908,Gevra Coal Mine,125623.54434312144,159074.67626661548,179102.9355070408,179102.93550704076
+CHN,fossil-fuel-operations,coal-mining,Underground,15160,Halagou Coal Mine,177912.2601526551,178807.79166349064,177613.7496490433,177613.74964904325
+CHN,fossil-fuel-operations,coal-mining,Underground,15495,Shangwan Coal Mine,177912.26015265507,178807.79166349064,177613.7496490433,177613.74964904328
+NGA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588707,Nigeria_Niger Delta_Deepwater,213237.70236394057,187356.73418374284,177555.89068784227,177555.89068784227
+MYS,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588684,Malaysia_Malay_Conventional shelf,182871.71514704838,181199.92397246903,176673.32782587822,176673.32782587825
+CHN,fossil-fuel-operations,coal-mining,Surface,14962,Antaibao Surface Mine,175571.30936117278,176513.97410942067,175335.64317411082,175335.6431741108
+CHN,fossil-fuel-operations,coal-mining,Surface,14957,Anjialing Open-Pit Mine,175571.30936117278,220701.38418354135,175335.6431741108,175335.64317411082
+CHN,fossil-fuel-operations,coal-mining,Surface,3162715,Jiangjun Gebi No. 2 Coal Mine,175571.30936117275,220701.38418354135,175335.6431741108,175335.6431741108
+CHN,agriculture,rice-cultivation,,21459974,Kashgar,172150.595608075,172150.595824515,172150.5956,172150.5956
+CHN,agriculture,rice-cultivation,,21459909,Baynnur,172069.99445649,172069.994396592,172069.9944,172069.99440000003
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588712,Norway_Voring_Conventional shelf,156699.18579352548,161313.31779250834,167438.7601515409,167438.76015154092
+CHN,fossil-fuel-operations,coal-mining,Underground,15760,Yangquan No. 1 Coal Mine,177445.41665828472,168705.56777810055,167381.3482507999,167381.3482507999
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21177002,Afder,162530.76124,171284.82060999994,166908.16479999994,166908.16479999994
+CHN,fossil-fuel-operations,coal-mining,Underground,3162845,Longwanggou Coal Mine,111195.16259540943,111792.18360263311,166568.86101540527,166568.86101540527
+CHN,fossil-fuel-operations,coal-mining,Underground,16907,Xiegou Coal Mine,167165.88202262894,167762.90302985266,166568.86101540527,166568.86101540527
+CHN,fossil-fuel-operations,coal-mining,Underground,708594,Balasu Coal Mine,0.0,167762.90302985263,166568.86101540527,166568.86101540527
+CHN,fossil-fuel-operations,coal-mining,Underground,708982,Dahaize Coal Mine,0.0,166568.86101540527,166568.86101540527,166568.86101540527
+OMN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588713,Oman_OtherBasins_OtherResources,155009.37961927213,163926.38046948038,165852.9918069016,165852.99180690164
+IDN,fossil-fuel-operations,coal-mining,Underground & Surface,16083,PTBA Coal Mines,117990.20608039176,145877.37196490506,163984.39094062432,163984.39094062432
+CHN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588318,China_OtherBasins_OtherResources,153751.97735914393,159662.45284310848,161583.56240776493,161583.56240776493
+EGY,forestry-and-land-use,water-reservoirs,reservoir,4413880,High Aswan Dam,148191.09574600004,126905.72325099999,160036.328345,154673.73533499998
+CHN,fossil-fuel-operations,coal-mining,Underground,3163275,Yangquan No. 2 Coal Mine,184066.5142947879,160760.25061429676,159700.8749924562,159700.87499245623
+MEX,waste,solid-waste-disposal,Unknown,726491,Sistema Integral Para El Manejo Ecologico Y Procesamiento De Desechos (Simeprode),153986.25901606563,156508.55412840002,159072.16424502325,161677.76629535668
+EGY,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588633,Egypt_Western Desert_Conventional onshore,146137.5081502135,163447.7713780163,158892.68818441886,158892.68818441886
+CHN,fossil-fuel-operations,coal-mining,Underground,15012,Chengzhuang Coal Mine,157846.9676542354,158641.49937061573,157582.12374877522,157582.12374877525
+EGY,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588632,Egypt_OtherBasins_OtherResources,198535.45101292705,178440.02162762647,153032.795440451,153032.795440451
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21176939,Borena,148007.11514999994,155978.94883999994,151993.2598899999,151993.2598899999
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21099085,Deseado,146138.82663999996,146140.74206999995,146139.78296999994,146139.78296999994
+CHN,fossil-fuel-operations,coal-mining,Underground,15821,Yujialiang Coal Mine,144628.3389999352,89403.8958317453,144329.82849632343,144329.82849632337
+CHN,fossil-fuel-operations,coal-mining,Underground,16525,Huangyuchuan Coal Mine,111195.16259540945,145374.61525896483,144329.8284963234,144329.82849632337
+CHN,fossil-fuel-operations,coal-mining,Underground,711768,Xiaobaodang No.2 Coal Mine,0.0,145374.61525896483,144329.8284963234,144329.8284963234
+MYS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588685,Malaysia_OtherBasins_OtherResources,153370.56863647667,174456.07099570837,144137.02848091788,144137.02848091788
+CHN,fossil-fuel-operations,coal-mining,Underground,15105,Fengjiata Coal Mine,114628.03338694556,102090.59223524839,141941.74446742868,141941.74446742868
+CHN,fossil-fuel-operations,coal-mining,Surface,16578,Shenhua Heishan Coal Mine,87785.65468058639,141164.04605012416,140221.38130187624,140221.38130187622
+NOR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588424,Norway_Northern North Sea_Conventional shelf,148461.71249410763,148786.29361836537,139690.719864467,139690.719864467
+NOR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588711,Norway_OtherBasins_OtherResources,123635.89060034475,145241.76513761326,139006.98203838704,139006.98203838704
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588498,United States_Appalachian_Shale gas,133022.63108039464,140185.30458515085,138524.91566795512,138524.91566795512
+GAB,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588638,Gabon_Gabon_Conventional onshore,109709.36884766234,117037.08149879644,136997.23086328508,136997.23086328508
+CHN,fossil-fuel-operations,coal-mining,Underground,15836,Zhangji Coal Mine,187763.10677184575,189852.68029712862,136568.55540241563,136568.55540241563
+ZWE,forestry-and-land-use,water-reservoirs,reservoir,4413469,Kariba,115100.936619,86254.89270599998,135838.581852,120740.86524000001
+RUS,fossil-fuel-operations,coal-mining,Surface,16188,Bachatsky Coal Mine,130458.06933927511,140838.60388885188,134140.35355449657,134140.35355449657
+CHN,fossil-fuel-operations,coal-mining,Underground,3584764,Yingpanhao Coal Mine,0.0,0.0,133284.93986268542,133284.93986268542
+CHN,fossil-fuel-operations,coal-mining,Underground,711770,Xiaojiawa Coal Mine,0.0,171046.51856958287,133284.93986268542,133284.93986268542
+CHN,fossil-fuel-operations,coal-mining,Underground,16531,Majialiang Coal Mine,133434.19511449133,134180.4713735209,133284.93986268542,133284.9398626854
+CHN,fossil-fuel-operations,coal-mining,Underground,3163077,Talahao Coal Mine,111195.16259540943,111792.18360263311,133284.93986268542,133284.93986268542
+CHN,fossil-fuel-operations,coal-mining,Underground,15397,Meihuajing Coal Mine,133434.19511449133,134180.4713735209,133284.9398626854,133284.9398626854
+CHN,fossil-fuel-operations,coal-mining,Underground,15751,Yangchangwan Coal Mine,133434.19511449136,134180.4713735209,133284.9398626854,133284.93986268542
+CHN,fossil-fuel-operations,coal-mining,Underground,3585234,Dananhu No. 7 Mine,0.0,0.0,133284.9398626854,133284.9398626854
+CHN,fossil-fuel-operations,coal-mining,Underground,16669,Xiaojihan Coal Mine,111195.16259540943,111792.18360263311,133284.9398626854,133284.93986268542
+GHA,forestry-and-land-use,water-reservoirs,reservoir,4413107,Akosombo Main Dam,66830.89440159999,72492.8858738,132124.93128000002,86017.3296151
+CHN,fossil-fuel-operations,coal-mining,Underground,15331,Liangshuijing Coal Mine,125822.17727238948,123583.34849530066,131941.64259643212,131941.64259643212
+UZB,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588816,Uzbekistan_Amu-Darya_Conventional onshore,145481.3672906664,142363.8351330761,130670.4449712394,130670.4449712394
+GUY,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588647,Guyana_OtherBasins_OtherResources,38484.19919038163,91379.81092507007,128790.88985746997,128790.88985746997
+CHN,fossil-fuel-operations,coal-mining,Surface,15513,Shenhua Baorixile Surface Coal Mine,81948.9887810181,113622.52432214779,128642.31597756446,128642.31597756445
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21177027,Siti,125122.91892999997,131862.3900399999,128492.81214999997,128492.81214999997
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588607,China_Tarim_Conventional onshore,127512.10077417306,127669.09363393337,127874.33981186728,127874.33981186726
+DZA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588263,Algeria_Oued Mya_Conventional onshore,127670.21304987407,118119.94137636657,127200.10783276854,127200.10783276857
+USA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588812,United States_West Gulf Coast Tertiary_Deepwater,137766.37709397287,128440.50576581078,126875.40606857208,126875.40606857209
+CHN,agriculture,rice-cultivation,,21459835,Jingzhou,126289.305424233,126289.30500378001,126289.30539999998,126289.30539999998
+USA,fossil-fuel-operations,coal-mining,Underground,16398,Bailey Coal Mine,145664.1480030695,143195.26413861068,124925.52354161553,124925.52354161552
+IND,agriculture,enteric-fermentation-cattle-pasture,,21195793,Chamba,123672.58677999997,124485.89078999992,124079.29685999993,124079.29685999993
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21177018,Liben,120545.75003999994,127038.52903999994,123792.19468999997,123792.19468999997
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588509,United States_Delaware_Tight oil,91439.94741109828,117749.78827789877,123669.98220543272,123669.98220543275
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588601,China_North China_Conventional shelf,110228.45042554964,114628.81467575072,123511.66864099225,123511.66864099224
+MEX,waste,solid-waste-disposal,Unknown,726845,Vertedero Municipal Santa Maria Chiconautla Ecatepec De Morelos,119540.12790686736,121498.19508396003,123488.33551943525,125511.07445524361
+AUS,fossil-fuel-operations,coal-mining,Underground,3162341,Ulan Complex Coal Mine,127764.85220756114,113559.68000544164,123465.51540159973,123465.51540159973
+KAZ,fossil-fuel-operations,coal-mining,Surface,708729,Bogatyr Coal Mine (Kazakhstan),135900.8361031073,127652.51946101116,123449.80574337172,123449.80574337172
+POL,fossil-fuel-operations,coal-mining,Underground,3164276,LW Bogdanka Coal Mine,173928.38137304853,147055.70241908482,123421.75024458906,123421.75024458904
+CHN,fossil-fuel-operations,coal-mining,Surface,16489,Xingsheng Coal Mine,26394.612950941417,123606.91511400687,122782.08345928995,122782.08345928995
+AUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588281,Australia_OtherBasins_OtherResources,129465.9710451304,121108.74635508188,122140.01610514149,122140.01610514148
+CHN,fossil-fuel-operations,coal-mining,Underground,15357,Liuzhuang Coal Mine,122389.30648085334,122986.32748807702,122090.7959772415,122090.79597724149
+CHN,fossil-fuel-operations,coal-mining,Underground,15837,Zhangjiamao Coal Mine,111195.16259540943,122986.32748807702,122090.79597724148,122090.79597724149
+RUS,fossil-fuel-operations,coal-mining,Underground,16294,Yalevsky Coal Mine,122950.41786504071,97767.80215774324,120728.42236145564,120728.42236145564
+MNG,fossil-fuel-operations,coal-mining,Surface,3164210,Tavan Tolgoi Coal Mine,33778.82064884716,44383.799224648035,119796.98020812073,119796.98020812073
+DZA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588261,Algeria_Illizi - Ghadames_Conventional onshore,96314.9751461315,111690.37937274782,118554.30793738819,118554.30793738819
+CHN,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588606,China_Sichuan_Acid/sour gas,109698.1128191262,110458.77985277936,118123.84827850867,118123.84827850868
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588774,United Kingdom_Central Graben_Conventional shelf,119250.94303773715,120425.18875464445,117167.87397305573,117167.87397305573
+AUS,fossil-fuel-operations,coal-mining,Surface,16470,Maules Creek Coal Mine,116205.87462016245,137245.25402507608,116817.48448658438,116817.48448658436
+COL,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588609,Colombia_Llanos_Heavy oil,109147.4691245149,111891.21992190425,116294.80775988923,116294.80775988923
+IRQ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588661,Iraq_OtherBasins_OtherResources,106915.41825192785,109138.07369436062,114420.87649785195,114420.87649785195
+CHN,fossil-fuel-operations,coal-mining,Surface,16670,Xiwan Surface Coal Mine,114180.26763152782,114769.43309918273,113944.60144446582,113944.60144446584
+IND,agriculture,enteric-fermentation-cattle-pasture,,21195812,Kinnaur,112516.53799999996,113256.54181999997,112886.49574999996,112886.49574999996
+AUS,fossil-fuel-operations,oil-and-gas-transport,LNG,3588280,Australia_North Carnarvon_LNG,100831.4365157314,112805.51709126965,112126.29410992259,112126.2941099226
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588789,United States_Arkoma_Shale gas,99939.816752796,117193.59775173258,112065.84954108094,112065.84954108094
+CHN,fossil-fuel-operations,coal-mining,Underground,15521,Shenmu Longde Coal Mine,111195.16259540943,111792.1836026331,111045.90734360353,111045.90734360351
+CHN,fossil-fuel-operations,coal-mining,Underground,16563,Dananhu No. 1 Coal Mine,111195.16259540943,111792.18360263313,111045.90734360351,111045.9073436035
+CHN,fossil-fuel-operations,coal-mining,Underground,3162534,Dongzhouyao Coal Mine,158210.5669142738,106269.73928581412,111045.90734360351,111045.90734360353
+CHN,fossil-fuel-operations,coal-mining,Underground,16702,Madiliang Coal Mine,78657.51770171917,89403.89583174532,111045.90734360351,111045.90734360353
+CHN,fossil-fuel-operations,coal-mining,Underground,15276,Jinggong No. 3 Coal Mine,111195.16259540943,111792.18360263311,111045.90734360351,111045.9073436035
+CHN,fossil-fuel-operations,coal-mining,Underground,15560,Sunjiacha Coal Mine,111195.16259540943,111792.1836026331,111045.90734360351,111045.90734360351
+CHN,fossil-fuel-operations,coal-mining,Underground,15275,Jinggong No. 1 Coal Mine,111195.16259540943,111792.18360263311,111045.90734360351,111045.90734360353
+CHN,fossil-fuel-operations,coal-mining,Underground,15163,Hanglaiwan Coal Mine,128359.51655309011,111792.18360263311,111045.90734360351,111045.90734360353
+CHN,fossil-fuel-operations,coal-mining,Underground,16914,Xinwen IlI No.1 Coal Mine,82388.89899686712,111792.18360263313,111045.90734360351,111045.90734360353
+CHN,fossil-fuel-operations,coal-mining,Underground,16630,Zhuanlongwan Coal Mine,111195.16259540943,111792.18360263311,111045.90734360351,111045.90734360351
+CHN,fossil-fuel-operations,coal-mining,Underground,16862,Pangpangta Coal Mine,149255.2518059187,111792.18360263313,111045.90734360351,111045.90734360353
+AGO,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588550,Angola_Lower Congo_Conventional shelf,88363.38564462098,91458.69551696336,110773.60956676982,110773.6095667698
+AUS,fossil-fuel-operations,coal-mining,Underground,14868,Broadmeadow Coal Mine,105975.04432984692,130087.7352580322,109335.64415734609,109335.6441573461
+CHN,agriculture,rice-cultivation,,21459733,Lu'an,106877.016205964,106877.01632256,106877.0162,106877.01619999998
+CHN,fossil-fuel-operations,coal-mining,Underground,709472,Henan Chengjiao Coal Mine,107158.53747701929,107733.11408547516,106871.24917279134,106871.24917279134
+CHN,fossil-fuel-operations,coal-mining,Underground,15693,Xieqiao Coal Mine,135971.53439519196,118657.92518570538,106568.24978942596,106568.24978942596
+CHN,agriculture,rice-cultivation,,21459812,Jiamusi,106201.63747567,106201.63766519999,106201.63769999999,106201.6377
+CHN,fossil-fuel-operations,coal-mining,Underground,15387,Majiliang Coal Mine,219310.9536798757,146985.00087055497,105837.68460953381,105837.68460953381
+CHL,waste,solid-waste-disposal,Sanitary Landfills,25772378,Loma Los Colorados,101966.38006814996,103636.58914830002,105334.15647854918,107059.52996166782
+MEX,waste,solid-waste-disposal,Unknown,726020,Los Laureles,101932.45657937495,103602.10988735495,105299.11244730982,107023.91190919682
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588735,Russian Federation_West Siberia (Omsk/Nyurolka)_Conventional onshore,123138.25530866797,105396.38460547122,105270.47473490171,105270.4747349017
+CHN,fossil-fuel-operations,coal-mining,Surface,15654,Weijiamao Open Pit Mine,42137.11424668146,84745.56086748689,105201.38590446647,105201.38590446647
+CHN,agriculture,rice-cultivation,,21459871,Yancheng,104828.07800124,104828.07807019999,104828.0781,104828.0781
+CHN,fossil-fuel-operations,coal-mining,Underground,16520,Gaotouyao Coal Mine,83605.38541008226,84026.21788697866,104366.45427030404,104366.45427030404
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588605,China_Pearl River Mouth_Conventional shelf,86201.44219819093,98003.9302055513,103256.39458639163,103256.39458639163
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588728,Russian Federation_East Sakhalin (Sea of Okhotsk)_Conventional shelf,84224.88364144828,55388.52242960914,102193.77124673368,102193.7712467337
+CHN,fossil-fuel-operations,coal-mining,Underground,16619,Mataihao Coal Mine,102332.99174194071,102848.09069366187,102161.292091367,102161.292091367
+OMN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588428,Oman_Rub al Khali_Conventional onshore,98885.4242089621,103466.71554492309,101998.45294890058,101998.45294890057
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21176936,Bale,98579.56908999995,103889.75755999998,101234.81724999992,101234.81724999992
+IND,fossil-fuel-operations,coal-mining,Surface,15905,Dipka Coal Mine,100686.69509218345,97414.30175184165,100716.99503051996,100716.99503051995
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588517,United States_Midland_Tight oil,68055.11908599797,81215.93602006703,100646.25847915639,100646.25847915639
+CHN,fossil-fuel-operations,coal-mining,Underground,15514,Shenhua Bulianta Coal Mine,100660.88403373906,101191.69406459772,100516.1176616867,100516.11766168669
+CHN,fossil-fuel-operations,coal-mining,Underground,3162972,Sandaogou Coal Mine,100150.27396177145,100598.03971718921,100001.01870996553,100001.01870996553
+CHN,fossil-fuel-operations,coal-mining,Underground,15154,Guqiao Coal Mine,137613.34216505702,141792.48921562277,100001.01870996553,100001.01870996554
+CHN,fossil-fuel-operations,coal-mining,Underground,16580,Tangjiahui Coal Mine,100150.27396177145,100598.03971718923,100001.01870996553,100001.01870996553
+TUR,waste,solid-waste-disposal,Sanitary Landfills,25772323,Komurcuoda,98332.20872331002,99147.38311781998,99969.31492386675,100798.06054458553
+CHN,fossil-fuel-operations,coal-mining,Underground,14996,Changping Coal Mine,98786.77673662716,99316.4645475474,98521.93283116704,98521.93283116703
+CHN,fossil-fuel-operations,coal-mining,Underground,3584736,Wenjiazhuang Coal Mine,0.0,0.0,98521.93283116703,98521.93283116704
+CHN,fossil-fuel-operations,coal-mining,Underground,15095,East Well of Sihe Coal Mine,98786.77673662717,99316.46454754744,98521.93283116703,98521.93283116705
+CHN,agriculture,rice-cultivation,,21459973,Ili Kazakh,98413.018731126,98413.018720009,98413.01884999998,98413.01885
+AUS,agriculture,enteric-fermentation-cattle-pasture,,21099880,Unincorporated South Australia,98845.0407,97190.58672999994,98015.92364999997,98015.92364999997
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21099089,Güer Aike,97989.47124999994,97991.48724999996,97990.53524999997,97990.53524999997
+MMR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588696,Myanmar_OtherBasins_OtherResources,116886.57557477686,113149.8887617524,97809.96848357303,97809.96848357304
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588786,United States_Appalachian_Tight oil,68062.53749341381,61529.00438564237,95908.17591366882,95908.1759136688
+ARG,fossil-fuel-operations,oil-and-gas-production,Shale oil,3588557,Argentina_Neuquen_Shale oil,51891.484979239205,78053.17212518417,95658.7012368928,95658.70123689281
+CHN,fossil-fuel-operations,coal-mining,Underground,15015,Chensilou Coal Mine,95489.69455763625,96059.78228633857,95489.69455763625,95489.69455763625
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588790,United States_Central Basin Platform_Conventional onshore,80785.95759476772,91569.94300694112,94664.59666041617,94664.59666041617
+RUS,fossil-fuel-operations,coal-mining,Underground,16603,Uvalnaya Coal Mine,91842.48081484971,82954.4988005094,94657.00845272413,94657.00845272411
+CHN,fossil-fuel-operations,coal-mining,Underground,15123,Gaojialiang No.1 Coal Mine,83433.68575950855,83881.45151492633,94329.31914134062,94329.31914134062
+CHN,fossil-fuel-operations,coal-mining,Underground,15426,Okhobrak Coal Mine,83433.68575950855,95075.5954003702,94329.31914134062,94329.31914134062
+KAZ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588671,Kazakhstan_Mangyshlak - Ustyurt_Conventional onshore,96251.25685792937,95822.79856965039,93974.09358787294,93974.09358787294
+ISR,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588667,Israel_Sinai - Levant_Deepwater,70756.05441859558,81724.62310717073,93940.19538371282,93940.19538371281
+CHN,fossil-fuel-operations,coal-mining,Underground,16801,Hetaoyu Coal Mine,0.0,93754.74253288473,93754.74253288473,93754.74253288473
+RUS,fossil-fuel-operations,coal-mining,Underground,16745,Inaglinsky Coal Mine 1,58364.415227501246,88879.82014340293,93323.81115057306,93323.81115057308
+CHN,fossil-fuel-operations,oil-and-gas-transport,Tight gas,3588317,China_Ordos_Tight gas,85993.31658699401,89134.69718697346,91919.54445517261,91919.54445517261
+NER,agriculture,enteric-fermentation-cattle-pasture,,21244825,Tchighozerine,93519.41577999994,89956.44252999994,91738.05755999999,91738.05755999999
+CHN,waste,solid-waste-disposal,Sanitary Landfills,25773233,Xingfeng,88331.26385885722,89934.47625303,91566.78699702247,93228.72418101844
+USA,fossil-fuel-operations,coal-mining,Underground,16435,Marshall County Coal Mine,135788.6125452343,118136.09291435384,91249.94763039744,91249.94763039745
+PAK,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588715,Pakistan_Indus_Conventional onshore,93957.31133088855,91767.10476171899,91226.8902744533,91226.89027445331
+ARG,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588556,Argentina_Neuquen_Shale gas,63678.455216048314,81375.77543935615,91111.25818488255,91111.25818488254
+IND,agriculture,enteric-fermentation-cattle-pasture,,21195837,Lahul & Spiti,90482.03479999995,91077.21749999997,90779.53496999998,90779.53496999998
+CHN,agriculture,rice-cultivation,,21459971,Bayin'gholin Mongol,90261.75289593602,90261.753061466,90261.75301999999,90261.75302
+GRC,waste,solid-waste-disposal,Sanitary Landfills,25772273,Fyli Landfill,88484.38202061002,89217.91750661893,89957.5340427488,90703.28199996316
+ROU,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588727,Romania_OtherBasins_OtherResources,89134.6308084759,86868.87710710164,88986.31446187319,88986.31446187317
+CHN,fossil-fuel-operations,coal-mining,Underground,16855,Nalin River No.2 Coal Mine,88956.13007632755,89403.89583174532,88806.87482452166,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,15829,Zaoquan Coal Mine,88956.13007632755,89403.89583174529,88806.87482452166,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,16930,Yuandatan Coal Mine,55672.20892360768,89403.89583174532,88806.87482452166,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,15757,Yangjiacun Coal Mine,88956.13007632754,89403.8958317453,88806.87482452166,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,16618,Maiduoshan mine,88956.13007632755,89403.89583174532,88806.87482452166,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,16614,Hongqinghe Coal Mine,88956.13007632754,89403.8958317453,88806.87482452166,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,16575,Selian No.2 Coal Mine,88956.13007632755,89403.89583174532,88806.87482452166,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,15220,Huangling No. 2 Coal Mine,88956.13007632754,89403.89583174532,88806.87482452164,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,14854,Baode Coal Mine,55672.20892360768,55970.71942721952,88806.87482452164,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,3162995,Shanxi Lu'an Gucheng Coal Mine,61343.908492232586,129105.79281211969,88806.87482452164,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,3162977,Selian No.1 Coal Mine,92687.51137147551,100448.78446538327,88806.87482452164,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,3162474,Dafosi Coal Mine,83433.68575950855,89403.8958317453,88806.87482452164,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,15845,Zhaozhuang Coal Mine,88956.13007632755,89403.8958317453,88806.87482452164,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,16567,Hulusu Coal Mine,88956.13007632754,89403.89583174532,88806.87482452164,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,3584753,Xinzhuang Coal Mine,0.0,0.0,88806.87482452164,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,16532,Menkeqing Coal Mine,88956.13007632755,89403.89583174532,88806.87482452164,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,15422,Ningxia Hongliu Coal Mine,88956.13007632754,89403.89583174532,88806.87482452164,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,16881,Shilawusu Coal Mine,23880.84028894699,89403.89583174532,88806.87482452164,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,16816,Inner Mongolia Erlintu Coal Mine,88956.13007632755,89403.8958317453,88806.87482452164,88806.87482452161
+CHN,fossil-fuel-operations,coal-mining,Underground,16566,Guojiawan Coal Mine,88956.13007632755,89403.89583174532,88806.87482452164,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,14993,Changcun Coal Mine,125225.15626516579,125374.41151697171,88806.87482452163,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,3162418,Bayangol Coal Mine,44478.065038163775,44776.575541775615,88806.87482452163,88806.87482452163
+CHN,fossil-fuel-operations,coal-mining,Underground,14989,Chaigou Coal Mine,88956.13007632755,89403.89583174532,88806.87482452163,88806.87482452164
+CHN,fossil-fuel-operations,coal-mining,Underground,15633,Wangjiata Coal Mine,88956.13007632755,89403.89583174532,88806.87482452163,88806.87482452164
+AUS,fossil-fuel-operations,coal-mining,Underground,3584531,Maxwell Coal Mine,0.0,0.0,88737.17155773721,88737.17155773721
+CHN,fossil-fuel-operations,coal-mining,Underground,15549,Sijiazhuang Coal Mine,99581.30845300754,99316.46454754742,88722.70832914238,88722.70832914238
+CHN,fossil-fuel-operations,coal-mining,Underground,15670,Wukuang Guishigou Coal Mine,115207.09887515502,89252.3961400626,88722.70832914236,88722.70832914238
+CHN,fossil-fuel-operations,coal-mining,Underground,15717,Xinjing Coal Mine,102759.43531852905,89252.39614006261,88722.70832914235,88722.70832914235
+UKR,fossil-fuel-operations,coal-mining,Underground,710689,Pokrovs'ke Coal Mine,110287.28793450842,99471.3320438251,88655.3761531418,88655.3761531418
+BRA,waste,solid-waste-disposal,Sanitary Landfills,25770989,Bandeirantes,88212.00000176423,88212.00000176423,88212.00000176423,88212.00000176423
+CHN,agriculture,rice-cultivation,,21459727,Chuzhou,88162.941423539,88162.941001642,88162.94123,88162.94123
+CHN,fossil-fuel-operations,coal-mining,Surface,15515,Shenhua Heidaigou Surface Coal Mine,88120.07622222671,88607.11967548815,88015.70976795642,88015.70976795642
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588808,United States_Powder River_Tight oil,63682.35410347773,81309.18459226684,87699.17966431577,87699.17966431576
+CHN,fossil-fuel-operations,coal-mining,Surface,16524,Hequ Jiuxian Coal Mine,87785.65468058639,141164.04605012416,87667.8215870554,87667.82158705538
+COL,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588608,Colombia_Llanos_Conventional onshore,92568.35668418686,93434.26033179654,87481.63674926736,87481.63674926736
+IND,agriculture,rice-cultivation,,21461144,Nalgonda,75344.47109463,87031.72451068,87233.84013,87233.84013
+AUS,fossil-fuel-operations,coal-mining,Surface,14890,Goonyella-Riverside Coal Mine,100158.12950120233,87000.10072359341,87196.48921281143,87196.48921281143
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588804,United States_North Slope_Conventional onshore,88787.7969208408,89109.21317234964,87014.11398625413,87014.11398625412
+USA,fossil-fuel-operations,coal-mining,Underground,16425,Harrison County Coal Mine,75634.2571876955,86904.71202894994,86768.92341640472,86768.92341640472
+CAN,fossil-fuel-operations,oil-and-gas-production,LNG,3588591,Canada_West Canadian - Alberta_LNG,68431.66146342749,77259.69652078112,86720.98515878285,86720.98515878285
+AUS,fossil-fuel-operations,coal-mining,Surface,14911,Mt Owen Coal Mine,89927.97254284982,85535.60370399598,86691.49024053646,86691.49024053647
+COL,fossil-fuel-operations,coal-mining,Surface,15866,Cerrejón Coal Mine,91909.81432360741,77377.06590491736,86410.93654356251,86410.93654356251
+BGD,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588575,Bangladesh_Tripura - Cachar - Bengal_Conventional onshore,87290.30670901448,87013.69738425806,86380.14616462136,86380.14616462137
+IND,agriculture,enteric-fermentation-cattle-pasture,,21195856,Shimla,85903.55927999997,86468.41188999994,86186.10932999999,86186.10932999999
+PAK,agriculture,enteric-fermentation-cattle-pasture,,21254254,Dera Ghazi Khan,87473.22717999999,84178.24170999997,85825.56327999996,85825.56327999996
+AZE,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588287,Azerbaijan_South Caspian_Conventional shelf,81023.742411296,84874.83657676507,85751.555149863,85751.555149863
+TTO,fossil-fuel-operations,oil-and-gas-production,LNG,3588755,Trinidad and Tobago_Columbus_LNG,81087.2930796189,82455.48253203464,85584.08633746575,85584.08633746576
+RUS,fossil-fuel-operations,coal-mining,Underground,16227,Kirova Coal Mine,81473.16846478601,84435.82913623279,84435.82913623279,84435.82913623279
+DEU,fossil-fuel-operations,coal-mining,Surface,15878,Hambach Coal Mine,105982.45220130016,110426.44320847033,84390.94033818055,84390.94033818056
+USA,fossil-fuel-operations,coal-mining,Underground,16434,Marion County Coal Mine,76177.41163787643,84188.93977804526,84188.93977804527,84188.93977804526
+COL,fossil-fuel-operations,coal-mining,Surface,15867,El Descanso Coal Mine,80912.05876351763,80126.50479493978,84054.27463782899,84054.27463782899
+RUS,fossil-fuel-operations,coal-mining,Surface,16210,Elginskiy Coal Mine,57738.21649467274,78555.39659139149,83897.16355960611,83897.16355960611
+AUS,fossil-fuel-operations,coal-mining,Underground,16516,Grosvenor Coal Mine,92.9198108985944,30818.403948033818,83318.09710573965,83318.09710573967
+CHN,fossil-fuel-operations,coal-mining,Underground,15082,Dongtan Coal Mine,83433.68575950856,83881.4515149263,83284.43050770265,83284.43050770265
+CHN,fossil-fuel-operations,coal-mining,Underground,15122,Gaohe Coal Mine,138508.87367589257,139553.66043853402,83284.43050770264,83284.43050770265
+CHN,fossil-fuel-operations,coal-mining,Underground,15828,Yuwu Coal Mine,162091.2034612277,152688.1225974548,83284.43050770264,83284.43050770264
+CHN,fossil-fuel-operations,coal-mining,Underground,15630,Wangjialing Coal Mine,83433.68575950856,83881.45151492632,83284.43050770264,83284.43050770265
+CHN,fossil-fuel-operations,coal-mining,Underground,16625,Yili No.4 Coal Mine,97612.93468107084,100598.03971718923,83284.43050770264,83284.43050770265
+UKR,fossil-fuel-operations,coal-mining,Underground,710031,Komsomolets Donbassa Coal Mine,83070.5324823402,83070.53248234019,83070.53248234019,83070.53248234018
+ZAF,waste,solid-waste-disposal,Sanitary Landfills,25772102,Bisasar,77976.76376541011,80441.60891376011,82984.36817152405,85607.5040494259
+USA,fossil-fuel-operations,coal-mining,Underground,16430,Lively Grove Coal Mine,81608.9561396858,80115.28140168825,82695.26504004767,82695.26504004769
+MEX,waste,solid-waste-disposal,Unknown,726326,Relleno Sanitario Portezuelos,79869.58286389524,81177.84681166527,82507.53994244033,83859.01344669751
+THA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588751,Thailand_OtherBasins_OtherResources,81637.8377652484,82263.65010271463,82422.84373405813,82422.84373405814
+AUS,fossil-fuel-operations,coal-mining,Underground,14897,Kestrel Coal Mine,82219.21934206934,81273.41237799522,82043.25525572996,82043.25525572996
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588600,China_North China_Conventional onshore,83370.08691692915,83164.36845491952,81956.81917514619,81956.81917514619
+AUS,fossil-fuel-operations,coal-mining,Surface,14910,Mount Arthur Coal Mine,77974.08575913211,77848.39712603255,81736.88921254981,81736.88921254982
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21099093,Lago Argentino,81523.33053999998,81524.57521999998,81523.67921999998,81523.67921999998
+UNK,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588683,Malaysia/Thailand JDA_OtherBasins_OtherResources,58362.43073337598,69850.397138652,81512.26699647598,81512.26699647598
+IND,fossil-fuel-operations,coal-mining,Surface,15907,Dudhichua Coal Mine,71792.89833848646,74852.06989053437,81360.94553318954,81360.94553318954
+IDN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588656,Indonesia_South Sumatra_Conventional onshore,86949.35144220624,85183.66742340397,81066.49039457401,81066.49039457401
+CHN,agriculture,rice-cultivation,,21459862,Huai'an,80895.558196098,80895.558287744,80895.55815,80895.55815
+BRA,forestry-and-land-use,water-reservoirs,reservoir,4411978,Sobradinho Main Dam,53017.319084,46404.13017800001,80863.192572,62002.030558
+NER,agriculture,enteric-fermentation-cattle-pasture,,21244902,Tchin-Tabarade,81736.50085999997,78622.91031999997,80179.70362999999,80179.70362999999
+VEN,forestry-and-land-use,water-reservoirs,reservoir,4411760,Guri,11955.290776570002,9193.1612282,80018.16094799999,40599.6764649
+UZB,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588530,Uzbekistan_Amu-Darya_Conventional onshore,89264.75840912583,87126.65701397104,79868.53482530804,79868.53482530806
+USA,fossil-fuel-operations,coal-mining,Underground,16441,Ohio County Coal Mine,73597.42799951699,78757.3952762359,79436.33833896207,79436.33833896206
+BRA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588578,Brazil_OtherBasins_OtherResources,62559.63851283642,60847.44765601907,79337.54389602815,79337.54389602816
+AUS,fossil-fuel-operations,coal-mining,Surface,14917,Peak Downs Coal Mine,88099.87626321444,72820.85180205062,79262.39424840246,79262.39424840247
+CHN,fossil-fuel-operations,coal-mining,Underground,15774,Yanzishan Coal Mine,115075.79914236332,108359.31281109698,78956.028205331,78956.028205331
+CHN,fossil-fuel-operations,coal-mining,Underground,15658,West Well of Sihe Coal Mine,78923.48382711768,79453.17163803794,78923.4838271177,78923.48382711768
+CHN,fossil-fuel-operations,coal-mining,Underground,15037,Daning Coal Mine,78923.48382711768,79453.17163803792,78923.48382711767,78923.48382711767
+CHN,fossil-fuel-operations,coal-mining,Underground,15369,Lu'an Wangzhuang Coal Mine,136717.81065422154,140299.9366975636,78806.77295352508,78806.77295352508
+USA,fossil-fuel-operations,coal-mining,Underground,16419,Enlow Fork Coal Mine,67916.75067138496,62922.87194554783,78803.4062937099,78803.4062937099
+CHN,agriculture,rice-cultivation,,21459847,Changde,78756.3848731,78756.38471897999,78756.3849,78756.3849
+POL,waste,solid-waste-disposal,Sanitary Landfills,25772368,Legajny,78743.99999803142,78743.99999803142,78743.99999803142,78743.99999803142
+IND,agriculture,rice-cultivation,,21461140,Karimnagar,74981.20474306,79351.811020348,78665.10213,78665.10213
+BGD,agriculture,rice-cultivation,,21459094,Dinajpur,74141.88547388694,78103.12328940757,78468.92743923447,78468.92743923445
+ARG,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588273,Argentina_OtherBasins_OtherResources,87421.25806455735,81716.79766276621,78404.30081222337,78404.30081222337
+IDN,agriculture,rice-cultivation,,21460312,Indramayu,72486.73574508527,77888.27380071374,78256.26183174372,78256.26183174374
+BRN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588582,Brunei Darussalam_OtherBasins_OtherResources,98917.15662994389,78358.51246560867,78150.2835247154,78150.28352471541
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21099082,Corpen Aike,78105.45783999996,78106.29783999998,78106.07383999997,78106.07383999997
+UKR,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588769,Ukraine_Dnieper - Donets_Conventional onshore,80135.86756415166,75352.01163457289,77523.49781042179,77523.4978104218
+GHA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588644,Ghana_Cote d'Ivoire_Deepwater,87234.49459950975,85156.78782572133,77515.01694274363,77515.01694274363
+PRK,fossil-fuel-operations,coal-mining,Underground,3164243,Deokcheon Coal Mining Complex,77484.26936755108,77484.2693675511,77484.26936755108,77484.2693675511
+VNM,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588824,Vietnam_Cuu Long_Conventional shelf,83386.54737814466,85926.7972157973,77115.83384663952,77115.83384663952
+BGD,agriculture,rice-cultivation,,21459083,Mymensingh,73995.40850134369,78112.54896570026,77014.82910850742,77014.8291085074
+BGD,agriculture,rice-cultivation,,21459088,Naogaon,78039.1902710296,78928.55777104429,76889.51504844477,76889.51504844477
+USA,fossil-fuel-operations,coal-mining,Underground,16426,Harvey Coal Mine,71967.96464897419,82831.0536525929,76856.35470060262,76856.35470060262
+CHN,waste,solid-waste-disposal,Sanitary Landfills,25773231,West New Territories Landfill,73596.82612316866,74932.60862610133,76292.63547266505,77677.3468064939
+CHN,fossil-fuel-operations,coal-mining,Underground,15124,Gaojiayao Coal Mine,36358.80378390947,76170.6783182461,75561.31289170014,75561.31289170014
+PER,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588721,Peru_OtherBasins_OtherResources,66816.2213218377,73215.6739073528,75466.10403947685,75466.10403947684
+CHN,agriculture,rice-cultivation,,21459876,Ji'an,75339.431311486,75339.431349773,75339.43126,75339.43126
+POL,fossil-fuel-operations,coal-mining,Underground,3164268,KWK Knurów-Szczygłowice Coal Mine,82823.87239817741,73177.71858473506,74928.38170877179,74928.38170877179
+POL,fossil-fuel-operations,coal-mining,Underground,3164270,KWK Piast-Ziemowit Coal Mine,69856.84530483159,80552.94810471544,74241.5830985728,74241.58309857278
+IDN,agriculture,enteric-fermentation-cattle-pasture,,21190976,Sumba Timur,74611.16283999998,73126.99926999997,73869.30683999998,73869.30683999998
+ARG,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588559,Argentina_OtherBasins_OtherResources,79908.03057669719,75916.41998198895,73790.99529338696,73790.99529338698
+RUS,fossil-fuel-operations,coal-mining,Surface,16204,Chernigovets Coal Mine,75350.33641046271,73393.18481538576,73393.18481538573,73393.18481538574
+SSD,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588742,South Sudan_OtherBasins_OtherResources,78090.17263709701,76808.888415063,73198.46294314199,73198.46294314199
+PAK,agriculture,rice-cultivation,,21464139,Gujranwala,56960.931210022536,69697.74498839614,73194.35613340282,73194.35613340282
+USA,fossil-fuel-operations,coal-mining,Underground,16413,Cumberland Coal Mine,73597.42799951699,66536.42014716483,73054.27354933607,73054.27354933605
+AUS,fossil-fuel-operations,coal-mining,Underground,14916,Oaky Creek Coal Mine,70832.50251521333,76407.46672514132,72964.49595416439,72964.4959541644
+CHN,fossil-fuel-operations,coal-mining,Underground,15028,Dafanpu Coal Mine,56716.99568624911,72687.30762948241,72239.54187406464,72239.54187406464
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588799,United States_Fort Worth_Shale gas,87913.23419361902,81082.24540721772,72072.70896590686,72072.70896590684
+AUS,fossil-fuel-operations,coal-mining,Underground,14914,Narrabri Coal Mine,46138.95054691801,65717.19959204938,71878.187053804,71878.187053804
+RUS,fossil-fuel-operations,coal-mining,Surface,16557,Vostochny Coal Mine,59567.547237295985,70215.05791328831,71633.54393173858,71633.54393173856
+CHN,fossil-fuel-operations,coal-mining,Underground,15293,Jinsheng Yixin Coal Mine,71391.1436006415,71709.85406314439,71072.43313813867,71072.43313813867
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588691,Mexico_Sabinas - Rio Grande_Conventional onshore,81660.036372476,76875.62226061794,70053.68731299117,70053.68731299117
+RUS,fossil-fuel-operations,coal-mining,Surface,16231,Kolyvansky Coal Mine,64718.42459179352,68619.26114253176,69949.0917848289,69949.0917848289
+USA,fossil-fuel-operations,coal-mining,Underground,16451,Tunnel Ridge Coal Mine,71911.85365205466,82898.38684889636,69814.42458720306,69814.42458720306
+MEX,waste,solid-waste-disposal,Unknown,726331,Relleno Sanitario Puebla,67174.90472393678,68275.22968916998,69393.57795147863,70530.24475832381
+CHN,fossil-fuel-operations,coal-mining,Underground,15749,Yanbei Coal Mine,69503.56966426893,69891.857762952,69309.42561492739,69309.42561492739
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588515,United States_Gulf Coast_Tight oil,58226.59065515467,64069.59279970045,69292.44966796078,69292.44966796078
+PRY,agriculture,enteric-fermentation-cattle-pasture,,21276554,Villa Hayes,68477.73562999997,69281.31007999998,68879.99469999997,68879.99469999997
+KAZ,fossil-fuel-operations,coal-mining,Surface,16131,Vostochny Coal Mine (Kazakhstan),61273.20934128536,68343.19503451057,68775.24971576325,68775.24971576325
+GAB,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588639,Gabon_Gabon_Conventional shelf,64725.53253657036,70717.57852295354,68522.15159011816,68522.15159011816
+IDN,agriculture,rice-cultivation,,21460597,Banyu Asin,62636.91883399807,63746.33998665366,68489.34689151065,68489.34689151065
+ISR,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588381,Israel_Sinai - Levant_Deepwater,51168.80334267785,59119.739872937855,67949.78950310446,67949.78950310446
+USA,fossil-fuel-operations,coal-mining,Surface,16401,Black Thunder Coal Mine,74313.40432021004,76905.73237789179,67832.58417600568,67832.58417600568
+IDN,agriculture,rice-cultivation,,21460313,Karawang,65538.34836857364,63803.932423856066,67793.09098220691,67793.09098220692
+TCD,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588598,Chad_Central African Rift_Conventional onshore,62868.33658177861,65599.5621018068,67732.84983143333,67732.84983143334
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21099105,Rió Chico,67563.41551999995,67564.51962999997,67563.92105999995,67563.92105999995
+BGD,agriculture,enteric-fermentation-cattle-pasture,,21102906,Chittagong,67072.01636999995,66750.62662999998,66911.24519999996,66911.24519999996
+JOR,waste,solid-waste-disposal,Sanitary Landfills,25772282,Ghabawi,60651.685331773544,63676.99115116646,66853.19946978662,70187.83705933958
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588449,Russian Federation_West Siberia (Omsk/Nyurolka)_Conventional onshore,78194.37198126486,66928.05645704601,66848.10207381437,66848.10207381437
+LBN,waste,solid-waste-disposal,Sanitary Landfills,25772399,Naameh,60539.50133885051,63559.211421129476,66729.5448868154,70058.01458576975
+CHN,fossil-fuel-operations,coal-mining,Underground,16653,Bojiang Haizi Coal Mine,33433.1764045258,33582.43165633171,66567.84230543977,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,3162653,Hongqingliang Coal Mine,66717.09755724567,67015.60806085748,66567.84230543976,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,16528,Lijiahao Coal Mine,66717.09755724568,89403.8958317453,66567.84230543976,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,16623,Wudong Coal Mine,66717.09755724567,67015.60806085748,66567.84230543976,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,15284,Jining No. 3 Coal Mine,66717.09755724567,67015.6080608575,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,16852,Muduchaideng Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,15144,Guanzigou Coal Mine,66717.09755724567,67015.6080608575,66567.84230543974,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,15219,Huangling No. 1 Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,14977,Baodian Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,3163200,Xiaozhuang Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,710324,Mengcun Coal Mine,0.0,67015.6080608575,66567.84230543974,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,708986,Dajing Mining Area No. 2 Mine,0.0,0.0,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,16708,Shicaocun Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,14992,Changchunxing Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,16574,Qingchunta Coal Mine,66717.09755724568,67015.60806085748,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,15756,Yanghuopan Coal Mine,81194.85698241978,76418.68892463038,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,15718,Xinjulong Coal Mine,65224.54503918649,58657.313959726045,66567.84230543974,66567.84230543974
+CHN,fossil-fuel-operations,coal-mining,Underground,15709,Xinglongzhuang Coal Mine,66717.09755724567,67015.60806085748,66567.84230543974,66567.84230543976
+CHN,fossil-fuel-operations,coal-mining,Underground,15061,Dingji Coal Mine,88806.87482452164,85672.51453659734,66567.84230543974,66567.84230543974
+RUS,fossil-fuel-operations,coal-mining,Underground,16261,Raspadskaya Coal Mine,76699.69367991257,76068.5571792983,66435.42111729107,66435.42111729109
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21176981,Misraq Harerge,64659.60116999996,68142.05786999998,66400.61390999999,66400.61390999999
+CHN,fossil-fuel-operations,coal-mining,Surface,15683,Xiaolongtan Surface Coal Mine,31552.335787783537,66659.86434038776,66215.46524478518,66215.46524478517
+PRY,agriculture,enteric-fermentation-cattle-pasture,,21276552,Pozo Colorado,65451.82519999997,66219.61079999995,65836.35992999996,65836.35992999996
+IDN,fossil-fuel-operations,oil-and-gas-production,LNG,3588654,Indonesia_Kutei_LNG,65420.34955391234,65470.592598475865,65769.32512983613,65769.32512983613
+CHN,agriculture,rice-cultivation,,21459725,Chaohu,65657.80774752,65657.80772083,65657.80772,65657.80772
+CHN,fossil-fuel-operations,coal-mining,Underground,15043,Datong Wajinwan Coal Mine,105226.07474311105,62320.23983863219,65620.68867743824,65620.68867743826
+IDN,agriculture,rice-cultivation,,21460368,Bojonegoro,58682.95659536404,48887.37380788863,65372.3925546276,65372.3925546276
+CHN,fossil-fuel-operations,coal-mining,Underground,15431,Pan’er Coal Mine,67225.46318933649,60047.7444633917,65124.667464669714,65124.667464669714
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21177006,Doolo,63290.65082999997,66699.63346999997,64995.24270999997,64995.24270999997
+AGO,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588552,Angola_OtherBasins_OtherResources,65537.96310953425,65075.02500589292,64888.86129816291,64888.86129816293
+MEX,waste,solid-waste-disposal,Unknown,725927,Grupo Contadero S.A. De C.V.,62493.58100279999,63517.22591563823,64557.63807613639,65615.09218782354
+USA,fossil-fuel-operations,coal-mining,Underground,16445,River View Coal Mine,71103.8552964136,73258.5175781231,64496.224299171125,64496.22429917113
+POL,fossil-fuel-operations,coal-mining,Underground,709910,KWK Borynia-Zofiówka-Bzie Coal Mine,72960.23235817207,65053.96835723389,64478.26952221413,64478.26952221413
+THA,fossil-fuel-operations,coal-mining,Underground & Surface,16344,Mae Moh Coal Mine,71911.85472352577,68932.36074270554,64336.87002652519,64336.87002652519
+MEX,waste,solid-waste-disposal,Unknown,726413,Relleno Sanitario,62254.64391109511,63274.37493049511,64310.80919185664,65364.22024641923
+USA,fossil-fuel-operations,coal-mining,Underground,16406,Bull Mountains No. 1 Coal Mine,61195.77546036506,62406.650773888265,64083.247361843474,64083.247361843474
+ZAF,fossil-fuel-operations,coal-mining,Underground,16331,Twistdraai Thubelisha Coal Mine,68096.30586143369,60622.32107176414,63944.092089395046,63944.092089395046
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21176852,Afar Zone 1,61963.13246999996,65300.70060999997,63631.76962999999,63631.76962999999
+USA,fossil-fuel-operations,coal-mining,Underground,16438,No. 7 Coal Mine,58932.25784463168,58389.10339445075,63277.493446079185,63277.49344607918
+UZB,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588815,Uzbekistan_Amu-Darya_Acid/sour gas,58676.35272177847,62817.31007301932,63221.30406567214,63221.30406567216
+CHN,agriculture,rice-cultivation,,21459740,Chongqing,62754.206907628,62754.206947408005,62754.20694999999,62754.20695
+USA,fossil-fuel-operations,coal-mining,Underground,709420,Hamilton Mine No. 1,60487.654679240724,58018.77081478191,62709.65015725366,62709.650157253665
+CHN,fossil-fuel-operations,coal-mining,Underground,15597,Tianan No. 8 Coal Mine,53570.29097900251,60923.07601533619,62498.672808836265,62498.67280883626
+CHN,agriculture,rice-cultivation,,21459790,Bijie,62240.354436095,62240.35429427999,62240.35439000001,62240.354390000015
+CHN,fossil-fuel-operations,coal-mining,Underground,15688,Xiaoyu Coal Mine,62202.40674510122,62619.87256218244,62202.40674510121,62202.406745101216
+PAK,agriculture,enteric-fermentation-cattle-pasture,,21254280,Sargodha,63392.83791999997,61004.809769999985,62199.26118999996,62199.26118999996
+CHN,fossil-fuel-operations,coal-mining,Surface,16583,Zhanihe Surface Mine,46651.805058825914,46860.537967366516,62098.04029083091,62098.040290830904
+CHN,agriculture,rice-cultivation,,21459809,Harbin,62024.913493853994,62024.91357398101,62024.913550000005,62024.913550000005
+BGD,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588289,Bangladesh_Tripura - Cachar - Bengal_Conventional onshore,62542.94560932774,62344.756799991286,61890.82140940377,61890.821409403754
+IND,agriculture,rice-cultivation,,21461147,Warangal,51319.28267855,61217.058092256,61828.12409,61828.12409
+MEX,waste,solid-waste-disposal,Unknown,726557,Sitio De Disposicion Final Neza Iii,59790.73344516,60770.105879879986,61765.52021419243,62777.23943530091
+ARG,fossil-fuel-operations,oil-and-gas-transport,Shale oil,3588271,Argentina_Neuquen_Shale oil,33391.73653771194,50201.301081899495,61528.43309810497,61528.43309810498
+CHN,agriculture,rice-cultivation,,21459826,Xinyang,61388.328576129,61388.32865049,61388.32854,61388.32854000001
+CHN,fossil-fuel-operations,coal-mining,Surface,15784,Yimin Surface Mine,47416.03683686976,82483.1654716919,61367.47511093877,61367.47511093879
+TTO,fossil-fuel-operations,oil-and-gas-transport,LNG,3588469,Trinidad and Tobago_Columbus_LNG,58009.16832052892,58987.95956173644,61226.13644327689,61226.136443276875
+MEX,waste,solid-waste-disposal,Unknown,726425,Relleno Sanitario,59161.87171659707,60130.94346066709,61115.88831455281,62116.96656514519
+BRA,agriculture,rice-cultivation,,21459405,Santa Vitória do Palmar,43558.72943670738,55396.014160586,61094.900650547446,61094.900650547446
+CHN,agriculture,rice-cultivation,,21459866,Suqian,61082.45746554,61082.45722348,61082.45731,61082.457310000005
+RUS,forestry-and-land-use,water-reservoirs,reservoir,4414028,Kuibyshev,43677.041643690005,36599.69390667,61079.665926,51602.909601827
+AUS,fossil-fuel-operations,coal-mining,Underground,14858,Appin Coal Mine,71251.98832818306,75905.83441268149,60981.43145204855,60981.43145204855
+IND,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588364,India_OtherBasins_OtherResources,53861.33111073537,53828.260636840365,60908.906996350386,60908.90699635038
+AUS,fossil-fuel-operations,coal-mining,Underground,14886,Dendrobium Coal Mine,60622.7699597395,45553.151739079054,60781.67630301535,60781.676303015345
+BOL,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588576,Bolivia_Santa Cruz_Conventional onshore,79561.41647540849,71317.59502357578,60728.42548128101,60728.42548128101
+IND,fossil-fuel-operations,coal-mining,Surface,710137,Lingaraj Coal Mine,50304.630958217305,57436.33866667829,60636.909930963186,60636.9099309632
+CHN,fossil-fuel-operations,coal-mining,Underground,15840,Zhaogu No. 1 Coal Mine,60833.29842026496,61104.87564535543,60561.7211951745,60561.7211951745
+TCD,agriculture,enteric-fermentation-cattle-pasture,,21326117,Ennedi Ouest,61423.264329999976,59655.67062999998,60539.328899999986,60539.328899999986
+CHN,fossil-fuel-operations,coal-mining,Underground,15010,Cheji Coal Mine,60746.887485008905,61037.54244905202,60456.232520965816,60456.23252096581
+POL,fossil-fuel-operations,coal-mining,Underground,16172,KWK Pniówek Coal Mine,71269.49577953505,68925.62718923819,60185.778208470234,60185.778208470234
+EGY,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588346,Egypt_OtherBasins_OtherResources,77412.65362279705,68763.02821193646,60019.15653501331,60019.15653501331
+CHN,fossil-fuel-operations,coal-mining,Underground,15450,Qianjiaying Coal Mine,79851.55971616652,78657.51770171916,60000.611225979315,60000.611225979315
+CAN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588587,Canada_Jeanne d'Arc_Conventional shelf,74513.58233086202,66642.99125672593,59893.29368035842,59893.29368035843
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588501,United States_ArkLaTex_Shale gas,50193.48717950126,54525.839767893114,59885.803392248556,59885.80339224855
+VNM,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588825,Vietnam_Nam Con Son_Conventional shelf,70642.34720809899,65439.509560629944,59708.39495801102,59708.394958011006
+ARG,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588270,Argentina_Neuquen_Shale gas,41516.18242787208,53054.23203008908,59401.43496262522,59401.43496262523
+CHN,fossil-fuel-operations,coal-mining,Underground,15641,Wangpo Coal Mine,59325.034823068316,59589.87872852845,59060.190917608204,59060.1909176082
+CHN,fossil-fuel-operations,coal-mining,Underground,15645,Wangzhuang Coal Mine,59325.034823068316,59589.87872852845,59060.190917608204,59060.1909176082
+CHN,fossil-fuel-operations,coal-mining,Underground,16621,Sihe No.2 Coal Mine,59325.034823068316,59589.87872852845,59060.1909176082,59060.1909176082
+CHN,fossil-fuel-operations,coal-mining,Underground,3163288,Yankan Chengzhuang Coal Mine,59325.03482306832,59589.87872852845,59060.1909176082,59060.1909176082
+CHN,fossil-fuel-operations,coal-mining,Underground,712017,Yuwang No.1 Coal Mine,0.0,59060.19091760819,59060.19091760819,59060.19091760819
+CHN,fossil-fuel-operations,coal-mining,Underground,15648,Wanniang Coal Mine,59325.03482306832,59589.878728528456,59060.19091760819,59060.19091760819
+CHN,fossil-fuel-operations,coal-mining,Underground,15309,Kaiyuan Coal Mine,45288.30783368162,59589.878728528456,59060.19091760819,59060.1909176082
+CHN,fossil-fuel-operations,coal-mining,Underground,15285,Jinjia Coal Mine,59325.03482306832,59589.87872852845,59060.19091760819,59060.1909176082
+IDN,agriculture,rice-cultivation,,21460323,Subang,52309.2949637567,53389.83437296517,59024.17396097583,59024.17396097583
+CHN,agriculture,rice-cultivation,,21459883,Yichun,58920.430008087,58920.43000938,58920.42992,58920.42992
+CHN,fossil-fuel-operations,coal-mining,Underground,15860,Zhujidong Coal Mine,77819.21940774152,75054.06947954769,58858.19132869792,58858.191328697925
+CHN,agriculture,rice-cultivation,,21459881,Shangrao,58812.74911044001,58812.749034312,58812.74909999999,58812.7491
+USA,fossil-fuel-operations,coal-mining,Underground,16404,Buchanan #1 Coal Mine,71597.63206930536,63461.53751597519,58579.8807839771,58579.8807839771
+PRK,fossil-fuel-operations,coal-mining,Underground,3164246,Gangdong Coal Mining Complex,58113.202025663326,58113.20202566332,58113.202025663326,58113.202025663326
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21098883,Veinticinco de Mayo,58040.68085999997,58041.43430999996,58041.06137999999,58041.06137999999
+CHN,fossil-fuel-operations,coal-mining,Underground,15145,Gubei Coal Mine,69891.857762952,73192.30660175806,57854.926703776924,57854.92670377693
+ETH,agriculture,enteric-fermentation-cattle-pasture,,21177015,Korahe,56286.04151999999,59317.683459999964,57801.82883999998,57801.82883999998
+BRA,agriculture,enteric-fermentation-cattle-pasture,,21114659,Ribas do Rio Pardo,58710.47795999996,56799.72976999998,57754.969459999964,57754.969459999964
+PAK,agriculture,rice-cultivation,,21464146,Larkana,53114.22312158289,58430.57383418471,57642.02632117899,57642.02632117899
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588783,United States_Anadarko_Tight oil,45314.59085718388,56746.8168090892,57550.41860659933,57550.418606599334
+CHN,fossil-fuel-operations,coal-mining,Underground,15076,Dongqu Coal Mine,40000.407483986215,40298.917987598055,57314.016693472775,57314.01669347278
+MEX,waste,solid-waste-disposal,Unknown,725773,Centro De Tratamiento De Residuos El Verde,55467.4497615,56376.00631458,57299.44529801282,58238.01021199427
+BOL,agriculture,enteric-fermentation-cattle-pasture,,21105088,Yacuma,57713.613959999995,56272.197349999995,56992.903379999996,56992.903379999996
+ARG,agriculture,enteric-fermentation-cattle-pasture,,21098168,Paso de Indios,56831.23133999998,56831.98063999999,56831.737069999996,56831.737069999996
+IDN,agriculture,rice-cultivation,,21460381,Lamongan,51185.31731126868,43703.441775940555,56828.42263317157,56828.42263317157
+PNG,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588719,Papua New Guinea_OtherBasins_OtherResources,54430.10145166991,56692.58379614935,56807.53707252854,56807.53707252854
+GNQ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588634,Equatorial Guinea_OtherBasins_OtherResources,70326.19929544855,69767.58077742028,56781.82028493176,56781.82028493175
+AUS,fossil-fuel-operations,coal-mining,Underground,14909,Moranbah North Coal Mine,56458.885100341606,39762.49685699272,56748.41784444593,56748.41784444593
+CHN,waste,solid-waste-disposal,Sanitary Landfills,25772945,South East New Territories Landfill,54705.99411788161,55698.9077850816,56709.84296138081,57739.126611129876
+CHN,fossil-fuel-operations,coal-mining,Underground,15627,Ulan Mulun Coal Mine,56716.99568624911,57015.50618986095,56567.74043444319,56567.74043444319
+MEX,waste,solid-waste-disposal,Unknown,725776,Centro Intermunicipal De Manejo Integral De Residuos Solidos De Los Municipios De Benito Juarez E Isla Mujeres,54672.54841699751,55568.084509200016,56478.28973346069,57403.4041192948
+CAN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588590,Canada_West Canadian - Alberta_Heavy oil,52422.6774990882,53883.068284668654,56359.48154921981,56359.4815492198
+CHN,fossil-fuel-operations,coal-mining,Underground,15575,Tangkou Coal Mine,56495.918358386196,61543.66364126606,56301.77430904466,56301.77430904466
+CHN,fossil-fuel-operations,coal-mining,Underground,15800,Yongdingzhuang Coal Mine,58508.058707920136,48358.70158511766,56269.22993083135,56269.229930831345
+AUS,fossil-fuel-operations,coal-mining,Surface,14901,Loy Yang Coal Mine,56264.5109514638,56264.5109514638,56264.510951463795,56264.51095146379
+RUS,fossil-fuel-operations,coal-mining,Surface,16280,Tugnuisky Coal Mine,47133.23795483489,49097.12286961968,56167.10856284491,56167.108562844915
+CHN,fossil-fuel-operations,coal-mining,Surface,15511,Shengli No.1 Open-Pit Coal Mine,56182.8189955753,56479.08505931034,56102.01916001118,56102.01916001118
+AUS,fossil-fuel-operations,coal-mining,Underground & Surface,14869,Bulga Coal Mine,60416.16926908211,53614.05755652594,56088.552520673285,56088.55252067329
+BGD,agriculture,rice-cultivation,,21459086,Bogra,51104.27456898414,56636.5976646243,56050.71133802536,56050.71133802535
+USA,waste,solid-waste-disposal,Sanitary Landfills,25770837,Austin Road Landfill,55943.59153871905,55943.59153871905,55943.59153871905,55943.59153871905
+AUS,fossil-fuel-operations,coal-mining,Surface,14873,Caval Ridge Coal Mine,54564.57784434128,58484.49208913343,55852.88633361165,55852.88633361164
+CHN,fossil-fuel-operations,coal-mining,Underground,710633,Pansan Coal Mine,35970.51568522642,67761.88431988709,55522.953671801755,55522.953671801755
+CHN,fossil-fuel-operations,coal-mining,Underground,711064,Shajihai No.1 Coal Mine,55672.20892360768,55970.71942721952,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,15218,Huangling Jianzhuang Coal Mine,55672.20892360768,55970.71942721952,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,15205,Hou'an Coal Mine,55672.20892360768,55970.71942721952,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,16521,Guojiahe Coal Mine,55672.20892360768,55970.71942721952,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,15407,Nalinmiao No.2 Well Coal Mine,55672.20892360767,55970.71942721952,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,16808,Hongshuliang Coal Mine,55672.20892360767,55970.71942721951,55522.953671801755,55522.953671801755
+CHN,fossil-fuel-operations,coal-mining,Underground,15463,Qingshuiying Coal Mine,55672.20892360767,55970.71942721951,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,15496,Shangyuquan Coal Mine,55672.20892360767,55970.71942721952,55522.953671801755,55522.95367180176
+CHN,fossil-fuel-operations,coal-mining,Underground,16479,Hecaogou Coal Mine,55672.20892360768,55970.71942721952,55522.953671801755,55522.953671801755
+CHN,fossil-fuel-operations,coal-mining,Underground,15317,Kouzi East Coal Mine,55672.20892360768,55970.71942721952,55522.953671801755,55522.95367180176
+MOZ,forestry-and-land-use,water-reservoirs,reservoir,4413906,Cahora Bassa,64677.861875,61900.288179999996,55391.083068,55186.342095
+CHN,fossil-fuel-operations,coal-mining,Underground,15777,Yaoqiao Coal Mine,55496.02039328038,55671.086703669265,55320.954082891476,55320.954082891476
+CHN,agriculture,rice-cultivation,,21459722,Anqing,55117.774005552,55117.77408524299,55117.77413,55117.774130000005
+MEX,waste,solid-waste-disposal,Unknown,726291,Relleno Sanitario Municipal,53270.651899286626,54143.22553016664,55030.09156435076,55931.48446417483
+UKR,fossil-fuel-operations,coal-mining,Underground,16381,Heroes of Space Coal Mine,54966.333214947925,54966.33321494791,54966.33321494792,54966.33321494792
+DZA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588262,Algeria_OtherBasins_OtherResources,54575.567722672065,54747.63535024509,54928.321214430165,54928.321214430165
+CHN,agriculture,rice-cultivation,,21459858,Yueyang,54638.980902065,54638.980811491,54638.98086,54638.980859999996
+CHN,fossil-fuel-operations,coal-mining,Underground,15390,Maliantai Coal Mine,54510.71128737365,49388.89948856001,54510.71128737365,54510.71128737363
+USA,fossil-fuel-operations,coal-mining,Underground,16436,MC #1 Coal Mine,73613.13907865445,59881.65591250994,54203.22302425468,54203.22302425467
+USA,fossil-fuel-operations,coal-mining,Underground,3164651,Cardinal Coal Mine,55673.33114354605,55673.331143546064,54179.65640554848,54179.656405548485
+CHN,fossil-fuel-operations,coal-mining,Underground,15238,Huojitu Well Of Daliuta Coal Mine,53949.60131817846,54239.13406228318,53853.09040347689,53853.09040347689
+USA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588521,United States_OtherBasins_OtherResources,57015.641538285054,56050.208233436686,53840.53679944784,53840.536799447844
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588777,United Kingdom_Northern North Sea_Conventional shelf,60054.86930192189,55351.85675916114,53460.47553387613,53460.47553387613
+CHN,fossil-fuel-operations,coal-mining,Surface,16533,Pingshuo East Coal Mine,53507.44666245266,67261.37422736498,53435.62458639567,53435.62458639567
+ZAF,fossil-fuel-operations,coal-mining,Surface,16323,New Vaal Coal Mine,60860.007254714896,60487.65467915747,53417.66906730791,53417.66906730791
+CHN,fossil-fuel-operations,coal-mining,Underground,15099,Fangezhuang Coal Mine,70597.73410419954,65373.80029099239,53284.12489471299,53284.12489471298
+COG,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588617,Congo_OtherBasins_OtherResources,60415.581596659744,54382.495324228235,53228.86230596681,53228.86230596681
+USA,fossil-fuel-operations,coal-mining,Underground,3164805,Leer Coal Mine,62462.76177080778,52957.55889264138,52957.55889264137,52957.55889264138
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588662,Iraq_Southeast Turkey Foldbelt_Conventional onshore,95678.24084016202,96047.45104254696,52250.06122430235,52250.06122430234
+CAN,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588595,Canada_West Canadian - Alberta_Tight oil,52574.2375601624,57814.34381543631,52038.428548326614,52038.42854832662
+USA,fossil-fuel-operations,coal-mining,Surface,16439,North Antelope Rochelle Coal Mine,56380.329704732,54225.6674230225,50499.89722756648,50499.89722756647
+CHN,fossil-fuel-operations,coal-mining,Underground,15068,Donghuantuo Coal Mine,65523.05554279831,65970.82129821606,50000.50935498277,50000.50935498278
+ZAF,fossil-fuel-operations,coal-mining,Underground,16646,Shondoni Coal Mine,57345.43885166877,52430.115521525746,49972.45385645422,49972.45385645422
+AUS,fossil-fuel-operations,coal-mining,Surface,14863,Blackwater Coal Mine,59764.94503883508,56127.8302185169,49136.40000235455,49136.400002354545
+CHN,fossil-fuel-operations,coal-mining,Underground,15474,Renlou Coal Mine,55311.976323384355,50383.18635397387,49014.07802913762,49014.07802913762
+AUS,fossil-fuel-operations,coal-mining,Underground,14872,Carborough Downs Coal Mine,70650.02955323127,43672.31112233937,48937.76707325971,48937.76707325972
+CHN,fossil-fuel-operations,coal-mining,Underground,15454,Qianyingzi Coal Mine,64137.11391888621,62943.07190443885,48785.145161705994,48785.14516170599
+RUS,fossil-fuel-operations,coal-mining,Underground,16267,Severnaya Coal Mine,59253.21342893529,51846.561750318375,47402.57074314822,47402.57074314822
+IDN,fossil-fuel-operations,coal-mining,Surface,16077,Pasir Coal Mine,56088.55335645783,54674.55621301773,47290.348908386026,47290.348908386026
+AUS,fossil-fuel-operations,coal-mining,Surface,14930,Wilpinjong Coal Mine,56874.10647754548,52160.782736312416,47133.2374123305,47133.23741233049
+THA,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588752,Thailand_Pattani_Conventional shelf,80979.26189869689,48851.47187322018,46127.79857797281,46127.79857797281
+CHN,fossil-fuel-operations,coal-mining,Underground,15380,Lvjiatuo Coal Mine,61470.71934527069,57535.09402133567,46103.039508953014,46103.03950895302
+CHN,fossil-fuel-operations,coal-mining,Underground,16541,Zhujixi Coal Mine,51812.89455548322,63710.67034229787,45672.10705261112,45672.10705261112
+CHN,fossil-fuel-operations,coal-mining,Underground,15626,Tunlan Coal Mine,60448.37698139708,44776.57554177562,44478.065038163775,44478.065038163775
+CHN,fossil-fuel-operations,coal-mining,Underground,15834,Zhangcun Coal Mine,64179.75827654504,63284.22676570953,44478.065038163775,44478.06503816377
+CHN,fossil-fuel-operations,coal-mining,Underground,3163304,Yinhe Coal Mine,56866.25093805504,65373.80029099239,44478.06503816377,44478.065038163775
+CHN,fossil-fuel-operations,coal-mining,Underground,15141,Guandi Coal Mine,43433.27827552234,58209.548204308296,43284.02302371642,43284.02302371642
+CHN,fossil-fuel-operations,coal-mining,Underground,15826,Yushujing Coal Mine,44776.575541775615,59552.84547056157,42239.23626107499,42239.23626107499
+AUS,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588563,Australia_Gippsland_Conventional shelf,48807.3834881566,58970.89797356141,41081.57877617483,41081.57877617482
+USA,fossil-fuel-operations,coal-mining,Underground,16454,West Elk Coal Mine,40736.58376357029,58389.10339445075,39378.69763811795,39378.697638117956
+USA,fossil-fuel-operations,coal-mining,Underground,16450,Sufco Coal Mine,53731.890650130736,61273.208636113995,38335.0330954149,38335.03309541491
+CHN,fossil-fuel-operations,coal-mining,Underground,16665,Shenshupan Coal Mine,36716.791944256,67015.60806085748,36716.791944256,36716.791944256
+CHN,fossil-fuel-operations,coal-mining,Underground,3162865,Madaotou Coal Mine,82130.78841103733,36143.33755573852,35902.0602689846,35902.0602689846
+CHN,fossil-fuel-operations,coal-mining,Underground,15368,Lu'an Guozhuang Coal Mine,61973.473877669596,46347.68345552213,35489.08333165695,35489.08333165694
+CHN,fossil-fuel-operations,coal-mining,Underground,15410,Nanliang Coal Mine,78806.77295352507,73881.34964392976,33283.92115271987,33283.92115271987
+CHN,fossil-fuel-operations,coal-mining,Underground,16654,Daliangwan Coal Mine,13283.717410726766,55970.71942721952,13283.717410726766,13283.717410726766
+CHN,fossil-fuel-operations,coal-mining,Surface,16805,Hongshaquan North Coal Mine,40534.58417466003,70582.02302506208,10487.14532425797,10487.14532425797
+RUS,fossil-fuel-operations,coal-mining,Underground,710155,Listvyazhnaya Coal Mine,63104.672301816085,57739.78760260456,5925.321342893528,5925.321342893529
+IDN,agriculture,rice-cultivation,,21460525,Bone,53674.6060734454,61130.97705342903,0.0,0.0
+IDN,agriculture,rice-cultivation,,21460545,Wajo,52231.27289045873,59144.41658909459,0.0,0.0
