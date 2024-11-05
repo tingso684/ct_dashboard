@@ -1,0 +1,1067 @@
+iso3_country,sector,subsector,asset_type,asset_id,asset_name,2021,2022,2023,2024
+KEN,manufacturing,chemicals,soda_ash,32267419,Kenya,inf,inf,inf,inf
+ETH,manufacturing,chemicals,soda_ash,32267404,Ethiopia,inf,inf,inf,inf
+CAN,fossil-fuel-operations,oil-and-gas-production,Oil sands,3588592,Canada_West Canadian - Alberta_Oil sands,1542810.545122537,1578338.4765161905,1629696.5059613106,1629696.5059613108
+BRA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588581,Brazil_Santos_Deepwater,1194484.2790113008,1245042.6307995366,1329034.8150903843,1329034.815090384
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588448,Russian Federation_West Siberia (Central)_Conventional onshore,1376962.8008190242,1381373.618546464,1296338.4241605895,1296338.4241605897
+SAU,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588738,Saudi Arabia_Widyan - North Arabian Gulf_Conventional onshore,1199399.8676581203,1271087.7177676463,1271090.6788911917,1271090.678891192
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588658,Iran_Rub al Khali_Conventional shelf,1221564.5819818173,1196424.553112169,1219066.8826268855,1219066.8826268855
+CAN,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588594,Canada_West Canadian - Alberta_Tight gas,788273.4965516991,926214.3054535096,990910.9703331357,990910.9703331356
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588734,Russian Federation_West Siberia (Central)_Conventional onshore,836363.489696056,869366.58892492,862931.6644135094,862931.6644135092
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588784,United States_Appalachian_Shale gas,756632.677762155,790834.0969618611,781467.2652963379,781467.265296338
+CAN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588589,Canada_West Canadian - Alberta_Conventional onshore,713588.1248639852,766346.8191582626,735059.3907049005,735059.3907049005
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588660,Iran_Zagros Foldbelt_Conventional onshore,613096.0494019411,641273.7270205835,730130.5743998756,730130.5743998755
+KWT,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588678,Kuwait_Widyan - North Arabian Gulf_Conventional onshore,651978.1737956525,732779.7639279348,719916.3898953662,719916.3898953662
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588795,United States_Delaware_Tight oil,520110.39177943853,664267.5423415968,697665.4164012002,697665.4164012002
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588450,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,914705.3390772471,782062.2896482268,638097.6544180765,638097.6544180765
+CHN,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588603,China_Ordos_Tight gas,573912.6874258717,594762.0337791023,612311.4930928808,612311.4930928808
+ARE,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588771,United Arab Emirates_OtherBasins_OtherResources,519006.5236396443,587335.3956961917,601372.0583461944,601372.0583461944
+ARE,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588773,United Arab Emirates_Rub al Khali_Conventional shelf,496770.15317299054,596114.0056444934,599837.1905060987,599837.1905060987
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588710,Norway_Northern North Sea_Conventional shelf,622983.5900147859,620526.044793999,594352.6070216832,594352.6070216834
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588803,United States_Midland_Tight oil,387097.49879845727,458167.368672543,567780.5790452752,567780.5790452752
+TWN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588748,Taiwan_OtherBasins_OtherResources,677197.8866417902,575101.1106097767,499102.0748599641,499102.07485996414
+SAU,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588739,Saudi Arabia_Widyan - North Arabian Gulf_Conventional shelf,402799.9869010139,539692.1973145932,463439.49179099215,463439.49179099203
+SAU,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588452,Saudi Arabia_Widyan - North Arabian Gulf_Conventional onshore,419405.06173686165,445053.5811389612,445021.25988436013,445021.2598843602
+BRA,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588295,Brazil_Santos_Deepwater,342242.28256590985,375638.5950992863,412746.6626594711,412746.6626594711
+SSD,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588742,South Sudan_OtherBasins_OtherResources,385837.93987883814,429408.6596393071,409224.18126211915,409224.18126211915
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588801,United States_Gulf Coast_Tight oil,331192.83351044817,361438.8799665866,390902.83301485324,390902.83301485324
+NOR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588424,Norway_Northern North Sea_Conventional shelf,415745.5566246563,396546.38414891926,386769.5967228628,386769.59672286274
+ARE,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588772,United Arab Emirates_Rub al Khali_Acid/sour gas,404999.14163810783,408251.2725912275,378477.10405859427,378477.1040585944
+SAU,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588737,Saudi Arabia_OtherBasins_OtherResources,347447.40304520103,358863.854009502,371800.2425005799,371800.24250057986
+IND,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588650,India_OtherBasins_OtherResources,330497.66130463034,334390.16147603904,371758.07846912026,371758.0784691203
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588498,United States_Appalachian_Shale gas,347101.8192245334,362791.56591042434,358494.57417457626,358494.5741745762
+VEN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588822,Venezuela_Maturin_Heavy oil,254152.06678153097,294723.9772875088,352636.73993435106,352636.73993435106
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588663,Iraq_Widyan - North Arabian Gulf_Conventional onshore,302081.48389262776,335795.47241520195,347201.89720566495,347201.89720566495
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588787,United States_ArkLaTex_Shale gas,285500.54455892544,307599.24807043496,337836.6680403658,337836.6680403658
+BRA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588577,Brazil_Campos_Deepwater,368133.7217547968,318101.77440496464,331905.8869474149,331905.88694741484
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588509,United States_Delaware_Tight oil,238598.28841459207,304729.73041915277,320050.8543544994,320050.85435449943
+CHN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588604,China_OtherBasins_OtherResources,301545.6086307845,315782.8056007931,318124.24743594386,318124.24743594386
+USA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588807,United States_OtherBasins_OtherResources,332187.55694265093,324356.90924517205,311863.75366630626,311863.75366630626
+QAT,fossil-fuel-operations,oil-and-gas-production,LNG,3588726,Qatar_Rub al Khali_LNG,311755.3734058887,310380.9985624486,308455.86986949155,308455.86986949155
+QAT,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588725,Qatar_Rub al Khali_Conventional shelf,238978.31311296616,288928.3193153373,296442.1021749376,296442.1021749376
+POL,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588723,Poland_OtherBasins_OtherResources,298954.63512401626,293619.94604754605,286196.5986541237,286196.5986541237
+THA,fossil-fuel-operations,coal-mining,Underground & Surface,16344,Mae Moh Coal Mine,299946.2614160142,289459.5741590714,270162.2692151332,270162.2692151332
+TWN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588462,Taiwan_OtherBasins_OtherResources,362505.14831138495,307849.77581824467,267165.7309828546,267165.7309828546
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588813,United States_Williston_Tight oil,256369.30379489245,246207.56065965758,263159.99889040715,263159.99889040715
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588517,United States_Midland_Tight oil,177579.22430519163,210182.20627900248,260466.77164010084,260466.77164010084
+ARE,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588485,United Arab Emirates_OtherBasins_OtherResources,221042.2948856203,250271.93666367768,255218.3148842641,255218.31488426414
+CAN,fossil-fuel-operations,oil-and-gas-transport,Oil sands,3588306,Canada_West Canadian - Alberta_Oil sands,237894.4292064887,247495.12286999772,253016.7842226854,253016.7842226854
+OMN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588714,Oman_Rub al Khali_Conventional onshore,229083.66648809813,237640.72639426938,236669.56620526954,236669.56620526957
+VEN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588821,Venezuela_Maturin_Conventional onshore,232613.48096378762,230948.10030401105,232619.32560302736,232619.32560302733
+IND,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588364,India_OtherBasins_OtherResources,205285.0158274745,206228.7922416218,231753.4131523316,231753.4131523316
+AGO,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588551,Angola_Lower Congo_Deepwater,210498.93447281743,222355.9832876663,219704.5967901884,219704.5967901884
+SSD,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588456,South Sudan_OtherBasins_OtherResources,206547.90897322664,229872.31425153618,219067.09527507695,219067.09527507695
+IDN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588655,Indonesia_OtherBasins_OtherResources,222346.7025760547,207031.29527793804,214673.61026149572,214673.6102614957
+SGP,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3144107,ExxonMobil Singapore Refinery,185225.59081967422,222276.5693861459,214555.1567183093,214555.1567183093
+KWT,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588392,Kuwait_Widyan - North Arabian Gulf_Conventional onshore,180397.69247874685,203872.845260509,199276.8700807884,199276.87008078842
+DZA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588549,Algeria_Oued Mya_Conventional onshore,198016.72099026816,186693.78318643192,198315.1582255869,198315.1582255869
+OMN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588428,Oman_Rub al Khali_Conventional onshore,190922.66476135794,199042.76867245327,196676.1310164574,196676.13101645737
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588782,United States_Anadarko_Shale gas,181049.1239246463,194572.7669572422,195952.63564838705,195952.63564838705
+JPN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588383,Japan_OtherBasins_OtherResources,223660.99052925166,202536.60269854526,192744.5559414863,192744.55594148624
+RUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588445,Russian Federation_OtherBasins_OtherResources,175170.40075194553,195473.4435607725,191759.59753137594,191759.59753137594
+ARE,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588487,United Arab Emirates_Rub al Khali_Conventional shelf,156840.52186056043,187856.6278318976,188492.00406940654,188492.00406940654
+SGP,transportation,international-shipping,,2801126,Singapore,172517.98053062722,176747.80976259251,180446.8460487291,192385.86607489747
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588515,United States_Gulf Coast_Tight oil,151933.2115106924,165808.44880875404,179324.90424157897,179324.90424157897
+IRN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588657,Iran_OtherBasins_OtherResources,171267.18255401356,172388.0309379102,179264.92991316054,179264.9299131605
+SAU,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588453,Saudi Arabia_Widyan - North Arabian Gulf_Conventional shelf,157870.91087714475,209914.24288480094,179227.56126393436,179227.56126393433
+RUS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588731,Russian Federation_OtherBasins_OtherResources,143412.1809074626,160611.0358033988,168653.74781321437,168653.74781321437
+PAK,buildings,residential-onsite-fuel-usage,,1338031,Lahore,163997.43538405185,162738.6256180031,165995.03657909477,165995.03657909477
+CAN,fossil-fuel-operations,oil-and-gas-transport,Tight gas,3588308,Canada_West Canadian - Alberta_Tight gas,129381.72229218709,152022.36649876647,162641.22677762943,162641.22677762946
+CAN,fossil-fuel-operations,oil-and-gas-production,LNG,3588591,Canada_West Canadian - Alberta_LNG,124146.7753832911,144227.54822413807,161889.77507788868,161889.77507788865
+DZA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588547,Algeria_Illizi - Ghadames_Conventional onshore,123743.359186788,145740.80833963692,161128.58346907742,161128.58346907742
+USA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588798,United States_East Gulf Coast Tertiary_Deepwater,136547.2425272967,142233.75321467812,161006.23566134617,161006.23566134617
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588501,United States_ArkLaTex_Shale gas,130972.08025225971,141109.76075926144,154981.04065024084,154981.04065024084
+POL,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588437,Poland_OtherBasins_OtherResources,160037.21844766152,157181.43370825163,153207.5438397421,153207.5438397421
+ARE,fossil-fuel-operations,oil-and-gas-transport,Acid/sour gas,3588486,United Arab Emirates_Rub al Khali_Acid/sour gas,163997.98507580685,166265.77984708452,152583.020124521,152583.020124521
+CHN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588318,China_OtherBasins_OtherResources,143053.4153043712,149370.10450570437,150953.96153903397,150953.96153903397
+THA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588751,Thailand_OtherBasins_OtherResources,151704.05011517426,150735.54270271343,149603.047683404,149603.047683404
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588796,United States_Denver-Julesburg_Tight oil,140104.40763505807,142967.73965400428,145015.370385778,145015.37038577796
+USA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588521,United States_OtherBasins_OtherResources,152198.8348662595,148559.32637584838,142822.18855777857,142822.18855777857
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588712,Norway_Voring_Conventional shelf,132580.79099768263,135627.71938183566,140777.81877418017,140777.81877418017
+SAU,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588451,Saudi Arabia_OtherBasins_OtherResources,124796.31475466052,131635.90857495856,140760.87870960054,140760.87870960054
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588692,Mexico_Salinas - Sureste_Conventional onshore,89811.99968671473,122443.55891351835,136744.9965187261,136744.9965187261
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588733,Russian Federation_Volga - Urals_Conventional onshore,150960.79778695316,144124.5941272374,136518.47187609004,136518.47187609007
+PAK,buildings,residential-onsite-fuel-usage,,1338030,Gujranwala,128763.45653522968,127885.79123257674,129331.7233601886,129331.72336018861
+PAK,buildings,residential-onsite-fuel-usage,,1338032,Multan,125836.3032975743,124214.67055153438,128436.45717646749,128436.45717646752
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588736,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,157486.21552457026,141230.6651013516,126736.26277376336,126736.26277376333
+VEN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588823,Venezuela_OtherBasins_OtherResources,109738.87913825065,117374.86527388734,126514.37709064675,126514.37709064673
+AZE,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588573,Azerbaijan_South Caspian_Conventional shelf,141300.86668502213,134194.63108414828,125838.36742554692,125838.3674255469
+DZA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588263,Algeria_Oued Mya_Conventional onshore,124286.19100135926,117002.66262286964,125575.48270436503,125575.48270436503
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588527,United States_Williston_Tight oil,117608.25507764997,112946.6013395342,120723.45583859892,120723.45583859892
+CAN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588303,Canada_West Canadian - Alberta_Conventional onshore,117123.38520012263,125782.82999003238,120647.5292469519,120647.52924695192
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588729,Russian Federation_Nepa - Botuoba_Conventional onshore,98413.52500959835,114128.17210203227,120514.48890967853,120514.48890967855
+VEN,fossil-fuel-operations,coal-mining,Surface,16460,Paso Diablo Coal Mine,22048.109329149043,119929.16689721648,119929.16689721648,119929.16689721648
+QAT,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588724,Qatar_OtherBasins_OtherResources,94028.95898732205,110663.95427026776,119084.5449007714,119084.54490077143
+JPN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588669,Japan_OtherBasins_OtherResources,137994.3065429726,124961.0372365102,118919.56768148427,118919.56768148426
+IRN,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588372,Iran_Rub al Khali_Conventional shelf,116427.40169713205,114131.5405182688,116271.0417785986,116271.04177859862
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588774,United Kingdom_Central Graben_Conventional shelf,115326.38896331062,118460.91693633446,115254.30072215418,115254.30072215418
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588664,Iraq_Zagros Foldbelt_Conventional onshore,106871.69419528286,120038.2230030391,113783.12092972812,113783.12092972815
+DZA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588261,Algeria_Illizi - Ghadames_Conventional onshore,87617.24680015644,103604.0822420332,113426.44839593628,113426.44839593628
+PAK,buildings,residential-onsite-fuel-usage,,1338029,Faisalabad,110561.08601635814,109397.92675718234,113212.77636993244,113212.7763699324
+KHM,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588584,Cambodia_OtherBasins_OtherResources,135889.80163508176,124073.70307012278,112257.6045051637,112257.6045051637
+SDN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588744,Sudan_OtherBasins_OtherResources,124559.67590299997,129051.77909910021,110465.82328205758,110465.82328205756
+NOR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588711,Norway_OtherBasins_OtherResources,104606.4466995467,117606.04902035915,110253.38443114527,110253.38443114527
+CAN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588590,Canada_West Canadian - Alberta_Heavy oil,96996.75442366535,104812.12195573702,109332.34463465562,109332.34463465563
+CHN,buildings,residential-onsite-fuel-usage,,1281165,Chongqing,110444.6667480649,105136.52913205963,107985.99529153424,107985.99529153423
+PAK,buildings,residential-onsite-fuel-usage,,1338036,Karachi,108086.7159717344,106925.88812553763,107276.03706122495,107276.03706122495
+KAZ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588674,Kazakhstan_Precaspian_Conventional onshore,100022.0290987202,109857.75713689008,103568.61195854,103568.61195853999
+BRA,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588291,Brazil_Campos_Deepwater,117111.8942536567,99042.21677454523,103405.22764167025,103405.22764167027
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588659,Iran_Widyan - North Arabian Gulf_Conventional onshore,89973.0075153458,97255.90040846402,101338.12667868822,101338.1266786882
+IRL,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588379,Ireland_OtherBasins_OtherResources,130755.34307159328,125241.76477881975,100403.05960980347,100403.05960980347
+BRA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588578,Brazil_OtherBasins_OtherResources,78877.23058306056,76352.24189950206,99553.8650244593,99553.86502445932
+AZE,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588287,Azerbaijan_South Caspian_Conventional shelf,96278.87451132615,98076.62785210901,97278.72672282689,97278.72672282689
+CAN,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588595,Canada_West Canadian - Alberta_Tight oil,95378.6918153605,107927.18324494101,97144.76980857439,97144.76980857438
+MEX,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588690,Mexico_OtherBasins_OtherResources,97476.2809443069,96650.11584638871,96721.42868087093,96721.42868087093
+IDN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588656,Indonesia_South Sumatra_Conventional onshore,101227.87152336208,99287.94895502651,95214.36459014306,95214.36459014307
+MYS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588685,Malaysia_OtherBasins_OtherResources,107618.45796494244,119367.06436308024,94369.60420946349,94369.6042094635
+SGP,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,1753776,Shell Energy and Chemicals Park Singapore Refinery,218530.8932400369,101285.83112278026,94129.76697986467,94129.76697986467
+CHN,fossil-fuel-operations,oil-and-gas-transport,Tight gas,3588317,China_Ordos_Tight gas,87503.03055894822,91076.3000406573,93920.53380319318,93920.53380319318
+KAZ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588673,Kazakhstan_OtherBasins_OtherResources,82611.9505500282,75203.21555009272,93408.27989843782,93408.27989843782
+GBR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588488,United Kingdom_Central Graben_Conventional shelf,100271.7339578869,99907.19986804957,93301.60184398528,93301.60184398526
+AUS,fossil-fuel-operations,coal-mining,Surface,14912,Mt Thorley Warkworth Coal Mine,84059.5273645678,65266.080341307024,90530.36950568394,90530.36950568394
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588496,United States_Anadarko_Shale gas,83055.4626284904,89259.37285669944,89892.38138873372,89892.38138873372
+SGP,fossil-fuel-operations,oil-and-gas-refining,Medium Conversion,3144109,Singapore Refining Corporation Refinery,70207.45770330563,91464.28280059762,89770.49976875763,89770.49976875763
+DNK,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588623,Denmark_Central Graben_Conventional shelf,90971.49521683139,89795.96982876395,89256.03647919073,89256.03647919073
+IDN,fossil-fuel-operations,oil-and-gas-production,LNG,3588654,Indonesia_Kutei_LNG,88329.98353305914,88405.92896434963,88809.31197581204,88809.31197581203
+CAN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588588,Canada_OtherBasins_OtherResources,87574.27217168389,90100.4786781578,87926.2999484566,87926.2999484566
+IRQ,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588377,Iraq_Widyan - North Arabian Gulf_Conventional onshore,76909.2176498181,84936.4151569432,87753.32973881316,87753.32973881316
+QAT,fossil-fuel-operations,oil-and-gas-transport,LNG,3588440,Qatar_Rub al Khali_LNG,85405.93091745845,85029.41851151125,84502.02611671083,84502.02611671083
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588693,Mexico_Salinas - Sureste_Conventional shelf,88605.68818746103,95311.48756818364,83533.67849385747,83533.67849385747
+ZAF,fossil-fuel-operations,coal-mining,Surface,16311,Grootegeluk Coal Mine,73238.71320026951,83497.83963893722,82803.50162353912,82803.50162353912
+PAK,buildings,residential-onsite-fuel-usage,,1338027,Bahawalpur,81579.98654150008,80566.89410670073,82500.05086003862,82500.05086003862
+CAN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588596,Canada_Williston_Conventional onshore,74016.42297603031,78300.04137881246,81696.5907499735,81696.5907499735
+CHN,buildings,residential-onsite-fuel-usage,,1281164,Beijing,82252.00310310296,80426.01647041974,81238.16257371736,81238.16257371737
+OMN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588713,Oman_OtherBasins_OtherResources,76412.74031098244,80602.2276588936,81161.08849628584,81161.08849628585
+CHN,buildings,residential-onsite-fuel-usage,,1281407,Shanghai,83106.29393901839,80116.58621606384,80617.65757354107,80617.65757354104
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588447,Russian Federation_Volga - Urals_Conventional onshore,90161.59424555684,84525.8370121399,80097.94173124667,80097.94173124667
+IRN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588374,Iran_Zagros Foldbelt_Conventional onshore,65937.37579161176,69765.19085723469,79529.27209606845,79529.27209606845
+QAT,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588439,Qatar_Rub al Khali_Conventional shelf,62888.25969674615,76558.98086652978,78567.69651178691,78567.69651178693
+NPL,buildings,residential-onsite-fuel-usage,,1335876,Bagmati,75972.86370628048,76735.79793356996,78319.61949509213,78319.61949509212
+IDN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588651,Indonesia_Central Sumatra_Conventional onshore,28086.40603507368,71697.35043591622,77834.29595568629,77834.29595568629
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588443,Russian Federation_Nepa - Botuoba_Conventional onshore,50609.309929461626,67305.56644799928,76224.99942356211,76224.99942356211
+OMN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588427,Oman_OtherBasins_OtherResources,69768.46001705228,74344.2257581304,76214.0902759731,76214.09027597311
+IND,buildings,residential-onsite-fuel-usage,,1305929,West,72956.38479614072,74205.32714004442,74465.37863159718,74465.3786315972
+LBY,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588681,Libya_Sirte_Conventional onshore,64362.97004964837,65998.9748912761,74257.48337399273,74257.48337399274
+MTQ,manufacturing,food-beverage-tobacco,Animal and vegetable products from the food and beverage sector,31733913,SAEM LE GALION,73629.72358980373,73640.908744252,73640.908744252,73640.908744252
+USA,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588512,United States_East Gulf Coast Tertiary_Deepwater,62229.344204939494,65112.47233261899,73548.58194082399,73548.58194082399
+CHN,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588602,China_North China_Heavy oil,71412.08012674503,73003.25150170457,73236.86030928306,73236.86030928306
+PAK,buildings,residential-onsite-fuel-usage,,1338035,Hyderabad,72422.9997341156,71511.54200265837,72875.74477874974,72875.74477874974
+PAK,buildings,residential-onsite-fuel-usage,,1338028,Dera Ghazi Khan,70912.40035919916,69889.69006240429,72402.11240266735,72402.11240266736
+NOR,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588425,Norway_OtherBasins_OtherResources,47309.26761878911,67545.6159678073,70940.55405375361,70940.55405375361
+COL,fossil-fuel-operations,oil-and-gas-production,Heavy oil,3588609,Colombia_Llanos_Heavy oil,67631.34991490885,69205.22217391498,70918.84998695337,70918.84998695337
+KOR,waste,solid-waste-disposal,Sanitary Landfills,25772948,Sudokwon,67628.46025469426,68542.86585384408,69786.91886909136,71053.55144656534
+TCD,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588598,Chad_Central African Rift_Conventional onshore,70147.68242749468,67513.13442304071,69708.65021183646,69708.65021183646
+VEN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588820,Venezuela_Maracaibo_Conventional shelf,53777.664405413,61661.71862985315,69092.08022304364,69092.08022304365
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588804,United States_North Slope_Conventional onshore,72100.35927971778,70882.5251238761,69078.84867428847,69078.84867428847
+LBY,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588680,Libya_OtherBasins_OtherResources,74950.8011149876,61901.03610197847,68371.38770323416,68371.38770323417
+PAK,buildings,residential-onsite-fuel-usage,,1338033,Rawalpindi,66437.0501725277,65889.04416355853,67012.70809798577,67012.70809798579
+AUS,fossil-fuel-operations,coal-mining,Surface,14882,Curragh Coal Mine,83422.71276332108,64002.865883088176,67003.00022135794,67003.00022135794
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588510,United States_Denver-Julesburg_Tight oil,64272.25889370033,65585.79957509378,66525.14092835899,66525.14092835899
+ETH,buildings,residential-onsite-fuel-usage,,1296482,Sidama,61584.083438893475,61677.865392021835,65648.65241003461,65648.6524100346
+USA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588812,United States_West Gulf Coast Tertiary_Deepwater,71711.46874201277,66308.73280181338,65500.73412375357,65500.73412375358
+NGA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588705,Nigeria_Niger Delta_Conventional onshore,67384.09190788385,60170.588213667856,65432.979603900254,65432.97960390024
+MYS,fossil-fuel-operations,oil-and-gas-production,LNG,3588688,Malaysia_Sarawak - Luconia-East Natuna_LNG,62084.29090330332,66769.13083849647,65249.26628273648,65249.266282736484
+NOR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588426,Norway_Voring_Conventional shelf,59960.93594145696,61338.938905991985,63668.12126845605,63668.12126845605
+IND,fossil-fuel-operations,coal-mining,Surface,15908,Gevra Coal Mine,48082.10494366989,56516.664531808674,63632.381723337334,63632.38172333733
+ETH,buildings,residential-onsite-fuel-usage,,1296412,Addis Abeba,63353.555156546616,63049.79292976776,63349.365210766526,63349.36521076653
+CHN,manufacturing,chemicals,soda_ash,32267423,China,62215.3747776947,61540.069774596275,63005.20971916177,63005.209719161765
+AGO,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588550,Angola_Lower Congo_Conventional shelf,49949.11097126655,52132.952742188776,62906.574736584036,62906.574736584036
+IRL,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588665,Ireland_OtherBasins_OtherResources,81219.71862299374,77794.95120905466,62366.30170033086,62366.30170033086
+PAK,buildings,residential-onsite-fuel-usage,,1338034,Sargodha,60768.32935973903,60195.271591387806,62213.87296470205,62213.872964702074
+AGO,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588265,Angola_Lower Congo_Deepwater,59707.04940540256,62160.27530490585,61635.317793477094,61635.317793477094
+BRA,manufacturing,pulp-and-paper,,31922355,BRA-Guaíba,52922.256375868754,61457.7107128514,61457.7107128514,61528.09794048121
+KHM,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588298,Cambodia_OtherBasins_OtherResources,72742.4605998339,66417.02924332669,60091.59788681938,60091.59788681938
+CHN,fossil-fuel-operations,oil-and-gas-production,Acid/sour gas,3588606,China_Sichuan_Acid/sour gas,56889.83506776915,56928.26960276397,59719.3364526191,59719.33645261911
+CHN,manufacturing,chemicals,methanol,33998936,CHN-Yulin_methanol,59738.629445034465,59485.110182269724,59485.110182269724,59485.110182269724
+PAK,buildings,residential-onsite-fuel-usage,,1338024,Malakand,58375.933838274286,56990.53846453313,59343.888889657675,59343.88888965767
+SDN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588458,Sudan_OtherBasins_OtherResources,66679.60010284458,69084.31643084099,59134.82362071665,59134.823620716656
+PNG,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588433,Papua New Guinea_OtherBasins_OtherResources,57168.832900924404,58548.68612682217,58667.40294738861,58667.40294738862
+MOZ,fossil-fuel-operations,coal-mining,Surface,16152,Moatize Coal Mine,53241.77435144317,67862.0343832745,58566.992098050236,58566.992098050236
+NPL,buildings,residential-onsite-fuel-usage,,1335878,Narayani,56744.598118114925,57355.64488644642,58428.99558472431,58428.99558472431
+THA,manufacturing,petrochemical-steam-cracking,Flex Integrated,731981,"PTT Global Chemical Map Ta Phut, Map Ta Phut, Rayong ",51710.2066315382,60523.9141588787,58119.9712462754,58119.9712462754
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588789,United States_Arkoma_Shale gas,52021.63004927177,60502.401854546304,57855.14955302205,57855.14955302206
+PAK,buildings,residential-onsite-fuel-usage,,1338040,Sukkur,57074.96777869166,56168.0760900599,57256.823836053365,57256.823836053365
+KOR,transportation,domestic-shipping,,1932362,Busan South,54966.26943133482,65208.088521879734,56116.0442501107,54838.82598834072
+ETH,buildings,residential-onsite-fuel-usage,,1296438,Arsi,52123.052546455205,52292.574416359654,55989.50690118352,55989.506901183515
+CAN,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588593,Canada_West Canadian - Alberta_Shale gas,61478.73178420119,61386.991403869055,55901.320124033606,55901.32012403363
+CHN,buildings,residential-onsite-fuel-usage,,1281249,Harbin,57300.773338940504,55113.32859241242,55555.04988286444,55555.049882864434
+IDN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588369,Indonesia_OtherBasins_OtherResources,55164.020177113074,53138.242131100495,55375.102579498955,55375.102579498955
+ETH,buildings,residential-onsite-fuel-usage,,1296445,Jimma,51705.43726326303,51918.23851004661,55006.30116413231,55006.30116413231
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588607,China_Tarim_Conventional onshore,54382.23528946915,54694.68235251759,54807.24840533704,54807.24840533704
+AUS,fossil-fuel-operations,oil-and-gas-production,LNG,3588566,Australia_North Carnarvon_LNG,50510.7069143868,55865.263022389525,54733.97866617778,54733.97866617779
+AUS,fossil-fuel-operations,oil-and-gas-transport,LNG,3588280,Australia_North Carnarvon_LNG,50174.44974091375,54866.89638268644,54521.75137138056,54521.75137138055
+ETH,buildings,residential-onsite-fuel-usage,,1296427,Semen Gondar,49663.75754350489,50173.99924823781,53567.32480864419,53567.32480864419
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588777,United Kingdom_Northern North Sea_Conventional shelf,59877.9303258333,55164.94701367091,53386.7933518798,53386.793351879794
+CHN,buildings,residential-onsite-fuel-usage,,1281442,Tianjin,54346.96797586316,52768.63297617632,53380.26913573664,53380.26913573663
+ETH,buildings,residential-onsite-fuel-usage,,1296451,Misraq Harerge,50360.42210886655,50539.382356934824,53258.93667431019,53258.93667431019
+NPL,buildings,residential-onsite-fuel-usage,,1335889,Lumbini,50330.922677580886,51189.03414868732,53130.31013520458,53130.31013520459
+ARG,fossil-fuel-operations,oil-and-gas-transport,Shale oil,3588271,Argentina_Neuquen_Shale oil,28949.748709628304,43059.66511501577,52766.002958857345,52766.002958857345
+PER,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588435,Peru_OtherBasins_OtherResources,47206.464704215265,51246.605563241996,52726.77964156527,52726.77964156527
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588601,China_North China_Conventional shelf,46487.975879454396,48601.65975013368,52383.825406215095,52383.825406215095
+NPL,buildings,residential-onsite-fuel-usage,,1335879,Koshi,50188.68835070007,50751.29336005387,51887.63933684645,51887.63933684644
+NPL,buildings,residential-onsite-fuel-usage,,1335877,Janakpur,50101.10150257533,50701.22979299818,51719.65392543755,51719.653925437546
+NGA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588419,Nigeria_Niger Delta_Conventional onshore,54621.29497902647,47420.48604685429,51224.32007765481,51224.32007765481
+ETH,buildings,residential-onsite-fuel-usage,,1296422,Debub Wollo,47328.03379989371,47552.25503032711,50837.01649384817,50837.01649384816
+DZA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588548,Algeria_OtherBasins_OtherResources,47948.61803725204,49641.66471746975,50494.6815023988,50494.681502398795
+THA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588465,Thailand_OtherBasins_OtherResources,48478.758569359685,49556.18356664742,49840.07161605115,49840.07161605115
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588786,United States_Appalachian_Tight oil,35428.567372688856,31764.987916066842,49513.58578267292,49513.58578267292
+ARG,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588270,Argentina_Neuquen_Shale gas,34650.26272438478,43745.36552211212,48978.89170281991,48978.8917028199
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588790,United States_Central Basin Platform_Conventional onshore,42051.48225461444,47273.92880750646,48871.575312372835,48871.57531237284
+ECU,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588625,Ecuador_Oriente_Conventional onshore,46481.251828511005,45096.35676529461,48649.9884420189,48649.98844201889
+LBY,transportation,road-transportation,,3598974,Tripoli,47379.40984713709,48079.111988750075,48469.524231736126,48512.35833466701
+COD,buildings,residential-onsite-fuel-usage,,1281667,Kinshasa,47774.668045706014,47778.69010606832,48147.950090120416,48147.950090120416
+ETH,buildings,residential-onsite-fuel-usage,,1296449,Mirab Shewa,45292.999400431705,45405.915908806914,48115.63189343795,48115.63189343796
+PAK,buildings,residential-onsite-fuel-usage,,1338026,Peshawar,47073.759803217035,46807.75107269327,47548.080012769016,47548.08001276903
+PAK,transportation,road-transportation,,3614323,Lahore,38858.928291983604,43441.38605997527,47198.44830061503,49316.26621331219
+ARG,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588273,Argentina_OtherBasins_OtherResources,52064.05481108644,48564.13769095218,46981.16207868065,46981.16207868067
+BRA,manufacturing,pulp-and-paper,,31922368,BRA-Três Lagoas,40353.22048659992,46861.50441854921,46861.50441854921,46915.174679616925
+PAK,buildings,residential-onsite-fuel-usage,,1338022,Hazara,45985.8241308597,45422.44301636936,46431.10877070623,46431.108770706225
+GIB,buildings,residential-onsite-fuel-usage,,1242054,Gibraltar,51201.905586059875,53301.77702545161,46361.44182825558,46361.44182825558
+IND,buildings,residential-onsite-fuel-usage,,1308182,South 24 Parganas,44890.08665053687,45620.12918623823,46354.94179683733,46354.94179683734
+CHN,buildings,residential-onsite-fuel-usage,,1281236,Baoding,46462.427832022666,45372.681532025876,45834.8336809751,45834.8336809751
+IND,buildings,residential-onsite-fuel-usage,,1305760,Bangalore,44755.22411916344,45457.63499895958,45798.15332580104,45798.15332580104
+CAN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588587,Canada_Jeanne d'Arc_Conventional shelf,60509.404949589916,52875.63488702872,45513.3690856121,45513.36908561212
+KAZ,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588387,Kazakhstan_OtherBasins_OtherResources,40595.977488945835,38021.46941671193,45498.96067587002,45498.96067587002
+IND,buildings,residential-onsite-fuel-usage,,1305880,Pune,43393.9624307782,44469.61166363617,45335.12056951203,45335.12056951203
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588808,United States_Powder River_Tight oil,33148.552916852095,41976.70764672356,45275.60776160661,45275.60776160661
+PAK,buildings,residential-onsite-fuel-usage,,1338037,Larkana,44852.39827190984,44061.972350781914,45089.095079843,45089.095079843006
+ETH,buildings,residential-onsite-fuel-usage,,1296447,Mirab Arsi,42246.37788292607,42378.78838890118,44818.3484681516,44818.3484681516
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588709,Norway_Central Graben_Conventional shelf,46214.196585046244,43293.17987543592,44190.27945438679,44190.27945438679
+NGA,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588706,Nigeria_Niger Delta_Conventional shelf,43196.11321263883,44304.22299876569,43988.51026512183,43988.510265121826
+AUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588281,Australia_OtherBasins_OtherResources,46471.26902374628,42649.01018606022,43770.54850576379,43770.54850576379
+USA,fossil-fuel-operations,coal-mining,Underground,16398,Bailey Coal Mine,50991.81876349188,49847.35451908584,43487.51963216799,43487.51963216798
+MYS,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588684,Malaysia_Malay_Conventional shelf,43357.74471832852,44105.549269792355,43002.79736166546,43002.79736166546
+AUS,fossil-fuel-operations,coal-mining,Underground,3162341,Ulan Complex Coal Mine,42874.78294641748,39371.09956884235,42805.44908159209,42805.449081592094
+CHN,buildings,residential-onsite-fuel-usage,,1281267,Nanyang,42713.3618581453,41394.93602980685,42492.57160064234,42492.57160064233
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588600,China_North China_Conventional onshore,42637.48801732703,42781.0085033279,42204.24487057887,42204.24487057888
+CHN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588605,China_Pearl River Mouth_Conventional shelf,35054.07829001739,40019.51055720444,42183.76923003401,42183.76923003401
+CHN,transportation,road-transportation,,3621257,Chongqing,36423.914331883185,37940.15549030472,41696.30534088878,44285.69837881966
+ETH,buildings,residential-onsite-fuel-usage,,1296424,Misraq Gojjam,38558.606490135564,38595.26467333701,41537.01681246104,41537.01681246105
+DZA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588262,Algeria_OtherBasins_OtherResources,39704.408138893035,40883.794550549814,41486.40785245752,41486.40785245752
+IND,buildings,residential-onsite-fuel-usage,,1308178,North 24 Parganas,40026.16910457533,40722.53905322951,41308.32003342414,41308.32003342415
+AUS,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588567,Australia_OtherBasins_OtherResources,45401.21553009865,41653.352767503595,41198.273744620485,41198.273744620485
+EGY,transportation,international-shipping,,2790225,Adabiya,38842.452024115344,44151.255761925604,41147.19495749171,24835.096729582106
+ETH,buildings,residential-onsite-fuel-usage,,1296423,Mirab Gojjam,38315.6759516212,38568.49578802328,40839.286225924014,40839.286225924014
+MMR,buildings,residential-onsite-fuel-usage,,1329053,Taunggye,39793.21486772802,40209.01375246167,40722.59833193841,40722.59833193841
+BRA,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588292,Brazil_OtherBasins_OtherResources,32042.84522739533,31017.101084653503,40442.4624799823,40442.4624799823
+AUS,fossil-fuel-operations,coal-mining,Surface,16470,Maules Creek Coal Mine,38623.22886783306,47128.18078639906,40113.55851248762,40113.55851248762
+CHN,buildings,residential-onsite-fuel-usage,,1281243,Shijiazhuang,40260.36115725888,39541.8199118095,39956.38138156038,39956.38138156038
+ETH,buildings,residential-onsite-fuel-usage,,1296421,Debub Gondar,36685.917223566925,36806.97794190036,39591.18011681727,39591.18011681727
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588732,Russian Federation_Timan - Pechora_Conventional onshore,34000.0610318851,36221.30349788605,39348.76932302123,39348.76932302124
+MMR,buildings,residential-onsite-fuel-usage,,1329058,Yangon-N,38387.42094252313,38650.993920780784,39073.33546779675,39073.33546779675
+KAZ,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588388,Kazakhstan_Precaspian_Conventional onshore,37910.393945280994,41579.804698453765,39043.491568680016,39043.49156868001
+CHN,buildings,residential-onsite-fuel-usage,,1281239,Handan,39313.45807865989,38332.79282261554,38871.52109310968,38871.52109310968
+IND,buildings,residential-onsite-fuel-usage,,1308166,Barddhaman,37891.608474327186,38656.29485105537,38760.29391290741,38760.293912907415
+PAK,buildings,residential-onsite-fuel-usage,,1338038,Mirpur Khas,38097.93409171145,37655.57479214872,38479.36966673921,38479.36966673921
+IND,buildings,residential-onsite-fuel-usage,,1308002,Jaipur,36311.55747568478,37201.51211962044,38325.70228829384,38325.70228829385
+ETH,buildings,residential-onsite-fuel-usage,,1296448,Mirab Hararghe,35471.181844144965,35697.220668649396,38289.27334697393,38289.27334697393
+MMR,buildings,residential-onsite-fuel-usage,,1329041,Shwebo,37651.403256972495,38089.33482088487,38236.483155071975,38236.483155071975
+NPL,buildings,residential-onsite-fuel-usage,,1335883,Seti,36170.75978598774,36653.11414007292,37954.76924736957,37954.76924736958
+CHN,buildings,residential-onsite-fuel-usage,,1281315,Suzhou,38994.15702568626,37585.88898555219,37928.39972735801,37928.399727358
+AGO,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588552,Angola_OtherBasins_OtherResources,37572.90247965284,37632.18006448609,37512.150779911906,37512.15077991191
+COL,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588608,Colombia_Llanos_Conventional onshore,37675.259608326094,39755.77527565981,37493.55006188035,37493.55006188035
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588776,United Kingdom_Moray Firth_Conventional shelf,46489.641890653584,46097.27509723998,37414.04823581873,37414.04823581872
+MDG,buildings,residential-onsite-fuel-usage,,1320401,Analamanga,36740.6141133053,36963.25438200144,37347.15340241389,37347.15340241389
+TCD,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588312,Chad_Central African Rift_Conventional onshore,37551.66161205761,36141.32843262148,37316.63890737829,37316.63890737829
+CHN,buildings,residential-onsite-fuel-usage,,1281335,Changchun,38308.61754791474,36998.363035830764,37315.12971017879,37315.1297101788
+THA,manufacturing,petrochemical-steam-cracking,Naphtha,731979,"SCGC Map Ta Phut Olefins (MOC), Map Ta Phut, Rayong ",28446.80721814146,38833.28570549547,37290.8705520315,37290.8705520315
+ITA,buildings,residential-onsite-fuel-usage,,1308818,Roma,38345.87514626024,37195.82325216702,37288.613179289,37288.613179289
+CHN,buildings,residential-onsite-fuel-usage,,1281353,Shenyang,37752.65531113414,36593.191347800755,37244.759291907765,37244.759291907765
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588799,United States_Fort Worth_Shale gas,45761.439630706205,41859.54797833746,37208.28292004479,37208.282920044796
+AUS,fossil-fuel-operations,coal-mining,Underground,14868,Broadmeadow Coal Mine,34861.77853065074,44212.50603765961,37159.55864593771,37159.55864593771
+MMR,buildings,residential-onsite-fuel-usage,,1329003,Pegu,36313.52120572249,36653.11915113286,36887.43767907486,36887.437679074865
+CAN,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588597,Canada_Williston_Tight oil,37751.03796185659,39949.75189309593,36843.51058152972,36843.51058152972
+CHN,buildings,residential-onsite-fuel-usage,,1281192,Guangzhou,37718.9847557409,36632.48570606557,36841.37611783756,36841.37611783756
+IND,buildings,residential-onsite-fuel-usage,,1305872,Mumbai Suburban,36220.14477207774,36794.48424772214,36833.42453371902,36833.42453371902
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588446,Russian Federation_Timan - Pechora_Conventional onshore,34837.474865621654,35568.93434028096,36666.31591987365,36666.31591987365
+CHN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588321,China_Tarim_Conventional onshore,35858.95738376989,36164.374479891,36379.54560745459,36379.54560745459
+EGY,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588632,Egypt_OtherBasins_OtherResources,46381.46103823244,42003.89708244349,36378.2906198547,36378.2906198547
+CHN,buildings,residential-onsite-fuel-usage,,1281420,Chengdu,37438.95021156606,35689.85204731384,36057.94628611718,36057.94628611717
+IND,fossil-fuel-operations,coal-mining,Surface,15905,Dipka Coal Mine,38537.586765030166,34609.728851383785,35783.122457853715,35783.122457853715
+CHN,buildings,residential-onsite-fuel-usage,,1281402,Weifang,36573.39776641015,35319.497607640864,35748.80018209355,35748.80018209355
+IND,buildings,residential-onsite-fuel-usage,,1308176,Murshidabad,34777.386688950326,35456.21149493783,35575.52750321653,35575.52750321653
+PAK,buildings,residential-onsite-fuel-usage,,1338025,Mardan,35044.837573198834,34737.88768644161,35254.58970686857,35254.589706868566
+PAK,buildings,residential-onsite-fuel-usage,,1338016,F.A.T.A.,33382.05582010396,33412.285386237316,35246.82699068141,35246.82699068141
+CHN,buildings,residential-onsite-fuel-usage,,1281398,Linyi,35730.01103151067,34400.8612553251,35239.58132248604,35239.58132248604
+VNM,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588824,Vietnam_Cuu Long_Conventional shelf,38666.07823220092,39323.25367290358,35169.73817885454,35169.73817885454
+BTN,buildings,residential-onsite-fuel-usage,,1278357,Phuentsholing,34197.46211553088,34863.393862132805,35033.88787042235,35033.88787042236
+NPL,buildings,residential-onsite-fuel-usage,,1335881,Sagarmatha,33896.39828081358,34278.837966466104,34924.599448569104,34924.599448569104
+CHN,buildings,residential-onsite-fuel-usage,,1281244,Tangshan,35717.48713002103,34486.39114679755,34870.683984071715,34870.68398407172
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588779,United Kingdom_Southern North Sea_Conventional shelf,31875.077257131474,38270.81072812121,34795.05163616918,34795.05163616918
+KAZ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588671,Kazakhstan_Mangyshlak - Ustyurt_Conventional onshore,33705.07371607024,35325.09869287743,34746.77535192382,34746.775351923825
+EGY,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588346,Egypt_OtherBasins_OtherResources,44552.40086962068,40019.95960971656,34699.85586610322,34699.85586610322
+IND,buildings,residential-onsite-fuel-usage,,1305876,Nashik,32627.182856117943,33474.49863311538,34696.562891649715,34696.562891649715
+BGD,buildings,residential-onsite-fuel-usage,,1259133,Dhaka,34069.62983309138,34508.89118009536,34595.850017885605,34595.85001788561
+MMR,buildings,residential-onsite-fuel-usage,,1328998,Bassein,33068.77032574383,33403.80552307799,34479.62629146786,34479.62629146786
+ETH,buildings,residential-onsite-fuel-usage,,1296425,North Shewa,32021.994504175345,32087.382993021063,34220.469655517314,34220.469655517314
+QAT,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588438,Qatar_OtherBasins_OtherResources,27205.64052100151,31782.199741127897,34102.89643993896,34102.89643993895
+CHN,transportation,road-transportation,,3621036,Beijing,30321.78588852174,31665.59875312697,34019.69604551547,35559.62147685844
+PAK,transportation,road-transportation,,3614328,Karachi,34041.062549965856,33285.38424864242,33953.852144041164,34087.39295277679
+USA,fossil-fuel-operations,coal-mining,Surface,16401,Black Thunder Coal Mine,37335.75714931963,38422.192937113745,33889.23759060033,33889.23759060033
+MMR,buildings,residential-onsite-fuel-usage,,1329001,Myoungmya,32618.44036121796,32950.33540160476,33864.0295175919,33864.0295175919
+LBY,transportation,road-transportation,,3598965,Benghazi,30570.057701662776,32792.47417986019,33697.657767338154,34245.72124413454
+ETH,buildings,residential-onsite-fuel-usage,,1296452,Misraq Shewa,31873.499138776613,31882.07421696406,33444.238467758434,33444.238467758434
+CHN,buildings,residential-onsite-fuel-usage,,1281258,Suihua,34562.66731944621,33148.47096610806,33405.14049483728,33405.14049483727
+IDN,fossil-fuel-operations,coal-mining,Surface,16057,KPC Operation Coal Mine,38015.55263585869,30959.207831079966,33188.270794917735,33188.270794917735
+PAK,buildings,residential-onsite-fuel-usage,,1338009,Azad Kashmir,32298.727130929554,32054.40826714073,33138.66647479569,33138.66647479569
+CHN,buildings,residential-onsite-fuel-usage,,1281275,Zhengzhou,33233.96486765803,32615.51123274868,33053.57273648627,33053.57273648627
+AUS,fossil-fuel-operations,coal-mining,Surface,14890,Goonyella-Riverside Coal Mine,36722.52278536511,32955.57591683818,33029.96773606355,33029.96773606355
+MYS,fossil-fuel-operations,oil-and-gas-transport,LNG,3588402,Malaysia_Sarawak - Luconia-East Natuna_LNG,31369.266845501632,33736.371355837364,32968.43084387035,32968.430843870345
+EGY,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588633,Egypt_Western Desert_Conventional onshore,29857.740330454937,33807.44147643227,32852.02701555256,32852.02701555256
+CHN,buildings,residential-onsite-fuel-usage,,1281323,Ganzhou,33106.51763292523,32338.204164931165,32815.70874901437,32815.70874901437
+EGY,transportation,international-shipping,,2790256,Port Said,35527.31694731796,32388.80662815934,32288.359253059596,23130.133000934773
+CHN,buildings,residential-onsite-fuel-usage,,1281276,Zhoukou,32792.804586123646,31834.86994238511,32265.333354744696,32265.333354744693
+MMR,buildings,residential-onsite-fuel-usage,,1329039,Monywa,31632.0722823811,31971.979917136392,32165.619264978137,32165.619264978137
+VEN,fossil-fuel-operations,oil-and-gas-transport,Heavy oil,3588536,Venezuela_Maturin_Heavy oil,23139.58241087324,26833.501247654585,32106.238996530385,32106.238996530385
+CHN,buildings,residential-onsite-fuel-usage,,1281237,Cangzhou,32452.566018129022,31580.809902607416,31912.560708332774,31912.560708332767
+CHN,buildings,residential-onsite-fuel-usage,,1281399,Qingdao,32574.875986209867,31510.151690636798,31902.639985158134,31902.639985158137
+CHN,buildings,residential-onsite-fuel-usage,,1281289,Wuhan,32334.779746376786,31435.580347359282,31730.290982037346,31730.290982037342
+CHN,buildings,residential-onsite-fuel-usage,,1281386,Xi'an,32969.33080468094,31475.089058902762,31699.313931129458,31699.313931129458
+USA,fossil-fuel-operations,coal-mining,Underground,16435,Marshall County Coal Mine,47325.789366987854,40943.29110128406,31625.16278168148,31625.162781681476
+THA,power,electricity-generation,"gas, coal, other_fossil",447850,Bang Pakong,27543.741611010828,33139.14353716914,31602.558815397988,31685.574301665107
+IND,buildings,residential-onsite-fuel-usage,,1308063,Ranga Reddy,30553.503320773758,31144.200860073168,31552.07509998078,31552.075099980782
+ETH,buildings,residential-onsite-fuel-usage,,1296439,Bale,29644.593222716547,29816.304582019264,31449.097081836517,31449.097081836513
+IND,buildings,residential-onsite-fuel-usage,,1308179,Pashchim Medinipur,30025.451463352223,30668.27682563667,31209.333745601503,31209.333745601503
+IDN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588652,Indonesia_East Java_Conventional shelf,28370.150980718005,26995.8232952612,31180.526237114034,31180.526237114034
+ETH,buildings,residential-onsite-fuel-usage,,1296473,Gamo Gofa,28841.959098414514,28961.0596192981,31151.011536976494,31151.011536976494
+PAK,transportation,road-transportation,,3614325,Rawalpindi,16846.83473896641,22321.35874602857,31116.870349518325,36613.375723778925
+ARG,fossil-fuel-operations,oil-and-gas-transport,Tight gas,3588272,Argentina_Neuquen_Tight gas,32636.112080765364,32671.947169433537,30987.39556906741,30987.39556906741
+AUS,fossil-fuel-operations,coal-mining,Surface,14910,Mount Arthur Coal Mine,28588.844013139937,29488.91714093601,30961.875161598313,30961.875161598316
+CHN,buildings,residential-onsite-fuel-usage,,1281318,Xuzhou,31471.180684445044,30437.328181953882,30880.625978078817,30880.625978078817
+BRA,manufacturing,iron-and-steel,BF/BOF,1566447,ArcelorMittal Tubarão steel plant,29323.826941495696,30441.136906574837,30858.18105852262,31574.59091862977
+IND,buildings,residential-onsite-fuel-usage,,1305598,Patna,29844.889200610472,30409.31842829767,30747.18891164893,30747.18891164893
+NPL,buildings,residential-onsite-fuel-usage,,1335884,Bheri,29188.60225309467,29672.654537031678,30707.36263400259,30707.362634002588
+MMR,buildings,residential-onsite-fuel-usage,,1329022,Mandalay,30196.911398816756,30446.221275562464,30628.678353728446,30628.678353728443
+NGA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588707,Nigeria_Niger Delta_Deepwater,35540.63692602539,31950.019840554967,30376.22114825112,30376.22114825112
+IND,buildings,residential-onsite-fuel-usage,,1305644,Ahmadabad,29616.885178858,30175.26492276177,30353.67366011201,30353.67366011201
+MMR,buildings,residential-onsite-fuel-usage,,1329017,Magwe Minbu,29888.360049737865,30222.263973732373,30308.322102802136,30308.322102802133
+CHN,manufacturing,chemicals,methanol,33998977,CHN-Xilin Gol_methanol,30469.27524092737,30283.291223253735,30283.29122325374,30283.291223253735
+ROU,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588727,Romania_OtherBasins_OtherResources,29757.55722087793,29517.045778971697,30236.526397186888,30236.526397186888
+CHN,buildings,residential-onsite-fuel-usage,,1281393,Heze,30672.62732534924,29720.852942902544,30207.300786956646,30207.300786956646
+AUS,fossil-fuel-operations,coal-mining,Underground,3584531,Maxwell Coal Mine,,,30158.821087009823,30158.821087009823
+ETH,buildings,residential-onsite-fuel-usage,,1296454,North Shewa,28400.709009570168,28413.503531195853,30078.10545226352,30078.10545226352
+USA,fossil-fuel-operations,coal-mining,Underground,16425,Harrison County Coal Mine,26360.464677412234,30119.20264922046,30072.141395081046,30072.14139508105
+USA,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588526,United States_West Gulf Coast Tertiary_Deepwater,32897.30696673374,30418.82629269448,30048.16054720249,30048.160547202493
+AUS,fossil-fuel-operations,coal-mining,Surface,14917,Peak Downs Coal Mine,32301.419061793702,27584.486568766588,30024.53823935867,30024.538239358666
+KOR,transportation,international-shipping,,2796084,Busan South,30932.767730054125,32756.84114183559,29884.893429427953,29126.52225788051
+AUS,fossil-fuel-operations,coal-mining,Surface,14911,Mt Owen Coal Mine,29974.195267368257,29455.235640643245,29853.279365516802,29853.279365516802
+USA,fossil-fuel-operations,oil-and-gas-production,Tight oil,3588783,United States_Anadarko_Tight oil,23587.591195669847,29296.13481558627,29711.002437898285,29711.002437898285
+CHN,buildings,residential-onsite-fuel-usage,,1281255,Qiqihar,30588.24807357659,29428.871580751507,29707.983763656048,29707.98376365605
+DEU,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588357,Germany_OtherBasins_OtherResources,32670.550009254493,30850.082969884996,29706.235346396978,29706.235346396978
+MMR,buildings,residential-onsite-fuel-usage,,1329024,Myingyan,29217.776379872405,29538.591331529562,29662.734982133792,29662.734982133792
+CHN,buildings,residential-onsite-fuel-usage,,1281494,Wenzhou,30188.527954053185,29251.631362738273,29418.3096317198,29418.3096317198
+GHA,fossil-fuel-operations,oil-and-gas-production,Deepwater,3588644,Ghana_Cote d'Ivoire_Deepwater,31821.73194136502,32256.678746583988,29366.70437732811,29366.70437732811
+CHN,buildings,residential-onsite-fuel-usage,,1281312,Nanjing,29907.2478955476,29074.986508463484,29340.96902014028,29340.96902014028
+CHN,manufacturing,chemicals,methanol,33998925,CHN-Ordos_methanol,29504.083703436947,29323.99120102082,29323.99120102082,29323.99120102082
+CHN,buildings,residential-onsite-fuel-usage,,1281245,Xingtai,29579.165298675918,28842.065332260485,29231.38298525714,29231.38298525714
+USA,fossil-fuel-operations,coal-mining,Underground,16434,Marion County Coal Mine,26549.767834880196,29177.977566432317,29177.977566432313,29177.977566432317
+MMR,buildings,residential-onsite-fuel-usage,,1329019,Pakokku,28535.0711911695,28865.917952089025,29176.917904856156,29176.917904856156
+NPL,buildings,residential-onsite-fuel-usage,,1335886,Rapti,27790.924516614727,28147.54757016376,29142.855452285916,29142.855452285912
+ETH,buildings,residential-onsite-fuel-usage,,1296484,Wolayita,27360.173899263926,27388.22830357421,29122.203044255963,29122.203044255963
+MNG,fossil-fuel-operations,coal-mining,Surface,3164210,Tavan Tolgoi Coal Mine,,,29047.74587228584,29047.74587228584
+NPL,buildings,residential-onsite-fuel-usage,,1335882,Mahakali,27681.591992603826,28029.27221805585,29004.92155997607,29004.921559976072
+ETH,buildings,residential-onsite-fuel-usage,,1296428,Semen Wello,26982.2135085591,27057.240593957307,28937.813540746673,28937.81354074667
+KOR,transportation,domestic-shipping,,1932408,Ulsan,29642.613732956863,34541.442067567994,28898.816529922544,27805.540052538447
+CHN,fossil-fuel-operations,oil-and-gas-transport,Acid/sour gas,3588320,China_Sichuan_Acid/sour gas,28112.93447941878,27928.02782941282,28896.510367537507,28896.510367537507
+KWT,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588677,Kuwait_OtherBasins_OtherResources,17941.765130131746,25358.272103487678,28870.478286218044,28870.478286218047
+THA,power,electricity-generation,coal,447853,<unknown plant name>,32925.79609904137,33708.01247832007,28848.41362837582,28924.245082177513
+CHN,fossil-fuel-operations,oil-and-gas-transport,Heavy oil,3588316,China_North China_Heavy oil,28042.213305657624,28650.703558019544,28726.002181047123,28726.002181047123
+GBR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588491,United Kingdom_Northern North Sea_Conventional shelf,31019.39288571362,30270.231960762005,28725.314910911387,28725.314910911387
+PAK,transportation,road-transportation,,3614321,Faisalabad,24736.854278142433,26144.483500543,28709.767127136507,31834.52424680792
+ETH,buildings,residential-onsite-fuel-usage,,1296442,Guji,26864.06110741215,26992.6872993174,28690.409415750717,28690.409415750717
+USA,fossil-fuel-operations,coal-mining,Underground,16430,Lively Grove Coal Mine,28442.799409559695,27766.139942250105,28660.303770898834,28660.303770898845
+CHN,buildings,residential-onsite-fuel-usage,,1281301,Shaoyang,28541.62215723817,27660.431243257597,28591.56140095867,28591.561400958664
+CHN,transportation,road-transportation,,3621135,Shanghai,28373.65505286827,27690.615774431564,28574.443840805125,29379.680518458845
+IND,fossil-fuel-operations,coal-mining,Surface,15907,Dudhichua Coal Mine,27153.538892299915,26279.180144031146,28564.326243512114,28564.32624351211
+CHN,buildings,residential-onsite-fuel-usage,,1281277,Zhumadian,28892.57549597073,28061.831095746817,28529.297310340917,28529.297310340917
+USA,fossil-fuel-operations,coal-mining,Surface,16439,North Antelope Rochelle Coal Mine,31904.873325227112,30514.05674981928,28417.478347306864,28417.478347306864
+MMR,buildings,residential-onsite-fuel-usage,,1329059,Yangon-S,27834.41234014633,28089.04764506166,28403.054252055605,28403.054252055605
+CHN,buildings,residential-onsite-fuel-usage,,1281485,Hangzhou,28825.368888574776,28107.83432909989,28400.608272708472,28400.608272708472
+AUS,fossil-fuel-operations,coal-mining,Underground,14897,Kestrel Coal Mine,27476.73270046911,28060.99594560836,28326.79698974809,28326.796989748087
+AUS,fossil-fuel-operations,coal-mining,Underground,16516,Grosvenor Coal Mine,,,28317.057438405798,28317.057438405795
+CHN,fossil-fuel-operations,coal-mining,Surface,15157,Haerwusu Surface Mine,30870.225633208447,28507.944834330403,28312.238119220587,28312.238119220583
+CHN,fossil-fuel-operations,coal-mining,Surface,16585,Zhundong South Surface Mine,26455.120510054017,28507.944834330407,28312.238119220583,28312.238119220587
+CHN,buildings,residential-onsite-fuel-usage,,1281203,Shenzhen,29093.793028686738,28182.92631535237,28307.583225699273,28307.58322569927
+MMR,buildings,residential-onsite-fuel-usage,,1328999,Hinthada,27396.003234613116,27679.77341984422,28261.692438582784,28261.692438582788
+CHN,manufacturing,chemicals,ammonia,33998958,CHN-Fuyang_ammonia,28410.6357591963,28237.21764729911,28237.217647299112,28237.21764729911
+ETH,buildings,residential-onsite-fuel-usage,,1296475,Gurage,26312.387993220913,26379.12691604536,28232.363661788895,28232.36366178889
+IND,buildings,residential-onsite-fuel-usage,,1305887,Thane,27514.655268833398,27994.418931340355,28110.611232314786,28110.611232314794
+NPL,buildings,residential-onsite-fuel-usage,,1335880,Mechi,26602.758213722696,26992.16220221465,28070.145799985577,28070.145799985577
+PHL,fossil-fuel-operations,oil-and-gas-refining,Medium Conversion,3144056,Petron Bataan Refinery,24235.71283496323,26656.276992365947,28051.66694234315,28051.66694234315
+CHN,buildings,residential-onsite-fuel-usage,,1281225,Bijie,28152.90316281202,27027.50792310523,27970.544013639785,27970.54401363978
+THA,manufacturing,petrochemical-steam-cracking,Naphtha,731980,"SCGC Rayong Olefins (ROC), Map Ta Phut, Rayong ",30120.148817389334,29124.964279121617,27968.152910062174,27968.152910062174
+CHN,buildings,residential-onsite-fuel-usage,,1281345,Dalian,28277.348276535882,27278.437532592376,27910.39037018314,27910.39037018314
+THA,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588466,Thailand_Pattani_Conventional shelf,51722.5449730671,31024.114488060037,27899.202131860446,27899.202131860446
+MMR,buildings,residential-onsite-fuel-usage,,1329046,Lasho,27102.37285544751,27439.580719328555,27797.730103884045,27797.73010388404
+USA,fossil-fuel-operations,coal-mining,Underground,16419,Enlow Fork Coal Mine,24046.494232980836,22153.841071952964,27745.04858058871,27745.048580588715
+USA,fossil-fuel-operations,coal-mining,Underground,16441,Ohio County Coal Mine,25650.577836907418,27295.52740085604,27530.833671553075,27530.83367155307
+ZAF,buildings,residential-onsite-fuel-usage,,1392765,City of Johannesburg,27644.876034928606,27265.96761225126,27428.814694671186,27428.81469467119
+GBR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588780,United Kingdom_West Shetland_Conventional shelf,30612.749745892426,29704.84625224119,27396.648391829203,27396.64839182921
+CHN,buildings,residential-onsite-fuel-usage,,1281319,Yancheng,27968.979543085366,26942.191744154672,27365.919848804268,27365.919848804264
+ETH,buildings,residential-onsite-fuel-usage,,1296450,Mirab Welega,25436.38277746769,25620.12873279301,27253.775948722097,27253.775948722097
+THA,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3144135,PTT Rayong Refinery,24208.298418379767,26301.715977201504,27178.73111857871,27178.73111857871
+IND,buildings,residential-onsite-fuel-usage,,1305599,Purba Champaran,26140.17429280366,26528.415133900475,27175.184835160697,27175.184835160697
+CHN,buildings,residential-onsite-fuel-usage,,1281298,Hengyang,27243.723543909648,26483.378601659213,27152.859569759126,27152.859569759126
+CHN,buildings,residential-onsite-fuel-usage,,1281490,Ningbo,27914.73565070284,26921.27278942588,27137.253905959074,27137.253905959074
+CHN,buildings,residential-onsite-fuel-usage,,1281271,Shangqiu,27587.673730363596,26744.836340820548,27076.303519638826,27076.30351963883
+USA,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588788,United States_ArkLaTex_Tight gas,15618.155911528278,28218.935900921537,27002.546333167422,27002.54633316742
+VNM,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588825,Vietnam_Nam Con Son_Conventional shelf,32306.20185453487,29447.847788455445,26887.183548890876,26887.183548890876
+CHN,buildings,residential-onsite-fuel-usage,,1281404,Yantai,27336.898951115938,26456.110364960266,26772.24311494012,26772.243114940116
+MMR,buildings,residential-onsite-fuel-usage,,1329010,Myitkyina,26048.3958052009,26404.119257106962,26723.311180260673,26723.31118026068
+IND,buildings,residential-onsite-fuel-usage,,1305762,Belgaum,25359.498432471828,25980.995202371534,26687.51394229621,26687.51394229621
+CHN,buildings,residential-onsite-fuel-usage,,1281153,Fuyang,26411.75966645265,25698.913168597417,26637.047304303673,26637.047304303673
+USA,fossil-fuel-operations,coal-mining,Underground,16426,Harvey Coal Mine,25082.668364503566,28707.36502503825,26636.669842904343,26636.669842904343
+CHN,buildings,residential-onsite-fuel-usage,,1281329,Shangrao,27005.3647421798,26237.584925328505,26627.618916753516,26627.618916753516
+ARG,fossil-fuel-operations,oil-and-gas-production,Shale oil,3588557,Argentina_Neuquen_Shale oil,14605.424388799458,21717.806623093,26614.282962873982,26614.282962873986
+CAN,fossil-fuel-operations,oil-and-gas-transport,LNG,3588305,Canada_West Canadian - Alberta_LNG,20376.584660005832,23672.502863757483,26571.457848879494,26571.457848879498
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588503,United States_Arkoma_Shale gas,23864.6823649374,27755.198185888737,26540.78314475763,26540.78314475763
+GAB,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588638,Gabon_Gabon_Conventional onshore,21384.54553654004,22662.060357999744,26527.5133238825,26527.5133238825
+IND,buildings,residential-onsite-fuel-usage,,1308143,Sitapur,23859.245211026195,24418.836250594497,26512.63023493853,26512.63023493853
+IND,buildings,residential-onsite-fuel-usage,,1305855,Ahmadnagar,24720.478079297292,25408.70300300782,26401.26378090276,26401.263780902755
+PAK,transportation,road-transportation,,3614322,Gujranwala,22650.356247340456,24111.60709645398,26357.227573625674,27579.758891373232
+ETH,buildings,residential-onsite-fuel-usage,,1296444,Ilubabor,24824.461733969092,25023.550057119955,26336.812122316507,26336.812122316504
+CHN,fossil-fuel-operations,coal-mining,Underground,16707,Shaanxi Caojiatan Coal Mine,17206.404576117548,15889.698020008354,26294.34013987148,26294.340139871485
+CHN,fossil-fuel-operations,coal-mining,Underground,15582,Tashan Coal Mine,43092.96316022283,35667.00009295471,26294.340139871478,26294.34013987149
+CHN,manufacturing,chemicals,methanol,33999052,CHN-Yinchuan_methanol,51454.940371434925,51140.86015574991,26185.50505022793,26185.50505022793
+IND,buildings,residential-onsite-fuel-usage,,1305671,Surat,25389.781066177635,25870.166660080686,26078.72335556215,26078.72335556215
+IND,buildings,residential-onsite-fuel-usage,,1305513,East Godavari,25274.92965766378,25779.05014005271,26075.563095468046,26075.563095468042
+CHN,buildings,residential-onsite-fuel-usage,,1281480,Qujing,26528.28377592429,25552.417701169106,25989.896925159082,25989.896925159086
+IND,buildings,residential-onsite-fuel-usage,,1305594,Muzaffarpur,24676.319116950184,25133.83242267079,25921.77249248799,25921.77249248799
+IDN,fossil-fuel-operations,coal-mining,Underground & Surface,16083,PTBA Coal Mines,20248.00002094318,22996.499576926202,25850.93853895179,25850.93853895179
+ETH,buildings,residential-onsite-fuel-usage,,1296486,Debubawi,24287.082996039135,24418.537416498715,25822.08803840417,25822.08803840417
+ETH,buildings,residential-onsite-fuel-usage,,1296441,Debub Mirab Shewa,24098.949441699013,24141.890435031342,25752.367279561895,25752.36727956189
+PAK,transportation,road-transportation,,3614324,Multan,19969.107735393376,23575.774410154343,25750.476862013384,28101.53870962936
+LBY,transportation,road-transportation,,3598968,Misratah,25826.825949509748,25534.28641382495,25718.830109368602,26568.990616078532
+CHN,buildings,residential-onsite-fuel-usage,,1281296,Changsha,25924.131144728395,25193.47294531129,25680.150258274116,25680.150258274123
+IND,buildings,residential-onsite-fuel-usage,,1305886,Solapur,24232.99604986009,24832.16022341079,25645.690025708413,25645.69002570841
+LBY,transportation,road-transportation,,3598978,Al Jabal al Gharbi,25827.447473641718,24010.357368446003,25645.254285819054,25187.374871582204
+PER,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588721,Peru_OtherBasins_OtherResources,22837.17877048474,24739.964676881922,25518.61668756485,25518.61668756484
+IRQ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588661,Iraq_OtherBasins_OtherResources,23771.198261713133,24198.97754784886,25453.143976785766,25453.143976785774
+CHN,buildings,residential-onsite-fuel-usage,,1281232,Zunyi,25651.06577238324,24549.699940273713,25428.33575292149,25428.33575292149
+IND,buildings,residential-onsite-fuel-usage,,1308121,Lucknow,24079.39251313713,24585.044310011745,25386.42341898741,25386.42341898741
+USA,fossil-fuel-operations,coal-mining,Underground,16413,Cumberland Coal Mine,25650.577836907414,23060.014528309413,25318.954727000946,25318.954727000946
+CHN,buildings,residential-onsite-fuel-usage,,1281394,Jinan,25777.08491345509,25004.368419766437,25308.764863683064,25308.764863683064
+NGA,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588420,Nigeria_Niger Delta_Conventional shelf,24761.006829381688,25409.961126174763,25261.26617113567,25261.26617113567
+NGA,buildings,residential-onsite-fuel-usage,,1332677,Alimosho,25233.80589166465,25207.194266911672,25244.95217171339,25244.95217171339
+IND,buildings,residential-onsite-fuel-usage,,1308007,Jodhpur,23703.552978155814,24304.564357729298,25240.63412405357,25240.634124053573
+IND,buildings,residential-onsite-fuel-usage,,1305514,Guntur,24454.251917980844,24962.92397831172,25240.348468520613,25240.348468520617
+NLD,transportation,international-shipping,,2796451,Rotterdam,26951.99170798229,26784.640922776653,25214.165713642346,27297.50914290448
+PAK,transportation,road-transportation,,3614327,Hyderabad,,19597.201244972886,25205.431713958773,26239.459464060477
+CHN,fossil-fuel-operations,coal-mining,Surface,16615,Hongshaquan No. 1 Surface Mine,,25347.538814767104,25178.32961039616,25178.329610396155
+CHN,buildings,residential-onsite-fuel-usage,,1281395,Jining,25541.295498294716,24642.67821133649,25067.07197514453,25067.07197514453
+IND,buildings,residential-onsite-fuel-usage,,1308108,Hardoi,22485.720873004237,23055.955973072214,25056.239507298164,25056.23950729816
+CHN,buildings,residential-onsite-fuel-usage,,1281354,Tieling,25356.95573798469,24558.66362694264,25023.521646276895,25023.52164627689
+AUS,fossil-fuel-operations,coal-mining,Underground,14916,Oaky Creek Coal Mine,23454.942994177123,26139.690642835907,24961.81896742215,24961.81896742215
+ETH,buildings,residential-onsite-fuel-usage,,1296476,Hadiya,23223.868801044395,23304.079876478838,24941.209434204753,24941.209434204753
+ARG,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588556,Argentina_Neuquen_Shale gas,17615.47572229014,22239.235510188602,24899.850669117943,24899.85066911794
+GNQ,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588348,Equatorial Guinea_OtherBasins_OtherResources,26419.692507716863,28014.608434655907,24684.64406062941,24684.64406062941
+ETH,buildings,residential-onsite-fuel-usage,,1296453,Misraq Wellega,23281.68052952509,23454.945515202315,24627.435018669166,24627.43501866917
+NPL,buildings,residential-onsite-fuel-usage,,1335888,Gandaki,23593.855721838336,23840.759353553065,24606.789491384192,24606.789491384196
+SOM,buildings,residential-onsite-fuel-usage,,1365334,Mogadisho,24517.394521981027,24488.919173975042,24606.487203955334,24606.487203955334
+ETH,buildings,residential-onsite-fuel-usage,,1296487,Mehakelegnaw,22796.073298349227,22889.095868229186,24602.392544564074,24602.392544564074
+USA,fossil-fuel-operations,coal-mining,Underground,16451,Tunnel Ridge Coal Mine,25460.993893744424,29186.806491620577,24580.214141738288,24580.214141738295
+AUS,fossil-fuel-operations,coal-mining,Underground,14914,Narrabri Coal Mine,15255.451630782598,22449.116423601525,24553.721088314167,24553.721088314167
+CHN,buildings,residential-onsite-fuel-usage,,1281313,Nantong,25230.868798056916,24249.89402325683,24535.12281543897,24535.12281543897
+GBR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588493,United Kingdom_Southern North Sea_Conventional shelf,22911.716523371128,26486.907345183354,24483.16447160497,24483.164471604974
+BRA,manufacturing,iron-and-steel,"EAF,BF/BOF",32440381,CSN Volta Redonda steel plant,21337.59159539675,21631.245287460464,24412.16489707742,22493.472268655976
+CHN,buildings,residential-onsite-fuel-usage,,1281273,Xinyang,24245.368155748743,23551.00408781129,24339.610429734395,24339.610429734395
+IRQ,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588378,Iraq_Zagros Foldbelt_Conventional onshore,23210.5154103114,25795.66947259167,24260.689470864323,24260.68947086432
+IND,buildings,residential-onsite-fuel-usage,,1305582,Gaya,23467.985638503138,23920.00644613874,24255.65238358613,24255.65238358613
+ITA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588668,Italy_OtherBasins_OtherResources,27697.187961573803,26377.009515948936,24246.12751485288,24246.127514852877
+CHN,buildings,residential-onsite-fuel-usage,,1281171,Quanzhou,24716.863913149227,23966.472880382822,24240.918538326096,24240.9185383261
+NGA,buildings,residential-onsite-fuel-usage,,1332446,Abuja,23999.046579655198,23996.535814466788,24232.681547262826,24232.681547262826
+IND,buildings,residential-onsite-fuel-usage,,1305603,Samastipur,23345.854375636336,23730.017189138238,24199.36105332334,24199.36105332334
+IDN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588370,Indonesia_South Sumatra_Conventional onshore,25691.12425280492,25203.143043820008,24197.92233722515,24197.922337225144
+MMR,buildings,residential-onsite-fuel-usage,,1329002,Pharpon,23207.4836271805,23420.159065742286,24082.516705643207,24082.516705643207
+IND,buildings,residential-onsite-fuel-usage,,1308119,Lakhimpur Kheri,22069.078671766158,22614.33996502972,24073.477838090068,24073.477838090068
+CHN,buildings,residential-onsite-fuel-usage,,1281220,Nanning,24406.862905828682,23789.81707094724,24060.80183626101,24060.80183626101
+CHN,buildings,residential-onsite-fuel-usage,,1281484,Zhaotong,24224.67692143203,23237.601816929673,24011.495042059847,24011.49504205985
+IND,buildings,residential-onsite-fuel-usage,,1308059,Mahbubnagar,22972.970700082988,23521.5839734957,24001.279979461116,24001.279979461113
+CHN,transportation,road-transportation,,3620957,Suzhou,23484.50935917033,23076.385372565448,23979.10898007375,24655.057693129762
+IND,buildings,residential-onsite-fuel-usage,,1308177,Nadia,23306.299120684245,23779.28524654841,23914.818663322043,23914.818663322047
+CHN,buildings,residential-onsite-fuel-usage,,1281206,Zhanjiang,24514.09144841823,23561.00297722219,23882.07807546797,23882.07807546797
+CHN,buildings,residential-onsite-fuel-usage,,1281266,Luoyang,24243.997345693228,23518.003656783254,23830.486149666194,23830.486149666194
+CHN,transportation,road-transportation,,3621211,Tianjin,24646.19458081029,22513.61567596713,23776.43682301852,24563.473034577277
+MMR,buildings,residential-onsite-fuel-usage,,1329000,Maubin,23032.00550595672,23240.66732118854,23755.913866299856,23755.913866299856
+MMR,buildings,residential-onsite-fuel-usage,,1329005,Taungoo,23210.306646853143,23428.08168673507,23707.19668950032,23707.196689500317
+MMR,buildings,residential-onsite-fuel-usage,,1329006,Thayarwady,23294.007744264552,23526.65389896735,23644.18914882161,23644.18914882161
+IND,buildings,residential-onsite-fuel-usage,,1305512,Chittoor,22465.965217171404,22962.470050284675,23631.205348504634,23631.20534850463
+IND,buildings,residential-onsite-fuel-usage,,1308171,Hugli,22964.895962225808,23388.134008951827,23544.321131526318,23544.321131526318
+CHN,buildings,residential-onsite-fuel-usage,,1281358,Chifeng,23797.603231068315,23146.32994272544,23491.064181466973,23491.06418146698
+LBY,transportation,road-transportation,,3598964,Az Zawiyah,22057.21439312859,22095.87664828886,23484.016487582114,21992.42008677119
+IND,buildings,residential-onsite-fuel-usage,,1305511,Anantapur,22411.02691530451,22929.861779887506,23474.512858488622,23474.51285848862
+CHN,buildings,residential-onsite-fuel-usage,,1281158,Lu'an,23630.96835526634,22925.656212172926,23432.64367007019,23432.643670070185
+IND,buildings,residential-onsite-fuel-usage,,1308087,Bareilly,22219.424953554982,22753.860105507938,23419.831298356105,23419.831298356105
+ZAF,buildings,residential-onsite-fuel-usage,,1392800,City of Cape Town,23565.71633223474,23334.194915117278,23415.692672929945,23415.692672929945
+CHN,buildings,residential-onsite-fuel-usage,,1281432,Nanchong,23691.884404820925,22552.394457181053,23379.35707916038,23379.35707916038
+CHN,transportation,road-transportation,,3621195,Chengdu,21158.49581159386,22054.4799003072,23302.43369293253,24999.665154425096
+COL,buildings,residential-onsite-fuel-usage,,1284040,Bogotá D.C.,22421.828279441925,23169.88258285193,23281.184494223366,23281.184494223366
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588809,United States_San Joaquin_Conventional onshore,24501.322524568997,23718.010483747024,23257.681752849152,23257.681752849156
+USA,fossil-fuel-operations,coal-mining,Underground,16445,River View Coal Mine,25756.003424664672,26388.15834195301,23231.927638307647,23231.92763830765
+CHN,buildings,residential-onsite-fuel-usage,,1281246,Zhangjiakou,23527.429270889566,22879.12991825274,23189.53029896005,23189.530298960046
+LBY,transportation,road-transportation,,3598983,Al Marqab,22230.562551222905,22519.45715768806,23117.43006483498,23903.294062249784
+IND,buildings,residential-onsite-fuel-usage,,1305797,Malappuram,22375.453898800235,22730.820974044484,23050.687865140968,23050.68786514097
+IDN,fossil-fuel-operations,oil-and-gas-transport,LNG,3588368,Indonesia_Kutei_LNG,22922.58647410334,22942.29513669647,23046.977401349734,23046.97740134973
+MMR,buildings,residential-onsite-fuel-usage,,1329060,Yangon-W,22862.29840135497,22973.051220019348,22995.379206098987,22995.379206098987
+THA,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588752,Thailand_Pattani_Conventional shelf,50107.47101187985,26865.13549326216,22971.980504401185,22971.98050440118
+CHN,buildings,residential-onsite-fuel-usage,,1281331,Yichun,23167.095471118613,22487.16975063297,22958.7291466088,22958.7291466088
+IND,buildings,residential-onsite-fuel-usage,,1308180,Purba Medinipur,21961.526399658444,22330.541465553808,22925.848717066987,22925.848717066987
+CHN,buildings,residential-onsite-fuel-usage,,1281234,Hainan,23612.208948771957,22536.256669712264,22878.366291459897,22878.366291459897
+IND,buildings,residential-onsite-fuel-usage,,1308075,Allahabad,21654.57626399417,22094.363674389122,22863.93678131616,22863.93678131616
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588500,United States_Appalachian_Tight oil,16252.689778786493,14572.03928939603,22714.12842679458,22714.128426794585
+CHN,manufacturing,iron-and-steel,BF/BOF,1566610,Angang Steel Co Ltd,24965.94472164629,22431.29071144321,22702.00380074368,21149.807470324766
+PHL,fossil-fuel-operations,coal-mining,Surface,16553,Molave-Narra Coal Mine,20567.37104001291,22663.271167547045,22663.271167547045,22663.271167547045
+USA,fossil-fuel-operations,coal-mining,Underground,16406,Bull Mountains No. 1 Coal Mine,21759.428174403798,22065.945508852208,22658.76195535869,22658.76195535869
+IND,buildings,residential-onsite-fuel-usage,,1305592,Madhubani,22002.66601961127,22358.482204507105,22616.18729516594,22616.18729516594
+IND,buildings,residential-onsite-fuel-usage,,1308030,Kancheepuram,22015.45396272826,22392.472472771246,22597.029097124414,22597.029097124414
+IND,buildings,residential-onsite-fuel-usage,,1305516,Kurnool,21707.01427520678,22196.386562687163,22594.662471594434,22594.662471594434
+MMR,buildings,residential-onsite-fuel-usage,,1329027,Mawlamyine,22212.070684360184,22377.93208001303,22572.254877271076,22572.254877271076
+AUS,fossil-fuel-operations,coal-mining,Surface,14901,Loy Yang Coal Mine,21765.407099387252,22486.90271857405,22486.90271857405,22486.90271857405
+IND,fossil-fuel-operations,coal-mining,Surface,15929,Kusmunda Coal Mine,13888.658178529007,19311.201933243017,22430.98002334155,22430.98002334155
+USA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588504,United States_Central Basin Platform_Conventional onshore,19290.92207878694,21686.695901360465,22419.60902218507,22419.609022185075
+PAK,transportation,road-transportation,,3614326,Sargodha,,17477.687456779582,22411.041657740054,22908.428645447806
+CHN,buildings,residential-onsite-fuel-usage,,1281475,Kunming,22884.728991111668,22110.518193054275,22315.79014364445,22315.79014364445
+ZAF,fossil-fuel-operations,coal-mining,Underground,16331,Twistdraai Thubelisha Coal Mine,22866.01886082299,21146.533019157643,22305.24715719368,22305.24715719368
+BFA,buildings,residential-onsite-fuel-usage,,1259079,Kadiogo,22016.279936558167,22092.575629931693,22254.47031932891,22254.47031932891
+URY,manufacturing,pulp-and-paper,,31922516,URY-NA,21533.35953904409,22231.47396776755,22231.47396776755,22256.93557056018
+URY,manufacturing,pulp-and-paper,,31922515,URY-NA,21533.35953904409,22231.473967767553,22231.47396776755,22256.93557056018
+CHN,buildings,residential-onsite-fuel-usage,,1281160,Suzhou,22543.270592785866,21859.72313850648,22226.968774834902,22226.968774834902
+CMR,buildings,residential-onsite-fuel-usage,,1281540,Mfoundi,22774.250394801365,22163.82437103968,22218.53109190481,22218.53109190481
+IND,buildings,residential-onsite-fuel-usage,,1308073,Agra,21025.53925398572,21504.831219424384,22125.151107574537,22125.151107574533
+IND,buildings,residential-onsite-fuel-usage,,1305873,Nagpur,21428.458890582333,21910.18121557249,22106.488960122588,22106.48896012259
+IND,buildings,residential-onsite-fuel-usage,,1305867,Jalgaon,21427.641037539113,21940.236466609636,22105.834275378562,22105.83427537856
+CHN,buildings,residential-onsite-fuel-usage,,1281397,Liaocheng,22404.744303728825,21710.876597737486,22089.751257867993,22089.75125786799
+TTO,fossil-fuel-operations,oil-and-gas-transport,LNG,3588469,Trinidad and Tobago_Columbus_LNG,20859.953516396694,21222.24718744334,22027.481736700134,22027.481736700138
+IND,manufacturing,chemicals,ammonia,33998998,IND-Jagatsinghapur_ammonia,22604.156549780175,22003.659646674743,22003.659646674743,22003.659646674747
+MMR,buildings,residential-onsite-fuel-usage,,1329023,Meiktila,21510.30908606476,21748.612526659013,21992.3808107181,21992.3808107181
+IND,buildings,residential-onsite-fuel-usage,,1305515,Krishna,21109.516866854523,21546.34279880991,21935.54728208247,21935.54728208247
+USA,fossil-fuel-operations,coal-mining,Underground,16438,No. 7 Coal Mine,20539.392585272733,20236.339279944994,21930.54442896365,21930.54442896365
+CHN,buildings,residential-onsite-fuel-usage,,1281418,Yuncheng,22583.573506712557,21775.45172236073,21922.873439993098,21922.873439993098
+CHN,buildings,residential-onsite-fuel-usage,,1281166,Fuzhou,22389.95636603056,21740.944441493968,21897.961861476426,21897.961861476422
+CHN,buildings,residential-onsite-fuel-usage,,1281391,Dezhou,22273.341490837254,21600.208950446482,21843.15101935731,21843.151019357305
+CHN,buildings,residential-onsite-fuel-usage,,1281336,Jilin,22315.452201123386,21596.008618186846,21836.97309228027,21836.97309228027
+CHN,buildings,residential-onsite-fuel-usage,,1281387,Xianyang,22630.496055891952,21648.92192963888,21835.750958822457,21835.75095882246
+USA,fossil-fuel-operations,coal-mining,Underground,709420,Hamilton Mine No. 1,21174.568808568663,20196.77295169858,21829.70353077208,21829.70353077208
+CHN,fossil-fuel-operations,coal-mining,Surface,16542,Zhundong Surface Mine,18298.605198218953,21963.354727348265,21816.706750226782,21816.706750226782
+CHN,transportation,road-transportation,,3621298,Hangzhou,19263.20627230217,18925.164324640806,21805.520110579888,23221.69074776656
+PNG,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588719,Papua New Guinea_OtherBasins_OtherResources,21242.333868319794,21755.048002521922,21799.159810829362,21799.159810829362
+IND,buildings,residential-onsite-fuel-usage,,1308010,Nagaur,20642.038613839908,21188.483154710517,21777.621271470893,21777.621271470893
+TWN,manufacturing,petrochemical-steam-cracking,Flex Integrated,18648400,"Formosa Petrochemical Corp. , Taiwan, Mailiao",25391.851743697818,21085.62766395914,21763.99378973318,21763.99378973318
+BGD,buildings,residential-onsite-fuel-usage,,1259125,Chittagong,20723.02270755838,21533.638724447876,21753.521143901686,21753.52114390169
+CHN,buildings,residential-onsite-fuel-usage,,1281190,Dongguan,22296.10007385588,21620.99393103883,21709.73774907584,21709.73774907584
+MMR,buildings,residential-onsite-fuel-usage,,1329037,Katha,21247.37232377123,21505.912324175213,21704.33497872568,21704.334978725685
+IND,buildings,residential-onsite-fuel-usage,,1308111,Jaunpur,20413.320793322287,20797.11439717384,21695.916274513387,21695.916274513394
+LBY,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588394,Libya_OtherBasins_OtherResources,22500.046822791162,20630.419816147434,21662.050201644146,21662.050201644142
+CIV,buildings,residential-onsite-fuel-usage,,1281496,Abidjan,21348.895116176136,21438.350298859343,21646.676329745507,21646.676329745507
+CHN,buildings,residential-onsite-fuel-usage,,1281295,Changde,21443.70199140598,20837.166482813336,21519.888220605182,21519.88822060518
+LBR,buildings,residential-onsite-fuel-usage,,1317919,Greater Monrovia,21466.18122273446,21461.56202304825,21485.39302957656,21485.39302957656
+CHN,buildings,residential-onsite-fuel-usage,,1281260,Anyang,21569.568298247417,21032.10121739482,21482.326843578805,21482.326843578805
+IND,buildings,residential-onsite-fuel-usage,,1308074,Aligarh,20081.381925474678,20553.79989109768,21478.626304169367,21478.62630416937
+MMR,buildings,residential-onsite-fuel-usage,,1329026,Yamethin,21036.117633167785,21212.849891842798,21434.418145408883,21434.418145408887
+IND,buildings,residential-onsite-fuel-usage,,1305597,Pashchim Champaran,20558.427892355874,20926.88938656841,21359.354046918816,21359.354046918816
+PRK,fossil-fuel-operations,coal-mining,Underground,3164243,Deokcheon Coal Mining Complex,18757.716097829176,21335.92911558235,21335.929115582345,21335.929115582345
+IND,buildings,residential-onsite-fuel-usage,,1308080,Azamgarh,20166.197372945262,20540.939166419335,21282.533154831377,21282.533154831377
+IND,buildings,residential-onsite-fuel-usage,,1308115,Kanpur Nagar,20129.831826633756,20583.274972487445,21257.948749484513,21257.948749484505
+MYS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588399,Malaysia_OtherBasins_OtherResources,24450.371235622937,25985.36978708903,21223.553574574013,21223.553574574013
+AUS,fossil-fuel-operations,coal-mining,Surface,14873,Caval Ridge Coal Mine,20005.854373893806,22153.8837653147,21157.03338769476,21157.033387694766
+CHN,buildings,residential-onsite-fuel-usage,,1281385,Weinan,21832.672418846378,20972.68159406819,21131.606879730913,21131.606879730913
+TJK,buildings,residential-onsite-fuel-usage,,1371386,Rudaki,20020.97684792407,21074.466983522547,21113.31369659924,21113.31369659924
+CMR,buildings,residential-onsite-fuel-usage,,1281557,Wouri,21416.78444081884,20897.133393426382,21108.289045522473,21108.289045522473
+IND,fossil-fuel-operations,coal-mining,Surface,710137,Lingaraj Coal Mine,18827.8862268808,19954.61674204679,21066.563889392823,21066.56388939282
+CHN,fossil-fuel-operations,coal-mining,Underground,14987,Buertai Coal Mine,22931.61253883287,21176.83953200402,21035.472111897187,21035.472111897183
+CHN,fossil-fuel-operations,coal-mining,Underground,15420,Ningtiaota Coal Mine,20638.451284949577,21176.83953200402,21035.472111897187,21035.47211189719
+CHN,fossil-fuel-operations,coal-mining,Underground,16711,Xiaobaodang No.1 Coal Mine,17206.404576117548,15889.69802000836,21035.472111897183,21035.472111897187
+CHN,fossil-fuel-operations,coal-mining,Underground,15557,Suancigou Coal Mine,20638.45128494958,21176.83953200402,21035.472111897183,21035.472111897183
+IND,buildings,residential-onsite-fuel-usage,,1307895,Alwar,19788.402722885017,20273.329502549564,21031.750720229815,21031.750720229815
+IND,buildings,residential-onsite-fuel-usage,,1308089,Bijnor,19743.836301102456,20228.83391500338,20924.44512560092,20924.44512560092
+BRA,manufacturing,iron-and-steel,BF/BOF,1566455,Usiminas Ipatinga steel plant,16299.987079811903,19594.710611658957,20912.14877741428,22348.07546048138
+IND,buildings,residential-onsite-fuel-usage,,1308105,Gorakhpur,20002.789709920646,20409.76788600894,20886.023816338133,20886.023816338136
+CHN,buildings,residential-onsite-fuel-usage,,1281306,Yueyang,21026.894199451865,20430.906347402437,20873.19065508602,20873.190655086022
+THA,fossil-fuel-operations,oil-and-gas-refining,Medium Conversion,1753804,Thai Oil Company Sriracha Refinery,18539.112053915687,20142.285567500603,20813.91814027211,20813.91814027211
+USA,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588518,United States_North Slope_Conventional onshore,21419.137837692862,21312.92780045252,20810.675074839986,20810.67507483999
+AUS,fossil-fuel-operations,coal-mining,Underground,14886,Dendrobium Coal Mine,20074.168821713,15584.14832085884,20793.965346727346,20793.965346727346
+MMR,buildings,residential-onsite-fuel-usage,,1329045,Kyaukme,20334.53502385862,20614.40091059322,20787.521260213663,20787.521260213663
+USA,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588522,United States_Powder River_Tight oil,15206.743441306593,19256.61961050269,20769.97514385944,20769.975143859443
+AUS,fossil-fuel-operations,coal-mining,Underground,14858,Appin Coal Mine,23407.30586807165,25762.763532283636,20697.357594646463,20697.357594646466
+IND,buildings,residential-onsite-fuel-usage,,1308053,Viluppuram,19913.839113594648,20341.128903921348,20695.285577356153,20695.285577356153
+MYS,manufacturing,petrochemical-steam-cracking,Flex Integrated,731963,"Pengerang Refinery and Petrochemical Integrated Development (RAPID), Pengerang, Johor",,,20681.18396305555,20681.18396305555
+CHN,buildings,residential-onsite-fuel-usage,,1281272,Xinxiang,20746.8754324611,20274.210080284458,20667.628876112492,20667.62887611249
+THA,power,electricity-generation,"gas, other_fossil",447857,Ratchaburi (RATCHGEN),19914.959222617807,19448.240185007413,20625.889358783872,20680.168715189295
+IND,buildings,residential-onsite-fuel-usage,,1308086,Barabanki,18856.028623571194,19289.68060117144,20596.370914549792,20596.370914549792
+MMR,buildings,residential-onsite-fuel-usage,,1329004,Pyay,20282.94938407088,20488.6082815362,20581.608454270176,20581.60845427018
+CHN,fossil-fuel-operations,coal-mining,Underground,15623,Tongxin Coal Mine,26163.584775849577,20074.173655170704,20568.95962554463,20568.959625544627
+IND,buildings,residential-onsite-fuel-usage,,1308057,Karimnagar,19860.631684786786,20320.764972566503,20559.5902025867,20559.590202586696
+CHN,buildings,residential-onsite-fuel-usage,,1281197,Maoming,21057.403892137445,20296.084008497626,20550.05755032755,20550.057550327547
+CHN,buildings,residential-onsite-fuel-usage,,1281451,Kashgar,21636.57273264748,20243.479961014906,20531.284792584498,20531.284792584498
+CHN,buildings,residential-onsite-fuel-usage,,1281488,Jinhua,20785.380029120242,20318.60177711778,20454.724115244848,20454.724115244848
+AUS,fossil-fuel-operations,coal-mining,Underground & Surface,14869,Bulga Coal Mine,21279.796576532197,19509.93442493433,20410.39293685438,20410.392936854376
+GBR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588778,United Kingdom_OtherBasins_OtherResources,25378.343961428003,23021.016098680077,20401.64231594976,20401.64231594976
+CHN,buildings,residential-onsite-fuel-usage,,1281412,Linfen,20892.303543039197,20123.843828170877,20389.017868512296,20389.017868512296
+COL,fossil-fuel-operations,coal-mining,Surface,15866,Cerrejón Coal Mine,21299.860983075196,18219.793646927927,20346.977676772298,20346.977676772298
+HKG,transportation,international-shipping,,2791282,Hong Kong,21263.341300116892,21601.587065713036,20340.36077607512,20192.409434583573
+CHN,buildings,residential-onsite-fuel-usage,,1281154,Hefei,20578.710717920796,19981.401196930794,20324.756404161722,20324.756404161722
+IND,buildings,residential-onsite-fuel-usage,,1308091,Bulandshahr,18869.358577368588,19283.66656613238,20297.800707198603,20297.8007071986
+IND,buildings,residential-onsite-fuel-usage,,1305604,Saran,19471.09360477632,19845.68025539944,20270.09160465166,20270.09160465166
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588797,United States_East Gulf Coast Tertiary_Conventional shelf,27590.683709532972,24367.593358731803,20215.8936590948,20215.8936590948
+USA,fossil-fuel-operations,coal-mining,Underground,16404,Buchanan #1 Coal Mine,24771.23561128113,21833.59402388138,20154.08679127512,20154.086791275113
+CHN,buildings,residential-onsite-fuel-usage,,1281428,Liangshan Yi,20663.365937095412,20030.159834492406,20146.63352637421,20146.633526374204
+ARG,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588269,Argentina_Neuquen_Conventional onshore,20606.98083207025,18893.553946290416,20140.043178378608,20140.043178378608
+ZAF,fossil-fuel-operations,coal-mining,Surface,16323,New Vaal Coal Mine,22035.324530010406,22750.649866235548,20091.482998753476,20091.48299875347
+CHN,buildings,residential-onsite-fuel-usage,,1281324,Ji'an,20287.483504117212,19709.729526547406,20086.6775156297,20086.677515629704
+AUS,fossil-fuel-operations,coal-mining,Surface,14920,Ravensworth Coal Mine,18577.276232596465,19044.305721694298,20085.791190849457,20085.791190849457
+CHN,buildings,residential-onsite-fuel-usage,,1281310,Huai'an,20376.513572290874,19694.70679613245,20058.719786477825,20058.719786477828
+CHN,buildings,residential-onsite-fuel-usage,,1281238,Chengde,20185.86027099775,19669.559454958027,20054.671105372396,20054.6711053724
+IND,buildings,residential-onsite-fuel-usage,,1308135,Saharanpur,19209.728048688095,19681.76438844673,20033.570964062008,20033.570964062008
+PRK,transportation,road-transportation,,3618998,Pyongyang,15282.674599113683,16308.455010238085,20016.835237485375,21287.170997567344
+IND,buildings,residential-onsite-fuel-usage,,1308061,Nalgonda,19165.453999770667,19623.218976313383,20009.77482891166,20009.77482891166
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588728,Russian Federation_East Sakhalin (Sea of Okhotsk)_Conventional shelf,17003.35602130164,,19993.155355329938,19993.155355329938
+CHN,buildings,residential-onsite-fuel-usage,,1281401,Tai'an,20310.809117446875,19570.0005938852,19977.34066323038,19977.34066323038
+BRA,manufacturing,pulp-and-paper,,31922364,BRA-Imperatriz,17199.73332215734,19973.755981676713,19973.755981676713,19996.631830656395
+CHN,buildings,residential-onsite-fuel-usage,,1281147,Anqing,20127.10402258645,19527.830542444113,19966.875063313317,19966.875063313313
+VEN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588535,Venezuela_Maturin_Conventional onshore,19998.991602198257,19822.13593849801,19953.206858672438,19953.206858672438
+MOZ,fossil-fuel-operations,coal-mining,Surface,16151,Chirodzi Coal Mine,25681.326451872574,19947.325258114015,19947.325258114015,19947.325258114015
+IND,buildings,residential-onsite-fuel-usage,,1305522,West Godavari,19137.012812335524,19541.523173161037,19919.361263471048,19919.361263471044
+ZMB,buildings,residential-onsite-fuel-usage,,1392855,Lusaka,19911.98026065125,19890.446047547845,19910.916210037096,19910.9162100371
+CHN,buildings,residential-onsite-fuel-usage,,1281422,Dazhou,20326.40459775616,19394.47546533607,19894.384887469925,19894.384887469925
+IND,buildings,residential-onsite-fuel-usage,,1305874,Nanded,18992.079503700417,19470.09830641651,19867.946388668373,19867.94638866837
+CHN,buildings,residential-onsite-fuel-usage,,1281280,Huanggang,20107.111827674966,19467.364964027332,19858.1766749127,19858.176674912695
+CHN,buildings,residential-onsite-fuel-usage,,1281297,Chenzhou,20022.766791395745,19497.245997912458,19849.287785588946,19849.287785588946
+IND,buildings,residential-onsite-fuel-usage,,1305858,Aurangabad,18852.243829891286,19347.698667021417,19834.639417475126,19834.639417475126
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440567,Baoshan Iron and Steel Co Ltd Headquarters,17985.746539236337,19017.787181756852,19832.70094836817,19236.062973972108
+ETH,buildings,residential-onsite-fuel-usage,,1296440,Borena,18573.794555443605,18708.138535669343,19821.104209288907,19821.10420928891
+IND,buildings,residential-onsite-fuel-usage,,1305648,Banas Kantha,18455.062782124358,18919.03592826645,19807.149810716077,19807.149810716073
+COL,fossil-fuel-operations,coal-mining,Surface,15867,El Descanso Coal Mine,18751.159668861063,18867.197482097956,19792.06010376942,19792.06010376942
+IND,buildings,residential-onsite-fuel-usage,,1308167,Birbhum,19308.66349399188,19718.07466958563,19777.68614270659,19777.68614270659
+AUS,fossil-fuel-operations,coal-mining,Underground,14909,Moranbah North Coal Mine,19009.972675738827,13832.022574635512,19740.847752149715,19740.84775214971
+ISR,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588381,Israel_Sinai - Levant_Deepwater,14936.865116981346,17161.370571144755,19727.975336376985,19727.975336376985
+KOR,transportation,domestic-shipping,,1932382,Incheon,19312.421070212302,21437.721353375295,19722.923732186136,20762.5140859647
+CHN,buildings,residential-onsite-fuel-usage,,1281299,Huaihua,19826.829558540598,19161.015908249687,19715.504844322015,19715.504844322015
+MMR,buildings,residential-onsite-fuel-usage,,1329048,Loilen,19219.94743984459,19408.41406396251,19674.047461757647,19674.047461757644
+IND,buildings,residential-onsite-fuel-usage,,1308090,Budaun,18324.383716839548,18765.094089715694,19669.551255968145,19669.551255968145
+MMR,buildings,residential-onsite-fuel-usage,,1329015,Kawkareik,19060.96862706544,19256.125129321725,19654.652714467826,19654.65271446782
+AUS,fossil-fuel-operations,coal-mining,Surface,14923,Saraji Coal Mine,18940.18116365184,20829.70938310314,19550.1700924268,19550.170092426804
+ZWE,buildings,residential-onsite-fuel-usage,,1392922,Harare,19303.166479223026,19311.381101419844,19533.47417088498,19533.474170884976
+IND,buildings,residential-onsite-fuel-usage,,1308064,Warangal,18756.665944353063,19177.634748124576,19492.228578655755,19492.228578655755
+IND,buildings,residential-onsite-fuel-usage,,1305581,Darbhanga,18909.824405698222,19222.343780079696,19487.345931417134,19487.34593141713
+IDN,agriculture,manure-left-on-pasture-cattle,,20487733,Sumba Timur,19456.869289365306,19250.194411287554,19445.601965565147,19445.601965565147
+GBR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588490,United Kingdom_Moray Firth_Conventional shelf,21882.609644578784,22608.35823645257,19432.9766749442,19432.9766749442
+OMN,transportation,international-shipping,,2800464,Port Fujairah,21423.374453581586,21934.22217694359,19430.03807662752,20915.089137765026
+CHN,manufacturing,chemicals,ammonia,33998982,CHN-Yichang_ammonia,19528.29082305643,19409.090416848783,19409.090416848787,19409.090416848783
+CHN,buildings,residential-onsite-fuel-usage,,1281283,Jingzhou,19480.832620896355,18920.642072781968,19407.569230062916,19407.569230062916
+CHN,buildings,residential-onsite-fuel-usage,,1281196,Jieyang,19949.45689465079,19317.8897043363,19393.362168021402,19393.3621680214
+IND,buildings,residential-onsite-fuel-usage,,1307966,Barmer,18049.949868435026,18539.162289584627,19354.061731432543,19354.061731432543
+CHN,buildings,residential-onsite-fuel-usage,,1281290,Xiangfan,19491.42262416131,18872.860658374506,19329.13192440369,19329.13192440369
+MYS,transportation,international-shipping,,2796303,Port Klang,15543.799163954955,17721.23388594921,19300.303865685146,20978.46541303305
+CHN,buildings,residential-onsite-fuel-usage,,1281415,Taiyuan,19776.821008334096,19156.017162849683,19290.171979577015,19290.171979577015
+AUS,fossil-fuel-operations,coal-mining,Surface,14922,Rolleston Coal Mine,17307.10897390266,19371.62972628592,19237.724451680257,19237.72445168026
+CHN,fossil-fuel-operations,coal-mining,Surface,708851,Changtan Surface Coal Mine,20946.037964284045,19343.205108221464,19214.07823834015,19214.078238340146
+IND,buildings,residential-onsite-fuel-usage,,1308118,Kushinagar,18391.83561630429,18746.88517098632,19185.009799183405,19185.009799183405
+IND,buildings,residential-onsite-fuel-usage,,1305518,Prakasam,18285.911594599263,18701.39947625031,19138.65990017213,19138.65990017213
+AUS,fossil-fuel-operations,coal-mining,Underground & Surface,14907,Moolarben Coal Mine,18521.20395229593,15852.16549991199,19135.15835492335,19135.158354923347
+IND,buildings,residential-onsite-fuel-usage,,1305520,Visakhapatnam,18343.26474718588,18710.54497685269,19133.442110498072,19133.442110498076
+CHN,buildings,residential-onsite-fuel-usage,,1281305,Yongzhou,19233.154865833083,18712.06831429123,19132.11245208952,19132.112452089517
+IND,fossil-fuel-operations,coal-mining,Surface,15891,Amlohri Coal Mine,19225.344029869935,19120.550363002574,19120.550363002574,19120.550363002574
+UGA,buildings,residential-onsite-fuel-usage,,1377014,Kampala,19032.18993874576,19070.700890328237,19081.041249142814,19081.041249142814
+USA,fossil-fuel-operations,coal-mining,Underground,16436,MC #1 Coal Mine,26013.128143631246,21042.46793739419,19047.06149505508,19047.061495055084
+ZAF,buildings,residential-onsite-fuel-usage,,1392767,Ekurhuleni,19211.49368395162,18940.38131990098,19045.597831182546,19045.597831182546
+MMR,buildings,residential-onsite-fuel-usage,,1329020,Thayetmyo,18656.614790342053,18868.137671381828,18962.468525905373,18962.468525905377
+IND,buildings,residential-onsite-fuel-usage,,1308052,Vellore,18265.306600643835,18598.544117922247,18944.348871683007,18944.348871683003
+IND,buildings,residential-onsite-fuel-usage,,1308018,Udaipur,17743.896377186367,18170.576993539245,18941.37299486563,18941.37299486563
+IND,buildings,residential-onsite-fuel-usage,,1308165,Bankura,18313.104336146607,18750.334332367347,18936.10490113209,18936.10490113209
+CHN,fossil-fuel-operations,coal-mining,Underground,15287,Jinjie Coal Mine,20638.45128494958,19056.328230401483,18929.097552305335,18929.09755230533
+CHN,fossil-fuel-operations,coal-mining,Underground,15827,Yushuwan Coal Mine,19099.416886370196,17034.77412287373,18929.097552305335,18929.09755230534
+CHN,fossil-fuel-operations,coal-mining,Underground,14988,Buliangou Coal Mine,17206.404576117544,19056.328230401487,18929.097552305335,18929.09755230533
+CHN,fossil-fuel-operations,coal-mining,Underground,15033,Daliuta Coal Mine,20638.45128494958,19056.328230401483,18929.09755230533,18929.09755230533
+CHN,fossil-fuel-operations,coal-mining,Underground,15192,Hongliulin Coal Mine,35243.88772746797,35469.08570480514,18929.09755230533,18929.097552305335
+IND,buildings,residential-onsite-fuel-usage,,1305940,Ganjam,18362.52536436886,18763.350036078922,18894.91833806064,18894.91833806064
+CHN,transportation,road-transportation,,3621109,Yantai,,,18885.140030373608,23948.64492811679
+CHN,transportation,road-transportation,,3621385,Guangzhou,19328.94678658888,18068.143152443547,18881.480017150174,18740.943636986412
+IND,buildings,residential-onsite-fuel-usage,,1308103,Ghazipur,18077.713162601813,18433.50622971306,18872.772455440667,18872.772455440667
+CHN,buildings,residential-onsite-fuel-usage,,1281149,Bozhou,18837.217101920825,18289.90617514681,18830.321102460406,18830.321102460406
+USA,fossil-fuel-operations,coal-mining,Underground,3164651,Cardinal Coal Mine,19403.57364046502,19295.114197156858,18777.440401623382,18777.44040162338
+CHN,buildings,residential-onsite-fuel-usage,,1281493,Taizhou,19276.845839806356,18681.055713326816,18773.167334166657,18773.167334166657
+IND,buildings,residential-onsite-fuel-usage,,1308170,Haora,18342.798351569076,18651.571956550895,18767.790723631882,18767.790723631886
+CHN,buildings,residential-onsite-fuel-usage,,1281241,Langfang,19018.95652661662,18498.763119555948,18724.25867240159,18724.25867240159
+IND,buildings,residential-onsite-fuel-usage,,1305869,Kolhapur,18040.451333856487,18492.641901332117,18717.02670886826,18717.02670886826
+NLD,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588701,Netherlands_Southern North Sea_Conventional shelf,27762.12895583937,24386.766646471253,18705.407002763164,18705.407002763164
+IND,buildings,residential-onsite-fuel-usage,,1308147,Varanasi,18137.475791619763,18435.835832351295,18701.34372500325,18701.34372500325
+BRN,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588582,Brunei Darussalam_OtherBasins_OtherResources,22653.51634683553,18748.150811150204,18698.329726679665,18698.32972667967
+ZAF,buildings,residential-onsite-fuel-usage,,1392766,City of Tshwane,18629.151130731472,18419.480651255923,18639.375428031133,18639.375428031133
+BRA,manufacturing,iron-and-steel,BF/BOF,1566450,Ternium Brasil Santa Cruz steel plant,18379.913377407873,19728.593863784445,18638.629459070813,21435.309719691428
+AUS,fossil-fuel-operations,coal-mining,Surface,14863,Blackwater Coal Mine,21912.545360867272,21261.181934610275,18612.833170187165,18612.83317018716
+CHN,buildings,residential-onsite-fuel-usage,,1281326,Jiujiang,18717.039208106904,18187.714834460603,18605.711322539493,18605.711322539493
+PAK,transportation,road-transportation,,3614319,Bahawalpur,,16222.402441422579,18604.37768354809,20239.62714121659
+CHN,buildings,residential-onsite-fuel-usage,,1281240,Hengshui,18854.366958228384,18347.4341208009,18561.09248305363,18561.09248305363
+CHN,buildings,residential-onsite-fuel-usage,,1281223,Yulin,18783.14081686749,18271.76305928721,18500.24796141387,18500.247961413872
+ETH,buildings,residential-onsite-fuel-usage,,1296418,Agew Awi,17528.850828600243,17657.33524995134,18499.225256353584,18499.22525635358
+USA,fossil-fuel-operations,coal-mining,Underground,710697,Prairie Eagle Underground Mine,17652.51943388647,18353.889114368718,18495.07287678694,18495.072876786937
+AFG,transportation,road-transportation,,3602445,Kabul City,18005.72305993202,18254.739945206245,18478.501371092138,18571.929204303982
+CHN,buildings,residential-onsite-fuel-usage,,1281317,Wuxi,18976.791824545133,18341.235775456847,18477.203259348462,18477.203259348462
+CHN,buildings,residential-onsite-fuel-usage,,1281413,Luliang,18755.342680135756,18082.251139607506,18461.336543841775,18461.33654384177
+MEX,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588404,Mexico_OtherBasins_OtherResources,19669.2122187852,19161.125077379496,18456.275736935124,18456.27573693513
+CHN,buildings,residential-onsite-fuel-usage,,1281264,Kaifeng,18733.79861166031,18251.92743782912,18451.52136403246,18451.521364032465
+CHN,buildings,residential-onsite-fuel-usage,,1281405,Zaozhuang,18820.92629073975,18134.10637498725,18402.08660677086,18402.086606770856
+USA,fossil-fuel-operations,coal-mining,Underground,3164805,Leer Coal Mine,21769.863108814414,18353.889114368718,18353.889114368718,18353.889114368718
+IND,buildings,residential-onsite-fuel-usage,,1308024,Chennai,18060.658418499963,18330.03864094506,18349.5267566652,18349.5267566652
+IND,buildings,residential-onsite-fuel-usage,,1308045,Thiruvallur,17873.007788148385,18191.534963336602,18328.496744538796,18328.496744538796
+LBY,transportation,road-transportation,,3598963,An Nuqat al Khams,17923.903141718238,17717.716740175627,18306.08371741454,17978.588759317132
+IND,buildings,residential-onsite-fuel-usage,,1308139,Shahjahanpur,16943.72987491085,17369.152908588665,18290.96327242619,18290.96327242619
+CHN,manufacturing,iron-and-steel,BF/BOF,1566560,Wuhan Iron and Steel Co Ltd,17532.620785590894,19786.051366078027,18274.23740039971,20095.51514314748
+DEU,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588643,Germany_OtherBasins_OtherResources,20100.836984588346,18979.218513564218,18266.07619862775,18266.076198627754
+CHN,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588314,China_North China_Conventional onshore,18398.63940577393,18468.93060899396,18225.191286792422,18225.191286792422
+KAZ,fossil-fuel-operations,coal-mining,Surface,708729,Bogatyr Coal Mine (Kazakhstan),20213.025645452384,18843.979207617238,18223.577430627996,18223.577430627993
+IND,buildings,residential-onsite-fuel-usage,,1305610,Vaishali,17470.111602102614,17808.505493457025,18212.461290385058,18212.461290385054
+ETH,buildings,residential-onsite-fuel-usage,,1296457,Fafan,17239.865400578154,17327.878325352598,18129.81796080788,18129.817960807883
+CHN,buildings,residential-onsite-fuel-usage,,1281406,Zibo,18331.658354291794,17746.54755551624,18129.11768778225,18129.11768778225
+CHN,buildings,residential-onsite-fuel-usage,,1281215,Guilin,18188.125800958816,17724.550857979008,18066.29168111653,18066.291681116527
+CHN,buildings,residential-onsite-fuel-usage,,1281474,Honghe Hani and Yi,18451.79607847017,17622.773119227197,18058.254744189013,18058.254744189013
+IND,buildings,residential-onsite-fuel-usage,,1308142,Siddharth Nagar,16751.888968484163,17095.250889629722,18033.012353962382,18033.01235396238
+IND,buildings,residential-onsite-fuel-usage,,1305600,Purnia,17542.589235719577,17875.337103282036,17966.427558683095,17966.427558683095
+CHN,transportation,road-transportation,,3621100,Qingdao,17594.256788667706,16513.898104004813,17957.197230640093,19101.440693727513
+IND,buildings,residential-onsite-fuel-usage,,1308175,Maldah,17470.599561725456,17792.35523302544,17951.979709219875,17951.979709219875
+CHN,buildings,residential-onsite-fuel-usage,,1281311,Lianyungang,18352.026626902483,17697.31401438024,17904.14051933766,17904.14051933766
+CHN,fossil-fuel-operations,coal-mining,Underground,16616,Jinjitan Coal Mine,17206.404576117548,17996.072579600215,17882.978643514747,17882.978643514747
+IND,buildings,residential-onsite-fuel-usage,,1308127,Meerut,17116.98528956656,17518.767063093892,17877.55642995044,17877.55642995044
+CHN,buildings,residential-onsite-fuel-usage,,1281293,Xiaogan,18050.918132020375,17513.41607619813,17875.55176608508,17875.55176608508
+CHN,buildings,residential-onsite-fuel-usage,,1281362,Tongliao,18202.335419267714,17546.126462212684,17868.756758392814,17868.75675839281
+VEN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588537,Venezuela_OtherBasins_OtherResources,15973.067381282797,17036.178930787773,17868.296874398806,17868.296874398802
+PAK,buildings,residential-onsite-fuel-usage,,1338018,Islamabad,17906.91538240783,17741.221558844518,17859.233500048846,17859.233500048842
+AUS,fossil-fuel-operations,coal-mining,Surface,14930,Wilpinjong Coal Mine,20852.63254635634,19758.467186257836,17854.036614088407,17854.036614088407
+IND,buildings,residential-onsite-fuel-usage,,1308146,Unnao,15986.519669290547,16408.8638207431,17819.700471960987,17819.700471960983
+ARG,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588559,Argentina_OtherBasins_OtherResources,19226.10920850298,18168.019083760584,17759.743419950977,17759.74341995098
+ZAF,fossil-fuel-operations,coal-mining,Surface,16310,Goedgevonden Coal Mine,,13591.297322686174,17727.779116547186,17727.77911654718
+ETH,buildings,residential-onsite-fuel-usage,,1296477,Keffa,16615.129579111348,16721.236402656505,17711.639436276586,17711.639436276582
+CHN,buildings,residential-onsite-fuel-usage,,1281268,Pingdingshan,17863.07094638518,17427.814554629957,17694.80733925454,17694.80733925455
+MEX,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588691,Mexico_Sabinas - Rio Grande_Conventional onshore,18694.04902301662,19118.02353842233,17680.100942361118,17680.100942361118
+COL,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588322,Colombia_Llanos_Conventional onshore,18768.95030947544,19004.96132527742,17662.222253992695,17662.22225399269
+MMR,buildings,residential-onsite-fuel-usage,,1329018,Minbu,17335.29578583847,17535.69785312848,17613.1390185205,17613.1390185205
+IND,fossil-fuel-operations,coal-mining,Surface,15892,Amrapali Coal Mine,13926.451771727909,14025.864659574212,17602.460147765632,17602.460147765632
+NOR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588423,Norway_Central Graben_Conventional shelf,18025.469937592585,17087.57929475901,17586.293514849567,17586.293514849567
+IND,buildings,residential-onsite-fuel-usage,,1307833,Ludhiana,17052.35360255613,17432.076523370182,17573.57670154544,17573.57670154544
+PER,buildings,residential-onsite-fuel-usage,,1338256,Lima,18244.7705679508,17548.326157054078,17570.76003177895,17570.76003177895
+IND,buildings,residential-onsite-fuel-usage,,1308117,Kaushambi,16894.476870651743,17232.746264107118,17539.223472801947,17539.223472801947
+CHN,transportation,road-transportation,,3621107,Weifang,15517.375636510096,15562.525274560208,17535.46792630176,18219.938156644057
+KOR,transportation,domestic-shipping,,1932411,Yeosu,22036.3643095119,21674.843392808878,17506.45000976723,16715.240482334295
+AGO,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588264,Angola_Lower Congo_Conventional shelf,13602.670747602242,14523.379852008196,17490.93831333169,17490.93831333169
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588735,Russian Federation_West Siberia (Omsk/Nyurolka)_Conventional onshore,19818.170531630916,17503.093232880263,17482.183488152725,17482.183488152725
+MMR,buildings,residential-onsite-fuel-usage,,1329057,Yangon-E,17352.860124690786,17420.81545452248,17453.85200753771,17453.85200753771
+CHN,manufacturing,chemicals,ammonia,33998974,CHN-Cangzhou_ammonia,19991.161379333098,19869.135617909797,17450.587535736508,17450.58753573651
+ZAF,fossil-fuel-operations,coal-mining,Underground,16646,Shondoni Coal Mine,19274.515899628383,18306.487473198325,17448.37087289215,17448.370872892152
+IND,buildings,residential-onsite-fuel-usage,,1305608,Siwan,16709.963433044733,17035.18815259132,17441.00974929707,17441.00974929707
+IND,fossil-fuel-operations,coal-mining,Surface,15918,Jayant Coal Mine,15491.8282341141,15489.972981593135,17430.57724860443,17430.577248604433
+MEX,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588407,Mexico_Salinas - Sureste_Conventional shelf,19811.9711380453,21169.977563693028,17393.2343150777,17393.2343150777
+IRN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588371,Iran_OtherBasins_OtherResources,16590.145711231267,16698.718985879033,17364.86389236541,17364.86389236541
+CHN,buildings,residential-onsite-fuel-usage,,1281338,Siping,17779.582526997525,17178.81630664295,17363.180554155668,17363.180554155664
+CHN,buildings,residential-onsite-fuel-usage,,1281389,Yulin,17365.692046148266,16758.24920710773,17343.04825973922,17343.04825973922
+CHN,buildings,residential-onsite-fuel-usage,,1281327,Nanchang,17547.732300786534,17035.453528079124,17265.656515957202,17265.656515957202
+CAN,fossil-fuel-operations,oil-and-gas-transport,Heavy oil,3588304,Canada_West Canadian - Alberta_Heavy oil,15565.239892403368,16410.746533024845,17171.93420136468,17171.93420136468
+LBY,transportation,road-transportation,,3598984,Al Wahat,19476.136254877863,18734.133461543344,17163.833233046043,17892.924186156328
+IND,buildings,residential-onsite-fuel-usage,,1308132,Pratapgarh,16112.509257874943,16444.985481377982,17140.66561869627,17140.66561869627
+USA,transportation,international-shipping,,2802540,"Port of Long Beach,CA",19625.888123825673,20863.79280520931,17122.205547236263,17105.876798003203
+CHN,buildings,residential-onsite-fuel-usage,,1281274,Xuchang,17347.973883060797,16903.446821240035,17083.12179552116,17083.12179552116
+CHN,buildings,residential-onsite-fuel-usage,,1281314,Suqian,17337.10694157862,16738.387760294834,17082.94814598813,17082.94814598813
+UGA,buildings,residential-onsite-fuel-usage,,1377133,Jinja,16919.520025963364,16966.582922904337,17070.598490508044,17070.59849050804
+USA,fossil-fuel-operations,oil-and-gas-transport,Shale gas,3588513,United States_Fort Worth_Shale gas,20992.848274823104,19202.87314159979,17069.126296304457,17069.126296304454
+NGA,buildings,residential-onsite-fuel-usage,,1332865,Obio/Akpor,17017.64418189447,17006.833087758936,17053.618078641568,17053.618078641568
+ETH,fossil-fuel-operations,coal-mining,Underground,3163403,Kamashi Coal Mines,16665.54073328032,17043.338934719806,17043.338934719806,17043.338934719806
+IND,buildings,residential-onsite-fuel-usage,,1305796,Kozhikode,16608.623786949804,16891.009357392228,17039.533312438747,17039.533312438747
+IND,buildings,residential-onsite-fuel-usage,,1305884,Satara,16273.962121331804,16713.96891396499,17014.47215749855,17014.47215749855
+IND,buildings,residential-onsite-fuel-usage,,1308040,Salem,16101.85715495882,16400.17233683613,16916.7952533038,16916.7952533038
+IND,buildings,residential-onsite-fuel-usage,,1308083,Ballia,16246.89480321802,16587.542550398546,16908.617488246124,16908.61748824612
+IND,buildings,residential-onsite-fuel-usage,,1305801,Thrissur,16514.40429682614,16781.004481763233,16898.79809024478,16898.79809024478
+IND,buildings,residential-onsite-fuel-usage,,1305860,Bid,15987.689038459936,16418.331812044926,16890.516779719957,16890.516779719957
+IND,buildings,residential-onsite-fuel-usage,,1305883,Sangli,15972.550659448085,16381.75418962854,16883.458235815113,16883.45823581511
+ZAF,buildings,residential-onsite-fuel-usage,,1392771,eThekwini,17100.815123405206,16933.568003812565,16879.981626893812,16879.981626893812
+IND,buildings,residential-onsite-fuel-usage,,1305826,Indore,16390.00524568445,16716.602737217847,16879.377118644177,16879.377118644177
+IND,buildings,residential-onsite-fuel-usage,,1308015,Sikar,15803.811100671366,16214.136778880978,16878.25182481583,16878.25182481583
+MKD,fossil-fuel-operations,oil-and-gas-refining,Hydroskimming,3144015,Hellenic OKTA Skopje Refinery,,,16876.31537940689,16876.31537940689
+IND,buildings,residential-onsite-fuel-usage,,1308060,Medak,16143.10113899398,16538.067117311148,16867.511636782398,16867.511636782398
+CHN,fossil-fuel-operations,coal-mining,Underground,15160,Halagou Coal Mine,18345.290031066295,16935.816928798944,16822.722992713476,16822.722992713476
+CHN,fossil-fuel-operations,coal-mining,Underground,15495,Shangwan Coal Mine,18345.290031066295,16935.816928798944,16822.722992713476,16822.722992713476
+IND,buildings,residential-onsite-fuel-usage,,1308104,Gonda,15536.94934088829,15872.151786136656,16814.820704260106,16814.820704260103
+USA,fossil-fuel-operations,coal-mining,Underground,3164896,Oaktown Fuels Coal Mine No. 1,16564.02627844575,18353.889114368718,16800.867727768287,16800.867727768287
+CHN,fossil-fuel-operations,coal-mining,Surface,14957,Anjialing Open-Pit Mine,18298.605198218957,21128.589319118288,16785.553073597443,16785.553073597443
+CHN,fossil-fuel-operations,coal-mining,Surface,14962,Antaibao Surface Mine,18298.605198218953,16898.359209844733,16785.553073597443,16785.55307359744
+CHN,fossil-fuel-operations,coal-mining,Surface,3162715,Jiangjun Gebi No. 2 Coal Mine,18298.605198218953,21128.589319118284,16785.553073597443,16785.553073597443
+IND,buildings,residential-onsite-fuel-usage,,1305601,Rohtas,16278.459579730257,16604.439058175158,16746.341491354917,16746.341491354917
+IND,buildings,residential-onsite-fuel-usage,,1305755,Ranchi,15907.225666408089,16282.699323659912,16715.780862622334,16715.780862622334
+MYS,manufacturing,petrochemical-steam-cracking,Flex Integrated,731961,"Petronas Chemicals Ethylene, Sdn. Bhd. Kertih ",18597.24937209782,17362.83518339974,16673.20257778643,16673.20257778643
+CHN,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588315,China_North China_Conventional shelf,14903.46146107869,15529.682438574575,16648.386723777963,16648.38672377796
+CHN,buildings,residential-onsite-fuel-usage,,1281294,Yichang,16786.199098149988,16265.807728488857,16647.69205921079,16647.69205921079
+AUS,fossil-fuel-operations,coal-mining,Underground,14872,Carborough Downs Coal Mine,23241.185687100504,14842.76988407144,16632.32369988147,16632.32369988147
+CHN,transportation,road-transportation,,3621133,Linyi,17674.013446649933,15697.10792721018,16626.982548979315,17256.06194072134
+CHN,buildings,residential-onsite-fuel-usage,,1281492,Shaoxing,16950.327237997437,16466.47202317717,16617.232664358366,16617.232664358366
+IND,buildings,residential-onsite-fuel-usage,,1308181,Puruliya,15878.126739286037,16268.275059745903,16599.976263212215,16599.976263212215
+IND,buildings,residential-onsite-fuel-usage,,1305800,Thiruvananthapuram,16240.580703270412,16500.260952173627,16587.7068675803,16587.7068675803
+NGA,buildings,residential-onsite-fuel-usage,,1332735,Ado Odo/Ota,16343.548681429626,16357.608084399588,16574.55329286178,16574.55329286178
+IND,buildings,residential-onsite-fuel-usage,,1305587,Katihar,16053.701366460307,16362.36586329283,16523.0204873707,16523.0204873707
+CHN,buildings,residential-onsite-fuel-usage,,1281322,Fuzhou,16761.51352941768,16258.543030396766,16504.864725196883,16504.864725196883
+IND,buildings,residential-onsite-fuel-usage,,1308129,Moradabad,15802.709462862811,16184.884170854124,16496.713415657712,16496.713415657716
+CAN,buildings,residential-onsite-fuel-usage,,1278662,Greater Vancouver,16634.37476568707,16442.682642429405,16492.922035941945,16492.92203594194
+ETH,buildings,residential-onsite-fuel-usage,,1296483,Silti,15180.200971352437,15183.424031966575,16490.751146714607,16490.75114671461
+GIN,buildings,residential-onsite-fuel-usage,,1299267,Conakry,16428.81246893309,16427.566194567324,16439.347325678817,16439.347325678817
+PAK,buildings,residential-onsite-fuel-usage,,1338013,Quetta,16223.249084784098,16206.6220648448,16406.612035591468,16406.61203559147
+IND,buildings,residential-onsite-fuel-usage,,1305607,Sitamarhi,15841.748047491224,16066.456939140655,16400.193708331542,16400.193708331542
+CHL,buildings,residential-onsite-fuel-usage,,1281136,Santiago,17045.485987955966,16247.921836692907,16319.691723305943,16319.691723305947
+CHN,buildings,residential-onsite-fuel-usage,,1281342,Anshan,16338.342329463201,15879.285040810297,16304.574390536207,16304.574390536207
+IND,buildings,residential-onsite-fuel-usage,,1305890,Yavatmal,15704.652902853899,16101.059767547078,16303.589262769705,16303.589262769705
+CHN,buildings,residential-onsite-fuel-usage,,1281359,Hohhot,16539.71514115988,16029.586592650045,16287.785083415436,16287.785083415438
+THA,fossil-fuel-operations,oil-and-gas-refining,Medium Conversion,1753941,IRPC Refinery and Petrochemical Complex Refinery,14494.214883535786,15747.605073221797,16272.699638827078,16272.699638827078
+IND,buildings,residential-onsite-fuel-usage,,1305857,Amravati,15766.479339324516,16166.9329145087,16247.514180963328,16247.514180963328
+CHN,manufacturing,iron-and-steel,BF/BOF,1566628,Rizhao Steel Holding Group Co Ltd,,,16247.177281936018,16534.56170008435
+CHN,buildings,residential-onsite-fuel-usage,,1281360,Hulunbuir,16526.909114915565,15992.508806182954,16243.961050939579,16243.961050939582
+IND,buildings,residential-onsite-fuel-usage,,1308122,Maharajganj,15625.289735358328,15919.823962719487,16237.209981690288,16237.209981690288
+CHN,manufacturing,chemicals,methanol,33999123,CHN-Weinan_methanol,16322.794177168958,16223.160076366592,16223.160076366592,16223.16007636659
+MMR,buildings,residential-onsite-fuel-usage,,1329040,Sagaing,15952.630942348638,16128.734721018389,16211.818572241285,16211.818572241285
+CHN,buildings,residential-onsite-fuel-usage,,1281409,Datong,16358.039699795836,15960.647750052114,16197.05305334321,16197.053053343208
+ROU,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588441,Romania_OtherBasins_OtherResources,15929.904455011008,15801.15301028373,16186.307656535051,16186.30765653505
+IND,buildings,residential-onsite-fuel-usage,,1308100,Firozabad,15147.083854044164,15501.416797662761,16184.847925681315,16184.847925681315
+CHN,buildings,residential-onsite-fuel-usage,,1281431,Mianyang,16469.324302077704,15705.021571933537,16181.862319361631,16181.862319361628
+CHN,buildings,residential-onsite-fuel-usage,,1281316,Taizhou,16612.15292339334,16049.803486866029,16178.71485046812,16178.714850468123
+PAK,buildings,residential-onsite-fuel-usage,,1338023,Kohat,15741.089403010992,15707.459814149324,16168.68122268542,16168.68122268542
+CHN,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588319,China_Pearl River Mouth_Conventional shelf,,15175.543995484746,16120.006172221705,16120.006172221705
+CHN,buildings,residential-onsite-fuel-usage,,1281198,Meizhou,16488.28778897103,16024.732876314225,16118.079614133187,16118.079614133188
+IND,buildings,residential-onsite-fuel-usage,,1305517,Nellore,15582.903428064423,15925.309871389962,16117.6646583306,16117.664658330597
+IND,buildings,residential-onsite-fuel-usage,,1308130,Muzaffarnagar,15450.784333131061,15829.742482474361,16109.032895507795,16109.032895507795
+MYS,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588398,Malaysia_Malay_Conventional shelf,16261.365397298838,16600.30964864886,16090.844788861768,16090.844788861772
+IND,buildings,residential-onsite-fuel-usage,,1305790,Ernakulam,15669.220883968715,15917.817951891879,16074.682680622353,16074.682680622353
+CHN,buildings,residential-onsite-fuel-usage,,1281304,Yiyang,16087.354131464184,15620.463189732349,16060.041495881851,16060.041495881853
+ARG,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588274,Argentina_San Jorge_Conventional onshore,16087.987282867976,16137.122326358896,16040.193710786261,16040.193710786263
+IND,buildings,residential-onsite-fuel-usage,,1307758,Mayurbhanj,15051.767092721255,15434.93984739008,16003.457229373029,16003.45722937303
+PRK,fossil-fuel-operations,coal-mining,Underground,3164246,Gangdong Coal Mining Complex,14068.287073371885,16001.946836686762,16001.946836686762,16001.946836686762
+NGA,buildings,residential-onsite-fuel-usage,,1332580,Ungogo,15884.56872777239,15950.180257104961,15999.450012902573,15999.450012902575
+AUS,fossil-fuel-operations,coal-mining,Surface,3584546,Olive Downs Coal Mine,,,15984.717373854954,15984.717373854952
+LBY,transportation,road-transportation,,3598979,Al Jifarah,16601.807998313303,16211.075228163816,15979.418681702206,15571.330416972298
+IND,buildings,residential-onsite-fuel-usage,,1308183,Uttar Dinajpur,15503.14554713229,15817.132725171548,15952.697182868991,15952.697182868993
+CAN,fossil-fuel-operations,oil-and-gas-transport,Tight oil,3588309,Canada_West Canadian - Alberta_Tight oil,15654.791651558004,17714.413609805604,15944.663314906413,15944.663314906411
+BRA,manufacturing,iron-and-steel,BF/BOF,1566446,Gerdau Açominas Ouro Branco steel plant,15226.262733063362,18117.046937435116,15928.368787267766,14851.196730241449
+IND,buildings,residential-onsite-fuel-usage,,1305785,Tumkur,15049.140704401547,15422.930464651668,15923.011435088623,15923.011435088623
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440512,Zhangjiagang Hongchang Steel Co Ltd,17046.60410270233,17558.74720589748,15913.452527245738,16244.583223865593
+CHN,buildings,residential-onsite-fuel-usage,,1281226,Guiyang,16280.21089665199,15626.32248645628,15907.720379890794,15907.720379890796
+IND,buildings,residential-onsite-fuel-usage,,1308049,Tirunelveli,15455.670860006616,15775.576886795398,15895.036407880032,15895.036407880032
+IND,buildings,residential-onsite-fuel-usage,,1308094,Deoria,15219.712324826105,15523.819724277593,15858.605739636407,15858.605739636409
+AUS,fossil-fuel-operations,coal-mining,Surface,14862,Bengalla Coal Mine,16227.247398709016,15692.189809826194,15826.311090252055,15826.311090252055
+IND,buildings,residential-onsite-fuel-usage,,1305577,Begusarai,15413.741802582079,15701.913980013629,15813.495871658895,15813.495871658895
+LBY,transportation,road-transportation,,3598981,Al Kufrah,37017.39399950727,34135.58959555376,15787.347065317254,14315.796365024828
+CHN,fossil-fuel-operations,coal-mining,Underground,708594,Balasu Coal Mine,,15889.698020008356,15776.604083922892,15776.604083922886
+CHN,fossil-fuel-operations,coal-mining,Underground,3162845,Longwanggou Coal Mine,,,15776.60408392289,15776.60408392289
+CHN,fossil-fuel-operations,coal-mining,Underground,708982,Dahaize Coal Mine,,15776.60408392289,15776.60408392289,15776.604083922888
+CHN,fossil-fuel-operations,coal-mining,Underground,16907,Xiegou Coal Mine,17237.185264089137,15889.698020008356,15776.60408392289,15776.60408392289
+AUS,fossil-fuel-operations,coal-mining,Surface,14899,Lake Vermont Coal Mine,13678.059663348931,16604.254051102216,15771.065675778093,15771.065675778093
+CHN,buildings,residential-onsite-fuel-usage,,1281174,Zhangzhou,16184.576641299518,15605.778271857758,15757.989823828475,15757.989823828473
+BGD,buildings,residential-onsite-fuel-usage,,1259157,Mymensingh,14848.966415210696,15412.409308495911,15719.293408662505,15719.293408662503
+IND,buildings,residential-onsite-fuel-usage,,1305523,Y.S.R.,14949.062178449156,15275.597703675994,15708.316783811437,15708.316783811437
+CHN,manufacturing,iron-and-steel,BF/BOF,1566515,Shougang Jingtang United Iron & Steel Co Ltd,14736.823738505109,16404.78188795645,15706.502591961023,15534.101120140527
+CHN,buildings,residential-onsite-fuel-usage,,1281459,Ürümqi,16363.25302441401,15497.758112549014,15705.650147294207,15705.65014729421
+ETH,buildings,residential-onsite-fuel-usage,,1296446,Kelem Wellega,14800.45644623158,14904.453271107515,15681.608745201665,15681.608745201665
+GAB,buildings,residential-onsite-fuel-usage,,1296715,Komo-Mondah,15907.451753222746,15470.721226480913,15657.962594661198,15657.962594661198
+IND,buildings,residential-onsite-fuel-usage,,1305669,Rajkot,15108.994943350193,15411.098231457403,15656.644757742324,15656.644757742324
+MMR,buildings,residential-onsite-fuel-usage,,1329033,Sittwe,15122.745382068111,15272.023339869143,15645.945898622254,15645.945898622253
+ETH,buildings,residential-onsite-fuel-usage,,1296474,Gedeo,14853.047896755086,14809.955716981653,15627.471740641247,15627.471740641244
+AUS,fossil-fuel-operations,coal-mining,Surface,16608,Mount Pleasant Coal Mine,14501.796252887318,14863.485481228596,15622.282037327355,15622.28203732735
+CHN,buildings,residential-onsite-fuel-usage,,1281200,Shantou,16150.843504224966,15549.342298683543,15599.394535862377,15599.394535862379
+IND,buildings,residential-onsite-fuel-usage,,1307973,Bharatpur,14758.508860861431,15138.497080714042,15580.3938334598,15580.393833459799
+CAN,buildings,residential-onsite-fuel-usage,,1278798,Toronto,15461.07916757512,15562.423235938411,15578.495246070815,15578.495246070815
+CHN,fossil-fuel-operations,coal-mining,Underground,15760,Yangquan No. 1 Coal Mine,17975.093188021827,15697.727501192463,15574.51142975453,15574.51142975453
+IND,buildings,residential-onsite-fuel-usage,,1308050,Tiruppur,14913.372457870295,15211.990897517653,15529.435594041024,15529.43559404102
+TUR,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588762,Turkey_Southeast Turkey Foldbelt_Conventional onshore,15886.084960694012,17277.812469806817,15527.98437055632,15527.98437055632
+ZAF,fossil-fuel-operations,coal-mining,Underground,16691,Impumelelo Coal Mine,16821.890694460795,17474.88862156363,15496.599343650765,15496.599343650769
+CHN,buildings,residential-onsite-fuel-usage,,1281339,Songyuan,15911.809193870991,15348.618152957353,15488.130497654847,15488.130497654847
+ZAF,fossil-fuel-operations,coal-mining,Underground & Surface,16315,Khutala Coal Mine,14970.38065159147,,15450.19328347568,15450.19328347568
+IND,buildings,residential-onsite-fuel-usage,,1305595,Nalanda,14949.671309034647,15248.407514762215,15437.815220993789,15437.81522099379
+UKR,fossil-fuel-operations,coal-mining,Underground,710689,Pokrovs'ke Coal Mine,15816.33346283907,17318.291499629922,15435.197414999931,15435.197414999931
+IND,buildings,residential-onsite-fuel-usage,,1308058,Khammam,14742.32717528882,15083.130643621169,15432.592871488952,15432.592871488952
+MMR,buildings,residential-onsite-fuel-usage,,1329021,Kyaukse,15151.692458998219,15317.678103120881,15425.539075246634,15425.539075246636
+IND,buildings,residential-onsite-fuel-usage,,1305578,Bhagalpur,14969.73703896888,15266.299999692443,15425.014302585858,15425.014302585856
+UGA,buildings,residential-onsite-fuel-usage,,1377131,Busiiro,15187.67548553715,15223.167230056633,15423.966820736827,15423.966820736829
+CHN,buildings,residential-onsite-fuel-usage,,1281416,Xinzhou,15784.948502931687,15273.935537911566,15422.186667400567,15422.186667400565
+IND,buildings,residential-onsite-fuel-usage,,1307976,Bhilwara,14719.57616976998,15114.600034560282,15421.48625163638,15421.486251636381
+CHN,buildings,residential-onsite-fuel-usage,,1281344,Chaoyang,15494.387310522334,15035.766074101623,15409.489018459033,15409.48901845904
+CHN,buildings,residential-onsite-fuel-usage,,1281186,Tianshui,15867.345826495688,15119.259332140298,15349.247743786349,15349.24774378635
+AUS,transportation,international-shipping,,2787728,Hedland,16361.386758176359,15809.655873392701,15341.822747057908,15766.529002084224
+CHN,buildings,residential-onsite-fuel-usage,,1281308,Zhuzhou,15502.588990247565,15066.862961513038,15300.230223863837,15300.230223863837
+CHN,manufacturing,chemicals,ammonia,33999129,CHN-Ordos_ammonia,15387.94310027586,15294.015316996056,15294.015316996056,15294.015316996058
+CHN,buildings,residential-onsite-fuel-usage,,1281439,Yibin,15547.691166988769,14808.483433073656,15269.223208443587,15269.22320844359
+IND,buildings,residential-onsite-fuel-usage,,1308099,Fatehpur,14337.794587727607,14682.019710209584,15256.687739951081,15256.687739951083
+IND,buildings,residential-onsite-fuel-usage,,1305573,Araria,14907.484514044361,15149.90475666971,15252.677162518352,15252.677162518352
+CHN,transportation,road-transportation,,3620948,Nantong,14776.541663066871,14758.76124871871,15245.33788705629,15862.826503829394
+MEX,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588406,Mexico_Salinas - Sureste_Conventional onshore,,,15206.404256367627,15206.404256367627
+IND,buildings,residential-onsite-fuel-usage,,1308102,Ghaziabad,14688.419347564712,14992.452051129592,15201.355437304997,15201.355437304996
+NGA,fossil-fuel-operations,oil-and-gas-transport,Deepwater,3588421,Nigeria_Niger Delta_Deepwater,18560.535044031527,16508.39523421926,15195.777238120141,15195.777238120143
+CHN,buildings,residential-onsite-fuel-usage,,1281487,Jiaxing,15465.175380985213,14942.809791347303,15182.720944458117,15182.720944458117
+AUS,fossil-fuel-operations,coal-mining,Underground & Surface,16768,Carmichael Coal Project,,,15163.703651785845,15163.703651785845
+CHN,manufacturing,iron-and-steel,BF/BOF,1566499,Baosteel Zhanjiang Iron & Steel Co Ltd,,14035.607919226311,15160.336114144604,
+MMR,buildings,residential-onsite-fuel-usage,,1329028,Thaton,14828.727793197795,14956.72401761221,15158.90559338134,15158.90559338134
+CHN,buildings,residential-onsite-fuel-usage,,1281194,Huizhou,15506.901226688758,15026.011751196533,15154.216497324884,15154.216497324884
+IND,buildings,residential-onsite-fuel-usage,,1305781,Mysore,14634.397559164143,14944.745826074983,15136.13901640241,15136.13901640241
+PAK,buildings,residential-onsite-fuel-usage,,1338017,Northern Areas,15217.487648638142,14810.003734056303,15108.621310288074,15108.621310288074
+ZAF,fossil-fuel-operations,coal-mining,Underground,16330,Syferfontein Coal Mine,17787.39885874,16888.381485160087,15100.199916143141,15100.199916143138
+USA,fossil-fuel-operations,coal-mining,Underground,710241,Mach No.1 Coal Mine,14477.785457923183,16548.114381611762,15082.42425066901,15082.42425066901
+IND,buildings,residential-onsite-fuel-usage,,1307890,Ajmer,14380.00638310524,14746.48599753877,15078.11989992199,15078.11989992199
+CHN,transportation,road-transportation,,3620881,Wuhan,13791.239464509556,13809.108258550023,15070.060442183549,15886.675084006893
+MMR,buildings,residential-onsite-fuel-usage,,1329025,Pyin-Oo-Lwin,14773.660514645617,14941.61583304589,15069.426565183152,15069.426565183152
+CHN,buildings,residential-onsite-fuel-usage,,1281419,Bazhong,15116.91568407995,14408.070132182831,15064.514147917245,15064.514147917245
+LBY,transportation,road-transportation,,3598972,Surt,14116.556211626492,14333.228929294999,15061.534775829108,15553.153355785944
+CHN,buildings,residential-onsite-fuel-usage,,1281247,Daqing,15514.152495268836,14921.085831130857,15056.484337535181,15056.484337535181
+IND,buildings,residential-onsite-fuel-usage,,1305519,Srikakulam,14351.188148412994,14669.134739788571,15042.419998788331,15042.41999878833
+CHN,transportation,road-transportation,,3620831,Tangshan,,,15036.806476750793,16185.050623744484
+SYR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588747,Syria_OtherBasins_OtherResources,15946.795165397385,15710.35304450681,15016.077849138335,15016.077849138335
+IND,buildings,residential-onsite-fuel-usage,,1308101,Gautam Buddha Nagar,14559.029463349627,14859.127658220405,15014.34936657557,15014.349366575567
+AUS,fossil-fuel-operations,coal-mining,Surface,14892,Hail Creek Coal Mine,15256.40809365325,16038.876224989417,15012.269119679333,15012.269119679333
+IND,buildings,residential-onsite-fuel-usage,,1305861,Buldana,14464.667279020992,14833.63132142292,15011.924479959127,15011.924479959127
+ETH,buildings,residential-onsite-fuel-usage,,1296489,Misraqawi,13911.31702887526,13996.486782416061,15010.531581153353,15010.531581153353
+IND,buildings,residential-onsite-fuel-usage,,1308055,Adilabad,14430.561766910203,14783.966670738975,15009.725786505287,15009.725786505287
+IND,buildings,residential-onsite-fuel-usage,,1305579,Bhojpur,14498.871406714792,14815.984000160417,15008.618675209229,15008.618675209229
+CHN,buildings,residential-onsite-fuel-usage,,1281481,Wenshan Zhuang and Miao,15232.956703815007,14604.81554842573,14999.035008239627,14999.035008239627
+IND,buildings,residential-onsite-fuel-usage,,1308034,Madurai,14543.89068892972,14812.590395202327,14994.293740831637,14994.293740831636
+CHN,buildings,residential-onsite-fuel-usage,,1281152,Chuzhou,15249.245206916316,14757.178688083883,14982.85349778683,14982.85349778683
+BGD,buildings,residential-onsite-fuel-usage,,1259126,Comilla,14396.694104134096,14716.833960437238,14949.88727855155,14949.88727855155
+PAK,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588715,Pakistan_Indus_Conventional onshore,15346.824517263814,15128.014225124401,14943.578329545358,14943.578329545358
+CHN,buildings,residential-onsite-fuel-usage,,1281429,Luzhou,15115.984884073228,14377.960207849947,14916.695652431077,14916.695652431077
+CHN,buildings,residential-onsite-fuel-usage,,1281214,Guigang,15067.757091249983,14727.762318077223,14910.856049844078,14910.856049844077
+CHN,buildings,residential-onsite-fuel-usage,,1281228,Qiandongnan Miao and Dong,14826.372090090714,14270.117493902313,14904.57377145286,14904.573771452862
+IND,buildings,residential-onsite-fuel-usage,,1305575,Aurangabad,14403.017348627649,14701.457597591358,14871.733575831773,14871.733575831775
+CHN,fossil-fuel-operations,coal-mining,Underground,3163275,Yangquan No. 2 Coal Mine,18645.8056204107,14958.431072564876,14859.858215414526,14859.858215414526
+BTN,buildings,residential-onsite-fuel-usage,,1278478,Chang,14447.844394857033,14498.226263201974,14854.058218382956,14854.058218382956
+CHN,buildings,residential-onsite-fuel-usage,,1281300,Loudi,14903.412229820873,14455.913985245681,14850.377200080671,14850.377200080671
+MDG,buildings,residential-onsite-fuel-usage,,1320404,Vakinankaratra,14416.831539400628,14480.55764518263,14834.20812742361,14834.20812742361
+IND,buildings,residential-onsite-fuel-usage,,1307990,Churu,14264.58149758291,14635.416291390256,14826.642474070135,14826.642474070135
+USA,fossil-fuel-operations,coal-mining,Underground,3164701,Deer Run Mine,13677.15312705949,18824.50165576279,14824.295053913198,14824.295053913196
+PAK,transportation,road-transportation,,3614332,Sukkur,,,14800.952569931555,15449.310322601654
+CAN,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588301,Canada_Jeanne d'Arc_Conventional shelf,18149.302188410344,16677.20411092022,14738.805210515977,14738.805210515977
+CHN,transportation,road-transportation,,3621312,Fuzhou,15533.905582867008,14205.494170201895,14738.07753475946,14960.931684386553
+CHN,buildings,residential-onsite-fuel-usage,,1281210,Baise,14669.073935504104,14163.680250644487,14716.547613547966,14716.547613547966
+USA,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588802,United States_Midland_Conventional onshore,17922.97977870601,,14697.306440198316,14697.306440198314
+CHN,buildings,residential-onsite-fuel-usage,,1281252,Jiamusi,15242.162915721286,14526.221610056324,14696.898886505527,14696.898886505525
+CHN,buildings,residential-onsite-fuel-usage,,1281350,Jinzhou,14882.523698126337,14396.069971336314,14682.096059549986,14682.096059549986
+CHN,transportation,road-transportation,,3620830,Shijiazhuang,15815.7615723859,14257.123326057268,14677.943325524826,14877.349349564767
+MMR,buildings,residential-onsite-fuel-usage,,1329056,Mergui,14101.194422402592,14223.507305210387,14677.64701690994,14677.64701690994
+NGA,buildings,residential-onsite-fuel-usage,,1332872,Port Harcourt,14660.994023610969,14659.375065695333,14675.666159169616,14675.666159169616
+USA,fossil-fuel-operations,coal-mining,Surface,16397,Antelope Coal Mine,18351.14006814422,18223.369775374536,14671.072349114893,14671.072349114887
+CHN,fossil-fuel-operations,coal-mining,Underground,15012,Chengzhuang Coal Mine,15989.784388150763,14761.28535826418,14662.712501113836,14662.712501113838
+PAK,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588429,Pakistan_Indus_Conventional onshore,14577.701330510557,14475.932600353297,14643.690634009856,14643.690634009856
+IND,buildings,residential-onsite-fuel-usage,,1305567,Nagaon,14170.129529538082,14461.142430046215,14638.890260900975,14638.890260900975
+CHN,transportation,road-transportation,,3620863,Zhengzhou,,,14618.971985345177,15182.824750936876
+IND,buildings,residential-onsite-fuel-usage,,1308025,Coimbatore,14121.628366374924,14372.953586403317,14579.713122507343,14579.713122507343
+CHN,buildings,residential-onsite-fuel-usage,,1281278,Enshi Tujia and Miao,14694.267881604208,14116.352236988623,14574.860275984049,14574.860275984049
+CHN,buildings,residential-onsite-fuel-usage,,1281381,Baoji,15005.062923177598,14362.569228714083,14550.309601607538,14550.309601607538
+GIB,transportation,international-shipping,,2791132,Gibraltar,15246.95044680969,15277.058472104625,14527.735023372888,14960.21977304413
+IDN,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143935,Pertamina Balikpapan Refinery,15494.989098896185,14431.527383975183,14523.586381645464,14523.586381645464
+SOM,buildings,residential-onsite-fuel-usage,,1365398,Hargeysa,14269.580378008952,14247.170181997486,14522.719927343725,14522.719927343725
+CHN,buildings,residential-onsite-fuel-usage,,1281320,Yangzhou,14892.723212255492,14397.828690809129,14519.729626917531,14519.729626917531
+UKR,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588483,Ukraine_Dnieper - Donets_Conventional onshore,14628.711109602926,14100.530954556303,14506.878540715503,14506.878540715501
+CHN,transportation,international-shipping,,2788042,"Binhai,Tianjin",,14043.242403131346,14470.820087519141,14762.504760145186
+CHN,transportation,road-transportation,,3621308,Ningbo,,,14458.983217972715,15285.312254678118
+BGD,buildings,residential-onsite-fuel-usage,,1259179,Sylhet,,14299.466681932809,14451.5846039996,14451.584603999598
+CAN,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588302,Canada_OtherBasins_OtherResources,14373.828530692184,14788.462397645773,14431.607833427832,14431.607833427832
+CHN,transportation,road-transportation,,3621384,Foshan,15228.504553090574,14058.148451590067,14405.858278306663,
+AUS,fossil-fuel-operations,coal-mining,Surface,14876,Clermont Coal Mine,,16143.02477190493,14402.25620203131,14402.256202031313
+IND,buildings,residential-onsite-fuel-usage,,1305741,Giridih,,13864.598478439482,14394.718350463252,14394.718350463256
+AUS,fossil-fuel-operations,coal-mining,Underground,14927,Tahmoor Coal Mine,14009.921227427967,,14369.06446223937,14369.064462239368
+CHN,buildings,residential-onsite-fuel-usage,,1281216,Hechi,14431.160332993373,13974.290103321902,14342.003385061817,14342.003385061822
+CHN,buildings,residential-onsite-fuel-usage,,1281254,Mudanjiang,14746.203985508755,14155.456739211317,14339.66413269983,14339.66413269983
+CHN,buildings,residential-onsite-fuel-usage,,1281411,Jinzhong,14648.712350891441,14147.509225792071,14326.080426521175,14326.080426521175
+IND,fossil-fuel-operations,coal-mining,Surface,15930,Magadh Coal Mine,,,14277.253979251627,14277.253979251629
+COD,buildings,residential-onsite-fuel-usage,,1281662,Mbuji-Mayi,14275.321674045608,14259.393259225493,14266.186197868752,14266.186197868752
+UKR,fossil-fuel-operations,coal-mining,Underground,710031,Komsomolets Donbassa Coal Mine,,14263.334430369585,14263.334430369585,14263.334430369585
+AFG,transportation,road-transportation,,3602890,Nahri Shahi,,13667.622505487792,14242.45532415842,15098.569581024749
+IND,buildings,residential-onsite-fuel-usage,,1308048,Tiruchirappalli,13647.59109766635,13912.032404061223,14232.699756453436,14232.699756453436
+CHN,buildings,residential-onsite-fuel-usage,,1281269,Puyang,14398.102402240263,13976.428717785058,14208.939710125678,14208.939710125678
+CHN,buildings,residential-onsite-fuel-usage,,1281390,Binzhou,14442.641967603218,13998.523154148425,14207.72056428996,14207.72056428996
+BRA,transportation,international-shipping,,2787865,Itaqui,15274.342343978722,13895.982474172619,14205.271426179688,14640.443756098704
+IND,buildings,residential-onsite-fuel-usage,,1308128,Mirzapur,,13810.546203350114,14195.493664573398,14195.493664573394
+IND,buildings,residential-onsite-fuel-usage,,1308077,Amethi,,,14168.658240906,14168.658240906
+CHN,manufacturing,iron-and-steel,BF/BOF,1566507,Guangxi Shenglong Metallurgical Co Ltd,,,14161.26963310185,
+CHN,buildings,residential-onsite-fuel-usage,,1281181,Lanzhou,14715.865124714292,13939.231413787656,14160.923638459566,14160.923638459566
+IND,fossil-fuel-operations,coal-mining,Surface,3163772,Sonepur Bazari Coal Mine,,13710.876596885815,14156.480086284602,14156.480086284602
+IND,buildings,residential-onsite-fuel-usage,,1305840,Sagar,,13825.373741348607,14140.019925141894,14140.019925141894
+CHN,manufacturing,petrochemical-steam-cracking,Flex Integrated,18648409,"Zhejiang Petroleum & Chemical, Zhejiang, Zhoushan",,,14131.630654781578,14131.630654781578
+CHN,manufacturing,iron-and-steel,BF/BOF,1566505,Liuzhou Iron & Steel Co Ltd(Liuzhou Base),,,14130.224328042637,14931.884560745024
+IND,buildings,residential-onsite-fuel-usage,,1305936,Cuttack,13666.718682460443,13925.023827324618,14086.550930575646,14086.550930575646
+IND,buildings,residential-onsite-fuel-usage,,1308051,Tiruvannamalai,,13778.446036608444,14084.202474957765,14084.202474957765
+IND,buildings,residential-onsite-fuel-usage,,1308006,Jhunjhunun,,13597.817526150733,14073.81514573395,14073.815145733948
+TZA,buildings,residential-onsite-fuel-usage,,1374793,Kinondoni,14058.718886969493,14020.942735103368,14073.747141045007,14073.747141045007
+QAT,transportation,international-shipping,,2800876,Ras Laffan,,14749.975705010627,14064.011702004414,14619.205072537234
+CHN,buildings,residential-onsite-fuel-usage,,1281408,Changzhi,14421.022580043877,13919.459810862558,14061.99349115649,14061.993491156489
+IND,buildings,residential-onsite-fuel-usage,,1305870,Latur,,13774.512828011799,14058.562337456377,14058.562337456377
+CHN,buildings,residential-onsite-fuel-usage,,1281471,Dali Bai,14277.308582152662,13898.315864325583,14058.403452548977,14058.403452548977
+IND,buildings,residential-onsite-fuel-usage,,1305765,Bijapur,,13646.851438103917,14055.93417120168,14055.934171201683
+IND,buildings,residential-onsite-fuel-usage,,1308134,Rampur,,13699.673031350707,14033.69960811558,14033.699608115581
+CHN,fossil-fuel-operations,coal-mining,Surface,15513,Shenhua Baorixile Surface Coal Mine,,,14027.110746377868,14027.110746377872
+IND,buildings,residential-onsite-fuel-usage,,1308125,Mathura,,13707.550052654871,13985.72019942636,13985.72019942636
+ZAF,fossil-fuel-operations,coal-mining,Underground & Surface,16336,Zibulo Coal Mine,17615.376104576866,14771.226608416051,13979.910897250904,13979.910897250906
+IND,buildings,residential-onsite-fuel-usage,,1308062,Nizamabad,,13795.295348835014,13968.71453572138,13968.714535721381
+ETH,buildings,residential-onsite-fuel-usage,,1296478,Kembata Tembaro,,,13948.473129394637,13948.473129394639
+IND,buildings,residential-onsite-fuel-usage,,1308173,Koch Bihar,,13580.815519933267,13941.974282450516,13941.974282450516
+MYS,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588686,Malaysia_Sabah - Baram Delta_Conventional shelf,,,13931.980457874171,13931.980457874175
+ZAF,fossil-fuel-operations,coal-mining,Underground & Surface,3164482,Tweefontein Coal Mine,14221.109359275633,14182.22329323774,13886.760307961955,13886.760307961953
+CHN,buildings,residential-onsite-fuel-usage,,1281443,Aksu,14481.048279748848,13588.7394888555,13848.421635750936,13848.421635750932
+BEL,transportation,international-shipping,,2787783,Antwerp,14572.627130050689,15353.756839237949,13811.161326832564,
+ETH,buildings,residential-onsite-fuel-usage,,1296490,Semien Mi'irabaw,,,13806.16418980261,13806.16418980261
+IND,buildings,residential-onsite-fuel-usage,,1305839,Rewa,,,13789.780573856455,
+AFG,transportation,road-transportation,,3602406,Injil,,,,15318.570228103508
+AFG,transportation,road-transportation,,3602617,Rodat,14032.411494028274,,,
+ARG,fossil-fuel-operations,oil-and-gas-production,Tight gas,3588558,Argentina_Neuquen_Tight gas,13583.4870632587,,,
+AUS,fossil-fuel-operations,coal-mining,Surface,14894,Hunter Valley South Coal Mine,14213.776466335436,,,
+AUS,fossil-fuel-operations,coal-mining,Underground,709743,Integra Underground Mine,15497.520135940318,,,
+AUS,fossil-fuel-operations,coal-mining,Underground & Surface,3162277,CapCoal Mine Complex,17864.42726088055,,,
+BOL,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588290,Bolivia_Santa Cruz_Conventional onshore,16273.640799519639,14586.48454681922,,
+BRA,manufacturing,iron-and-steel,BF/BOF,1566452,ArcelorMittal Pecém steel plant,,,,14356.422690863705
+CAN,buildings,residential-onsite-fuel-usage,,1278645,Division No. 6,13725.493923452712,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281150,Chaohu,13636.358279457032,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281191,Foshan,14072.959186723303,13644.958995612062,,
+CHN,buildings,residential-onsite-fuel-usage,,1281195,Jiangmen,13850.593181739927,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281199,Qingyuan,13871.662130690156,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281207,Zhaoqing,13950.546044867766,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281231,Tongren,13728.596966023897,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281286,Shiyan,13614.241888339146,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281309,Changzhou,13631.690192070659,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281382,Hanzhong,13867.489559284213,,,
+CHN,buildings,residential-onsite-fuel-usage,,1281449,Ili Kazakh,14269.512997131304,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15122,Gaohe Coal Mine,14282.23921881671,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15154,Guqiao Coal Mine,14189.897154901946,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15369,Lu'an Wangzhuang Coal Mine,14097.555090987187,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15387,Majiliang Coal Mine,22343.856741975,13755.35615633615,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15397,Meihuajing Coal Mine,13758.967523299723,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15693,Xieqiao Coal Mine,14020.603371058216,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15751,Yangchangwan Coal Mine,13758.967523299718,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15821,Yujialiang Coal Mine,14913.24332223426,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15828,Yuwu Coal Mine,16713.91356857214,14461.887076929313,,
+CHN,fossil-fuel-operations,coal-mining,Underground,15836,Zhangji Coal Mine,19361.05273412869,17981.93583758953,,
+CHN,fossil-fuel-operations,coal-mining,Underground,16525,Huangyuchuan Coal Mine,,13769.186718405821,,
+CHN,fossil-fuel-operations,coal-mining,Underground,16531,Majialiang Coal Mine,13758.96752329972,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,16862,Pangpangta Coal Mine,15390.343985793872,,,
+CHN,fossil-fuel-operations,coal-mining,Underground,711768,Xiaobaodang No.2 Coal Mine,,13769.186718405823,,
+CHN,fossil-fuel-operations,coal-mining,Underground,711770,Xiaojiawa Coal Mine,,16200.706344243397,,
+CHN,fossil-fuel-operations,coal-mining,Underground,3162534,Dongzhouyao Coal Mine,16313.764624941507,,,
+CHN,manufacturing,iron-and-steel,"BF/BOF,BOF,EAF",38089178,Ma'anshan Iron & Steel Co Ltd,16992.969833610103,16402.827492201886,,
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1567260,Inner Mongolia BaoTou Steel Union Co Ltd,14331.366096558851,18516.227936162453,,
+CHN,transportation,international-shipping,,2788220,Qingdao,,14335.657698880104,,
+CHN,transportation,international-shipping,,2788231,Shanghai,13656.820236790532,,,
+CHN,transportation,road-transportation,,3620822,Cangzhou,13913.512831799095,,,
+CHN,transportation,road-transportation,,3620959,Wuxi,13597.412701303083,,,
+GAB,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588639,Gabon_Gabon_Conventional shelf,,13698.400368836743,,
+GNQ,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588634,Equatorial Guinea_OtherBasins_OtherResources,13823.38298170346,13607.777816275462,,
+IND,manufacturing,chemicals,ammonia,33998986,IND-Kota_ammonia,20831.23331069859,20277.83548479905,,
+IRQ,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588662,Iraq_Southeast Turkey Foldbelt_Conventional onshore,20312.809455586,20380.437258170507,,
+LBY,transportation,road-transportation,,3598969,Murzuq,13574.942655285407,,,
+LKA,transportation,international-shipping,,2796172,Colombo,,,,14303.934360460036
+MLI,transportation,road-transportation,,3608186,Kati,,13850.802141794873,,
+MYS,manufacturing,petrochemical-steam-cracking,Naphtha,731962,"Lotte Chemical Titan, Sdn. Bhd. Pasir Gudang, Johor ",14430.750237569266,,,
+NGA,buildings,residential-onsite-fuel-usage,,1332236,Uyo,13741.946748578435,13726.49110438498,,
+NLD,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588700,Netherlands_Southern North Sea_Conventional onshore,23263.17160401605,18874.818115789076,,
+NLD,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588414,Netherlands_Southern North Sea_Conventional onshore,19422.48758374833,14794.699358244103,,
+PAK,transportation,road-transportation,,3614306,Quetta,,,,14554.74033090183
+PAK,transportation,road-transportation,,3614320,Dera Ghazi Khan,,,,14257.382296851461
+PAN,transportation,international-shipping,,2800502,ancon Terminal,,14300.528274197128,,
+PAN,transportation,international-shipping,,2800580,Taboguilla Island,17699.970275434804,15521.898143258393,,
+SAU,manufacturing,chemicals,methanol,33998948,SAU-Al Jubayl_methanol,19355.384565570504,19320.448972835875,,
+THA,fossil-fuel-operations,oil-and-gas-refining,Medium Conversion,3144138,Star Petroleum Map Ta Phut Refinery,,13928.920365180862,,
+THA,manufacturing,petrochemical-steam-cracking,Flex Integrated,731982,"IRPC Public Refinery and Petrochemical, Cherng Nern ",14491.13826141536,14012.343924993816,,
+TKM,buildings,residential-onsite-fuel-usage,,1371457,Boldumsaz,13864.089775553957,13563.297553323035,,
+TLS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588467,Timor-Leste_OtherBasins_OtherResources,24932.042360719715,,,
+TWN,transportation,international-shipping,,2802068,Kaohsiung,14978.334244025064,15089.183537704115,,
+USA,fossil-fuel-operations,coal-mining,Underground,16424,Gibson South Coal Mine,,13711.494040426564,,
+USA,fossil-fuel-operations,coal-mining,Underground,16450,Sufco Coal Mine,18614.717132748716,21108.65550106624,,
+USA,fossil-fuel-operations,coal-mining,Underground,16454,West Elk Coal Mine,14197.73681009636,20236.339279944998,,
+USA,fossil-fuel-operations,coal-mining,Underground,3164977,Skyline Mine #3,16706.003646546713,,,

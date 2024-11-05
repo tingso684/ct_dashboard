@@ -1,0 +1,1137 @@
+iso3_country,sector,subsector,asset_type,asset_id,asset_name,2021,2022,2023,2024
+SGP,transportation,international-shipping,,2801126,Singapore,959399.9038827594,996610.2204047618,1017213.0231290058,1084699.8120654367
+EGY,transportation,international-shipping,,2790225,Adabiya,216158.22288812976,249062.70634054265,232122.9687309638,140077.4682724048
+MTQ,manufacturing,food-beverage-tobacco,Animal and vegetable products from the food and beverage sector,31733913,SAEM LE GALION,225185.76717573247,225219.27650769672,225219.27650769672,225219.27650769672
+EGY,transportation,international-shipping,,2790256,Port Said,197833.21361517868,182780.34087027822,182215.85871337517,130532.6252733423
+KOR,transportation,international-shipping,,2796084,Busan South,171429.23698388267,184048.31190408874,167943.22894587848,163629.7373801827
+NLD,transportation,international-shipping,,2796451,Rotterdam,149203.37092395473,150581.6436812965,141846.25560313798,153628.75188758448
+KOR,manufacturing,iron-and-steel,BF/BOF,1566956,POSCO Gwangyang steel plant,123776.3506831054,117845.0221569648,125462.92770592606,112919.36238951345
+SGP,transportation,domestic-shipping,,1933977,Singapore,133572.57254390133,128669.5886958608,124114.7730172448,119955.4037450347
+HKG,transportation,international-shipping,,2791282,Hong Kong,118048.80748777949,121589.14018480982,114250.02447420741,113579.51541563711
+OMN,transportation,international-shipping,,2800464,Port Fujairah,119007.12217637629,123628.59363973301,109499.557706888,117875.85824796991
+MYS,transportation,international-shipping,,2796303,Port Klang,86403.42021057679,99883.4604163256,108777.1059863219,118226.830872537
+ISL,manufacturing,aluminum,Smelting,3673096,Fjardaal aluminium plant,124502.8034483302,109851.538551196,102309.38005128555,103855.52254376719
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588448,Russian Federation_West Siberia (Central)_Conventional onshore,105990.03631287081,103406.25609473538,97040.72907896404,97040.72907896402
+USA,transportation,international-shipping,,2802540,"Port of Long Beach,CA",109150.1545816304,117689.365211281,96569.6399415013,96483.35164235829
+ISL,manufacturing,aluminum,Smelting,3673097,Grundartangi aluminium plant,115480.86116946573,101891.28213444266,94895.6568591634,96329.76004059565
+AUS,transportation,international-shipping,,2787728,Hedland,91085.2105582107,89185.9365171375,86549.42368036859,88937.6022572691
+ARE,transportation,international-aviation,international,3166444,Dubai International Airport,39355.69911051006,66433.58162758521,85621.0552201048,89637.26740104363
+KOR,manufacturing,iron-and-steel,BF/BOF,1566957,POSCO Pohang steel plant,87414.40345082537,83349.9003853832,82573.14830768999,83114.8882080073
+GBR,transportation,international-aviation,international,3167702,London Heathrow Airport,28865.615403839718,63889.1831399535,82276.20985760278,84654.37516398409
+CHN,transportation,international-shipping,,2788042,"Binhai,Tianjin",74038.5969297928,79199.4678519867,81605.49493834961,83255.3474563645
+GIB,transportation,international-shipping,,2791132,Gibraltar,84555.2559495888,85816.57206553909,81487.8997689613,84157.4274870688
+CHN,manufacturing,iron-and-steel,BF/BOF,1566610,Angang Steel Co Ltd,89843.25256930536,79806.97047548897,80770.12466055375,75247.65659095175
+CHN,power,electricity-generation,coal,447565,Ganneng Fengcheng power station,25270.0,37410.0,80770.0,78230.0
+BRA,transportation,international-shipping,,2787865,Itaqui,85019.9133204073,78361.7603203922,80119.855350494,82561.23594222529
+QAT,transportation,international-shipping,,2800876,Ras Laffan,72975.42581118109,83225.42283564231,79352.53920622141,82484.2117223348
+BEL,transportation,international-shipping,,2787783,Antwerp,80942.4389540933,86150.9148533888,77656.77487351,76517.4954910448
+JPN,manufacturing,iron-and-steel,BF/BOF,1566917,JFE West Japan Works (Fukuyama) steel plant,61409.5264407978,78748.12163819079,77477.52503523203,78932.30156084587
+TWN,transportation,international-shipping,,2802068,Kaohsiung,82790.3166396279,84644.691091817,76784.537981975,76793.99344042581
+ISL,manufacturing,other-metals,Non-ferrous crude metal production,3673440,Norðurál Grundartangi ehf.,74891.29376698172,75514.72706098983,75514.72706098983,75514.72706098983
+CHN,transportation,international-shipping,,2788231,Shanghai,75963.526070466,74888.4052605523,73531.8137927252,75305.7192353977
+CHN,power,electricity-generation,coal,25457222,Weiqiao Zouping-1 power station,71800.0,71310.0,73370.0,73580.0
+KOR,manufacturing,iron-and-steel,"BF/BOF,EAF",32440882,Hyundai Steel Dangjin steel plant,52462.506423751875,66282.28920269037,72119.93690330969,72844.62393586258
+PAN,transportation,international-shipping,,2800580,Taboguilla Island,98107.68877253361,87204.27880236949,70887.1502270393,59948.669045196104
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440567,Baoshan Iron and Steel Co Ltd Headquarters,64724.08663034022,67662.26694879078,70561.60072983091,68438.8575573709
+CHN,transportation,international-shipping,,2788220,Qingdao,72930.5524259116,80812.5800652068,70072.97189748319,65118.5610728147
+IND,power,electricity-generation,coal,25452419,Anpara power station,58820.0,63150.0,67100.0,67270.0
+KOR,transportation,international-shipping,,2796128,Ulsan,60288.60109561631,66214.75890024121,65316.5995315627,67303.9272714956
+CHN,manufacturing,iron-and-steel,BF/BOF,1566560,Wuhan Iron and Steel Co Ltd,63093.453702793646,70395.628923553,65016.83489536223,71496.65190245878
+BRA,manufacturing,iron-and-steel,BF/BOF,1566447,ArcelorMittal Tubarão steel plant,64775.59527796619,63959.295747178505,64835.539309826076,66340.77448745478
+RUS,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588734,Russian Federation_West Siberia (Central)_Conventional onshore,64378.06205869697,65078.66005807393,64596.95732172269,64596.957321722686
+IND,power,electricity-generation,coal,25451489,Vindhyachal power station,55210.0,59300.0,62970.0,63130.0
+LKA,transportation,international-shipping,,2796172,Colombo,58249.6473275324,57203.13650669489,62857.1672143117,80600.57494560561
+PAN,transportation,international-shipping,,2800502,ancon Terminal,72085.5185594236,80574.1981313088,62642.009573580086,53723.22590263379
+ESP,transportation,international-shipping,,2790454,puerto de Algericas,52017.7293090951,60829.2571532387,62357.586741034596,71876.95396689989
+ZAF,power,electricity-generation,coal,25450906,Majuba power station,63770.0,62240.0,61550.0,60450.0
+ZAF,power,electricity-generation,coal,25450905,Lethabo power station,62400.0,61630.0,60730.0,58200.0
+SAU,transportation,international-shipping,,2801045,Jeddah Islamic Port,49889.2057453041,54643.6764895751,60675.870041692404,41494.301064287
+BRA,transportation,international-shipping,,2787888,Santos,53326.621393972804,64300.2300550293,60609.8462354368,58042.5266167317
+CHN,power,electricity-generation,coal,25450976,Taishan power station,56750.0,58110.0,60230.0,60410.0
+IND,power,electricity-generation,coal,25453047,Tamnar power station,52220.0,56070.0,59560.0,59710.0
+ISL,manufacturing,aluminum,Smelting,3673098,Straumsvik aluminium plant,72175.53823091606,63682.051334026655,59309.78553697711,60206.10002537227
+CHN,power,electricity-generation,coal,452326,<unknown plant name>,57620.0,57220.0,58880.0,59050.0
+ARE,transportation,international-shipping,,2787627,Jebel Ali,51571.4011203914,60376.429228061505,57979.98566692229,56937.66157190209
+CHN,manufacturing,iron-and-steel,BF/BOF,1566628,Rizhao Steel Holding Group Co Ltd,40610.91064165617,42807.26008434812,57804.8768717544,58827.344997611246
+CHN,transportation,domestic-shipping,,1929698,Shanghai,54857.4190301833,54543.2982611378,57531.924934633,58063.4196699968
+CHN,transportation,domestic-shipping,,1929431,"Binhai,Tianjin",57857.871895436896,56319.00823418429,57376.64995431,58975.42600757641
+ARE,transportation,international-shipping,,2787630,Khor Fakkan,44047.2301368306,54048.3582041389,57006.11776166839,54736.744993944805
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440512,Zhangjiagang Hongchang Steel Co Ltd,61344.45841819726,62471.234396367705,56617.5371868864,57795.647625051606
+JPN,manufacturing,iron-and-steel,BF/BOF,1566925,"Nippon Kyushu Works (Oita Area, Oita) steel plant",57405.59634604392,58852.72081605393,56606.969648335056,56266.68799766254
+KOR,transportation,international-aviation,international,3167058,Incheon International Airport,29168.952730028137,37708.20279278307,56460.38410033657,60050.085819700944
+CHN,manufacturing,iron-and-steel,BF/BOF,1566515,Shougang Jingtang United Iron & Steel Co Ltd,53032.408425541944,58365.60903386119,55881.242178826724,55267.86511780498
+JPN,transportation,international-shipping,,2796060,Yokohama,52606.410612276006,54488.7421492495,55880.903892304,53666.5372005812
+JPN,manufacturing,iron-and-steel,BF/BOF,1566923,Nippon East Japan Works (Kimitsu) steel plant,53049.47345101473,48922.897812636016,54962.18123005864,52747.50302221325
+BRA,manufacturing,pulp-and-paper,,31922355,BRA-Guaíba,47477.77454467469,54148.25354489809,54148.25354489809,54210.26928554012
+ZAF,power,electricity-generation,coal,25450908,Matla power station,59620.0,56410.0,53960.0,55870.0
+RUS,power,electricity-generation,coal,25452218,Reftinskaya GRES power station,46500.0,49920.0,53950.0,54110.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566499,Baosteel Zhanjiang Iron & Steel Co Ltd,48789.19308751536,49936.46425543403,53938.06857680298,41274.4609676184
+QAT,transportation,international-aviation,international,3166395,Hamad International Airport,38987.56363919337,45970.66402185466,53589.94219634533,57532.71192382478
+IDN,power,electricity-generation,coal,25453105,Tanjung Jati B power station,27540.0,55730.0,53050.0,53190.0
+CHN,power,electricity-generation,coal,25452028,Zouxian power station,53190.0,54470.0,52970.0,54780.0
+SGP,transportation,international-aviation,international,3169099,Singapore Changi Airport,17592.565748479086,36046.04218210434,52815.533053403036,56540.378372580315
+CHN,power,electricity-generation,coal,25452549,Jiaxing power station,51440.0,51100.0,52580.0,52730.0
+IND,power,electricity-generation,"coal, oil",448682,RIHAND,46060.0,49470.0,52560.0,52690.0
+IND,power,electricity-generation,coal,25453799,Talcher Kaniha Super Thermal Power Station,46060.0,49470.0,52560.0,52690.0
+CHN,power,electricity-generation,coal,25453357,Changshu-2 power station,51390.0,51030.0,52510.0,52670.0
+MYS,transportation,international-shipping,,2796315,Tajong Pelepas Container Port,49260.1216538001,55290.1487844559,52474.169841545896,57472.96077142661
+DEU,transportation,international-aviation,international,3166651,Frankfurt Airport,30868.468562591363,45215.910410018136,51924.24130366755,54136.40255505858
+KOR,transportation,international-shipping,,2796107,Jukamdo,48173.142278164894,58634.668395726716,51292.683104123906,45730.5022690687
+BRA,manufacturing,iron-and-steel,"EAF,BF/BOF",32440381,CSN Volta Redonda steel plant,47134.20250868028,45448.999456443606,51291.936936291895,47260.60822324921
+IND,power,electricity-generation,coal,25451342,Chandrapur Thermal Power Station,46900.0,48140.0,51270.0,49870.0
+FRA,transportation,international-aviation,international,3166058,Charles de Gaulle International Airport,26601.187473850285,42892.32935682108,51027.193176297464,53482.532911521535
+CHN,power,electricity-generation,coal,25451405,Togtoh power station,49670.0,49030.0,50990.0,50670.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566507,Guangxi Shenglong Metallurgical Co Ltd,24310.103670089193,39691.865921564866,50383.548679517065,43357.304190253766
+ZAF,power,electricity-generation,coal,25450907,Matimba power station,55180.0,53180.0,50350.0,50490.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566505,Liuzhou Iron & Steel Co Ltd(Liuzhou Base),38904.46884245039,40793.64530006208,50273.09441381582,53125.274225743226
+CHN,power,electricity-generation,coal,25451402,Dalate power station,49190.0,49800.0,50000.0,49740.0
+CHN,power,electricity-generation,coal,25457224,Weiqiao Zouping-7 power station,47860.0,47560.0,48930.0,49070.0
+USA,transportation,international-aviation,international,3167227,John F Kennedy International Airport,25548.959030907354,40868.314441838076,48016.0529549598,50050.32439953296
+IND,power,electricity-generation,coal,25451483,Ramagundam power station,39940.0,42890.0,47840.0,59640.0
+CHN,transportation,international-shipping,,2788046,Caofeidian,45446.742815667596,43392.697560252294,47834.1354640895,51743.20890651031
+IDN,power,electricity-generation,"coal, oil",448927,PLTU Suralaya,53120.0,50200.0,47810.0,47940.0
+RUS,fossil-fuel-operations,oil-and-gas-transport,Conventional onshore,3588450,Russian Federation_West Siberia (Sth Kara/Yamal)_Conventional onshore,70408.33060029517,58543.27339079661,47766.432325264606,47766.432325264606
+DEU,manufacturing,iron-and-steel,BF/BOF,1566771,ThyssenKrupp Steel Duisburg steel plant,44012.859689640485,39327.188628356496,47539.17603885593,50916.16773561716
+USA,transportation,international-aviation,international,3167631,Los Angeles / Tom Bradley International Airport,29020.0037732589,39970.06708618095,47400.686057093095,50658.11300128775
+ISL,manufacturing,other-metals,Non-ferrous crude metal production,3673472,Rio Tinto á Íslandi hf.,46670.52008346701,47059.02927599395,47059.02927599395,47059.02927599394
+HKG,transportation,international-aviation,international,3166941,Hong Kong International Airport,28769.02013043159,27387.211454142347,46798.74513042517,54578.81737382569
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440544,Bengang Steel Plates Co Ltd,45387.379306663206,42753.20925603863,46136.73777620537,42264.33855890697
+ESP,transportation,international-shipping,,2790411,Las Palmas,46173.093695438,52385.947415269104,46080.91228247539,60729.0845096786
+IND,power,electricity-generation,coal,25451481,Korba Super Thermal Power Station (NTPC),39940.0,42890.0,45540.0,45660.0
+ZAF,power,electricity-generation,coal,25450899,Duvha power station,41080.0,41150.0,45020.0,43440.0
+CHN,transportation,international-shipping,,2788301,Yantian,45408.735211620195,48259.4456383776,44959.6671752323,46751.3537057842
+MEX,transportation,international-shipping,,2796227,Manzanillo,43132.669938709005,44919.1944005026,44801.5458936752,43422.8496758392
+IND,power,electricity-generation,coal,25451764,Suratgarh Super Thermal Power Station,33610.0,35660.0,44740.0,43920.0
+KAZ,power,electricity-generation,coal,25450168,Ekibastuz-1 power station,47280.0,45240.0,44440.0,44580.0
+HKG,transportation,domestic-shipping,,1931125,Hong Kong,44883.7188781051,42334.100754209,44403.77274641639,44773.792957749
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1567260,Inner Mongolia BaoTou Steel Union Co Ltd,51573.31549965123,65877.79879580835,44389.67660279578,42249.45299042695
+AUS,transportation,international-shipping,,2787724,Gladstone,45772.9822747396,45366.001653996296,44013.1932197809,44226.073969975405
+BRA,manufacturing,iron-and-steel,BF/BOF,1566455,Usiminas Ipatinga steel plant,36006.2609912579,41170.07505132917,43938.119409553045,46955.11774556847
+ZAF,power,electricity-generation,coal,25450910,Tutuka power station,49660.0,48040.0,43700.0,40440.0
+THA,transportation,international-shipping,,2801636,Laem Chebang,37942.4710210775,43022.966955673706,43388.189163921306,43388.477335330805
+ZAF,power,electricity-generation,coal,25450904,Kriel power station,48800.0,46610.0,42970.0,43040.0
+CHN,power,electricity-generation,coal,25450591,Jianbi power station,41340.0,41050.0,42240.0,42360.0
+TUR,transportation,international-aviation,international,3167153,İstanbul Airport,21545.46533480383,35660.13844930901,41848.66509931734,44316.76422186329
+ZAF,transportation,international-shipping,,2805019,Durban,43766.971479530206,46209.0654434251,41439.9959395342,42581.3644307793
+NLD,transportation,international-aviation,international,3165570,Amsterdam Airport Schiphol,29335.505593511236,37448.380134464234,41290.69930831372,43247.421016597946
+BRA,manufacturing,pulp-and-paper,,31922368,BRA-Três Lagoas,36201.80309031445,41288.04332798479,41288.04332798479,41335.33033022434
+JPN,manufacturing,iron-and-steel,BF/BOF,1566916,JFE West Japan Works (Kurashiki) steel plant,49891.284661894846,46782.0096921256,41258.52465481292,47643.347532652195
+MUS,transportation,international-shipping,,2796273,Port Louis,32322.136872248804,35240.3217155041,41237.053984824095,57765.341807711404
+CHN,manufacturing,iron-and-steel,"BF/BOF,BOF,EAF",38089178,Ma'anshan Iron & Steel Co Ltd,61151.448410438774,58358.65560410592,41105.23631558799,47378.43155850598
+MLT,transportation,international-shipping,,2796245,Malta Freeport,39928.942247993094,47780.887698437495,41074.5551488777,41833.64575249179
+IND,power,electricity-generation,coal,25451479,Kahalgaon Super Thermal Power Plant,35910.0,38570.0,40990.0,41090.0
+AUS,transportation,international-shipping,,2787744,Newcastle,41846.7303356723,38540.524249754,40858.775460651595,40528.8488336174
+BRA,transportation,international-shipping,,2787836,Alemoa Terminal,29895.0118102685,37651.6320741992,40531.091392906405,41698.30996957161
+IND,power,electricity-generation,coal,25452938,Barh I power station,26600.0,28580.0,40440.0,40550.0
+CHN,transportation,domestic-shipping,,1929437,Caofeidian,38732.5870137473,40548.514459085905,40288.995904972995,37409.9685010191
+CHN,transportation,domestic-shipping,,1929678,Qingdao,36579.4306960663,41008.471381141804,39853.2306504738,39177.0103176359
+CHN,transportation,international-aviation,international,3168750,Shanghai Pudong International Airport,20625.648908562205,23029.28701119473,39530.578646026835,47863.78605018323
+CHN,manufacturing,iron-and-steel,BF/BOF,1566584,Nanjing Iron & Steel Co Ltd,40098.32632062244,37518.55451242654,39499.39644354883,41889.24792162377
+CHN,transportation,international-shipping,,2788294,"Yangshan Deep Water,Shanghai",44765.77244400341,45264.3118842816,39486.95273157,42012.19462381909
+CHN,transportation,international-shipping,,2788185,Mawan Hong Kong,33361.29888682249,38762.19376022559,39321.337858186096,40245.77390184619
+IND,power,electricity-generation,coal,25453681,Jharsuguda Sterlite power station,35920.0,36790.0,39290.0,39360.0
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440450,Hebei Yanshan Iron and Steel Group Co Ltd,37313.604176745306,38375.569023274555,39215.20053838965,35523.701002002636
+BRA,manufacturing,iron-and-steel,BF/BOF,1566450,Ternium Brasil Santa Cruz steel plant,40600.76580571725,41451.374614632885,39161.27106400237,45037.32294893365
+CHN,power,electricity-generation,coal,25455941,Weiqiao Huji power station,41970.0,39800.0,39100.0,37700.0
+SRB,power,electricity-generation,coal,25450762,Nikola Tesla power station,39330.0,38860.0,38720.0,38840.0
+POL,power,electricity-generation,coal,25450764,Belchatow power station,45480.0,46820.0,38670.0,38930.0
+AUS,transportation,international-shipping,,2787776,Withnell Bay,39546.948104115996,40040.2156466476,38510.1331011838,38380.25917494279
+DEU,power,electricity-generation,coal,25452445,Janschwalde power station,40670.0,43370.0,38460.0,33130.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566485,Chongqing Iron & Steel Co Ltd,34699.678782929404,37376.32307963873,37851.03505549905,37591.15701057447
+JPN,manufacturing,iron-and-steel,BF/BOF,1566927,Nippon East Japan Works (Kashima) steel plant,38065.941869748545,40149.975737444314,37820.268607104204,39650.01633291529
+IND,power,electricity-generation,coal,25453565,Shree Singaji Thermal Power Project,29970.0,35880.0,37810.0,38040.0
+IND,power,electricity-generation,coal,25452937,Sipat power station,33120.0,35550.0,37780.0,37880.0
+IND,power,electricity-generation,coal,25453947,Mauda power station,33100.0,35540.0,37750.0,37850.0
+KOR,transportation,domestic-shipping,,1932362,Busan South,38601.697868233205,45311.985612445606,37662.4954588782,36504.441083223
+CHN,manufacturing,iron-and-steel,BF/BOF,1566527,Hebei Donghai Special Steel Co Ltd,35326.20278497682,32973.08920195824,37534.01352234543,37271.999208916604
+MAR,power,electricity-generation,coal,25450475,Jorf Lasfar power station,38790.0,39780.0,37520.0,37620.0
+BRA,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143749,Petrobras REPLAN Paulinia Refinery,30204.140495533302,35376.706803197776,37483.91042194071,37483.91042194071
+ZAF,transportation,international-shipping,,2805017,Cape Town,60993.57060794599,44017.0988876513,37306.382588735694,51578.852555139594
+CHN,power,electricity-generation,coal,25452546,Beilun power station,36100.0,37790.0,37090.0,35860.0
+CHN,power,electricity-generation,coal,25457168,Nanyang Neixiang power station,36270.0,36020.0,37060.0,37160.0
+CHN,power,electricity-generation,coal,25457203,Leilongwan power station,36270.0,36020.0,37060.0,37160.0
+CHN,power,electricity-generation,coal,1752995,Inner Mongolia Changcheng power station,40680.0,40680.0,37060.0,37160.0
+CHN,power,electricity-generation,coal,25457182,Inner Mongolia Shenglu power station,36270.0,36020.0,37060.0,37160.0
+CHN,transportation,domestic-shipping,,1929470,Dalian,36497.2396053704,39418.9406267384,37021.3796781251,37495.9066877812
+CHN,power,electricity-generation,coal,25451054,Luohuang power station,38620.0,36580.0,36970.0,35500.0
+IND,power,electricity-generation,coal,25450558,Mejia power station,35330.0,36010.0,36900.0,36720.0
+IND,power,electricity-generation,"coal, gas, other_fossil",451683,<unknown plant name>,32280.0,34650.0,36830.0,36920.0
+CHN,transportation,domestic-shipping,,1929642,Nanhui,24480.975665131296,32627.460356423104,36770.9011198351,36186.65425646169
+CHN,power,electricity-generation,coal,25453196,Ningxia Lingwu power station,35520.0,35280.0,36300.0,36410.0
+CHN,power,electricity-generation,coal,25451551,Zhangjiakou power station,36670.0,35890.0,36260.0,36230.0
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440568,Shanxi Taigang Stainless Steel Co Ltd,29832.082130783412,33604.94456636651,36253.52770309958,36961.741603378745
+PAN,transportation,international-shipping,,2800512,Canal Pilot station,51178.6403555476,46882.6776420531,36236.09299908,30601.762475592597
+VNM,power,electricity-generation,coal,25453850,Vinh Tan power station,38340.0,29780.0,36140.0,36230.0
+TWN,manufacturing,iron-and-steel,BF/BOF,1567087,China Steel Corporation Xiaogang plant,31739.089359392525,32465.220152620914,36093.06935627561,36073.05682675134
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440535,Xinyu Iron and Steel Group Co Ltd,42650.25449668791,38500.53956320204,36083.41802787721,39835.69911926397
+CHN,power,electricity-generation,coal,25452703,Pingliang power station,36290.0,36960.0,36060.0,35240.0
+CHN,power,electricity-generation,coal,25455924,Shandong Xinfa Xinyuan power station,38860.0,36720.0,35900.0,36150.0
+AUS,power,electricity-generation,coal,25451328,Loy Yang A power station,36210.0,33920.0,35690.0,36820.0
+TKM,agriculture,synthetic-fertilizer-application,,25327824,Tejen,,33001.30597113685,35683.60049661215,35683.60049661215
+CHN,power,electricity-generation,coal,25453720,Jinjie power station,35790.0,35610.0,35470.0,35480.0
+IND,power,electricity-generation,coal,25453594,Chhabra Thermal Power Station,28730.0,33940.0,35450.0,35370.0
+CHN,power,electricity-generation,coal,25451058,Yimin power station,34880.0,35260.0,35360.0,35490.0
+IND,power,electricity-generation,coal,25451486,Singrauli Super Thermal Power Station,30720.0,32980.0,35040.0,35130.0
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440428,SGIS Songshan Co Ltd,31716.745661336507,29662.687709780326,34916.13374273965,32932.9126813691
+CHN,manufacturing,chemicals,soda_ash,32267423,China,34608.1029442311,33984.80624080549,34793.91317412712,34793.91317412712
+USA,transportation,international-shipping,,2802518,"Pasedena,Texas",36093.4959970962,33794.6806270343,34651.3111152872,41453.22636132251
+ZAF,power,electricity-generation,coal,25450902,Kendal power station,37990.0,36610.0,34650.0,34750.0
+CHN,power,electricity-generation,coal,25452033,Waigaoqiao power station,32710.0,33240.0,34530.0,34950.0
+CHN,power,electricity-generation,coal,25453939,Guizhou Fa'er power station,33080.0,32760.0,34390.0,34010.0
+RUS,power,electricity-generation,coal,25452661,Berezovskaya power station,29630.0,31790.0,34370.0,34470.0
+IND,power,electricity-generation,coal,25450213,Dr. Narla Tata Rao Thermal power station,21130.0,22030.0,34340.0,37680.0
+CHN,power,electricity-generation,coal,25453267,Hebei Cangdong power station,33890.0,33140.0,33980.0,34240.0
+CHN,transportation,international-shipping,,2788167,Lanshan,33369.5498303429,30819.337127018294,33976.8940905476,34838.051233412196
+IND,power,electricity-generation,coal,25454050,Tiroda Thermal Power Project,29600.0,31770.0,33750.0,33840.0
+USA,power,electricity-generation,coal,25449106,Sherburne County,36740.0,37160.0,33690.0,26090.0
+CHN,power,electricity-generation,coal,25455102,XPCC Shihezi Cogen power station,32920.0,32720.0,33680.0,33780.0
+NLD,transportation,domestic-shipping,,1932759,Rotterdam,33318.6714961173,36668.7976032597,33651.971428208395,34305.853836712406
+BRA,manufacturing,iron-and-steel,BF/BOF,1566446,Gerdau Açominas Ouro Branco steel plant,33634.4309479336,38065.38391431278,33466.79373906522,31203.567947683474
+CHN,power,electricity-generation,coal,25452781,Guang'an power station,31300.0,31040.0,33430.0,32280.0
+IND,power,electricity-generation,coal,25453691,Sasan Ultra Mega Power Project,29240.0,31450.0,33360.0,33450.0
+CHN,power,electricity-generation,coal,25451056,Shang'an power station,31120.0,30600.0,33150.0,33160.0
+IND,power,electricity-generation,coal,25451344,Koradi Thermal Power Station,31230.0,32440.0,33140.0,32610.0
+USA,transportation,international-shipping,,2802556,"Sabine Pass, LA",29102.473220891996,30751.9985546592,33019.411123178405,39741.98086787831
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1566528,Jingye Iron and Steel Co Ltd,46502.96835985091,43055.81457389824,32958.05418514382,29509.408061712125
+CHN,power,electricity-generation,coal,452482,<unknown plant name>,32170.0,31950.0,32910.0,33000.0
+IDN,power,electricity-generation,coal,25451725,PLN Paiton power station,36530.0,34520.0,32890.0,32980.0
+CHN,power,electricity-generation,coal,25453295,Shangdu power station,31950.0,32760.0,32860.0,32520.0
+CHN,manufacturing,chemicals,methanol,33998936,CHN-Yulin_methanol,33230.38147673814,32849.97809007871,32849.97809007871,32849.97809007871
+CHN,power,electricity-generation,coal,25451547,Xibaipo power station,32080.0,31310.0,32450.0,32720.0
+CHN,transportation,international-shipping,,2788096,Dongjiakou,30250.500461651405,29812.882085431207,32395.2262594389,30468.806743832
+THA,transportation,international-aviation,international,3165823,Suvarnabhumi Airport,,20095.06452121331,32375.65439087792,35687.19741543725
+KOR,transportation,international-shipping,,2796102,Incheon,37408.819299659604,37797.492058254196,32296.4837052978,31594.5238646749
+CHN,transportation,domestic-shipping,,1929739,Tongling,29262.0599154303,20960.623644231797,32187.785255629697,19423.499089209497
+USA,transportation,international-shipping,,2802505,"Newark,NJ",30642.632731873804,29374.8189400226,32153.285249069002,36828.3798630244
+IND,power,electricity-generation,coal,25452247,North Chennai Thermal Power Station,28110.0,30180.0,32050.0,32130.0
+CHN,power,electricity-generation,coal,25451577,Pucheng power station,33620.0,33470.0,31990.0,31300.0
+CHN,power,electricity-generation,coal,25450373,Huadian Xiangyang power station,33340.0,33500.0,31880.0,31380.0
+KAZ,power,electricity-generation,coal,25451202,Aksu power station,33890.0,32450.0,31870.0,31970.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566683,Hebei Zongheng Group Fengnan Iron & Steel Co Ltd,30391.843986003634,31689.576642019038,31853.612937829876,32309.744449204627
+CHN,power,electricity-generation,coal,25451153,Guoxin Yangzhou power station,27130.0,31050.0,31810.0,32800.0
+CHN,power,electricity-generation,coal,452533,<unknown plant name>,31050.0,31400.0,31670.0,31360.0
+CHN,power,electricity-generation,coal,25451063,Hubei Ezhou power station,32520.0,30260.0,31670.0,31030.0
+LAO,power,electricity-generation,coal,25452312,Hongsa power station,31320.0,32210.0,31610.0,31110.0
+IND,power,electricity-generation,coal,25453958,KSK Mahanadi Power Project,27640.0,29680.0,31530.0,31610.0
+CHN,power,electricity-generation,coal,25453930,Fuzhou Kemen power station,31380.0,30590.0,31510.0,31700.0
+FRA,transportation,international-shipping,,2790868,Le Havre,30803.039779387902,32445.5202085858,31500.5644974125,34669.107535809
+ZAF,power,electricity-generation,coal,25450897,Arnot power station,34040.0,31920.0,31370.0,31130.0
+JPN,transportation,international-aviation,international,3168316,Narita International Airport,19572.496514949173,24239.020970825994,31352.409483946918,34145.509862912906
+BRA,transportation,international-shipping,,2787871,Paranagua,25812.6749820599,28510.240173999293,31299.412989390104,30850.406120948806
+IND,power,electricity-generation,coal,25453453,Mundra Thermal Power Project (Adani),27420.0,29450.0,31270.0,31350.0
+DNK,transportation,international-shipping,,2788559,Skagen,20850.2499393413,27900.5470602734,31120.1086499612,28791.450255111395
+CHN,power,electricity-generation,coal,25453996,Anhui Bengbu power station,29990.0,29830.0,31080.0,30860.0
+CHN,power,electricity-generation,coal,25453413,Shenhua Shentou power station,30230.0,30110.0,31010.0,30730.0
+CHN,power,electricity-generation,coal,25453364,Lanxi power station,30700.0,30680.0,30770.0,31220.0
+IND,power,electricity-generation,coal,25453709,Sri Damodaram Sanjeevaiah Thermal Power Station,16260.0,18340.0,30670.0,31520.0
+CHN,power,electricity-generation,coal,25453796,Liyujiang power station,29970.0,29790.0,30650.0,30740.0
+CHN,power,electricity-generation,coal,25457205,Shaanxi Youser Yulin power station,29930.0,29710.0,30580.0,30670.0
+TWN,transportation,international-aviation,international,3169506,Taiwan Taoyuan International Airport,,16413.322785513727,30563.45388084829,33977.89800159495
+CHN,manufacturing,iron-and-steel,BF/BOF,1566684,Shandong IRON&STEEL Group Rizhao Co Ltd,33797.68338332908,30653.707339386045,30397.255210408777,33966.71726691121
+IND,power,electricity-generation,coal,715475,Neyveli Thermal Power Station I,29370.0,30490.0,30390.0,30460.0
+IND,power,electricity-generation,coal,25454391,Lalitpur power project,26600.0,28580.0,30340.0,30420.0
+CHN,power,electricity-generation,coal,450661,Wujing power station,29090.0,29580.0,30340.0,30310.0
+CHN,manufacturing,aluminum,Smelting,3672990,"Zouping, Shandong aluminium plant",28456.73910130828,29424.471314313374,30324.017357956498,30697.158171293737
+PER,transportation,international-shipping,,2800589,Callao,31221.789384745694,31979.9983557339,30162.636827573704,33278.267878776496
+COL,transportation,international-shipping,,2788360,Cartagena,27490.518659995003,28503.764292216994,30090.361191093198,31318.8925454722
+CHN,power,electricity-generation,coal,25451532,Daihai power station,29420.0,29210.0,30070.0,30150.0
+MYS,power,electricity-generation,"coal, gas, oil",449497,<unknown plant name>,29260.0,28730.0,29990.0,30070.0
+IND,power,electricity-generation,coal,25452724,Simhadri power station,28320.0,30570.0,29630.0,30500.0
+CAN,transportation,international-shipping,,2787986,Vancouver,28176.915310843502,31583.817003529803,29616.7885142173,29742.6014365694
+EGY,transportation,international-shipping,,2790265,Ras Sudr Terminal,15037.175883471,19275.3223685878,29488.838978285996,19490.8227978102
+IND,power,electricity-generation,coal,25450988,Wanakbori Thermal Power Station,27090.0,27860.0,29480.0,30360.0
+CHN,power,electricity-generation,coal,450586,Guodian Shizuishan-2 power station,29190.0,29810.0,29400.0,29560.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566573,Hunan Valin Lianyuan Iron and Steel Co Ltd,35291.39965260963,30971.925411736138,29368.221170633173,26340.101175751934
+CHN,manufacturing,iron-and-steel,BF/BOF,1566601,Shanghai Meishan Iron and Steel Co Ltd,27876.02514195991,30411.1671679964,29355.221696854303,29820.628359897
+ESP,transportation,international-aviation,international,3167870,Adolfo Suárez Madrid–Barajas Airport,13437.53363956548,24745.537422741327,29264.378626834237,31360.194772638515
+JPN,manufacturing,iron-and-steel,BF/BOF,1566924,Nippon East Japan Works (Nagoya) steel plant,31590.643416594623,28874.019593425714,29187.18896551337,27066.138784004615
+MAR,transportation,international-shipping,,2796198,Tangier Container W,23184.972091785105,29451.069905003696,29140.753219202998,34836.79727965799
+ARE,transportation,domestic-shipping,,1928781,Khor Fakkan,16954.4636965204,34312.2620434233,29110.7886659854,24217.194360494097
+RUS,power,electricity-generation,coal,25451931,Novocherkasskaya GRES power station,25040.0,26900.0,29050.0,29140.0
+AUS,transportation,international-shipping,,2787755,Port Walcott Bulk Terminal,30387.3328624694,29648.901044712,28984.8838829811,27437.3896501495
+ZAF,power,electricity-generation,coal,25453872,Medupi power station,31750.0,30580.0,28960.0,29040.0
+CHN,power,electricity-generation,coal,25453943,Lusigang power station,28610.0,28990.0,28920.0,28160.0
+IND,power,electricity-generation,coal,25451477,Farakka power station,25340.0,27190.0,28910.0,28980.0
+CHN,power,electricity-generation,"coal, gas",447793,Shidongkou power station,37470.0,36940.0,28900.0,28980.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566514,Chengde Iron and Steel Group Co Ltd,29262.559029488315,31292.49179518313,28852.989891724268,30437.032569387804
+CHN,power,electricity-generation,"coal, oil, other_fossil",449701,Huaneng Yangluo power station,29940.0,29330.0,28840.0,28780.0
+VNM,power,electricity-generation,coal,25454003,Duyen Hai Power Generation Complex,30460.0,23670.0,28700.0,28770.0
+EGY,transportation,international-shipping,,2790241,El Ismailiya,13167.0784193703,20719.7133232989,28571.397010251705,15302.6074356513
+BEL,transportation,international-shipping,,2787796,Zebrugge,24485.1699161412,32258.3244524153,28508.049131235402,34182.6479418656
+THA,power,electricity-generation,"gas, coal, other_fossil",447850,Bang Pakong,27090.0,31310.0,28500.0,28570.0
+VNM,power,electricity-generation,coal,25454238,Thai Binh Power Center,,,28460.0,28530.0
+JPN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440858,"Nippon Kansai Works (Wakayama Area, Wakayama) steel plant",24677.40944410543,27977.011830695526,28447.70901444584,29389.575104036277
+SAU,transportation,international-shipping,,2801048,Ju Aymah Oil Terminal,29113.713934761403,32861.2334517522,28409.338080807003,27186.146706638698
+CHN,power,electricity-generation,coal,25452029,Huaneng Dezhou power station,29740.0,29120.0,28390.0,28410.0
+USA,power,electricity-generation,coal,25449255,Labadie,34070.0,32690.0,28340.0,28430.0
+CHN,power,electricity-generation,coal,25451572,Guodian Baoji-2 power station,29470.0,28130.0,28290.0,28460.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566516,Shougang Qian'an Iron and Steel Co Ltd,30962.224790987657,31612.53589830646,28286.0784015375,29853.676008276536
+USA,transportation,international-aviation,international,3169063,San Francisco International Airport,,20616.658142014654,28160.674623251347,30890.30483710997
+IRQ,transportation,international-shipping,,2795621,Al-Basra Oil Terminal,21394.354963157995,26040.790636249498,28055.051262602003,29278.8389170479
+IND,transportation,international-shipping,,2791583,Mundra,26789.4353758453,29510.868895468,27896.609935097098,35559.1042227739
+CHN,manufacturing,iron-and-steel,BF/BOF,1566756,Hebei Anfeng Iron & Steel Co Ltd,30134.543908102867,28634.765346324657,27681.361917048,28759.140945995725
+CHN,manufacturing,iron-and-steel,BF/BOF,1566572,Hunan Valin Xiangtan Iron and Steel Co Ltd,26882.489094787834,29358.10367157555,27672.608917208472,26055.104250513177
+CHN,power,electricity-generation,coal,25451061,Tieling power station,28550.0,27690.0,27620.0,27570.0
+IND,power,electricity-generation,coal,25451620,Ib Valley Thermal Power Station,24190.0,25980.0,27590.0,27660.0
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440516,Lianfeng Steel (Zhangjiagang) Co Ltd,29890.788824451683,30934.107905644265,27558.443048538178,24987.326114982563
+CHN,manufacturing,iron-and-steel,BF/BOF,1566687,Hbis Laoting Steel Co Ltd,30597.422288257123,28667.2266962068,27542.49586437284,27164.549772267175
+CHN,power,electricity-generation,coal,25454006,Zhuhai GZP power station,27070.0,27780.0,27540.0,28240.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566518,Tangshan Ruifeng Iron and Steel (Group) Co Ltd,22313.95564904823,25559.164684306237,27535.857912827145,27056.942308295504
+CHN,power,electricity-generation,coal,25451406,Chifeng Yuanbaoshan power station,27460.0,26630.0,27480.0,27020.0
+CHN,power,electricity-generation,coal,25450366,Jinzhushan power station,28150.0,24910.0,27450.0,25470.0
+PAK,agriculture,synthetic-fertilizer-application,,10627066,Multan,21973.381037282797,27339.65527792572,27431.699371038343,27431.699371038343
+CHN,power,electricity-generation,coal,25455926,Changzhi power station,19458.0,26670.0,27430.0,27510.0
+CHN,power,electricity-generation,coal,25451549,Yangliuqing power station,27670.0,26150.0,27410.0,27170.0
+CHN,transportation,international-shipping,,2788226,Rizhao,27927.963689669497,28201.7756277633,27319.343004751103,26578.1347013248
+CHN,power,electricity-generation,coal,25452688,Xishan Gujiao power station,26680.0,26490.0,27270.0,27350.0
+IND,power,electricity-generation,coal,25451488,Feroze Gandhi Unchahar Power Station,23810.0,25560.0,27150.0,27220.0
+IDN,transportation,domestic-shipping,,1931307,Jakarta,27335.905463912502,28754.779040941397,27035.895041233205,26365.5397263388
+NOR,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588710,Norway_Northern North Sea_Conventional shelf,28169.474968359173,28058.352043630253,26874.86661643681,26874.866616436808
+BRA,manufacturing,iron-and-steel,BF/BOF,1566452,ArcelorMittal Pecém steel plant,24744.815231000168,21633.984788460897,26738.409355772994,30164.007591915284
+PAK,buildings,residential-onsite-fuel-usage,,1338031,Lahore,26902.48300834415,26180.736260708105,26704.614572971466,26704.614572971474
+USA,power,electricity-generation,coal,25449242,Martin Lake,28600.0,28240.0,26700.0,26430.0
+CHN,power,electricity-generation,coal,25452514,Yangcheng power station,26100.0,26210.0,26670.0,25790.0
+GRC,transportation,domestic-shipping,,1931046,Pireus,23993.2296307447,24568.0785426278,26616.8137443294,25502.658921207098
+IND,power,electricity-generation,coal,25452423,Tanda power station,21950.0,24170.0,26590.0,26630.0
+CHN,power,electricity-generation,coal,25453211,Hancheng power station,26880.0,26130.0,26520.0,26580.0
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32441253,Shandong Iron and Steel Co Ltd Laiwu Branch Xinxing Road,24258.68604994865,26478.08986713618,26478.08986713618,26478.08986713618
+VNM,transportation,international-shipping,,2802645,Ho Chi Minh,21432.2434772408,25111.723911013803,26467.6503449488,25962.721111589202
+OMN,transportation,international-shipping,,2800470,Salalah,26930.3286307621,28417.611504449796,26417.6932968283,29289.8334444115
+CHN,power,electricity-generation,coal,25451404,Tongliao power station,27030.0,26300.0,26360.0,27340.0
+PAN,transportation,international-shipping,,2800551,Melones Oil Terminal,,18401.9824607629,26310.346368391296,21409.432641494695
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",1566585,Jiangyin Xingcheng Special Steel Works Co Ltd,23584.173492397287,22501.217878169016,26251.256785266243,23641.069311361785
+IND,manufacturing,iron-and-steel,"EAF,BF/BOF",32440777,JSW Steel Vijayanagar steel plant,23206.268249669018,19191.77072344244,26250.868360393702,26194.818046189095
+IND,power,electricity-generation,coal,25453948,Vallur Thermal Power Plant,23040.0,24740.0,26250.0,26320.0
+CHN,power,electricity-generation,coal,25453931,Shanxi Zhaoguang power station,25660.0,25460.0,26210.0,26290.0
+CHN,power,electricity-generation,coal,25450374,Nanyang Yahekou power station,26360.0,25770.0,26200.0,27470.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566526,Tangshan Ganglu Iron and Steel Co Ltd,27591.030366945255,28494.895246775373,26151.167155161245,24061.92708725494
+TWN,transportation,domestic-shipping,,1934351,Kaohsiung,25107.982867402505,26270.014716607602,26139.8398771508,23981.9925151915
+MYS,power,electricity-generation,coal,25450247,Jimah power station,25470.0,24970.0,26090.0,26160.0
+CHN,power,electricity-generation,coal,25450361,Hanchuan power station,25420.0,25820.0,26080.0,24610.0
+CHN,power,electricity-generation,coal,25451015,Qinbei power station,25900.0,26160.0,26050.0,26640.0
+USA,transportation,international-shipping,,2802387,Galveston,22844.3719052844,27214.190828277602,26046.8783347904,31560.2906828549
+CHN,transportation,international-shipping,,2788199,Nansha Port,23404.2627552468,25247.574926164998,26039.5345793994,30012.299535108607
+ESP,transportation,international-shipping,,2790310,Barcelona,22293.246575426794,25837.060584525098,26026.7927167967,27463.138102619705
+CHN,power,electricity-generation,coal,25452024,Huadian Weifang power station,25590.0,25620.0,25970.0,26170.0
+CHN,power,electricity-generation,coal,25457157,Jiayuguan Aluminum power station,25400.0,25220.0,25950.0,26030.0
+CHN,power,electricity-generation,coal,25457218,Liyuan cogen power station,25400.0,25220.0,25950.0,26030.0
+CHN,power,electricity-generation,coal,25457204,Meixin captive power station,12687.0,25220.0,25950.0,26030.0
+UKR,power,electricity-generation,coal,714528,Starobeshivska,37650.0,25940.0,25940.0,26020.0
+CHN,power,electricity-generation,coal,25455961,Tongmei Tashan power station,25340.0,25170.0,25910.0,25980.0
+AUS,power,electricity-generation,"coal, oil",447843,Eraring,25770.0,24940.0,25900.0,25980.0
+CHN,power,electricity-generation,coal,25455939,Beihai New Area Heating power station,25580.0,26230.0,25870.0,25120.0
+CHN,power,electricity-generation,coal,25454058,Nanpu Quanzhou power station,26340.0,25570.0,25860.0,25750.0
+CHN,transportation,international-shipping,,2788274,Xiamen,26398.265986135797,24284.4358193481,25858.077245552297,26434.2415757615
+MAR,transportation,international-shipping,,2796197,Tangier Container E,20172.791358337097,26812.2704610539,25787.3331633911,31109.643677041597
+GRC,transportation,international-shipping,,2791227,Pireus,23669.387328806995,28771.064544880097,25764.463370578997,26097.633320778397
+CHN,transportation,international-shipping,,2788073,Dalian,25328.978804731898,23910.2179071345,25757.6003223204,25542.299304045904
+CHN,manufacturing,iron-and-steel,BF/BOF,1566611,Angang Steel Co Ltd Bayuquan branch,26628.44329825537,28662.768713018584,25714.51380742441,26630.028455441934
+JPN,transportation,international-aviation,international,3166963,Tokyo Haneda International Airport,,,25687.284730820003,29101.192648150627
+CHN,power,electricity-generation,coal,25453561,Datang Sanmenxia power station,23450.0,25730.0,25610.0,26960.0
+IND,power,electricity-generation,"coal, gas, other_fossil",448679,DADRI (NCTPP),18880.0,23780.0,25590.0,25210.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566539,Hebei Xinda Iron and Steel Group Co Ltd,30976.434344991805,29994.961477564142,25529.77432121968,17323.766124985923
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional shelf,3588658,Iran_Rub al Khali_Conventional shelf,25528.90402716052,25003.514380374945,25476.705782334855,25476.705782334848
+CHN,manufacturing,iron-and-steel,BF/BOF,1567303,Handan Iron and Steel Group Co Ltd,23251.650600389512,24580.71710220425,25370.496045974156,25370.496045974156
+AUS,transportation,international-aviation,international,3169293,Sydney Kingsford Smith International Airport,,16189.625001821092,25316.834233667298,27999.904505329883
+CHN,power,electricity-generation,coal,25454067,Suqian power station,24450.0,24750.0,25310.0,24860.0
+ZAF,transportation,international-shipping,,2805040,Richards Bay,26581.7131056426,28217.874414217404,25307.188893409402,25451.710890482005
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440593,Baosteel Group Xinjiang Bayi Iron & Steel Co Ltd,27960.117056667426,27448.95017499398,25286.52376493592,25575.568292980588
+MYS,transportation,international-shipping,,2796300,Pengerang Terminal,17728.1020566218,21653.349704540902,25132.702401364004,23415.9703605635
+CHN,manufacturing,iron-and-steel,BF/BOF,1566523,Wu'an Yuhua Iron and Steel Co Ltd,28230.90813143892,25866.160673034876,25117.129421865437,24621.987775661168
+JPN,manufacturing,iron-and-steel,BF/BOF,1566921,Kobe Kakogawa Works steel plant,29395.474814887468,30428.540401965747,25027.663259577697,30720.87532069484
+JPN,manufacturing,iron-and-steel,BF/BOF,1566915,JFE East Japan Works (Chiba) steel plant,25573.650386087673,25216.137277114598,25024.6722920045,24092.21429277271
+CHN,power,electricity-generation,coal,25452013,Shiheng-2 power station,26590.0,25760.0,25010.0,25460.0
+IND,power,electricity-generation,coal,25450212,Rayalaseema Thermal Power Project,19810.0,22920.0,24990.0,25310.0
+CHN,power,electricity-generation,coal,25451540,Panshan power station,26270.0,25730.0,24890.0,24690.0
+IDN,power,electricity-generation,coal,25455958,Sulawesi Mining power station,27580.0,26080.0,24830.0,24900.0
+IND,manufacturing,iron-and-steel,BF/BOF,1566853,Tata Steel Jamshedpur steel plant,26311.205875523803,22021.158474072257,24813.40622265159,24547.51215987943
+CHN,power,electricity-generation,coal,25452780,Zhanjiang power station,24240.0,24060.0,24800.0,24870.0
+OMN,transportation,domestic-shipping,,1933402,Port Fujairah,29733.969369077,31612.7520714587,24786.4167363869,25151.547806223403
+CHN,power,electricity-generation,"coal, other_fossil",451058,<unknown plant name>,24500.0,25150.0,24750.0,24990.0
+KOR,transportation,international-shipping,,2796118,Pyeongtaek,27905.881323926606,27377.627431146102,24739.826966991895,24336.683202350698
+CHN,manufacturing,iron-and-steel,BF/BOF,1566702,Zenith Steel Group (Nantong) Co Ltd,13696.764134150597,18083.948775891982,24646.48497126202,25200.156791444606
+CHN,power,electricity-generation,coal,25453201,Shenhua Hequ power station,23050.0,23710.0,24590.0,23760.0
+IND,power,electricity-generation,coal,25454369,Lara Integrated Thermal Power Project,21500.0,23090.0,24530.0,24590.0
+IND,power,electricity-generation,coal,25454351,Yermarus power station,21500.0,23090.0,24530.0,24590.0
+IND,power,electricity-generation,coal,25454553,Gadarwara Super Thermal Power Project,21500.0,23090.0,24530.0,24590.0
+CHN,power,electricity-generation,coal,25453164,Yuhuan power station,23420.0,23470.0,24510.0,24430.0
+BGD,transportation,international-shipping,,2787804,Chittagong,29560.1027227515,30716.746760159,24488.9741877655,24190.2185436482
+CHN,manufacturing,iron-and-steel,BF/BOF,1566541,Tangshan Donghai Iron and Steel Group Co Ltd,20676.04780965224,24044.9044453127,24473.11497242349,23737.01233213672
+CHN,power,electricity-generation,coal,25457241,Jimsar Wucaiwan Beisan power station,,23780.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,1753075,Wanneng Jiangbu power station,26880.0,26880.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,4407461,<unknown plant name>,26880.0,26880.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,1752993,Guodian Zhunger Changtan power station,26880.0,26880.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,25457179,Zhunger Zhujiaping power station,23940.0,23780.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,719695,Weiqiao Aluminum power station,23940.0,23780.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,25457195,Ningxia Zaoquan power station,23940.0,23780.0,24450.0,24520.0
+CHN,power,electricity-generation,coal,25457172,Xiantao power station,26040.0,23780.0,24450.0,24520.0
+ZAF,manufacturing,iron-and-steel,BF/BOF,1567185,ArcelorMittal Vanderbijlpark Steel Works,29045.835788918772,27717.182270112742,24444.609888600604,20711.441269397477
+CHN,manufacturing,iron-and-steel,BF/BOF,1566657,Chengyu Vanadium & Titanium Technology Co Ltd,19709.188564277614,19412.945763722742,24368.135185871717,26736.030979018364
+CHN,transportation,international-shipping,,2788170,Lianyungang Harbour,25120.1776775215,24915.773647162703,24348.6789908855,24796.1956520894
+CHN,power,electricity-generation,coal,25451555,Harbin-3 power station,24070.0,22920.0,24310.0,24530.0
+ESP,transportation,international-shipping,,2790534,Valencia,24258.137767569402,26947.191682255598,24267.4135259561,33838.225322412996
+RUS,manufacturing,iron-and-steel,BF/BOF,1567021,NLMK Lipetsk steel plant,23720.725193758168,30808.4299315372,24146.735741528304,24075.650916118255
+IDN,transportation,domestic-shipping,,1931516,Surabaya,21234.2472471272,22129.7170265891,24139.7966520756,22637.076384137497
+ZAF,power,electricity-generation,coal,25454015,Kusile power station,23070.0,25500.0,24130.0,26000.0
+USA,transportation,domestic-shipping,,1934722,"Port of Long Beach,CA",37997.550323770796,29096.792633273802,24110.189323256694,24262.0466164337
+TWN,power,electricity-generation,"coal, gas",449444,Talin,25630.0,24340.0,24020.0,24080.0
+BRA,transportation,international-shipping,,2787853,Guaiba Island Coal Terminal,21428.2773192965,21244.534148401097,24018.118584303196,26501.076704623894
+VNM,manufacturing,iron-and-steel,BF/BOF,1567170,Formosa Ha Tinh Steel plant,19734.794252981952,28523.806590229648,23974.627747753384,27276.670229917054
+IDN,power,electricity-generation,coal,25455952,Weda Bay power station,,25160.0,23960.0,24020.0
+PRT,transportation,international-shipping,,2800843,Sines,23874.719947003505,24422.0578826037,23918.2428422535,25372.4965712261
+TGO,transportation,international-shipping,,2801545,Lome,28705.6269782643,29299.462236630105,23840.371189185502,23770.214779346905
+ZAF,transportation,international-shipping,,2805036,Ngqura,27850.403022215403,23806.324284690003,23813.629863931903,17897.7333035438
+RUS,power,electricity-generation,coal,25452664,Primorsky power station,20520.0,22020.0,23810.0,23880.0
+USA,transportation,international-aviation,international,3168460,Chicago O'Hare International Airport,19779.51005381338,22770.438882441067,23673.435293416896,24306.305403615646
+OMN,transportation,international-shipping,,2800475,Sohar,20090.030401772205,23578.999509051995,23645.638000211897,23662.564300757695
+IND,power,electricity-generation,coal,25454374,Nasik RattanIndia Thermal Power Project,20740.0,22270.0,23640.0,23700.0
+IND,power,electricity-generation,coal,25454160,Amravati Thermal Power Project,20740.0,22270.0,23640.0,23700.0
+CAN,transportation,international-aviation,international,3170244,Toronto Lester B. Pearson International Airport,,19386.92241718672,23584.40013205047,24841.296753739694
+PAK,agriculture,synthetic-fertilizer-application,,25317585,Faisalabad,18871.804994697795,23410.98079608083,23492.436498659747,23492.436498659747
+IND,power,electricity-generation,coal,25454364,BALCO Korba power station,20580.0,22120.0,23490.0,23550.0
+IND,power,electricity-generation,coal,448540,K_KHEDA II,20580.0,22090.0,23490.0,23540.0
+IND,power,electricity-generation,coal,25451335,Sanjay Gandhi power station,20580.0,22090.0,23490.0,23540.0
+CHN,power,electricity-generation,coal,25452505,Ligang power station,22830.0,22990.0,23420.0,24470.0
+IND,power,electricity-generation,coal,25453120,Bellary Thermal Power Station,20570.0,22600.0,23420.0,22970.0
+CHN,transportation,domestic-shipping,,1929650,Nansha Port,22182.6281121593,20338.5817002268,23408.6493847465,22844.5577073765
+DEU,transportation,international-shipping,,2788412,Bremerhaven,23041.497887516998,22099.875258359403,23372.144081236802,22492.497198556
+IND,power,electricity-generation,coal,25454007,Nabinagar Super Thermal Power Project,13292.0,22630.0,23350.0,23970.0
+DEU,power,electricity-generation,coal,25451940,Niederaussem power station,29560.0,27830.0,23350.0,19100.0
+CHN,power,electricity-generation,coal,25453946,Datong-2 power station,27710.0,24550.0,23210.0,24260.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1567326,Xuanhua Iron and Steel Group Co Ltd,23622.610238587607,23180.432465722377,23180.432465722377,23180.432465722377
+VNM,power,electricity-generation,coal,25453844,Mong Duong power station,24600.0,19130.0,23180.0,23240.0
+IND,power,electricity-generation,coal,25453858,Indira Gandhi Super Thermal Power Project,21390.0,22200.0,23160.0,23390.0
+MEX,power,electricity-generation,coal,25450513,Petacalco power station,,17760.0,23150.0,23210.0
+AUS,power,electricity-generation,coal,449710,Yallourn,23450.0,22910.0,23120.0,22860.0
+ISR,buildings,residential-onsite-fuel-usage,,1244579,HaMerkaz,20809.64896873152,22943.957590722286,23117.50154164822,23117.50154164822
+USA,power,electricity-generation,coal,25449057,Fayette Power Project,27320.0,25400.0,23040.0,22500.0
+MEX,transportation,international-shipping,,2796226,Lazaro,18251.8727514926,26106.892734813595,22988.981587155897,26747.931103224997
+RUS,power,electricity-generation,gas,449560,<unknown plant name>,22350.0,22840.0,22950.0,23010.0
+AUS,power,electricity-generation,coal,25450642,Bayswater power station,23150.0,22330.0,22930.0,23470.0
+CHN,power,electricity-generation,coal,25454362,Yuanyang Lake power station,22400.0,22680.0,22760.0,22540.0
+IDN,power,electricity-generation,coal,25453412,Cilacap Sumber power station,25280.0,23890.0,22750.0,22810.0
+CHN,power,electricity-generation,coal,25455091,Ordos Power Qipanjing power station,23030.0,21320.0,22750.0,22820.0
+CHN,power,electricity-generation,coal,25452686,Yiyang power station,22840.0,21170.0,22720.0,23100.0
+AUS,transportation,international-shipping,,2787699,Brisbane,22661.357928532598,24604.120623661904,22707.235696124295,21743.542238592498
+BHS,transportation,international-shipping,,2787823,Freeport Container Port,22686.4395918445,21687.3024228864,22671.185777938197,21885.524719373403
+PAK,agriculture,synthetic-fertilizer-application,,10627063,Bahawalpur,18115.74455009125,22552.999873983543,22640.831514511432,22640.831514511432
+CHN,transportation,domestic-shipping,,1929710,Shidao,15184.4624961094,21696.1841454211,22623.880488190203,19279.8727957265
+USA,power,electricity-generation,coal,25449034,Intermountain Power Project,26200.0,24490.0,22580.0,22100.0
+TWN,transportation,international-shipping,,2802093,Taichung,24655.452324961796,24616.800375806903,22566.5849666618,22700.742488214
+IND,power,electricity-generation,coal,25453692,Tata Mundra Ultra Mega Power Project,19720.0,21180.0,22520.0,22570.0
+CHN,power,electricity-generation,coal,25451576,Jingyuan power station,20690.0,23060.0,22500.0,21610.0
+CHN,power,electricity-generation,coal,25452016,Huangdao power station,25480.0,25300.0,22480.0,22540.0
+IND,power,electricity-generation,coal,25451195,Raichur Thermal Power Station,19850.0,21440.0,22400.0,23020.0
+CHN,power,electricity-generation,coal,25454219,Guohua Taicang power station,21550.0,21710.0,22370.0,22450.0
+CHN,power,electricity-generation,coal,25451006,Qitaihe power station,22880.0,21140.0,22270.0,22250.0
+CHN,power,electricity-generation,coal,25457200,Shuidonggou power station,21760.0,21610.0,22240.0,22300.0
+VNM,transportation,international-shipping,,2804920,Phu My,22092.0628851271,24672.3118042895,22228.359547529697,26415.5971004575
+CHN,transportation,domestic-shipping,,1929795,"Yangshan Deep Water,Shanghai",19181.657060132402,20983.9239022658,22179.0426013931,20406.15389355
+KOR,transportation,domestic-shipping,,1932408,Ulsan,22877.4304345874,26936.600729083202,22125.3863978813,21261.223929797998
+USA,power,electricity-generation,coal,25449018,Limestone,25800.0,25220.0,22100.0,21620.0
+USA,power,electricity-generation,coal,25448888,Independence Steam Electric Station,21930.0,23960.0,22074.0,23679.0
+IND,power,electricity-generation,coal,25454656,Anuppur Thermal Power Project,19350.0,20770.0,22070.0,22120.0
+DEU,transportation,international-shipping,,2788432,Hamburg,23502.6980479238,24707.701003845195,22051.919022884198,20536.2193470405
+BRA,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143752,Petrobras REVAP (Henrique Lage) Sao Jose dos Campos Refinery,19578.660452703272,21553.08509108194,22047.206034439467,22047.206034439467
+CHN,power,electricity-generation,coal,25453351,Dingzhou power station,22060.0,20600.0,21960.0,22060.0
+CHN,power,electricity-generation,coal,25454155,Zhangjiagang Shazhou power station,21480.0,21350.0,21950.0,22010.0
+CHN,transportation,international-shipping,,2788258,Tangshan,19760.1590670007,19559.8923609826,21876.9654385867,22840.772129862195
+RUS,power,electricity-generation,coal,448486,<unknown plant name>,18810.0,20180.0,21840.0,21910.0
+BEL,transportation,domestic-shipping,,1928974,Antwerp,21116.5481419386,23762.0874042794,21832.5227809192,21350.816702020198
+IND,power,electricity-generation,coal,25450209,Kothagudem Thermal Power Station,20120.0,20300.0,21830.0,22140.0
+RUS,manufacturing,iron-and-steel,"BF/BOF,EAF",32440950,Magnitogorsk Iron & Steel Works,22763.39240687495,22493.740938548428,21744.770282304882,25258.197243060138
+CHN,power,electricity-generation,coal,25453372,Chaozhou Sanbaimen power station,22140.0,21840.0,21710.0,21270.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566531,Cangzhou China Railway Equipment Manufacture Material Co Ltd,24822.696685065544,24165.962442456712,21697.55321111978,23037.749637599354
+JPN,transportation,international-shipping,,2795951,Nagoya,22045.334773017403,22897.9606430819,21686.7513403822,21045.663326491103
+CHN,power,electricity-generation,coal,25450595,Guohua Xuzhou power station,21090.0,20610.0,21620.0,21470.0
+CHN,power,electricity-generation,coal,25451053,Huaneng Fuzhou power station,21370.0,20300.0,21570.0,22370.0
+CHN,power,electricity-generation,coal,25451068,Xiangtan power station,20800.0,20710.0,21550.0,21570.0
+IDN,power,electricity-generation,coal,1753130,Sulawesi Labota power station,21360.0,21360.0,21510.0,24690.0
+RUS,manufacturing,iron-and-steel,"BF/BOF,EAF",32440961,Severstal Cherepovets steel plant,18182.23715269226,18461.290287751934,21479.531079312845,20399.994472954968
+PAK,agriculture,synthetic-fertilizer-application,,10627065,Lahore,17087.20642857331,21372.894174733938,21463.152846498455,21463.152846498455
+CHN,manufacturing,iron-and-steel,BF/BOF,1566675,Quzhou Yuanli Metal Products Co Ltd,17881.777612474816,18264.575169008243,21412.9641523623,19484.284255500694
+CHN,power,electricity-generation,coal,25450375,Yaomeng power station,21340.0,21050.0,21400.0,21760.0
+CHN,transportation,domestic-shipping,,1929849,Zhoushan,17222.3782323751,21792.4186332042,21395.4664583417,20622.295634914903
+DEU,manufacturing,iron-and-steel,BF/BOF,1566774,Salzgitter Flachstahl steel plant,13996.187108404554,17939.186016481402,21340.41341796011,20141.546990730345
+AUS,power,electricity-generation,coal,25450561,Mount Piper power station,21680.0,20820.0,21340.0,22160.0
+CHN,power,electricity-generation,coal,25453381,Qianxi power station,21530.0,20860.0,21310.0,20970.0
+IND,power,electricity-generation,coal,25452246,Mettur Thermal Power Station,18174.0,20480.0,21300.0,21480.0
+CHN,manufacturing,aluminum,Refinery,3673046,CHN-Baise,36681.792873900726,30334.82654666914,21297.108252058948,21924.24639456767
+PAK,agriculture,synthetic-fertilizer-application,,25317584,Dera Ghazi Khan,17019.826830735223,21212.230538569253,21290.717368994712,21290.717368994712
+RUS,power,electricity-generation,coal,25451276,Nazarovskaya power station,18340.0,19670.0,21270.0,21340.0
+PHL,power,electricity-generation,coal,25455633,Dinginin power station,18120.0,19340.0,21210.0,21260.0
+IND,power,electricity-generation,coal,25451341,Bhusawal Thermal Power Station,18600.0,19950.0,21190.0,21250.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566613,Rizhao Steel Yingkou Medium Plate Co Ltd,19481.910056858105,14177.262668111964,21143.26689334379,24122.703092040698
+CHN,power,electricity-generation,coal,25455940,Weiqiao Yangxin power station,21080.0,20830.0,21140.0,20910.0
+MYS,manufacturing,iron-and-steel,BF/BOF,1567195,Alliance Steel Kuantan plant,23214.66916160912,18808.106804498224,21135.380483569024,23444.35372263823
+CHN,transportation,international-shipping,,2788317,Zhen Hai Docks,23351.696144108904,26290.281570224804,21049.5317571545,20542.055350404604
+JPN,transportation,international-shipping,,2796033,Tokyo,22133.3201346746,19230.913740095402,21046.534479738795,20894.404337712796
+IND,power,electricity-generation,coal,25454264,Pegadapalli (Jaipur Mandal) power station,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25452773,Rosa Thermal Power Plant,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25454017,Salaya power plant,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25454148,Mutiara Coastal Energen Thermal Power Plant,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25454216,Cuddalore IL&FS power station,18440.0,19790.0,21030.0,21090.0
+JPN,power,electricity-generation,coal,25453132,Kobe power station,,14590.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25454372,Angul power station,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25451445,Angul Smelter power station,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25453582,Mahan Super Thermal Power Project,18440.0,19790.0,21030.0,21090.0
+IND,power,electricity-generation,coal,25454507,Baradarha power station,19670.0,20630.0,20980.0,20900.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566679,Guangxi Iron and Steel Group Co Ltd,25676.25474278171,26597.704199211774,20964.02903755948,24014.808139579483
+PHL,power,electricity-generation,coal,25450528,Pagbilao power station,19970.0,19110.0,20960.0,21010.0
+CHN,power,electricity-generation,coal,447429,WEnergy Maanshan Power Station,20510.0,20380.0,20960.0,21020.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566651,Shanxi Jianlong Industrial Co Ltd,17837.30585197789,19517.54674604701,20955.84382745849,20408.478458898164
+BRA,transportation,international-shipping,,2787884,Rio Grande,21088.1566945876,18902.4955092703,20926.5755612297,20886.355734079098
+BRA,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143751,Petrobras REDUC (Duque de Caxias) Refinery,15927.506678221469,19370.063979443912,20909.850171299913,20909.850171299913
+CHN,power,electricity-generation,coal,25451531,Tianjin Dagang power station,20430.0,20270.0,20860.0,20920.0
+USA,transportation,domestic-aviation,domestic,3172537,Los Angeles / Tom Bradley International Airport,18511.06438858791,20322.104060404716,20837.551200703638,20812.017116751453
+PAK,buildings,residential-onsite-fuel-usage,,1338030,Gujranwala,21122.62727415519,20573.752291672765,20806.36804309707,20806.36804309707
+CHN,power,electricity-generation,coal,25454763,Tianye power station,21550.0,21320.0,20800.0,22090.0
+CHN,transportation,domestic-shipping,,1929733,Tangshan,21019.209017666897,19730.977424992,20786.867280321403,19138.954639424603
+CIV,transportation,international-shipping,,2788335,Abidjan,16514.379393712003,17125.0406413106,20741.5888900786,20845.160984638296
+PAK,buildings,residential-onsite-fuel-usage,,1338032,Multan,20642.450922284625,19983.15714582702,20662.341216336532,20662.341216336532
+RUS,power,electricity-generation,coal,25451274,Krasnoyarsk GRES-2 power station,17820.0,19130.0,20660.0,20730.0
+JPN,manufacturing,iron-and-steel,"EAF,BF/BOF",32441205,JFE East Japan Works (Keihin) steel plant,19708.868650782602,20265.19705890476,20645.97560044756,21355.624789513964
+CHN,manufacturing,iron-and-steel,BF/BOF,1566658,Tianjin Iron Plant,21900.401608768003,21748.764355886757,20626.750980986588,20755.370389736636
+ISR,power,electricity-generation,"coal, oil",448334,Orot Rabin,18410.0,20590.0,20590.0,20640.0
+USA,transportation,domestic-aviation,domestic,3170548,Hartsfield Jackson Atlanta International Airport,18403.95819534891,19200.58145908624,20577.09379333236,20652.14940562512
+CHN,power,electricity-generation,coal,448250,<unknown plant name>,18210.0,19990.0,20570.0,20630.0
+USA,power,electricity-generation,coal,25457153,Colstrip,22230.0,21420.0,20550.0,19930.0
+AUS,power,electricity-generation,coal,448783,Gladstone,20430.0,19800.0,20530.0,20590.0
+IND,power,electricity-generation,coal,25451336,Satpura Thermal Power Station,19040.0,19600.0,20440.0,20500.0
+RUS,power,electricity-generation,coal,25451288,Belovskaya power station,17620.0,18920.0,20420.0,20490.0
+USA,transportation,international-shipping,,2802535,Port Ingleside,,15961.0210493827,20396.0410994821,21700.5740361703
+CHN,manufacturing,iron-and-steel,BF/BOF,1566600,Zhongxin Iron and Steel Group Co Ltd,20874.25802731243,21195.005298740674,20383.890141766995,20598.416621703902
+CHN,transportation,domestic-shipping,,1929850,Zhoushan Petrochemical Terminal,,17643.7605112266,20377.6531658754,19833.474558177702
+RUS,power,electricity-generation,"gas, coal",449138,<unknown plant name>,18040.0,19130.0,20360.0,20420.0
+MYS,transportation,international-aviation,international,3167564,Kuala Lumpur International Airport,,,20347.75301370491,22615.651880318186
+KOR,power,electricity-generation,"coal, other_fossil",448452,Taean,22160.0,21180.0,20340.0,20400.0
+CHN,power,electricity-generation,coal,25453545,Guangzhou Zhujiang power station,19890.0,19760.0,20320.0,20380.0
+BEL,manufacturing,iron-and-steel,BF/BOF,1566440,ArcelorMittal Gent steel plant,15031.237196401144,19323.1907781077,20278.55587737267,16857.6016954341
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",1566549,Anyang Iron & Steel Co Ltd,24882.578241618165,24007.696421844434,20245.697838696306,22681.9828600111
+USA,transportation,international-shipping,,2802386,"Freeport,TX",23748.627327814003,15253.882180635703,20237.6537844986,25123.7994912154
+USA,transportation,international-aviation,international,3167972,Miami International Airport,14469.003277323443,19797.32010878132,20235.450071133087,21609.939549673774
+IND,power,electricity-generation,coal,25454022,Meja Thermal Power Project,17740.0,19050.0,20230.0,20280.0
+IND,power,electricity-generation,coal,25454186,Solapur power station,17740.0,19050.0,20230.0,20280.0
+IND,power,electricity-generation,coal,25451334,Hasdeo Thermal Power Station,19640.0,20400.0,20230.0,20560.0
+IND,power,electricity-generation,coal,25454267,Kawai Thermal Power Project,17740.0,19050.0,20230.0,20280.0
+IND,power,electricity-generation,coal,25454564,Bander power station,17740.0,19050.0,20230.0,20280.0
+IND,power,electricity-generation,coal,25454271,Raikheda power station,18360.0,18960.0,20200.0,19900.0
+CHN,power,electricity-generation,coal,25453051,Diandong power station,17580.0,17060.0,20200.0,21430.0
+PAK,agriculture,synthetic-fertilizer-application,,25317591,Hyderabad,15697.999571435163,19601.337982064357,20165.83882343631,20165.83882343631
+RUS,power,electricity-generation,coal,25451786,Gusinoozyorskaya power station,17410.0,18690.0,20160.0,20220.0
+CHN,power,electricity-generation,coal,25452021,Qingdao power station,19740.0,19610.0,20160.0,20220.0
+CHN,power,electricity-generation,coal,25451004,Hanfeng power station,18810.0,19410.0,20130.0,20150.0
+CHN,power,electricity-generation,coal,25453435,Huainan Tianji power station,20170.0,19970.0,20110.0,20290.0
+IND,transportation,international-shipping,,2791587,Nhava Sheva,16183.8658024754,21841.8764418953,20069.9838135427,24478.9529851543
+CHN,power,electricity-generation,coal,450756,<unknown plant name>,20770.0,19460.0,20040.0,20100.0
+CHN,power,electricity-generation,coal,25450594,Zhejiang Taizhou-1 power station,19580.0,19450.0,20010.0,20070.0
+CHN,power,electricity-generation,coal,25453086,Houshi power station,19580.0,19450.0,20010.0,20070.0
+PAK,agriculture,synthetic-fertilizer-application,,25317590,Sargodha,16012.963205106667,19948.405126184105,20005.602840211624,20005.602840211624
+USA,power,electricity-generation,coal,25449143,Jim Bridger,21910.0,21090.0,20000.0,19150.0
+KOR,transportation,international-shipping,,2796088,Daesan,24232.5047359523,24028.372106822404,19928.9697984925,20083.3604036481
+CHN,power,electricity-generation,coal,25451041,Qinzhou power station,18560.0,19250.0,19890.0,20070.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566654,Pangang Group Panzhihua Steel Vanadium Co Ltd,21476.440162468298,22138.13997586059,19880.932768605686,18180.357994142265
+IND,power,electricity-generation,coal,25453903,Talwandi Sabo Power Project,16440.0,19080.0,19870.0,19660.0
+CHN,power,electricity-generation,coal,4403019,Shuangliao power station,19960.0,19260.0,19850.0,19770.0
+BRA,transportation,international-shipping,,2787879,Praaia Mole Coal Terminal,18831.1417525061,18504.9125511075,19839.4818465535,20481.497470565595
+CHN,power,electricity-generation,coal,25453389,Qinhuangdao-2 power station,19380.0,19240.0,19790.0,19850.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566661,Tianjin Rockcheck Steel Group Co Ltd,14160.242478659755,16012.692497145577,19740.6397916322,19879.376122069123
+IND,power,electricity-generation,coal,25453084,Sagardighi Thermal Power Station,21050.0,21250.0,19700.0,19900.0
+IND,power,electricity-generation,coal,25454670,Muthukur Mandal power station (Painampuram),17540.0,18210.0,19640.0,19380.0
+USA,power,electricity-generation,coal,25448889,White Bluff,25470.0,24560.0,19640.0,19366.0
+JPN,transportation,international-shipping,,2795908,Kobe,20472.133071833403,20987.804372852996,19634.0425852671,19043.7169754136
+CHN,manufacturing,iron-and-steel,BF/BOF,1566636,Laiwu Iron and Steel Group Yinshan Section Steel Co Ltd,21459.080603789993,20127.833617950335,19581.162997570686,19296.856583253477
+USA,transportation,domestic-aviation,domestic,3173366,Chicago O'Hare International Airport,17818.002627746908,19337.825711350637,19544.51768775285,20153.756947533788
+USA,transportation,international-shipping,,2802487,"Miami,FL",16119.4288871882,18648.5488539298,19460.48544602,19888.324473055298
+CHN,power,electricity-generation,coal,25457194,Linhe power station,19040.0,18920.0,19450.0,19510.0
+CHN,power,electricity-generation,coal,25453398,Bayanhua Jinshan power station,19070.0,19370.0,19390.0,19440.0
+CHN,power,electricity-generation,coal,25453203,Jiangsu Zhenjiang power station,19440.0,19080.0,19370.0,19330.0
+ARG,manufacturing,iron-and-steel,BF/BOF,1566427,Ternium Siderar San Nicolás steel plant,16422.39877171183,17563.735465300295,19335.28502446253,19064.54736703912
+BRA,transportation,international-shipping,,2787848,Campos Coal Terminal,12695.8614700742,13746.3193888778,19325.5001161852,18075.455733377803
+USA,manufacturing,iron-and-steel,BF/BOF,1567144,U.S. Steel Gary Works,19707.473580172395,20683.983028751936,19306.100056198757,20409.792682778876
+IND,power,electricity-generation,coal,25454678,Darlipali power station,17160.0,19040.0,19280.0,19380.0
+RUS,power,electricity-generation,coal,25451585,Novosibirsk-5 power station,17150.0,19240.0,19190.0,19270.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566521,Tangshan Songting Iron & Steel Co Ltd,21221.371371624926,21320.595790080522,19150.915654282533,19800.02715028602
+CHN,power,electricity-generation,coal,25454094,Jiangsu Sheyanggang power station,14360.0,14250.0,19120.0,19170.0
+CHN,power,electricity-generation,coal,25454521,Baotou Hexi power station,18870.0,18440.0,19080.0,18650.0
+CHN,power,electricity-generation,coal,25454598,Yangxi Zhujiang power station,19340.0,18460.0,19070.0,18560.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566604,Jiujiang Pinggang Iron and Steel Co Ltd,17826.83236581185,18287.231056785902,19060.110409138542,16631.85962129683
+USA,transportation,international-shipping,,2802511,"Oakland,CA",17409.9281710156,16151.591815394202,19054.4528852398,20305.760622648
+GBR,transportation,international-shipping,,2791096,Southampton,14597.993311565,20871.45432629,19033.8255057041,19784.9784310177
+SAU,transportation,international-shipping,,2801054,King Abdulla Port,19790.982859032796,20739.531470871898,19027.4436979713,
+SAU,transportation,international-aviation,international,3167221,King Abdulaziz International Airport,,13882.005507445718,19024.87469777071,20352.378030347758
+CHN,power,electricity-generation,coal,25453794,Huainan Fengtai power station,19460.0,19730.0,19020.0,19280.0
+CHN,power,electricity-generation,coal,25454455,Diandong Yuwang power station,14841.0,15249.0,19010.0,18600.0
+USA,transportation,domestic-aviation,domestic,3171233,Denver International Airport,16553.33508044738,17451.805048150538,18972.648026580646,19578.298853635184
+CHN,manufacturing,iron-and-steel,BF/BOF,1566525,Hebei Jinxi Iron & Steel Group Co Ltd,20761.07627963481,21293.50496231096,18961.65556201644,21291.354067431
+USA,power,electricity-generation,coal,25449142,Hunter,21470.0,20620.0,18950.0,17840.0
+IND,transportation,international-aviation,international,3166325,Indira Gandhi International Airport,,16000.822852327014,18907.278268421363,20006.997709918694
+CHN,power,electricity-generation,coal,25451059,Yingkou power station,19590.0,18800.0,18890.0,19310.0
+CHN,power,electricity-generation,coal,25453999,Huolinhe power station,19120.0,19190.0,18890.0,18380.0
+GHA,transportation,international-shipping,,2791131,Tema,23787.612593745802,22252.387699800798,18878.9249863786,21301.8906247834
+CHN,manufacturing,iron-and-steel,BF/BOF,1566519,Qian'an Jiujiang Wire Co Ltd,23039.14243292463,23155.82074504343,18856.27505049228,14817.285717111072
+USA,power,electricity-generation,coal,25448951,Coal Creek,20190.0,20210.0,18840.0,18760.0
+JPN,transportation,domestic-shipping,,1932171,Nagoya,18609.523939267903,18731.8303613683,18838.660913378902,18256.164778751703
+DEU,power,electricity-generation,"coal, gas",25451941,Weisweiler power station,25370.0,21970.0,18780.0,19030.0
+MEX,power,electricity-generation,coal,25450502,José López Portillo power station,,14380.0,18760.0,18810.0
+JPN,manufacturing,iron-and-steel,BF/BOF,1567271,Nippon Setouchi Works (Kure Area) steel plant,18325.36296355101,19253.488536684283,18757.11372602833,18778.547681924887
+JPN,transportation,domestic-shipping,,1932110,Kobe,16397.1109607256,17653.7946990726,18745.770218245703,18698.5197032046
+CHN,power,electricity-generation,coal,25451014,Huainan Luohe power station,19390.0,18810.0,18730.0,18960.0
+CHN,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143817,ZPC Zhejiang Rongsheng Refinery,19119.120899117792,18429.421686169077,18707.419204435955,18707.419204435955
+USA,power,electricity-generation,coal,25449237,Shawnee,22460.0,21540.0,18680.0,18740.0
+URY,transportation,international-shipping,,2802190,Montevideo,20388.189190222198,21585.7877979088,18676.9832149281,19540.593663950698
+CHN,manufacturing,iron-and-steel,BF/BOF,1566662,Tianjin New Tiangang United Special Steel Co Ltd,18746.02512080072,18783.887940449265,18669.89433375651,18241.298686863873
+CHN,transportation,domestic-shipping,,1929767,Xiamen,16109.3294189398,15041.5706989745,18660.9208682454,18862.324312467998
+IDN,power,electricity-generation,coal,717612,Bangko Tengah power station,18480.0,18480.0,18660.0,18710.0
+POL,manufacturing,iron-and-steel,BF/BOF,1567002,ArcelorMittal Dąbrowa Górnicza steel plant,18007.622706296897,18802.913511554536,18648.548164332682,18619.17408197984
+NGA,transportation,international-shipping,,2796336,Bonny,23419.487884044796,19344.412217479898,18635.009669834,19955.3539533012
+CHN,power,electricity-generation,coal,25450362,Hebi power station,20850.0,19180.0,18610.0,20000.0
+TWN,manufacturing,iron-and-steel,"EAF,BF/BOF",32441018,China Steel Dragon Steel Taichung plant,16096.130376770812,16498.159027502064,18601.620525735325,18846.32188394987
+CHN,power,electricity-generation,coal,25454852,Fugu Miaogoumen power station,18180.0,18150.0,18600.0,18350.0
+BRA,transportation,international-aviation,international,3166820,Guarulhos - Governador André Franco Montoro International Airport,,16060.278197212414,18599.238029285676,19674.714085830536
+USA,transportation,international-shipping,,2802529,Port Aransas,16332.227627495098,15964.582983978802,18594.509914835104,18885.4533203217
+IND,power,electricity-generation,coal,25453433,Kakatiya Thermal Power Project,16850.0,17630.0,18570.0,18540.0
+CHN,manufacturing,iron-and-steel,"BF/BOF,BOF",32441214,Lingyuan Iron & Steel Co Ltd,20056.776654355795,18013.047567014284,18566.61773363244,18961.893660307214
+ISR,buildings,non-residential-onsite-fuel-usage,,1011720,HaMerkaz,16641.542189452175,18384.92032677306,18553.135381382228,18553.135381382224
+JPN,power,electricity-generation,coal,448229,Tomato-atsuma power station,21390.0,20440.0,18550.0,18610.0
+PAN,transportation,international-shipping,,2800548,Manzanillo Container,14630.258278938,17211.4080465359,18487.095582839804,16999.456525644902
+CHN,transportation,domestic-shipping,,1929601,Lanshan,,13307.0612105919,18450.451879894703,18520.01504394
+IDN,transportation,international-shipping,,2791407,Jakarta,18190.046262010503,22061.996458353602,18419.742704711603,17509.2564754224
+CHN,power,electricity-generation,coal,25455167,Baotou Aluminum power station,17990.0,17850.0,18400.0,18450.0
+PAK,agriculture,synthetic-fertilizer-application,,10627064,Gujranwala,14579.98616024119,18336.43619665036,18391.875312972163,18391.875312972163
+FRA,transportation,international-shipping,,2790907,St Nazaire,,14996.084195915002,18390.5068203982,15505.6202345235
+IND,power,electricity-generation,coal,25452248,Tuticorin Thermal Power Station,16110.0,17310.0,18390.0,18430.0
+IND,power,electricity-generation,coal,25453817,Kamalanga power station,16110.0,17310.0,18390.0,18430.0
+CHN,power,electricity-generation,coal,25453727,Dafang power station,17710.0,17480.0,18390.0,17690.0
+IND,power,electricity-generation,coal,25452613,Maithon Right Bank Thermal Power Station,16110.0,17310.0,18390.0,18430.0
+IND,power,electricity-generation,coal,25452485,Bakreswar Thermal Power Station,16110.0,17310.0,18390.0,18430.0
+CHN,power,electricity-generation,coal,25450221,Wuhu Zhongdian power station,17950.0,17830.0,18340.0,18400.0
+CHN,power,electricity-generation,coal,25454541,Yuxian power station,17950.0,17830.0,18340.0,18400.0
+CHN,power,electricity-generation,coal,25454704,Dabieshan power station,18460.0,18940.0,18340.0,17780.0
+CHN,power,electricity-generation,coal,25455503,Xinjiang Jiarun power station,18390.0,18630.0,18330.0,18360.0
+USA,transportation,international-shipping,,2802383,Fort Lauderdale,14886.668211630298,19840.8907683622,18302.9354467183,18495.7180369715
+IND,power,electricity-generation,coal,25454215,Jaypee Nigrie Super Thermal Power Project,17350.0,17720.0,18290.0,19120.0
+IND,power,electricity-generation,coal,25454021,Kalisindh Thermal Power Station,16170.0,16200.0,18230.0,17750.0
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1566623,Shaanxi Longmen Steel Co Ltd,14826.240975961555,17719.062402061052,18228.078959944345,15968.916917311415
+IND,power,electricity-generation,coal,25451021,Vizag Thermal Power Plant,15990.0,17160.0,18220.0,18270.0
+USA,transportation,domestic-aviation,domestic,3171235,Dallas Fort Worth International Airport,16785.955676182,16991.079455399817,18214.289608490562,18938.035910010225
+PAK,buildings,residential-onsite-fuel-usage,,1338029,Faisalabad,18136.67226547615,17599.49893285327,18213.21661177795,18213.21661177795
+IND,power,electricity-generation,coal,25454115,Bara Thermal Power Project,16980.0,17560.0,18210.0,18080.0
+MYS,power,electricity-generation,coal,25452317,Manjung power station,17870.0,17840.0,18200.0,18420.0
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1566561,Baowu Group Echeng Iron and Steel Co Ltd,16171.509117021611,14296.663494524077,18156.05832299067,18050.079176600753
+CHN,power,electricity-generation,coal,25451538,Hejin power station,18540.0,18510.0,18150.0,18360.0
+TWN,power,electricity-generation,"coal, gas, other_fossil",449439,Hsinta (gas),19210.0,18350.0,18140.0,18190.0
+TUR,power,electricity-generation,coal,25450174,Afşin-Elbistan power stations,15467.0,19240.0,18100.0,21400.0
+DEU,power,electricity-generation,coal,25451939,Neurath power station,33980.0,28020.0,18090.0,
+CHN,power,electricity-generation,coal,25455647,Guodian Liaocheng power station,17700.0,17570.0,18060.0,18110.0
+RUS,transportation,domestic-shipping,,1933923,Vladivostok,19600.413453066903,20509.843896174003,18057.445858321098,17427.6621980716
+CHN,power,electricity-generation,coal,25453632,Luzhou Chuannan power station,17790.0,17072.0,18050.0,18210.0
+RUS,power,electricity-generation,coal,25451121,Irkutsk-10 power station,15520.0,16660.0,18010.0,18060.0
+CHN,power,electricity-generation,coal,25454760,Tianfu North power station,18490.0,17940.0,18010.0,18060.0
+MYS,transportation,international-shipping,,2796317,Tanjung Bin power station Coal Terminal,17831.7281903502,18055.4126072367,17958.322789157006,19347.9668207071
+JPN,transportation,domestic-shipping,,1932333,Yokohama,17733.219031264,18240.6848426459,17941.9360592332,17323.2541985408
+NZL,transportation,international-shipping,,2800434,Tauranga,18545.911921348397,20089.6941355398,17913.434941800202,17419.0506816255
+CHN,power,electricity-generation,coal,25450166,Suizhong power station,17510.0,17390.0,17910.0,17960.0
+CHN,power,electricity-generation,coal,25452015,Heze power station,19640.0,18500.0,17890.0,18380.0
+USA,power,electricity-generation,"coal, gas, oil",25448960,Belle River,21120.0,20360.0,17890.0,17940.0
+DEU,manufacturing,iron-and-steel,BF/BOF,1566772,Hüttenwerke Krupp Mannesmann (HKM) steel plant,20492.209431822503,23722.10392061773,17859.973479709894,21629.167342933757
+CHN,power,electricity-generation,"coal, gas",718119,Wangting Gas,18250.0,17410.0,17810.0,17820.0
+PHL,power,electricity-generation,coal,25451463,Masinloc power station,16950.0,16230.0,17810.0,17860.0
+IND,power,electricity-generation,coal,25453949,Raghunathpur Thermal Power Station,16740.0,16770.0,17790.0,16700.0
+CHN,transportation,domestic-shipping,,1929681,Qinzhou,16771.3355709176,16173.652288548701,17786.9741321302,17861.916916703398
+CHN,power,electricity-generation,coal,25452031,Rizhao power station,17630.0,17090.0,17740.0,18070.0
+CHN,power,electricity-generation,coal,25453290,Yaxi power station,16390.0,15730.0,17740.0,17330.0
+DEU,transportation,international-aviation,international,3168126,Munich Airport,,15078.628803874204,17672.28293286683,19262.410267423147
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440589,Tianjin Iron & Steel Group Co Ltd,17388.921728140147,15765.429528791137,17656.61180958098,15244.665750154
+CHN,power,electricity-generation,coal,25450979,Qianbei power station,17590.0,17040.0,17640.0,17530.0
+PAN,transportation,international-shipping,,2800554,Miraflores,19620.228244241298,19350.9614804575,17635.1629133105,15095.3085435559
+BRA,manufacturing,pulp-and-paper,,31922364,BRA-Imperatriz,15430.276727019273,17598.182402091887,17598.182402091883,17618.33751780054
+JPN,power,electricity-generation,coal,25452325,Noshiro power station,20310.0,19380.0,17590.0,17640.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566532,Tangshan Medium Thick Plate Co Ltd,17601.27181330327,16830.454243840428,17552.14950972733,17816.28989840054
+IND,power,electricity-generation,coal,25452421,Obra Thermal Power Station,16790.0,16480.0,17520.0,18530.0
+IND,power,electricity-generation,coal,25453517,Nabinagar Thermal Power Project,15350.0,16480.0,17520.0,17560.0
+ZAF,transportation,international-shipping,,2805038,Port Elizabeth,24350.013783397397,21030.706429869802,17511.1298022419,16363.265072862303
+CHN,manufacturing,iron-and-steel,BF/BOF,1566688,Shanxi Jinnan Iron and Steel Group Co Ltd,,14409.3610447934,17506.824043137694,22674.956564597087
+NOR,fossil-fuel-operations,oil-and-gas-transport,Conventional shelf,3588424,Norway_Northern North Sea_Conventional shelf,18798.784170650222,17930.654388201783,17488.576983461906,17488.576983461906
+CHN,power,electricity-generation,coal,25452524,Qujing power station,15620.0,15870.0,17470.0,17590.0
+NLD,transportation,international-shipping,,2796470,Zeeland Seaports,16342.5043413164,19595.069016399502,17464.5396325559,17781.8090161727
+CHN,manufacturing,iron-and-steel,BF/BOF,1566487,Sansteel Minguang Co Ltd Fujian plant,26570.685453626604,25173.904906498727,17417.721639719908,20114.98322249848
+IND,power,electricity-generation,coal,448357,TORANGALLU EXT,15240.0,16350.0,17390.0,17430.0
+CHN,transportation,domestic-shipping,,1929680,Qinhuangdao,19135.510201634803,18491.731092559305,17371.0784261214,16803.6549488827
+CHN,power,electricity-generation,coal,25454817,Yangquan-2 power station,16930.0,16740.0,17370.0,17120.0
+PAN,transportation,international-shipping,,2800542,Gatun Landing,19268.903389084,23496.812142096296,17363.7628164677,13977.4448712967
+CHN,manufacturing,iron-and-steel,BF/BOF,1566553,Henan Jiyuan Iron & Steel (Group) Co Ltd,19555.31248645415,15328.118179246405,17327.52012454912,
+USA,transportation,international-aviation,international,3166571,Newark Liberty International Airport,,14803.983139822258,17290.86298027099,17773.422917139662
+CHN,power,electricity-generation,coal,25454114,Jingtai power station,17630.0,17730.0,17270.0,17400.0
+PAK,buildings,residential-onsite-fuel-usage,,1338036,Karachi,17730.77141753936,17201.807289608783,17258.13784360225,17258.13784360225
+CHN,power,electricity-generation,coal,25454324,Ma'anshan Dangtu power station,15870.0,16510.0,17250.0,17220.0
+ITA,transportation,international-aviation,international,3166597,Rome–Fiumicino Leonardo da Vinci International Airport,,,17242.607178121943,20135.464621026378
+JPN,transportation,domestic-shipping,,1932293,Tokyo,16560.779017524,16987.3890770357,17233.8288139995,17746.362794908997
+JPN,manufacturing,iron-and-steel,BF/BOF,1566926,"Nippon Kyushu Works (Yawata Area, Tobata) steel plant",20968.24067709447,22457.782283185883,17185.277532612676,17838.234114824147
+CHN,power,electricity-generation,coal,25450606,Laibin power station,16810.0,16690.0,17180.0,17230.0
+KEN,transportation,international-shipping,,2796068,Mombasa,16099.021028425399,16702.2561093295,17175.303665901,17440.194197709
+CHN,power,electricity-generation,coal,25454090,Qiandong power station,16806.0,15886.0,17160.0,15315.0
+CHN,power,electricity-generation,coal,25453502,Huangjinbu power station,17350.0,16760.0,17150.0,17410.0
+MKD,fossil-fuel-operations,oil-and-gas-refining,Hydroskimming,3144015,Hellenic OKTA Skopje Refinery,,,17139.074180821965,17139.074180821965
+JPN,power,electricity-generation,gas,449532,Futtsu,18520.0,18770.0,17110.0,17160.0
+ARE,transportation,international-shipping,,2787629,Kalifa Port,,14686.542858807097,17101.382883006398,22841.928376761898
+CHN,power,electricity-generation,"coal, gas, oil",25450589,Baoshan Works power station,16780.0,16620.0,17080.0,17130.0
+VNM,power,electricity-generation,coal,25453146,Hai Phong Thermal Power Station,18110.0,14060.0,17060.0,17100.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1567300,Tangshan Guoyi Special Type Iron and Steel Co Ltd,15631.361748161014,16524.85183341464,17055.795661159133,17055.795661159133
+CHE,transportation,international-aviation,international,3170305,Zürich Airport,,14418.053486564,16967.592697699623,17909.80106978128
+CHN,power,electricity-generation,coal,25453034,Huaneng Huaiyin power station,17570.0,16430.0,16940.0,17210.0
+CHN,power,electricity-generation,coal,25455150,Shentou power station,13169.0,16470.0,16920.0,16830.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566676,Ningbo Iron & Steel Co Ltd,14568.259085835607,17660.82838707366,16911.03626371649,15759.909809530118
+CHN,manufacturing,iron-and-steel,BF/BOF,1566547,Jianlong Xilin Iron and Steel Co Ltd,15376.450788749298,16621.935154803647,16901.889970580145,16242.397641208003
+CHN,power,electricity-generation,coal,25454002,Suzhou power station,16950.0,16320.0,16900.0,16810.0
+URY,manufacturing,pulp-and-paper,,31922516,URY-NA,16386.126215674707,16847.52960465014,16847.52960465014,16866.82500123305
+URY,manufacturing,pulp-and-paper,,31922515,URY-NA,16386.126215674707,16847.52960465014,16847.52960465014,16866.82500123305
+CHN,power,electricity-generation,coal,25453618,Haibowan power station,16490.0,16370.0,16840.0,16890.0
+MYS,transportation,international-shipping,,2796276,Bintulu Port,14481.689395630798,17599.5926280179,16836.543948063998,16797.8918770471
+IND,power,electricity-generation,coal,25454286,Uchpinda power station,14760.0,15870.0,16820.0,16860.0
+IND,power,electricity-generation,coal,25451762,Kota power station,14700.0,15780.0,16780.0,16820.0
+IND,power,electricity-generation,coal,25455341,Bhadradri power station,,15790.0,16770.0,16970.0
+CHN,power,electricity-generation,coal,25453828,Tianjin Beijiang power station,16910.0,16010.0,16770.0,16830.0
+CHN,power,electricity-generation,coal,447570,Guodian Jingmen power station,17670.0,17200.0,16730.0,16420.0
+CAN,transportation,international-shipping,,2787938,Halifax,13181.998673270602,14692.0055093583,16727.6021818091,17723.330101525098
+DOM,transportation,international-shipping,,2788570,Boca Chica,15196.539865662997,14517.896044143497,16727.527845223998,16351.858137333404
+CHN,manufacturing,chemicals,methanol,33998977,CHN-Xilin Gol_methanol,16948.92649834486,16723.604447081816,16723.604447081816,16723.604447081812
+CHN,manufacturing,iron-and-steel,BF/BOF,1566544,Qinhuangdao Hongxing Iron and Steel Co Ltd,18567.871428764724,15871.104719623247,16715.660453736236,16889.26597130848
+CHN,power,electricity-generation,coal,718647,Xingyi power station,16310.0,16200.0,16690.0,16740.0
+MEX,transportation,international-shipping,,2796241,Veracruz,13999.1613402741,15908.312971824002,16641.4009898261,16574.2414685845
+CHN,power,electricity-generation,coal,25453993,Chaohu power station,15760.0,16370.0,16630.0,16340.0
+CHN,power,electricity-generation,coal,25453622,Hunan Baoqing power station,16556.0,15560.0,16610.0,15337.0
+TWN,power,electricity-generation,"coal, oil",449443,Taizhong Taichung,17970.0,16870.0,16600.0,16640.0
+CHN,power,electricity-generation,coal,25453728,Jinglong power station,16630.0,16480.0,16590.0,16700.0
+RUS,transportation,international-shipping,,2800959,Sabetta,16303.9279583175,17047.696218253903,16573.6284309918,16693.0865772773
+SAU,transportation,international-shipping,,2801076,Ras Tanura,,18979.1923754179,16528.4500005501,15745.723528509703
+CHN,transportation,domestic-aviation,domestic,3173466,Beijing Capital International Airport,14490.905258688601,,16518.870434666103,17155.74620462488
+CHN,power,electricity-generation,coal,25454575,Anshun power station,16660.0,15320.0,16510.0,16300.0
+DEU,power,electricity-generation,coal,25452444,Boxberg power station,17320.0,19270.0,16490.0,16250.0
+XKX,power,electricity-generation,coal,714707,Kosovo A power station,18460.0,18410.0,16480.0,16120.0
+GBR,transportation,international-aviation,international,3167698,London Gatwick Airport,,,16391.59194503584,17535.29318012569
+ARE,transportation,international-aviation,international,3165652,Abu Dhabi International Airport,,13143.5567063517,16361.337161460537,18982.231486293964
+CHN,power,electricity-generation,coal,25453514,Guangdong Huilai power station,15250.0,15970.0,16350.0,16800.0
+CHN,power,electricity-generation,"coal, gas, other_fossil",25455187,Zheneng Changxing power station,16560.0,16660.0,16330.0,16900.0
+USA,power,electricity-generation,"coal, gas",25449232,Gallatin (TN),19180.0,18530.0,16330.0,16380.0
+AUS,power,electricity-generation,coal,25450608,Loy Yang B power station,16480.0,16560.0,16330.0,16460.0
+CHN,power,electricity-generation,coal,450555,Datang Heshan power station,15960.0,15850.0,16300.0,16340.0
+CHN,power,electricity-generation,coal,25453992,Fuzhou Jiangyin power station,15780.0,15520.0,16280.0,16230.0
+RUS,transportation,international-shipping,,2801024,Yevropeskiy,12570.7363900691,14868.4627192978,16275.789740065602,13041.6389040317
+IND,power,electricity-generation,coal,25453274,Durgapur Steel City Andal power station,14609.0,15990.0,16270.0,15860.0
+CHN,power,electricity-generation,coal,452005,Xinyuan Aluminum power station,18940.0,17490.0,16260.0,15874.0
+POL,power,electricity-generation,coal,25450775,Turów power station,18410.0,18490.0,16250.0,16410.0
+PHL,transportation,international-aviation,international,3168042,Ninoy Aquino International Airport,,,16244.948197556048,17120.511264668257
+TWN,power,electricity-generation,coal,25451349,Mailiao power station,17350.0,16870.0,16230.0,16540.0
+CHN,power,electricity-generation,coal,25453892,Yuncheng power station,12639.0,15110.0,16220.0,16360.0
+IND,power,electricity-generation,coal,25454554,Khargone power station,14200.0,15230.0,16200.0,16240.0
+CHN,manufacturing,chemicals,methanol,33998925,CHN-Ordos_methanol,16412.026283410447,16193.841879346737,16193.841879346735,16193.841879346737
+USA,power,electricity-generation,coal,25449086,Gerald Gentleman,19420.0,18640.0,16170.0,16220.0
+CHN,power,electricity-generation,coal,25454112,Xutang power station,16130.0,15270.0,16170.0,16420.0
+MYS,transportation,domestic-shipping,,1932615,Port Klang,17004.9446500486,18320.3458808656,16147.073499650798,16661.9348696587
+IND,transportation,international-shipping,,2791565,Haldia,13741.5337962471,15175.9368944288,16137.290223054102,15523.1165401106
+IDN,power,electricity-generation,coal,25453715,Central Java Power Project,16800.0,16930.0,16130.0,16170.0
+NLD,transportation,international-shipping,,2796401,Amsterdam,25927.9985814047,17985.875563648802,16123.660982682502,14055.4482714362
+IND,power,electricity-generation,coal,25452422,Parichha power station,17500.0,18800.0,16110.0,16150.0
+CHN,transportation,domestic-shipping,,1929629,Mawan Hong Kong,13488.1685743788,,16106.382485033699,16273.3588623594
+PRT,fossil-fuel-operations,oil-and-gas-refining,Medium Conversion,3144062,Galp Energia Sines Refinery,17844.264235224156,17611.794745156163,16027.108783805894,16027.108783805894
+PAN,transportation,international-shipping,,2800575,Shelter Bay Marina,18214.2694306808,19357.9815621706,16003.6018699732,14638.483578292598
+CHN,power,electricity-generation,coal,25454307,Changzhou power station,15760.0,16110.0,15990.0,16250.0
+IND,manufacturing,iron-and-steel,BF/BOF,1566849,SAIL Bhilai steel plant,14273.031315390954,18232.523028439937,15946.437866921202,18270.068406736533
+USA,transportation,road-transportation,,3645972,Los Angeles,18672.88391512791,17246.60844276363,15931.54400697928,14569.908074687088
+CHN,power,electricity-generation,coal,25453928,Xinxiang Baoshan power station,16370.0,16120.0,15910.0,16350.0
+ARG,transportation,international-shipping,,2787660,La Plata,19195.9296232629,18092.1661736232,15906.3213095789,16626.330899319502
+IND,manufacturing,iron-and-steel,BF/BOF,1566855,Vizag Steel plant,18114.45278162605,17844.14107994094,15901.660931748156,15618.442759937818
+CHN,power,electricity-generation,coal,25454102,Tongzi power station,14292.0,14860.0,15900.0,15360.0
+CHN,power,electricity-generation,coal,25453392,Guodian Feixian power station,15720.0,15310.0,15900.0,16140.0
+IND,power,electricity-generation,coal,25453275,Koderma Thermal Power Station,14680.0,15720.0,15900.0,15870.0
+CHN,power,electricity-generation,coal,25453995,Anhui Xuancheng power station,15880.0,15630.0,15890.0,15570.0
+CHN,power,electricity-generation,coal,25454741,Sanshui Hengyi power station,15068.0,14910.0,15890.0,15510.0
+CHN,power,electricity-generation,coal,25451556,Hegang power station,16880.0,14790.0,15890.0,16310.0
+CHN,transportation,domestic-shipping,,1929688,Rizhao,15001.8389580458,16069.187854019898,15864.3035320754,15332.653168498398
+CHN,power,electricity-generation,coal,25454097,Shangqiu Minquan power station,15880.0,16210.0,15860.0,16110.0
+SAU,power,electricity-generation,"gas, other_fossil",449168,<unknown plant name>,15077.0,14775.0,15845.0,15880.0
+CHN,power,electricity-generation,coal,25454533,Binchang power station,15590.0,15900.0,15820.0,15760.0
+TUR,power,electricity-generation,coal,25455161,Cenal power station,14910.0,15180.0,15770.0,15810.0
+IND,power,electricity-generation,coal,25454355,Mahan Aluminium power station,13825.0,14850.0,15760.0,15800.0
+IND,transportation,international-shipping,,2791589,Paradip,14955.480359457999,15405.2780715119,15746.814817387702,16052.979914543701
+MOZ,manufacturing,aluminum,Smelting,3673105,Maputo aluminium plant,16471.132094009103,15011.607464433768,15746.472646866701,15631.6956128715
+BRA,manufacturing,aluminum,Refinery,3672956,BRA-São Luís,18135.813105725385,16628.752299248226,15733.53226316068,16196.839209899123
+CHN,transportation,domestic-shipping,,1929829,Zhen Hai Docks,13049.468685661699,14689.371349708099,15732.907106943301,15964.025585826203
+CHN,power,electricity-generation,coal,25454542,Gansu Chongxin power station,16340.0,16780.0,15700.0,15320.0
+ESP,transportation,domestic-shipping,,1930263,Barcelona,,16668.2250502472,15690.219027925501,16307.501289625498
+CHN,power,electricity-generation,coal,25453569,Wuhu power station,15060.0,15480.0,15690.0,15370.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566545,Xinji Aosen Iron and Steel Group Co Ltd,13031.412649588508,14734.780828141955,15677.594759588092,16210.876090701513
+IND,power,electricity-generation,coal,25450986,Ukai Thermal Power Station,13867.0,15640.0,15674.0,15314.0
+CHN,power,electricity-generation,coal,25453997,Chengdu Jintang power station,15370.0,15090.0,15670.0,15760.0
+USA,manufacturing,iron-and-steel,"BF/BOF,EAF",32441037,Cleveland-Cliffs Indiana Harbor steel plant,15751.964387195421,16372.929151869004,15656.862300000927,16990.44091187672
+PAK,agriculture,synthetic-fertilizer-application,,25317596,Sukkur,,15219.800791612814,15638.681717882073,15638.681717882073
+MYS,power,electricity-generation,coal,25452980,Tanjung Bin power station,15770.0,16300.0,15620.0,15470.0
+CHN,manufacturing,chemicals,ammonia,33998958,CHN-Fuyang_ammonia,15803.781791535985,15593.68349821162,15593.683498211618,15593.683498211618
+USA,manufacturing,chemicals,soda_ash,32267411,U.S.A.,16360.981641939901,15909.154544873742,15577.125120535788,15577.125120535788
+CHN,power,electricity-generation,coal,25451055,Jiangsu Nantong power station,15220.0,15120.0,15570.0,15610.0
+JPN,power,electricity-generation,coal,4406849,Yokosuka,17760.0,17760.0,15560.0,15610.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566652,Shougang Changzhi Iron and Steel Co Ltd,14494.692945870505,13696.817826975355,15524.933439871664,16074.929527137267
+CHN,power,electricity-generation,coal,25451562,Zhuanghe power station,15150.0,15030.0,15470.0,15380.0
+CHN,power,electricity-generation,coal,25453353,Jiangyou power station,17120.0,15170.0,15460.0,15290.0
+HKG,power,electricity-generation,"gas, coal, oil, other_fossil",448239,CKI Lamma power station,14600.0,15430.0,15430.0,15480.0
+CHN,transportation,domestic-aviation,domestic,3170926,Guangzhou Baiyun International Airport,14016.933857827813,,15398.993103913583,15854.116733513982
+CHL,transportation,international-shipping,,2788026,San Antonio,17474.4100284772,17116.0720159486,15388.1908754056,15933.896105563901
+CHN,manufacturing,iron-and-steel,BF/BOF,1567219,Guangxi Chiji Iron and Steel Co Ltd,,,15385.130641387279,18284.457295224856
+AUS,transportation,international-aviation,international,3167934,Melbourne International Airport,,,15380.467990028961,16960.023200230415
+IND,power,electricity-generation,coal,25454254,Marwa power station,14091.0,14260.0,15373.0,16280.0
+CHN,transportation,domestic-shipping,,1929546,Huaanghua,15144.4893501443,15573.716391693199,15354.898103788999,15123.2094588149
+CHN,power,electricity-generation,coal,25453216,Nayong-2 power station,14870.0,14800.0,15350.0,15590.0
+CHN,power,electricity-generation,coal,25454838,Changchun-2 power station,16400.0,14270.0,15330.0,15760.0
+CHN,power,electricity-generation,coal,25450371,Shimen power station,16120.0,15140.0,15320.0,14550.0
+JPN,transportation,domestic-shipping,,1932294,Tomakomai,15188.596065125901,15690.2061715696,15313.906241112298,14588.3948477827
+USA,transportation,international-shipping,,2802247,"Baltimore,Maryland",,,15308.620406274802,14076.893773421001
+IDN,manufacturing,iron-and-steel,BF/BOF,1566838,Dexin Steel Morowali plant,,16745.930671636892,15294.607347535213,22692.8900493277
+ESP,transportation,domestic-shipping,,1930330,Las Palmas,17964.9296743936,15433.4684169895,15290.094313043799,15245.353601945799
+CHN,power,electricity-generation,coal,25457160,Jingxi Xinfa Aluminum power station,14950.0,14850.0,15290.0,15340.0
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440426,Gansu Jiu Steel Group Hongxing Iron and Steel Co Ltd,20612.3350292127,20073.670986773803,15260.765321214536,15377.490183762045
+IRN,fossil-fuel-operations,oil-and-gas-production,Conventional onshore,3588660,Iran_Zagros Foldbelt_Conventional onshore,12812.80616307717,13401.67820328286,15258.65569130221,15258.655691302212
+AUS,transportation,international-shipping,,2787727,Hay Point Coal Terminal,19390.8530347072,18081.098555346198,15234.952344731399,14555.3932919756
+CHN,power,electricity-generation,coal,25451561,Shuangyashan power station,,13904.0,15170.0,15450.0
+USA,power,electricity-generation,coal,25448896,Antelope Valley,16900.0,16150.0,15160.0,14471.0
+THA,transportation,international-shipping,,2801642,Map Ta Phut Port,13306.6822125102,13489.856964048098,15143.195530365401,16719.019696336596
+USA,power,electricity-generation,coal,25448983,Joppa Steam,15690.0,15120.0,15120.0,15120.0
+CHN,power,electricity-generation,coal,25454093,Xinyang power station,14550.0,15520.0,15100.0,14940.0
+BRA,transportation,international-shipping,,2787862,Itaguai,17250.9735263394,14229.865525178802,15097.105783020497,14889.609280964602
+IND,power,electricity-generation,coal,714506,CHANDRAPURA,13207.0,14180.0,15070.0,15110.0
+IND,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143912,RPL (Reliance Petroleum Limited) Jamnagar Refinery,13934.795527422533,14694.651112296451,15057.821331213445,15057.821331213445
+CHN,power,electricity-generation,coal,25453492,Luoyang Shouyangshan-3 power station,15670.0,14835.0,15050.0,15610.0
+USA,transportation,international-shipping,,2802509,"Norfolk,VA",14085.7698657178,20074.596170507197,15037.3082884865,17911.6203099962
+CHN,manufacturing,iron-and-steel,BF/BOF,1566697,Hangang Longshan Iron and Steel Co Ltd,,,15031.84206403494,15172.821050990415
+USA,transportation,domestic-aviation,domestic,3173953,Seattle–Tacoma International Airport,13449.34755213817,14158.820281659187,15015.714847502893,15182.547888443134
+CHN,transportation,domestic-aviation,domestic,3174221,Shenzhen Bao'an International Airport,12954.356224353583,,14997.459413980616,15396.252236017512
+IND,power,electricity-generation,coal,25451150,Tuticorin NTPL power station,12720.0,13470.0,14990.0,14970.0
+CHN,power,electricity-generation,coal,25452731,Yangzonghai power station,12511.0,13314.0,14970.0,14860.0
+TUR,transportation,domestic-shipping,,1934340,Tuzla,,13618.7829487726,14965.096237428601,13941.7833873751
+JPN,power,electricity-generation,"coal, oil",25450683,Matsushima power station,17280.0,16490.0,14960.0,15010.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1567251,Shandong Iron and Steel Co Ltd Laiwu Branch Aishan Street,15181.19543622958,13719.514462543772,14937.033186491255,15177.39747601844
+CHN,power,electricity-generation,coal,25451574,Daba power station,15120.0,14670.0,14930.0,14764.0
+CHN,power,electricity-generation,coal,451317,Datang Anyang-2 power station,14040.0,14356.0,14930.0,15400.0
+TUR,transportation,international-shipping,,2801807,Aliaga,13753.496918264,16024.665075197301,14928.0665305563,15204.417195197599
+CHN,transportation,domestic-shipping,,1929712,Shipu,,,14897.0217012252,17231.2956930647
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440419,Fujian Sanbao Steel Co Ltd,20163.542012067748,16198.919074378528,14885.328314114571,
+BGR,power,electricity-generation,coal,4402949,Maritsa Iztok-2 power station,18930.0,22670.0,14861.0,15850.0
+CHN,power,electricity-generation,coal,25454873,Liulin 1 Coal,15190.0,14580.0,14860.0,14890.0
+SRB,power,electricity-generation,coal,447956,TE KOSTOLAC B,15100.0,14890.0,14850.0,14900.0
+IND,power,electricity-generation,coal,25455403,New Neyveli Thermal Power Station,12925.0,14270.0,14840.0,14630.0
+CHN,power,electricity-generation,coal,25457243,Tumxuk power station,14500.0,14410.0,14830.0,14870.0
+CHN,power,electricity-generation,coal,25453373,Guigang power station,14780.0,14180.0,14830.0,14850.0
+RUS,manufacturing,iron-and-steel,"BF/BOF,EAF",32440965,Evraz ZSMK steel plant,15927.093394614363,14968.171747664439,14811.906543542444,14115.352899784977
+ITA,manufacturing,iron-and-steel,BF/BOF,1566891,Acciaierie d'Italia Taranto steel plant,15225.460198394463,14587.892451402344,14782.936250111268,15108.303368532015
+PRT,transportation,international-aviation,international,3167714,Humberto Delgado Airport (Lisbon Portela Airport),,,14761.905987944105,15332.712219689281
+UKR,manufacturing,iron-and-steel,BF/BOF,1567292,Azovstal Iron & Steel Works,12991.113164887855,14984.904165019672,14743.355756766634,14743.355756766634
+SWE,transportation,international-shipping,,2801245,Donso,14644.687397678601,14669.9785295558,14727.4574675699,13351.1290046748
+IND,power,electricity-generation,coal,25452488,Kolaghat Thermal Power Station,19350.0,13857.0,14720.0,14750.0
+IND,power,electricity-generation,coal,25451756,Ropar power station,12904.0,13857.0,14720.0,14750.0
+USA,power,electricity-generation,coal,25449257,Rush Island,17710.0,17000.0,14720.0,14760.0
+CHN,power,electricity-generation,coal,25451545,Mudanjiang-2 power station,15660.0,14210.0,14710.0,14870.0
+ITA,transportation,domestic-shipping,,1931889,Porto di Genova,16991.5154987542,17096.2006714432,14700.970826613198,15086.024811594098
+CHN,power,electricity-generation,coal,25455985,Zhejiang Zhenhai power station,14360.0,14250.0,14680.0,14730.0
+ITA,transportation,domestic-shipping,,1931844,Livorno,14440.195567052398,15298.234680317699,14679.070770528202,
+USA,transportation,domestic-shipping,,1934549,Galveston,15944.030964279498,15909.563972795999,14676.672927661202,15122.8853826801
+CHN,power,electricity-generation,coal,25452012,Liaocheng Zhonghua power station,16910.0,16160.0,14658.0,15437.0
+USA,transportation,international-aviation,international,3165573,Ted Stevens Anchorage International Airport,12947.241947985925,13533.46517813445,14656.59607138998,16444.03077114232
+KAZ,manufacturing,iron-and-steel,BF/BOF,1566964,QIC Qarmet steel plant,14331.467453232317,13350.274083177308,14630.728371467028,16520.906270222196
+GIB,buildings,residential-onsite-fuel-usage,,1242054,Gibraltar,15531.970130009404,16793.82985509587,14607.133370598021,14607.133370598023
+BRA,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143755,Petrobras RPBC Cubatao Refinery,12648.53742848805,16301.696152278057,14603.272110935817,14603.272110935817
+PHL,transportation,international-shipping,,2800731,Manila,36012.051933499606,30129.967309956395,14598.2611652576,13888.724014563
+CHN,manufacturing,iron-and-steel,BF/BOF,1567299,Hebei Tianzhu Iron and Steel Group Co Ltd,13360.906454240632,14124.61710461117,14578.44134137578,14578.44134137578
+EGY,transportation,international-shipping,,2790234,Damietta,,,14571.0918242792,15943.770704305702
+USA,power,electricity-generation,coal,25449254,Springerville,15630.0,15450.0,14570.0,13680.0
+CHN,power,electricity-generation,coal,25455377,Wucaiwan Bei'er power station,14080.0,14033.0,14520.0,14300.0
+SYR,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588747,Syria_OtherBasins_OtherResources,15068.138075656327,15181.489766687186,14510.58620749336,14510.586207493361
+JPN,power,electricity-generation,coal,25450446,Hekinan power station,16250.0,15930.0,14510.0,14790.0
+USA,transportation,international-aviation,international,3165642,Hartsfield Jackson Atlanta International Airport,,,14494.795189986078,15430.88275592148
+CHN,power,electricity-generation,coal,25455495,Tianchi Energy Zhundong Wucaiwan power station,14060.0,14072.0,14470.0,14330.0
+CHN,manufacturing,chemicals,methanol,33999052,CHN-Yinchuan_methanol,28622.47281683699,28241.9605591468,14460.648463823874,14460.648463823876
+CHN,transportation,domestic-shipping,,1929528,Guangzhou,15953.214308156,14529.0329292438,14447.224145583601,15842.628474304702
+VNM,power,electricity-generation,coal,25454585,Nghi Son power station,,13251.0,14420.0,14977.0
+IRQ,transportation,domestic-shipping,,1931736,Al-Basra Oil Terminal,,,14418.270122940501,13871.0290140047
+ITA,buildings,residential-onsite-fuel-usage,,1308818,Roma,14827.152085566811,14355.179738863326,14390.990643565226,14390.990643565226
+USA,transportation,international-aviation,international,3167041,Washington Dulles International Airport,,,14389.76735329773,15026.676188947718
+CHN,power,electricity-generation,coal,452866,<unknown plant name>,15570.0,15310.0,14380.0,14900.0
+AUS,power,electricity-generation,coal,447762,Vales Point B,14290.0,13840.0,14360.0,14400.0
+RUS,fossil-fuel-operations,oil-and-gas-transport,OtherResources,3588445,Russian Federation_OtherBasins_OtherResources,13483.52847701877,14632.664684760774,14354.655239339125,14354.655239339127
+CHN,transportation,domestic-shipping,,1929711,Shiniu Harbor,,17284.5506224007,14296.9595395252,
+CHN,power,electricity-generation,coal,450808,Baotou East Hope power station,13980.0,13880.0,14290.0,14330.0
+CHN,transportation,domestic-shipping,,1929425,Bayuquon District,14640.522108149897,13773.3902366214,14288.7206496971,14352.4831310305
+PAK,agriculture,synthetic-fertilizer-application,,10627067,Mirpur Khas,,13928.479792262433,14283.760796887816,14283.760796887816
+AUS,power,electricity-generation,coal,447453,Callide C,13469.0,13960.0,14260.0,14210.0
+USA,power,electricity-generation,"coal, gas",25449076,Victor J Daniel Jr,16760.0,16170.0,14250.0,14290.0
+ISR,buildings,residential-onsite-fuel-usage,,1244580,HaZafon,12873.693634831785,14108.609930482322,14244.980761939161,14244.98076193916
+CHN,manufacturing,iron-and-steel,BF/BOF,1566522,Hebei Puyang Iron and Steel Co Ltd,,,14241.486623503308,14296.67420144575
+CHN,power,electricity-generation,coal,25452032,Weihai power station,,12682.0,14210.0,14610.0
+IND,power,electricity-generation,coal,25454503,Jharsuguda CPP power station,12459.0,13371.0,14210.0,14250.0
+UKR,manufacturing,iron-and-steel,BF/BOF,1567096,ArcelorMittal Kryvyi Rih steel plant,12631.78003691079,17579.0205471705,14200.181701129344,14271.048821375301
+IND,power,electricity-generation,coal,25454469,Angul Steel power station,12435.0,13369.0,14200.0,14240.0
+ISR,buildings,residential-onsite-fuel-usage,,1244582,Tel Aviv,12850.827335475838,14154.989998009038,14185.196090967347,14185.196090967349
+CHN,power,electricity-generation,coal,25453957,Jiangyin Sulong power station,14280.0,14058.0,14180.0,14590.0
+ARE,manufacturing,aluminum,Smelting,3672937,Taweelah-Abu Dhabi aluminium plant,13332.653821422067,13751.492496403063,14075.243472199185,14138.635271655765
+CHN,power,electricity-generation,coal,25454171,Daqing Oil Central power station,14250.0,13990.0,14055.0,13725.0
+CHN,power,electricity-generation,coal,25454218,Xuzhou Pengcheng power station,13870.0,13417.0,14050.0,13821.0
+PHL,transportation,domestic-shipping,,1933558,Manila,15673.2210115164,16531.854903665597,14049.353234758699,14612.2259224008
+BRA,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3143754,Petrobras REFAP Canoas Refinery,12801.645970951045,15389.458501084844,14019.421340784227,14019.421340784227
+USA,transportation,international-shipping,,2802562,Savannah,,18919.490603208902,13995.4335572956,17713.9089699437
+IND,transportation,international-shipping,,2791600,Visakhaptnam,,13197.398965330302,13987.3662703673,14007.087674828801
+USA,fossil-fuel-operations,oil-and-gas-refining,Deep conversion Cracking-FCC-Resid HC-7,1753267,Marathon Galveston Bay Refinery,12885.303916214734,13371.600221310518,13967.251269814305,13967.251269814305
+CHN,manufacturing,iron-and-steel,BF/BOF,1566711,Fujian Dadonghai Industrial Group Co Ltd plant,,13458.245709479073,13945.305874530219,
+KOR,transportation,international-shipping,,2796131,Yeosu,18376.916472854602,22864.787670803806,13920.892092240098,13129.806411720898
+CHN,power,electricity-generation,"coal, gas, other_fossil",25452019,Huaneng Laiwu power station,14440.0,13439.0,13898.0,14070.0
+USA,transportation,international-shipping,,2802577,Sun Marine Terminals,,,13896.7578617454,17100.6201459494
+CHN,manufacturing,iron-and-steel,BF/BOF,1566671,Yunnan Yuxi Iron and Steel Group Yukun Iron and Steel Co Ltd,,,13890.554615248177,14813.45187579022
+MEX,transportation,international-aviation,international,3167939,Aeropuerto Internacional Lic. Benito Juárez,,13251.61421175066,13878.214782262692,13525.608966869162
+CHN,power,electricity-generation,coal,448746,Tongmei Yongji power station,13550.0,13440.0,13860.0,13900.0
+JPN,transportation,international-shipping,,2795904,Kisarazu Ko,15043.875797657998,14263.835434196697,13828.7901345438,13576.2977690744
+RUS,transportation,international-shipping,,2800977,St. Petersburg,14841.7642020874,,13814.008022420301,12895.282160092298
+CHN,power,electricity-generation,coal,25455981,Baotou East Hope power station,13720.0,13583.0,13810.0,13590.0
+KWT,transportation,international-shipping,,2796138,Offshore Terminal Shuaiba,13577.7750526493,16137.527582700002,13798.636837887201,
+CHN,power,electricity-generation,coal,25452043,Mawan power station,14360.0,14110.0,13770.0,13790.0
+PHL,power,electricity-generation,coal,25455479,Quezon power station,13072.0,,13760.0,13790.0
+VNM,transportation,international-shipping,,2802642,Hai Phong,,13404.921419814898,13743.8509494382,14153.673994493798
+CHN,transportation,road-transportation,,3621257,Chongqing,12804.624138942065,13512.789216756344,13716.053191122759,13411.427149140089
+JPN,transportation,domestic-shipping,,1932222,Osaka,13882.8807869957,14538.690325470701,13712.850494878101,13695.3216428965
+CHN,power,electricity-generation,coal,448353,<unknown plant name>,13935.0,13990.0,13680.0,13770.0
+CHN,power,electricity-generation,coal,25453548,Xinhai power station,13881.0,13231.0,13662.0,13349.0
+UKR,power,electricity-generation,coal,25450577,Zuevskaya power station,16440.0,12780.0,13647.0,13299.0
+USA,transportation,domestic-aviation,domestic,3172534,Harry Reid International Airport,,,13636.935738503462,13747.721891334484
+USA,transportation,domestic-aviation,domestic,3173969,San Francisco International Airport,,,13615.0567082265,13111.034648591562
+OMN,transportation,international-shipping,,2800467,Qalhat,,14586.9345077647,13608.130355621399,13041.650961741398
+POL,power,electricity-generation,"coal, biomass",447962,Połaniec Zielony Blok,16140.0,16000.0,13590.0,13630.0
+PAN,transportation,international-shipping,,2800505,Bahia De Las Minas,13322.331058385198,15906.6705601125,13550.9396690169,
+AUS,manufacturing,aluminum,Refinery,3672950,AUS-Gladstone,14382.822260756455,14518.386989169674,13550.621103707614,13052.26582007554
+AUS,transportation,international-shipping,,2787739,Melbourne,,13095.289440802899,13548.945164034902,13099.0821625783
+CHN,manufacturing,iron-and-steel,BF/BOF,1567325,Hebei Wenfeng Iron and Steel Co Ltd,13779.855972509442,13521.918938338053,13521.918938338053,13521.918938338053
+CHN,power,electricity-generation,coal,25454827,Liuzhi power station,12429.0,,13512.0,13630.0
+NZL,transportation,international-shipping,,2796656,Auckland,,,13505.0495765131,
+USA,power,electricity-generation,coal,25449125,Sooner,16230.0,15570.0,13500.0,13540.0
+CHN,power,electricity-generation,coal,25450370,Qingshan power station,13788.0,13699.0,13496.0,13348.0
+CHN,manufacturing,iron-and-steel,"BOF,BF/BOF",1567262,Shanxi Zhongyang Iron and Steel Co Ltd,14475.04291723048,15099.104814718801,13495.752707760794,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566509,Shougang Shuicheng Iron and Steel (Group) Co Ltd,13879.717268301156,14148.625757806896,13486.313581783601,14867.788134221099
+VNM,manufacturing,iron-and-steel,BF/BOF,1567174,Hoa Phat Dung Quat steel plant,19080.18972075078,18472.065755428343,13472.713384182647,
+CHN,power,electricity-generation,coal,450807,Huaneng Baotou-2 power station,12674.0,13336.0,13436.0,13730.0
+MEX,transportation,international-shipping,,2796221,Cozumel,,13420.261246803502,13393.4183298216,13992.4517515694
+DEU,transportation,international-shipping,,2788448,Kiel,,13792.179740137699,13387.5282081114,13023.426875077499
+CHN,power,electricity-generation,coal,25454182,Tongmei Datang power station,13094.0,13008.0,13386.0,13426.0
+IDN,power,electricity-generation,coal,1753129,Delong Nickel Phase III power station,,,13350.0,13380.0
+CHN,transportation,international-shipping,,2788189,Meishan Container,,14874.874745722502,13333.4873633871,15508.4003851964
+CHN,buildings,residential-onsite-fuel-usage,,1281165,Chongqing,13370.311794910309,12967.153649455913,13318.59634795341,13318.596347953404
+KOR,transportation,international-shipping,,2796096,Guemho Dong,13164.458145764602,14311.685231009902,13313.5544184542,13675.7431362985
+JPN,transportation,domestic-shipping,,1932088,Kanda,,13203.837501524,13313.0285100658,13075.583614519901
+CHN,power,electricity-generation,coal,448755,CPI Qinghe power station,13545.0,12828.0,13286.0,13344.0
+AUS,power,electricity-generation,coal,25450244,Stanwell power station,13333.0,13040.0,13280.0,13110.0
+TKM,buildings,residential-onsite-fuel-usage,,1371457,Boldumsaz,13121.997339413094,13067.213679806959,13278.91380963287,13278.91380963287
+PAK,buildings,residential-onsite-fuel-usage,,1338027,Bahawalpur,13382.551968657657,12961.278233374645,13272.27672508212,13272.276725082122
+ISR,transportation,international-aviation,international,3169462,Ben Gurion International Airport,,,13241.31539110316,
+USA,power,electricity-generation,coal,25449217,Welsh,15930.0,15270.0,13230.0,13270.0
+IND,power,electricity-generation,"coal, gas, other_fossil, oil",449456,TROMBAY_Coal,,,13220.0,13253.0
+AUS,transportation,international-shipping,,2787698,Botany Bay Sydney,,14000.796482996699,13212.2908593434,
+THA,power,electricity-generation,coal,447853,<unknown plant name>,15660.0,15440.0,13201.0,13240.0
+BRA,power,electricity-generation,coal,25453967,Porto do Pecém power station,22520.0,13200.0,13180.0,13220.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566759,Yangzhou Hengrun Ocean Heavy Industry Co Ltd,,13592.718926458756,13175.399001921836,13900.19110835793
+JAM,transportation,international-shipping,,2795810,Kingston,14257.382831744098,15382.668589049501,13167.188044114999,15129.0141245104
+USA,transportation,domestic-shipping,,1934543,Fort Lauderdale,15837.633347965399,13818.7569422689,13141.7809887335,13463.7734224203
+CHN,power,electricity-generation,coal,25455932,Nanhai Foshan power station,14830.0,12940.0,13117.0,13811.0
+USA,transportation,domestic-shipping,,1934687,"Pasedena,Texas",,13108.5275923258,13113.5196021964,13349.2015179733
+USA,transportation,international-shipping,,2802572,St. Bernard Port,,12804.6318319195,13105.384352539899,14588.606156832999
+CHN,power,electricity-generation,coal,25455101,Hebi Heqi power station,13435.0,12841.0,13097.0,13920.0
+USA,fossil-fuel-operations,oil-and-gas-production,Shale gas,3588784,United States_Appalachian_Shale gas,12677.120080728368,13250.153087191109,13093.21504672607,13093.21504672607
+USA,power,electricity-generation,coal,25449055,Mill Creek (KY),14230.0,14030.0,13080.0,13039.0
+BRA,fossil-fuel-operations,oil-and-gas-refining,Hydroskimming,1753431,Mubadala Maratripe Refinery,,,13066.12313560767,13066.12313560767
+USA,transportation,domestic-shipping,,1934670,"Norfolk,VA",12653.6735732177,15443.226484043598,13066.0379612269,
+DJI,transportation,international-shipping,,2788494,Djibouti,13895.0640570144,15347.7815733546,13051.094139220697,
+SAU,power,electricity-generation,gas,25451979,Ghazlan power plant,,,13045.0,13074.0
+USA,power,electricity-generation,coal,25449044,Ghent,14440.0,14170.0,13040.0,12884.0
+JPN,transportation,domestic-shipping,,1932160,Mizushima,12815.961506401098,14010.3590429216,13037.8486179388,13342.289586304101
+EGY,transportation,international-shipping,,2790232,Alexandria,13906.779572749301,13692.063908014401,12978.6333435484,15171.0248810742
+CHN,power,electricity-generation,coal,1753000,Shengle Cogen power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457193,Dangtang Shendong power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457159,Guidong Power Hezhou power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457175,Baiyinhua Industrial Park Captive power station,13800.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,721300,Huaneng Jining Gaoxin cogen power station,13780.0,13680.0,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457178,Guyang Jinshan Cogen power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,1752968,Debao Aluminum power station,,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457184,Xinghe Cogen power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,1752973,Qinhuangdao power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457202,Shaanxi Weinan cogeneration power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457230,Jinneng Guojin power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457242,Tianshan Qitai power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,1753061,Shouyang power station,14280.0,14280.0,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457252,Guotai Xinhua Coal Chemical power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,25457260,Shandong Steel Rizhao captive power station,12687.0,,12975.0,13005.0
+CHN,power,electricity-generation,coal,1753069,Tianjin Beitang power station,12687.0,,12975.0,13005.0
+AUS,power,electricity-generation,"coal, oil",447456,Tarong,13060.0,,12960.0,
+ESP,transportation,international-aviation,international,3165718,Josep Tarradellas Barcelona-El Prat Airport,,,12932.146854364071,14208.330686667448
+ITA,transportation,international-aviation,international,3168159,Malpensa International Airport,,,12915.835925962943,13859.485259212972
+IND,power,electricity-generation,coal,25453753,Ratnagiri Power Plant,,,12914.0,13654.0
+CHN,power,electricity-generation,coal,25450367,Guodian Jiujiang power station,,12877.0,12905.0,
+CHN,power,electricity-generation,coal,25454315,Fugu Qingshuichuan power station,12781.0,12915.0,12882.0,
+TWN,transportation,international-shipping,,2802080,Mailiao,12619.2422635841,13973.2421769295,12877.3484241675,12951.5690149646
+CHN,manufacturing,iron-and-steel,BF/BOF,1566591,Jiangsu Xugang Iron and Steel Group Co Ltd,,,12867.308846915568,13067.696211723573
+CHN,manufacturing,iron-and-steel,BF/BOF,1566608,Jilin Xinda Iron and Steel Co Ltd,13499.102666588466,,12864.792552891357,
+USA,power,electricity-generation,"coal, gas, oil",25449164,Cayuga,15370.0,14770.0,12858.0,12898.0
+CHN,transportation,international-shipping,,2788135,Huaneng Yantai Bajiao power station,13693.695134387403,13088.7990410139,12856.6455590518,
+CHN,power,electricity-generation,coal,25454089,Huaibei Linhuan power station,13452.0,13168.0,12851.0,
+PHL,power,electricity-generation,coal,25451460,Calaca power station,,,12845.0,12878.0
+CHN,power,electricity-generation,"coal, gas",25451542,Junliangcheng power station,,,12831.0,13230.0
+CHN,power,electricity-generation,coal,451089,Huaneng Ruijin power station,,13077.0,12822.0,12911.0
+CHN,transportation,international-shipping,,2788280,"Xianshan,Zhanjiang",,,12821.4805873582,
+IND,transportation,international-shipping,,2791547,Adani,,,12820.826843958599,15282.8983691224
+USA,power,electricity-generation,coal,25449141,Huntington,14340.0,14400.0,12817.0,
+TKM,agriculture,synthetic-fertilizer-application,,1003885,Baýramaly,,,12814.861052741164,
+CHN,power,electricity-generation,coal,25454323,China Resources Caofeidian power station,12929.0,,12774.0,
+PAK,power,electricity-generation,coal,25455585,Hubco power station,19380.0,16770.0,12773.0,
+USA,transportation,international-aviation,international,3166329,Dallas Fort Worth International Airport,,,12772.738039409312,13614.280473980833
+CHN,manufacturing,iron-and-steel,BF/BOF,1566517,Tangshan Donghua Iron & Steel Enterprise Group Co Ltd,13224.092483989087,,12768.24016002897,13268.129479746309
+CHN,manufacturing,iron-and-steel,BF/BOF,1566575,Lengshuijiang Steel Co Ltd,,12862.708750124952,12763.150875502093,
+IDN,power,electricity-generation,coal,25453775,Pelabuhan Ratu power station,14170.0,13350.0,12729.0,
+CHN,power,electricity-generation,coal,25453953,Wuxiang power station,12442.0,,12711.0,
+IND,power,electricity-generation,coal,25451914,Renusagar power station,,,12708.0,
+CHN,power,electricity-generation,coal,25453914,Jisco-2 power station,,12688.0,12703.0,
+KAZ,power,electricity-generation,coal,25450638,Ekibastuz-2 power station,13520.0,12932.0,12693.0,
+CHN,power,electricity-generation,coal,25451535,Fengzhen power station,12436.0,,12689.0,
+USA,power,electricity-generation,coal,25449252,Craig (CO),14100.0,13950.0,12686.0,
+CHN,power,electricity-generation,coal,453137,<unknown plant name>,12671.0,12934.0,12681.0,13030.0
+IND,power,electricity-generation,coal,25450349,Guru Hargobind Lehra Mohabbat Power Station,,,12660.0,12972.0
+CHN,manufacturing,iron-and-steel,BF/BOF,1566629,Weifang Special Steel Group Co Ltd,,,12659.83637422313,
+ITA,fossil-fuel-operations,oil-and-gas-production,OtherResources,3588668,Italy_OtherBasins_OtherResources,,13765.042888896849,12653.025921297469,
+ARE,transportation,domestic-shipping,,1928788,Port Rashid,14134.872154572198,14409.712583938099,,
+ARE,transportation,international-shipping,,2787635,Port Rashid,16311.902848788699,,,
+AUS,power,electricity-generation,"coal, oil",447845,Liddell,21720.0,15780.0,,
+BGR,power,electricity-generation,coal,4402950,Maritsa Iztok-3 power station,12847.0,14049.0,,
+BHR,transportation,domestic-shipping,,1929015,Bahrain,,13648.9535897215,,
+BOL,transportation,road-transportation,,3607847,Andrés Ibáñez,13473.485848269742,12751.219436414947,,
+BRA,power,electricity-generation,coal,25450359,Jorge Lacerda power station,13366.0,,,
+BRA,transportation,international-shipping,,2787883,Rio de Janerio,,12893.9451390069,,13734.4155277092
+CAN,mineral-extraction,iron-mining,iron-mine,36395100,Mont-Wright Mine,14609.372410798718,15615.255972089595,,
+CAN,power,electricity-generation,coal,446400,Boundary Dam,12631.0,,,
+CAN,power,electricity-generation,"coal, gas",4400352,Genesee,15350.0,12765.0,,
+CAN,transportation,international-aviation,international,3170205,Vancouver International Airport,,,,13137.07721123008
+CAN,transportation,international-shipping,,2787952,Montreal,,12955.6492071135,,
+CHL,power,electricity-generation,coal,25450435,Ventanas power station,12643.0,,,
+CHN,manufacturing,aluminum,Refinery,3673029,CHN-Zhengzhou,13395.036723615432,,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566497,Jiugang Group Yuzhong Iron & Steel Co Ltd,13779.246536923145,15101.624495775191,,13830.473877937013
+CHN,manufacturing,iron-and-steel,BF/BOF,1566524,Xingtai Iron & Steel Co Ltd,12823.64599137126,13242.526336613226,,14743.28340777056
+CHN,manufacturing,iron-and-steel,BF/BOF,1566536,Jinding Heavy Industry Co Ltd,13018.524714944886,,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566540,Hebei Rongxin Steel Co Ltd,12554.770518548476,,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566552,Angang Group Xinyang Iron and Steel Co Ltd,13946.51634836017,15326.98226128271,,13098.6669122093
+CHN,manufacturing,iron-and-steel,BF/BOF,1566607,Tonghua Iron and Steel Co Ltd,15283.55710352567,14111.935633421625,,15322.320446014171
+CHN,manufacturing,iron-and-steel,BF/BOF,1566631,Shiheng Special Steel Group Co Ltd,29151.332613140763,14628.288468180855,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566640,Shanxi Xintai Iron and Steel Co Ltd,,,,13240.694808936347
+CHN,manufacturing,iron-and-steel,BF/BOF,1566642,Shanxi Hongda Iron and Steel Group Co Ltd,17934.906417002585,14791.577715412546,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566655,Pangang Group Xichang Steel and Vanadium Co Ltd,14688.028512761817,13476.020685932077,,15718.977237564755
+CHN,manufacturing,iron-and-steel,BF/BOF,1566670,WISCO Group Kunming Steel Co Ltd New District Branch,13224.259212644733,,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566689,Hubei Jinshenglan Metallurgical Technology Co Ltd,13181.037389348357,13757.548077761738,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566695,Hebei Tianzhu Iron and Steel Group Special Steel Co Ltd,14655.036611929447,,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566703,Liaoyang United Steel Co Ltd,17870.50671491213,,,
+CHN,manufacturing,iron-and-steel,BF/BOF,1566763,Ningxia Jianlong Special Steel Co Ltd,13554.575544670904,,,13100.500245056357
+CHN,manufacturing,iron-and-steel,"BF/BOF,BOF",32440460,Chengde Jianlong Special Steel Co Ltd,,14653.198433002477,,13649.834918153318
+CHN,manufacturing,iron-and-steel,"BF/BOF,BOF",32440635,Baosteel Desheng Stainless Steel Co Ltd,,,,13830.25927708668
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440622,Yunnan Yuxi Xianfu Iron & Steel (Group) Co Ltd,12492.18749354026,,,
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32440630,Linyi Iron and Steel Investment Group Co Ltd,13268.158017008334,,,
+CHN,manufacturing,iron-and-steel,"BF/BOF,EAF",32441252,Zenith Steel Group Co Ltd,25235.076576437554,,,
+CHN,manufacturing,iron-and-steel,"EAF,BF/BOF",32440571,Shanxi Tongcai Industry and Trade Co Ltd,16917.9221950729,16454.107483680986,,
+CHN,power,electricity-generation,coal,450554,Huadian Harbin-1 power station,12620.0,,,
+CHN,power,electricity-generation,coal,4407848,<unknown plant name>,13440.0,13440.0,,19424.0
+CHN,power,electricity-generation,coal,25450975,Guangdong Shajiao power complex,14630.0,14830.0,,
+CHN,power,electricity-generation,coal,25451067,Leiyang power station,15850.0,,,
+CHN,power,electricity-generation,coal,25452610,Puqi Xianning power station,12700.0,,,
+CHN,power,electricity-generation,coal,25453204,Yunhe power station,14650.0,,,
+CHN,power,electricity-generation,coal,25453419,Fuxin power station,13258.0,,,
+CHN,power,electricity-generation,coal,25455014,Weiqiao Zhanhua power station,,,,13734.0
+CHN,power,electricity-generation,coal,25455931,Nanshan Aluminum Donghai power station,14580.0,,,
+CHN,transportation,domestic-aviation,domestic,3171140,Chengdu Shuangliu International Airport,12744.161666769794,,,
+CHN,transportation,domestic-shipping,,1929415,Anhui Guihang Special Steel Terminal,,,,13571.945355935
+CHN,transportation,international-aviation,international,3166020,Guangzhou Baiyun International Airport,,,,13351.502654195903
+CHN,transportation,international-aviation,international,3168560,Beijing Capital International Airport,,,,16550.445667050688
+CHN,transportation,international-shipping,,2788243,Shiniu Harbor,13558.808619136202,14213.178792881501,,
+CHN,transportation,international-shipping,,2788247,Shulanghu Island,,,,13361.4598671826
+CHN,transportation,international-shipping,,2788261,Tongliashi Container Port,17491.7048054315,16358.550935550402,,
+CHN,transportation,international-shipping,,2942925,Nanchang,26865.4075846469,,,
+COG,transportation,international-shipping,,2788353,Pointe,,,,13028.337351505399
+DEU,manufacturing,iron-and-steel,BF/BOF,1566776,ArcelorMittal Bremen steel plant,12883.588038180722,12895.423321119886,,
+DEU,power,electricity-generation,coal,4403955,Braunkohlekraftwerk Lippendorf,13280.0,14520.0,,
+DEU,transportation,international-shipping,,2788469,Ostermoor,12531.011807298899,13843.5853522582,,
+EGY,transportation,international-aviation,international,3166016,Cairo International Airport,,,,13095.75782186347
+ESP,transportation,domestic-shipping,,1930408,Tenerife,13422.1633911693,,,
+ESP,transportation,international-shipping,,2790345,Ceuta,,12759.6759863517,,
+ESP,transportation,international-shipping,,2790499,Santurce,,12740.076650335901,,
+ESP,transportation,international-shipping,,2790523,Tenerife,,,,14198.807275769901
+ESP,transportation,international-shipping,,2796771,El Puerto De Santa Maria,21112.310257782006,,,
+ETH,transportation,international-aviation,international,3165469,Addis Ababa Bole International Airport,,,,13036.938872283305
+FRA,transportation,domestic-shipping,,1930586,Marseille,14356.3373020265,,,
+GBR,transportation,international-shipping,,2790984,Felixstowe,,,,17913.7212515261
+GBR,transportation,international-shipping,,2791012,Immingham,12737.778492472202,14103.479606152301,,
+GBR,transportation,international-shipping,,2791042,Milford Haven,,13352.1701101402,,
+GRC,power,electricity-generation,coal,25451741,Agios Dimitrios power station,,12789.0,,
+GRC,transportation,international-shipping,,2791219,Mouliaka,,12896.0915251635,,
+IDN,manufacturing,aluminum,Refinery,3673071,IDN-Ketapang,,,,12958.868122499813
+IDN,manufacturing,iron-and-steel,BF/BOF,1566837,KS Posco Cilegon steel plant,14122.630881439978,14780.027934749729,,13695.134011041953
+IDN,power,electricity-generation,coal,25453780,Banten Lontar power station,12729.0,,,
+IDN,power,electricity-generation,coal,25454025,Indramayu power station,13330.0,,,
+IDN,power,electricity-generation,coal,25455313,Jawa-7 power station,13126.0,13080.0,,
+IND,manufacturing,iron-and-steel,"EAF,BF/BOF",32440775,JSW Steel Dolvi steel plant,,12991.862745195867,,
+IND,transportation,international-shipping,,2791573,Kochin,13823.534545917899,,,
+IND,transportation,international-shipping,,2791596,Sika Jamnagar Refinery,12465.588095011899,13512.459855758701,,
+ITA,transportation,domestic-shipping,,1931924,Porto Turistico Riva Di Traiano,18934.027684471403,,,
+ITA,transportation,international-shipping,,2795803,Trieste,,13153.4573130188,,
+JPN,power,electricity-generation,coal,25451948,Sakata Kyodo power station,13820.0,13179.0,,
+JPN,power,electricity-generation,"coal, oil",449534,Hirono,,13178.0,,
+JPN,power,electricity-generation,gas,25450447,Kawagoe thermal power station,13069.0,13260.0,,
+JPN,power,electricity-generation,"gas, other_fossil",449531,Chiba,12721.0,12903.0,,
+JPN,transportation,international-shipping,,2795899,Kawasaki,13327.654322636998,13141.1190341313,,
+JPN,transportation,international-shipping,,2796017,Sodeguera Port Bay Terminal,12720.005061691201,13927.3108537606,,
+KOR,transportation,domestic-shipping,,1932382,Incheon,,,,13027.241197983001
+KOR,transportation,international-shipping,,2796098,Gwangyang,13442.9880324606,13511.9504118011,,
+LKA,transportation,international-shipping,,2796173,Galle,16641.0691384106,17922.549752998,,
+LTU,transportation,international-shipping,,2796178,Klaipeda State Seaport,14853.3663523578,,,
+MAR,power,electricity-generation,"coal, oil",451027,<unknown plant name>,12640.0,,,
+MEX,manufacturing,iron-and-steel,"EAF,BF/BOF",32441229,Altos Hornos De Mexico S.A. (AHMSA) steel plant,18003.779513403177,,,
+MEX,transportation,international-shipping,,2829620,Puerto Penasco,13624.209509570797,,,
+MYS,manufacturing,iron-and-steel,BF/BOF,1566989,Eastern Steel Kemaman plant,,,,19845.743375665792
+NAM,transportation,international-shipping,,2796323,Walvis Bay,,,,19608.979885355
+NER,transportation,international-shipping,,2844879,Niamey,15430.7800206782,,,
+NGA,transportation,international-shipping,,2796369,Tin Can Island,,13454.2518418289,,
+NLD,manufacturing,iron-and-steel,BF/BOF,1566991,Tata Steel IJmuiden steel plant,13206.257454203173,,,13107.562171849257
+NLD,transportation,international-shipping,,2796432,Ijmuiden,,15101.800313698901,,
+NZL,transportation,international-aviation,international,3165542,Auckland International Airport,,,,13348.383955708212
+PAK,power,electricity-generation,coal,25455303,Port Qasim EPC power station,14550.0,13092.0,,
+PAK,transportation,international-shipping,,2800482,Damb,22964.6813569929,22088.930833815197,,
+PAK,transportation,international-shipping,,2800492,Karachi,13138.5336468849,13375.427840745098,,
+PAK,transportation,international-shipping,,2800495,Port Qasim,17497.100163419997,14325.520555183899,,14110.9798121168
+POL,power,electricity-generation,coal,25450770,Opole power station,14650.0,13820.0,,
+POL,power,electricity-generation,coal,25450771,Rybnik power station,20010.0,16780.0,,
+REU,transportation,international-shipping,,2800879,Port Reunion Ouest,13014.015558170802,,,
+SAU,fossil-fuel-operations,oil-and-gas-refining,Deep Conversion,3144102,Saudi Aramco Ras Tanura Refinery,13481.589384587636,12848.869014043543,,
+SAU,transportation,international-shipping,,2801052,Jubail,12820.228079632001,13031.8658447582,,
+SEN,transportation,international-shipping,,2801120,Dakar,13581.950088303902,14749.8623170124,,
+TGO,transportation,domestic-shipping,,1934138,Lome,15572.0547534215,12776.542598963299,,
+TUR,power,electricity-generation,"coal, oil",449565,<unknown plant name>,13910.0,14700.0,,
+TUR,transportation,international-shipping,,2801829,Bakirkoy,12612.569518970198,13797.0621072957,,
+UKR,manufacturing,iron-and-steel,BF/BOF,1567095,Alchevsk Metallurgical Plant,,,,13884.49152560946
+UKR,power,electricity-generation,coal,447774,Luhanska,16600.0,,,
+USA,power,electricity-generation,coal,25449126,Nebraska City,12627.0,13460.0,,
+USA,power,electricity-generation,coal,25449171,Comanche (CO),13193.0,,,
+USA,power,electricity-generation,coal,25449219,Harrington,14250.0,14320.0,,13031.0
+USA,power,electricity-generation,coal,25449221,Tolk,12688.0,13892.0,,
+USA,power,electricity-generation,coal,25449280,Jeffrey Energy Center,14400.0,14360.0,,
+USA,power,electricity-generation,"coal, gas",25449103,R M Schahfer,16990.0,,,
+USA,power,electricity-generation,"coal, gas, oil",25448964,St Clair,17290.0,15074.3,,
+USA,power,electricity-generation,"coal, oil",25449033,AES Petersburg,15700.0,14047.0,,
+USA,transportation,domestic-shipping,,1934637,"Miami,FL",13337.704352328798,,,
+USA,transportation,domestic-shipping,,1934772,Seattle,,14134.996006704501,,
+USA,transportation,international-shipping,,2802306,Calcasieu Ship Canal Storage,,,,13840.535969736902
+USA,transportation,international-shipping,,2802404,"Gregory,TX",13375.5292428384,,,13598.687229066101
+USA,transportation,international-shipping,,2802563,"SCSPA Wanto Welch Terminal,Port Charleston",,,,13219.608555623003
+USA,transportation,international-shipping,,2802565,Seattle,,13245.579480415698,,
+USA,transportation,international-shipping,,2802578,Tacoma,12843.5598050984,,,
+VNM,power,electricity-generation,coal,718471,Van Phong power station,,,,14222.0
+VNM,power,electricity-generation,coal,25451625,Quang Ninh power station,13372.0,,,
+VNM,power,electricity-generation,coal,25454246,Hai Duong Thermal Power Plant,12681.0,,,
+VNM,transportation,international-shipping,,2804942,Ssa International Terminal Cai Mep,15875.9454132219,14684.4653667506,,14022.260581038401
+ZAF,power,electricity-generation,coal,25450901,Hendrina power station,14684.0,,,
+ZAF,transportation,international-shipping,,2805042,Saldhana,12706.765111388899,,,
