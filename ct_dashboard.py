@@ -48,8 +48,14 @@ st_layout = {'width_col': 1000,
 
 st.set_page_config(layout="wide")
 
-st.markdown("""
+st.markdown("""         
     <style>
+    /* Set background color for the entire app
+    .stApp {
+        background-color: #EBE6E6;  /* You can replace #F5F5F5 with any color code */
+    }*/
+                            
+    /* Map container custom styling */    
     .map-container {
         width: 100%;  /* Make the map container full width */
         height: 500px; /* Set a fixed height for the map */
@@ -316,7 +322,24 @@ else:
                 with layout_col2:
                     # Set up the title of the Streamlit app
                     st.header("Country Hotspot")
-                    st.write(f"current year [{st.session_state.year}] - previous year [{st.session_state.year1}]")
+                    # st.write(f"current year [{st.session_state.year}] - previous year [{st.session_state.year1}]")
+                    gradient_bar_html = """
+                    <div style="
+                        width: 200px; height: 20px;
+                        background: linear-gradient(to right, #CC3333, white, #228B22);
+                        font-size:12px;
+                    ">
+                        <div style="text-align:center;">
+                            Worse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Better
+                        </div>
+                    </div>
+                    """
+                    st.markdown(f"""
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <div>current year [{st.session_state.year}] - previous year [{st.session_state.year1}]</div> 
+                            <div>{gradient_bar_html}</div>
+                        </div>
+                    """, unsafe_allow_html=True)
 
                     # Load internal GADM boundary CSV into a DataFrame
                     df_gadm = pd.read_csv(os.path.join(csv_directory, 'ct_gadm_cty_point_20240915.csv'))
@@ -386,36 +409,7 @@ else:
                             popup = f"{row['country']} ({row['iso3_country']}) <br><br>Emissions: {row[st.session_state.year]:,.0f}, Change: {row[f'{fds_diff}']:,.0f}"
                         ).add_to(folium_map)
 
-                    #Adding legend for color
-                    gradient_bar_html = """
-                    <div style="
-                        position: fixed; 
-                        bottom: 50px; left: 50px; width: 200px; height: 20px; 
-                        background: linear-gradient(to right, red, white, green); 
-                        z-index:9999; font-size:10px; 
-                        border:1px solid grey; padding: 5px;
-                        # box-shadow: 2px 2px 6px rgba(0,0,0,0.5);
-                    ">
-                        <div style="text-align:center; font-weight: bold;">Worse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Better</div>
-                    </div>
-                    """           
-                    folium_map.get_root().html.add_child(folium.Element(gradient_bar_html))
-
-                    folium.LayerControl().add_to(folium_map)
                     st_folium(folium_map, width=st_layout['width_col'], height=st_layout['height_row'])
-
-                    gradient_bar_html = """
-                    <div style="
-                        width: 200px; height: 20px;
-                        background: linear-gradient(to right, red, white, green);
-                        font-size:12px;
-                    ">
-                        <div style="text-align:center;">
-                            Worse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Better
-                        </div>
-                    </div>
-                    """
-                    st.markdown(gradient_bar_html, unsafe_allow_html=True) 
 
             with st.expander("**Expand to view Global emissions details**", expanded=False):
                 with st.container():
