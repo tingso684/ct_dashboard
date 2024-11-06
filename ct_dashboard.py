@@ -128,6 +128,12 @@ else:
         if 'subsector' not in st.session_state:
             st.session_state.subsector = "all subsectors"
 
+        if 'sector1' not in st.session_state:
+            st.session_state.sector1 = "all sectors"
+
+        if 'subsector1' not in st.session_state:
+            st.session_state.subsector1 = "all subsectors"
+
         if 'sector2' not in st.session_state:
             st.session_state.sector2 = "all sectors"
 
@@ -161,11 +167,12 @@ else:
 
         # File selection dropdown
         st.write("**Climate TRACE 2024 v4 release includes 68 sectors covering over 660 miliions assets globally**")
-        st.write("**Data:  v4_2024 (20241027),  v3_2023 (20240918)**")
+        # st.write("**Data:  v4_2024 (20241027),  v3_2023 (20240918)**")
+        st.write("*This web tool is for the internal use of Climate TRACE and its partners only.  The data available here may be revised, updated, rearranged, or deleted without prior information to users and is not warranted to be error-free.*")
         with st.container():
             layout_col1, layout_col2 = st.columns(2)
             with layout_col1:
-                selected_snapshot = st.selectbox("Select a data snapshort date", options=dt_str, index=0)
+                selected_snapshot = st.selectbox("Select data: [v4 - 20241027 | v3 - 20240918]", options=dt_str, index=0)
 
             with layout_col2:
                 selected_gas = st.selectbox("Select a gas", options=gas_type, index=0)
@@ -290,6 +297,7 @@ else:
 
                 return fig
 
+            st.markdown("---")
             # Layout:  First Row
             with st.container():
                 layout_col1, layout_col2 = st.columns(2)  # Create two columns
@@ -331,6 +339,29 @@ else:
                     # Set up the title of the Streamlit app
                     st.header("Country Hotspot")
                     # st.write(f"current year [{st.session_state.year}] - previous year [{st.session_state.year1}]")
+
+                    # *** Setup sector and subsector selection here ***
+                    layout_col2a, layout_col2b = st.columns(2)  # Create two columns
+
+                    with layout_col2a:
+                        sector_list = ['all sectors'] + sorted(st.session_state.df_yr['sector'].unique().tolist())
+                        selected_sector1 = st.selectbox("Select a Sector", options=sector_list, index=0, key='sector_hotspot')
+
+                    if selected_sector1 != st.session_state.sector1:
+                        st.session_state.sector1 = selected_sector1
+
+                    with layout_col2b:
+                        subsector_list = ['all subsectors'] + sorted(st.session_state.df_yr.loc[st.session_state.df_yr['sector']==st.session_state.sector1,'subsector'].unique().tolist())
+                        selected_subsector1 = st.selectbox("Select a Subsector", options=subsector_list, index=0, key='subsector_hotspot')
+
+                    if selected_subsector1 != st.session_state.subsector1:
+                        st.session_state.subsector1 = selected_subsector1
+
+                    if st.session_state.subsector1 == 'all subsectors':
+                        filtered_df_sector_hotspot = st.session_state.df[st.session_state.df['sector'] == st.session_state.sector1] if st.session_state.sector1 != 'all sectors' else st.session_state.df
+                    else:
+                        filtered_df_sector_hotspot = st.session_state.df[st.session_state.df['subsector'] == st.session_state.subsector1]
+                    
                     gradient_bar_html = """
                     <div style="
                         width: 200px; height: 20px;
@@ -349,15 +380,12 @@ else:
                         </div>
                     """, unsafe_allow_html=True)
 
-                    # Load internal GADM boundary CSV into a DataFrame
-                    df_gadm = pd.read_csv(os.path.join(csv_directory, 'ct_gadm_cty_point_20240915.csv'))
-                    df_gadm['geometry'] = df_gadm['geometry'].apply(wkt.loads)
-                    gdf_gadm = gpd.GeoDataFrame(df_gadm, geometry='geometry')
-
-                    df_tb = st.session_state.df[['year','iso3_country','country','emissions_quantity']]            
+                    df_tb = filtered_df_sector_hotspot[['year','iso3_country','country','sector','subsector','asset_type','emissions_quantity','activity','emissions_factor']] 
                     df_tb = df_tb.loc[df_tb['year'].isin([st.session_state.year,st.session_state.year1]),:]
                     df_tb.rename(columns={'emissions_quantity': 'emissions'}, inplace=True)
-                    df_tb = df_tb.pivot_table(index=['iso3_country','country'], columns='year', values='emissions').reset_index()
+                    df_tb = df_tb.pivot_table(index=['iso3_country','country'], columns='year', values='emissions', aggfunc='sum')
+                    df_tb = df_tb.dropna(how='any', axis=0)
+                    df_tb = df_tb.loc[(df_tb != 0).any(axis=1), (df_tb != 0).any(axis=0)].reset_index()
 
                     fds_diff = 'emissions_' + '-'.join([str(st.session_state.year), str(st.session_state.year1)])
                     df_tb[fds_diff] = df_tb[st.session_state.year] - df_tb[st.session_state.year1]
@@ -391,10 +419,18 @@ else:
 
                     #Sizing
                     custom_percentiles = [0, 0.3, 0.5, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 0.99, 1.0] 
-                    size_bins = pd.qcut(df_tb[st.session_state.year], q=custom_percentiles, labels=range(5, 15)) 
+                    # size_bins = pd.qcut(df_tb[st.session_state.year], q=custom_percentiles, labels=range(5, 15), duplicates='drop')
+                    size_bins = pd.qcut(df_tb[st.session_state.year], q=custom_percentiles, duplicates='drop')
+                    labels = range(15 - size_bins.nunique(), 15)
+                    size_bins = pd.qcut(df_tb[st.session_state.year], q=custom_percentiles, labels=labels, duplicates='drop')
                     df_tb['Size'] = size_bins
 
                     #Plot
+                    # Load internal GADM boundary CSV into a DataFrame
+                    df_gadm = pd.read_csv(os.path.join(csv_directory, 'ct_gadm_cty_point_20240915.csv'))
+                    df_gadm['geometry'] = df_gadm['geometry'].apply(wkt.loads)
+                    gdf_gadm = gpd.GeoDataFrame(df_gadm, geometry='geometry')
+
                     gdf_gadm = gdf_gadm.merge(df_tb, on=['iso3_country'], how='inner')
                     # st.write(df_tb)
 
@@ -417,7 +453,7 @@ else:
                             popup = f"{row['country']} ({row['iso3_country']}) <br><br>Emissions: {row[st.session_state.year]:,.0f}, Change: {row[f'{fds_diff}']:,.0f}"
                         ).add_to(folium_map)
 
-                    st_folium(folium_map, width=st_layout['width_col'], height=st_layout['height_row'])
+                    st_folium(folium_map, width=st_layout['width_col'], height=st_layout['height_row']-20)
 
             with st.expander("**Expand to view Global emissions details**", expanded=False):
                 with st.container():
@@ -1035,7 +1071,7 @@ else:
                 filtered_df_asset = filtered_df_asset.loc[filtered_df_asset['year']<=st.session_state.year,:]
                 filtered_df_asset[st.session_state.topAssetField] = filtered_df_asset[st.session_state.topAssetField].replace([np.inf, -np.inf], np.nan).fillna(0).astype(int)
 
-                filtered_df_asset_ts = filtered_df_asset.pivot_table(index=['iso3_country','sector','subsector','asset_type','asset_name','asset_id'], columns='year', values=[st.session_state.topAssetField])
+                filtered_df_asset_ts = filtered_df_asset.pivot_table(index=['iso3_country','sector','subsector','asset_type','asset_name','asset_id'], columns='year', values=[st.session_state.topAssetField], aggfunc='sum')
 
                 if filtered_df_asset_ts.empty == False:
                     filtered_df_asset_ts.columns = filtered_df_asset_ts.columns.droplevel(0)
