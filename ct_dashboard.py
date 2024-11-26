@@ -29,6 +29,7 @@ csv_directory = './data'  # Current directory
 csv_files = [f for f in os.listdir(csv_directory) if f.endswith('.csv') and 'ct_assets_' in f]
 csv_files = sorted(csv_files, reverse=True)
 
+file_prefix_fua = 'asset/ct_fua_sector_'
 file_prefix_top500 = 'asset/ct_assets_top500_'
 file_prefix_asset = 'asset/ct_assets_assets_trim_'
 file_prefix = 'ct_assets_slim_'
@@ -37,6 +38,7 @@ list_files = [re.search(r"\['(.*?)'\]_(\d{8})", f) for f in csv_files]
 gas_type0 = ['co2e_100yr', 'co2', 'ch4', 'n2o', 'pm2_5','so2','nox','co','nh3','nmvoc','bc','oc']
 gas_type = sorted(list(set([v.group(1) for v in list_files])), reverse=False)
 gas_type = [x for x in gas_type0 if x in gas_type]
+gas_type_city = ['co2e_100yr', 'co2', 'ch4', 'n2o']
 
 dt_str = sorted(list(set([v.group(2) for v in list_files])), reverse=True)
 
@@ -79,12 +81,23 @@ def short_scale_formatter(value):
                     else:
                         return f"{value:.0f}"
 
+def separator(text):
+    txt = f"""
+            <div style="display: flex; align-items: center; text-align: center;">
+                <hr style="flex: 1; border: none; border-top: 1px solid #ccc;" />
+                <span style="padding: 0 10px; color: #666; font-weight: bold; font-size: 16px;">{text}</span>
+                <hr style="flex: 1; border: none; border-top: 1px solid #ccc;" />
+            </div>
+            """
+
+    return txt
 
 # Ensure there's at least one CSV file
 if not csv_files:
     st.error("No CSV files found in the directory.")
 else:
-    layout_tab1, layout_tab2 = st.tabs(["**Climate TRACE Dashboard**", "**Inventory Comparison**"])
+    st.header('Climate TRACE Dashboard')
+    layout_tab1, layout_tab2, layout_tab3 = st.tabs(["**Country/Sector Emissions**", "**City Emissions**", "**Inventory Comparison**"])
 
     with layout_tab1:
 
@@ -165,10 +178,13 @@ else:
             st.session_state.chart_comp_loaded = False
             st.session_state.cp = None
 
+
         # File selection dropdown
         st.write("**Climate TRACE 2024 v4 release includes 68 sectors covering over 660 miliions assets globally**")
-        # st.write("**Data:  v4_2024 (20241027),  v3_2023 (20240918)**")
         st.write("*This web tool is for the internal use of Climate TRACE and its partners only.  The data available here may be revised, updated, rearranged, or deleted without prior information to users and is not warranted to be error-free.*")
+
+        st.markdown(separator('data selections that refresh the full page'), unsafe_allow_html=True)
+
         with st.container():
             layout_col1, layout_col2 = st.columns(2)
             with layout_col1:
@@ -222,7 +238,7 @@ else:
                 all_years = sorted(st.session_state.df.year.unique().tolist(), reverse=True)
                     
                 with layout_col1:
-                    selected_choice = st.selectbox("Select data type", options=['all sectors (include forestry)', 'ex-forestry'], index=1)
+                    selected_choice = st.selectbox("Select data type: [with or without forestry]", options=['all sectors (include forestry)', 'ex-forestry'], index=1)
 
                 if selected_choice != st.session_state.choice:
                     st.session_state.choice = selected_choice
@@ -297,7 +313,9 @@ else:
 
                 return fig
 
-            st.markdown("---")
+            # st.markdown("---")
+            st.markdown(separator('additional selections for charts and tables below'), unsafe_allow_html=True)
+
             # Layout:  First Row
             with st.container():
                 layout_col1, layout_col2 = st.columns(2)  # Create two columns
@@ -498,7 +516,7 @@ else:
                     st.header("Country Emissions")
 
                     country_list = ['global'] + sorted(st.session_state.df_yr['country'].unique().tolist())
-                    selected_country = st.selectbox("Select a Country", options=country_list)
+                    selected_country = st.selectbox("Select a Country [left chart]", options=country_list)
                     if selected_country != 'global':
                         selected_country = st.session_state.df_yr.loc[st.session_state.df_yr['country']==selected_country,'iso3_country'].values[0]
 
@@ -552,14 +570,14 @@ else:
 
                     with layout_col2a:
                         sector_list = ['all sectors'] + sorted(st.session_state.df_yr['sector'].unique().tolist())
-                        selected_sector = st.selectbox("Select a Sector", options=sector_list, index=4)
+                        selected_sector = st.selectbox("Select a Sector [right chart]", options=sector_list, index=4)
 
                     if selected_sector != st.session_state.sector:
                         st.session_state.sector = selected_sector
 
                     with layout_col2b:
                         subsector_list = ['all subsectors'] + sorted(st.session_state.df_yr.loc[st.session_state.df_yr['sector']==st.session_state.sector,'subsector'].unique().tolist())
-                        selected_subsector = st.selectbox("Select a Subsector", options=subsector_list, index=0)
+                        selected_subsector = st.selectbox("Select a Subsector [right chart]", options=subsector_list, index=0)
 
                     if selected_subsector != st.session_state.subsector:
                         st.session_state.subsector = selected_subsector
@@ -733,19 +751,18 @@ else:
                 layout_col1, layout_col2 = st.columns(2)  # Create two columns
                     
                 with layout_col1:
-
                     layout_col1a, layout_col1b = st.columns(2)  # Create two columns
 
                     with layout_col1a:
                         sector_list = ['all sectors'] + sorted(st.session_state.df_yr['sector'].unique().tolist())
-                        selected_sector2 = st.selectbox("Select a Sector", options=sector_list, index=0, key='country_sector2')
+                        selected_sector2 = st.selectbox("Select a Sector [left chart]", options=sector_list, index=0, key='country_sector2')
 
                     if selected_sector2 != st.session_state.sector2:
                         st.session_state.sector2 = selected_sector2
 
                     with layout_col1b:
                         subsector_list = ['all subsectors'] + sorted(st.session_state.df_yr.loc[st.session_state.df_yr['sector']==st.session_state.sector2,'subsector'].unique().tolist())
-                        selected_subsector2 = st.selectbox("Select a Subsector", options=subsector_list, index=0, key='country_subsector2')
+                        selected_subsector2 = st.selectbox("Select a Subsector [left chart]", options=subsector_list, index=0, key='country_subsector2')
 
                     if selected_subsector2 != st.session_state.subsector2:
                         st.session_state.subsector2 = selected_subsector2
@@ -797,7 +814,7 @@ else:
                     st.plotly_chart(fig_ts_cty_sec_bar, use_container_width=True) 
 
                 with layout_col2:
-                    selected_topRank = st.selectbox("Select a number of countries", options=range(1,11), index=4)
+                    selected_topRank = st.selectbox("Select a number of countries [right chart]", options=range(1,11), index=4)
 
                     if selected_topRank != st.session_state.topRank:
                         st.session_state.topRank = selected_topRank
@@ -1246,8 +1263,351 @@ else:
                 # #     file_name='aggrid_data.csv',
                 # #     mime='text/csv'
                 # # )
-
+    
     with layout_tab2:
+        st.write("**Climate TRACE 2024 v4 release includes 9,031 cities globally**")
+        st.write("*This web tool is for the internal use of Climate TRACE and its partners only.  The data available here may be revised, updated, rearranged, or deleted without prior information to users and is not warranted to be error-free.*")
+
+        st.markdown(separator('data selections that refresh the full page'), unsafe_allow_html=True)
+
+        # Newly added for city emissions comparison
+        if 'fua_snapshot' not in st.session_state:
+            st.session_state.fua_snapshot = dt_str[0]
+        
+        if 'fua_gas' not in st.session_state:
+            st.session_state.fua_gas = gas_type_city[0]
+
+        if 'df_fua' not in st.session_state:
+            # fname = file_prefix_fua + "['" + st.session_state.fua_gas + "']" + "_" + st.session_state.fua_snapshot + '.csv'
+
+            # New Code to combin gas and key files to form one (memory saving route)
+            fname = file_prefix_fua + "gas_" + st.session_state.fua_snapshot + '.csv'
+            st.session_state.file_fua = fname 
+            st.session_state.df_fua0 = pd.read_csv(os.path.join(csv_directory, st.session_state.file_fua), index_col=0)
+
+            fname = file_prefix_fua + "key_" + st.session_state.fua_snapshot + '.csv'
+            df_fua_key = pd.read_csv(os.path.join(csv_directory, fname), index_col=0)
+
+            st.session_state.df_fua0 = df_fua_key.merge(st.session_state.df_fua0, left_index=True, right_index=True, how='left')
+            st.session_state.df_fua0 = st.session_state.df_fua0.set_index(['continent_ct', 'country', 'iso3_country', 'city_id', 'name', 'sector','asset_type', 'year'])
+
+            st.session_state.df_fua0 = st.session_state.df_fua0.melt(var_name='Variable', value_name='Value', ignore_index=False)
+            st.session_state.df_fua0 = st.session_state.df_fua0.rename(columns={'Variable': 'gas', 'Value': 'emissions_quantity'}).reset_index()
+
+            st.session_state.df_fua = st.session_state.df_fua0.loc[st.session_state.df_fua0['gas']==st.session_state.fua_gas,:]
+
+        if 'fua_choice' not in st.session_state:
+            st.session_state.fua_choice = 'all sectors (include forestry)' # or 'ex-forestry'
+
+        if 'fua_continent' not in st.session_state:
+            st.session_state.fua_continent = "global"
+
+        if 'fua_country' not in st.session_state:
+            st.session_state.fua_country = "all"
+            st.session_state.fua_country_full = "all"
+
+        if 'fua_city' not in st.session_state:
+            st.session_state.fua_city = "all"
+
+        if 'fua_sector' not in st.session_state:
+            st.session_state.fua_sector = "all sectors"
+
+        all_fua_years = sorted(st.session_state.df_fua.year.unique().tolist(), reverse=True)
+        if 'fua_year' not in st.session_state:
+            st.session_state.fua_year0 = all_fua_years[-1]
+            st.session_state.fua_year = all_fua_years[1]
+            st.session_state.fua_year1 = all_fua_years[2]
+            st.session_state.df_fua_yr = st.session_state.df_fua.loc[st.session_state.df_fua['year']==int(st.session_state.fua_year),:]
+
+        with st.container():
+            layout_col1, layout_col2 = st.columns(2)
+            with layout_col1:
+                selected_fua_snapshot = st.selectbox("Select data: [v4 - 20241027]", options=dt_str[:1], index=0, key='sb_fua_snapshot')
+
+            with layout_col2:
+                selected_fua_gas = st.selectbox("Select a gas", options=gas_type_city, index=0, key='sb_fua_gas')
+
+        if selected_fua_gas != st.session_state.fua_gas:
+            st.session_state.fua_gas = selected_fua_gas
+            st.session_state.df_fua = st.session_state.df_fua0.loc[st.session_state.df_fua0['gas']==st.session_state.fua_gas,:] 
+
+        # if selected_fua_snapshot != st.session_state.fua_snapshot:
+        #     st.session_state.fua_snapshot = selected_fua_snapshot
+
+        # # selected_fua_file = file_prefix_fua + "['" + st.session_state.fua_gas + "']" + "_" + st.session_state.fua_snapshot + '.csv'
+        selected_fua_file = file_prefix_fua + "gas_" + st.session_state.fua_snapshot + '.csv'
+        
+        trigger = True
+
+        if trigger == False:
+            st.write('File is not available for the snapshot date and gas. Please select other')
+        else:
+            if selected_fua_file != st.session_state.file_fua:
+                st.session_state.file_fua = selected_fua_file
+
+                # st.session_state.df_fua = pd.read_csv(os.path.join(csv_directory, st.session_state.file_fua))
+
+                # New Code to combin gas and key files to form one (memory saving route)
+                st.session_state.df_fua0 = pd.read_csv(os.path.join(csv_directory, st.session_state.file_fua), index_col=0)
+
+                fname = file_prefix_fua + "key_" + st.session_state.fua_snapshot + '.csv'
+                df_fua_key = pd.read_csv(os.path.join(csv_directory, fname), index_col=0)
+
+                st.session_state.df_fua0 = df_fua_key.merge(st.session_state.df_fua0, left_index=True, right_index=True, how='left')
+                st.session_state.df_fua0 = st.session_state.df_fua0.set_index(['continent_ct', 'country', 'iso3_country', 'city_id', 'name', 'sector','asset_type', 'year'])
+
+                st.session_state.df_fua0 = st.session_state.df_fua0.melt(var_name='Variable', value_name='Value', ignore_index=False)
+                st.session_state.df_fua0 = st.session_state.df_fua0.rename(columns={'Variable': 'gas', 'Value': 'emissions_quantity'}).reset_index()
+
+                st.session_state.df_fua = st.session_state.df_fua0.loc[st.session_state.df_fua0['gas']==st.session_state.fua_gas,:]
+
+                st.session_state.df_fua_yr = st.session_state.df_fua.loc[st.session_state.df_fua['year']==int(st.session_state.fua_year),:]
+
+                if st.session_state.fua_choice == 'ex-forestry':
+                    st.session_state.df_fua = st.session_state.df_fua.loc[st.session_state.df_fua['sector'].isin(['forestry-and-land-use'])==False,:]
+                    st.session_state.df_fua_yr = st.session_state.df_fua.loc[st.session_state.df_fua['year']==int(st.session_state.fua_year),:]
+
+            # Year selection dropdown
+            with st.container():
+                layout_col1, layout_col2, layout_col3 = st.columns(3)  # Create two columns
+
+                all_years = sorted(st.session_state.df_fua.year.unique().tolist(), reverse=True)
+                    
+                with layout_col1:
+                    selected_fua_choice = st.selectbox("Select data type: [with or without forestry]", options=['all sectors (include forestry)', 'ex-forestry'], index=1, key='sb_fua_type')
+
+                if selected_fua_choice != st.session_state.fua_choice:
+                    st.session_state.fua_choice = selected_fua_choice
+
+                    if st.session_state.fua_choice == 'ex-forestry':
+                        st.session_state.df_fua = st.session_state.df_fua.loc[st.session_state.df_fua['sector'].isin(['forestry-and-land-use'])==False,:]
+                        st.session_state.df_fua_yr = st.session_state.df_fua.loc[st.session_state.df_fua['year']==int(st.session_state.fua_year),:]
+
+                    else:
+                        st.session_state.df_fua = st.session_state.df_fua0.loc[st.session_state.df_fua0['gas']==st.session_state.fua_gas,:]
+                        st.session_state.df_fua_yr = st.session_state.df_fua.loc[st.session_state.df_fua['year']==int(st.session_state.fua_year),:]
+
+                with layout_col2:
+                    selected_fua_year = st.selectbox("Select current year", options=all_fua_years, index=1, key='sb_fua_year')
+
+                if selected_fua_year != st.session_state.fua_year:
+                    st.session_state.fua_year = selected_fua_year
+                    st.session_state.df_fua_yr = st.session_state.df_fua.loc[st.session_state.df_fua['year']==int(st.session_state.fua_year),:]
+
+                with layout_col3:
+                    selected_fua_year_comp = st.selectbox("Select previous year", options=all_fua_years, index=2, key='sb_fua_year1')
+
+                if selected_fua_year_comp != st.session_state.fua_year1:
+                    st.session_state.fua_year1 = selected_fua_year_comp
+
+
+            st.markdown(separator('additional selections for the charts and tables below'), unsafe_allow_html=True)
+
+            with st.container():
+                st.header("City Emissions")
+
+                #Continent, Country, City (lists)
+                layout_col1, layout_col2, layout_col3 = st.columns(3)  # Create two columns
+
+                if "fua_is_refreshing" not in st.session_state:
+                    st.session_state.fua_is_refreshing = False
+
+                if 'fua_continent_list' not in st.session_state:
+                    st.session_state.fua_continent_list = ['global'] + sorted(st.session_state.df_fua_yr['continent_ct'].unique().tolist())
+
+                if 'fua_country_list' not in st.session_state:
+                    st.session_state.fua_country_list = ['all'] + sorted(st.session_state.df_fua_yr['country'].unique().tolist())
+                    
+                if 'fua_city_list' not in st.session_state:
+                    st.session_state.fua_city_list = ['all'] + sorted(st.session_state.df_fua_yr['name'].unique().tolist())
+
+                if 'fua_sector1' not in st.session_state:
+                    st.session_state.fua_sector1 = 'all sectors'
+
+                #Initialization of selectbox value
+                if 'sb_fua_continent_choice' not in st.session_state:
+                    st.session_state.sb_fua_continent_choice = 'global'
+
+                with layout_col1:
+                    selected_fua_continent = st.selectbox("Select a continent", options=st.session_state.fua_continent_list, index=st.session_state.fua_continent_list.index(st.session_state.sb_fua_continent_choice), key='sb_fua_continent')
+
+                    if selected_fua_continent != st.session_state.fua_continent:
+                        st.session_state.fua_is_refreshing = True
+                        st.session_state.fua_continent = selected_fua_continent
+
+                        if st.session_state.fua_continent != 'global':
+                            st.session_state.fua_country_list = ['all'] + sorted(st.session_state.df_fua_yr.loc[st.session_state.df_fua_yr['continent_ct']==st.session_state.fua_continent,'country'].unique().tolist())
+                            st.session_state.fua_city_list = ['all'] + sorted(st.session_state.df_fua_yr.loc[st.session_state.df_fua_yr['continent_ct']==st.session_state.fua_continent,'name'].unique().tolist())
+
+                        st.session_state.fua_country_full = 'all'
+                        st.session_state.fua_country = 'all'
+                        st.session_state.fua_city = 'all'
+
+                        st.session_state.sb_fua_country = 'all'
+                        st.session_state.sb_fua_city = 'all'
+
+                        st.session_state.fua_is_refreshing = False
+
+                with layout_col2:
+                    # selected_fua_country = st.selectbox("Select a country", options=st.session_state.fua_country_list, index=0, key='sb_fua_country')
+                    selected_fua_country = st.selectbox("Select a country", options=st.session_state.fua_country_list, index=0, disabled=st.session_state.fua_is_refreshing, key='sb_fua_country')
+
+                    if selected_fua_country != 'all':
+                        selected_fua_country = st.session_state.df_yr.loc[st.session_state.df_yr['country']==selected_fua_country,'iso3_country'].values[0]
+                        st.session_state.fua_city_list = ['all'] + sorted(st.session_state.df_fua_yr.loc[st.session_state.df_fua_yr['iso3_country']==selected_fua_country,'name'].unique().tolist())
+
+                    if selected_fua_country != st.session_state.fua_country:
+                        st.session_state.fua_is_refreshing = True
+                        st.session_state.fua_country = selected_fua_country
+                        st.session_state.fua_country_full = st.session_state.df_yr.loc[st.session_state.df_yr['iso3_country']==st.session_state.fua_country,'country'].values[0] if st.session_state.fua_country != 'all' else 'all'
+
+                        st.session_state.fua_city = 'all'  
+                        st.session_state.sb_fua_city = 'all'
+
+                        #set continent value
+                        # st.session_state.sb_fua_continent_choice = st.session_state.df_yr.loc[st.session_state.df_yr['iso3_country']==st.session_state.fua_country,'continent_ct'].values[0]
+                        # st.session_state.fua_continent = st.session_state.sb_fua_continent_choice
+                        # st.rerun()
+
+                        st.session_state.fua_is_refreshing = False
+
+                with layout_col3:
+                    selected_fua_city = st.selectbox("Select a city", options=st.session_state.fua_city_list, index=0, disabled=st.session_state.fua_is_refreshing, key='sb_fua_city')
+
+                    if selected_fua_city != st.session_state.fua_city:
+                        st.session_state.fua_city = selected_fua_city
+
+                filtered_df_fua = st.session_state.df_fua.copy()
+                if st.session_state.fua_continent != 'global':
+                    filtered_df_fua = filtered_df_fua.loc[filtered_df_fua['continent_ct']==st.session_state.fua_continent,:] 
+
+                if st.session_state.fua_country != 'all':
+                    filtered_df_fua = filtered_df_fua.loc[filtered_df_fua['iso3_country']==st.session_state.fua_country,:] 
+
+                if st.session_state.fua_city != 'all':
+                    filtered_df_fua = filtered_df_fua.loc[filtered_df_fua['name']==st.session_state.fua_city,:] 
+
+            with st.container():
+                txt_continent = '' if st.session_state.fua_continent == 'global' and (st.session_state.fua_country != 'all' or st.session_state.fua_city != 'all') else st.session_state.fua_continent + ' - '
+                txt_country = '' if st.session_state.fua_country == 'all' and  st.session_state.fua_city != 'all' else st.session_state.fua_country_full + (' countries - ' if st.session_state.fua_country == 'all' else ' - ')
+                txt_city = st.session_state.fua_city + (' cities' if st.session_state.fua_city == 'all' else '')
+
+                # st.markdown(f"<h2 style='font-size: 20px;'>Selected cities:  [{txt_continent}{txt_country}{txt_city}]  -  total {len(st.session_state.fua_city_list):,.0f}</h2>", unsafe_allow_html=True)
+                st.markdown(f"<h2 style='font-size: 20px;'>Selected cities:  [{txt_continent}{txt_country}{txt_city}]</h2>", unsafe_allow_html=True)
+
+                layout_col1, layout_col2 = st.columns(2)  # Create two columns
+                with layout_col1:
+                    # st.write(f"**{txt_continent}{txt_country}{txt_city}**")
+
+                    filtered_df_fua_sec = filtered_df_fua.loc[filtered_df_fua['year']<=st.session_state.fua_year,:].groupby(['year','sector']).emissions_quantity.sum().reset_index()
+
+                    # filtered_df_fua_sec = st.session_state.df_fua.loc[st.session_state.df_fua['year']<=st.session_state.fua_year,:].groupby(['year','sector']).emissions_quantity.sum().reset_index()
+                    fig_fua_all_sec_bar = px.bar(
+                                filtered_df_fua_sec, 
+                                x='year', 
+                                y='emissions_quantity', 
+                                color='sector',  # This will create the stack
+                                color_discrete_map=ct_color,
+                                title = f"Emissions from {st.session_state.fua_year0} to {st.session_state.fua_year}"
+                                )
+
+                    fig_fua_all_sec_bar.update_xaxes(tickmode='linear', dtick=1)
+                    fig_fua_all_sec_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                    # fig_all_sec_bar.update_layout(plot_bgcolor='#EBE6E6', paper_bgcolor='#EBE6E6')
+                    
+                    for year, year_data in filtered_df_fua_sec.groupby('year'):
+                        total_value = year_data['emissions_quantity'].sum()
+                        top_of_bar = year_data.loc[year_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
+
+                        fig_fua_all_sec_bar.add_annotation(
+                            x=year,
+                            y=top_of_bar,
+                            text=short_scale_formatter(total_value),  # Total value on top of the bar
+                            showarrow=False,
+                            font=dict(size=10),
+                            yshift=10,  # Adjust the vertical position
+                            xanchor='center'
+                        )
+
+                    st.plotly_chart(fig_fua_all_sec_bar)
+
+                with layout_col2:
+                    #City emssions by Sector
+                    # st.header("Sector Emissions")
+                    # st.write(f"**{txt_continent}{txt_country}{txt_city}**")
+
+                    filtered_df_fua_yr = filtered_df_fua.loc[filtered_df_fua['year']==st.session_state.fua_year,:]
+                    filtered_df_fua_sector = filtered_df_fua_yr
+
+                    filtered_df_fua_sector = filtered_df_fua_sector.groupby(['sector','asset_type']).emissions_quantity.sum().reset_index()
+                    filtered_df_fua_sector['emissions_total'] = filtered_df_fua_sector.groupby(['sector'])['emissions_quantity'].transform('sum')
+                    filtered_df_fua_sector = filtered_df_fua_sector.sort_values(['emissions_total','asset_type'], ascending=False)
+                    filtered_df_fua_sector = filtered_df_fua_sector.drop(columns='emissions_total')
+
+                    fig_cty_sec_bar = px.bar(
+                        filtered_df_fua_sector,
+                        x='sector', 
+                        y='emissions_quantity', 
+                        labels={'emissions_quantity': 'Emissions'},
+                        title=f'Top Sectors in {st.session_state.year} | {filtered_df_fua_sector.emissions_quantity.sum():,.0f} metric tons',
+                        text='emissions_quantity',  # Add labels on top of the bars
+                        height=st_layout['height_row'],
+                        color='asset_type'
+                    )
+
+                    fig_cty_sec_bar.update_traces(textposition='outside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                    if trigger_bar_total:
+                        fig_cty_sec_bar.update_traces(textposition='inside', textfont_size=10, texttemplate='%{y:.2s}', hovertemplate='Sector: %{x}<br>Emissions: %{y:.2s}')
+                        for sector, sector_data in filtered_df_fua_sector.groupby('sector'):
+                            total_value = sector_data['emissions_quantity'].sum()
+                            top_of_bar = sector_data.loc[sector_data['emissions_quantity'] > 0, 'emissions_quantity'].sum()
+
+                            fig_cty_sec_bar.add_annotation(
+                                x=sector,
+                                y=top_of_bar,
+                                text=short_scale_formatter(total_value),  # Total value on top of the bar
+                                showarrow=False,
+                                font=dict(size=10),
+                                yshift=10,  # Adjust the vertical position
+                                xanchor='center'
+                            )
+
+                    fig_cty_sec_bar.update_xaxes(tickangle=-90)
+                    st.plotly_chart(fig_cty_sec_bar, use_container_width=True) 
+
+            with st.container():
+                st.header("City Total Emissions")
+
+                filtered_df_fua_ts = filtered_df_fua.loc[filtered_df_fua['year']<=st.session_state.fua_year,:].pivot_table(index=['continent_ct','country','city_id','name'],columns='year',values='emissions_quantity', aggfunc='sum')
+                filtered_df_fua_ts = filtered_df_fua_ts.sort_values(filtered_df_fua_ts.columns[-1], ascending=False)
+                st.dataframe(filtered_df_fua_ts.round(0), use_container_width=True)
+
+                st.download_button(
+                    label="Download CSV",
+                    data=filtered_df_fua_ts.to_csv(),
+                    file_name= f'data_city_{st.session_state.fua_gas}.csv',
+                    mime='text/csv',
+                    key='city_total'
+                )
+
+                st.header("City Sector Emissions")
+                filtered_df_fua_sec_ts = filtered_df_fua.loc[filtered_df_fua['year']<=st.session_state.fua_year,:].pivot_table(index=['continent_ct','country','name','sector'],columns='year',values='emissions_quantity', aggfunc='sum')
+                filtered_df_fua_sec_ts = filtered_df_fua_sec_ts.sort_values(filtered_df_fua_sec_ts.columns[-1], ascending=False)
+                # st.dataframe(filtered_df_fua_sec_ts.round(0), use_container_width=True, height=st_layout['height_row']-80)
+                st.dataframe(filtered_df_fua_sec_ts.round(0), use_container_width=True)
+
+                st.markdown("""<style>.stDownloadButton {displya: flex; justify-content: flex-end;} </style>""", unsafe_allow_html=True)
+                st.markdown('<div class="stDownloadButton">', unsafe_allow_html=True)
+                st.download_button(
+                    label="Download CSV",
+                    data=filtered_df_fua_sec_ts.to_csv(),
+                    file_name=f'data_city_sectory_{st.session_state.fua_gas}.csv',
+                    mime='text/csv',
+                    key='city_sector'
+                )
+                st.markdown('</div>', unsafe_allow_html=True)
+
+    with layout_tab3:
         st.header("Climate TRACE Emissions Inventory Comparison")
 
         layout_col1, layout_col2, layout_col3 = st.columns(3)
