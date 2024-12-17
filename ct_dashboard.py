@@ -1591,7 +1591,7 @@ else:
                 )
 
                 st.header("City Sector Emissions")
-                filtered_df_fua_sec_ts = filtered_df_fua.loc[filtered_df_fua['year']<=st.session_state.fua_year,:].pivot_table(index=['continent_ct','country','name','sector'],columns='year',values='emissions_quantity', aggfunc='sum')
+                filtered_df_fua_sec_ts = filtered_df_fua.loc[filtered_df_fua['year']<=st.session_state.fua_year,:].pivot_table(index=['continent_ct','country','city_id','name','sector'],columns='year',values='emissions_quantity', aggfunc='sum')
                 filtered_df_fua_sec_ts = filtered_df_fua_sec_ts.sort_values(filtered_df_fua_sec_ts.columns[-1], ascending=False)
                 # st.dataframe(filtered_df_fua_sec_ts.round(0), use_container_width=True, height=st_layout['height_row']-80)
                 st.dataframe(filtered_df_fua_sec_ts.round(0), use_container_width=True)
